@@ -1,1 +1,1 @@
-Code for creating a college basketball database.
+Code for creating a college basketball database
