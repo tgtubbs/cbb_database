@@ -1,18 +1,9 @@
-# cbb boxscore scraper
 
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import pandas
 import requests
 from time import sleep
-
-'''
-TO DO:
-- Download school index
-- Do I need to scrape each team's schedule to get game location?
-- What other info do I need before I run this in full?
-
-'''
 
 
 def date_range(start_string, end_string): # start_string TO end_string, not THROUGH end_string
@@ -38,10 +29,10 @@ def _parse_team_ids(soup):
 
 
 def _parse_boxscore_stats(soup, team):
-    basic_rows = soup.find_all("table", attrs={"id": team})[0].find_all("tr")[1:]
-    basic_data = [[td.text for td in basic_rows[i].find_all("td")] for i in range(0, len(basic_rows)-1)]
-    advanced_rows = soup.find_all("table", attrs={"id": team + "_advanced"})[0].find_all("tr")[1:]
-    advanced_data = [[td.text for td in advanced_rows[i].find_all("td")] for i in range(0, len(advanced_rows)-1)]
+    basic_rows = soup.find_all("table", attrs={"id": team})[0].find_all("tr", attrs={"class": ""})[1:]
+    basic_data = [[td.text for td in basic_rows[i].find_all("td")] for i in range(1, len(basic_rows))]
+    advanced_rows = soup.find_all("table", attrs={"id": team + "_advanced"})[0].find_all("tr", attrs={"class": ""})[1:]
+    advanced_data = [[td.text for td in advanced_rows[i].find_all("td")] for i in range(1, len(advanced_rows))]
     return(basic_data, advanced_data)
 
 
@@ -79,8 +70,8 @@ def get_boxscore(game_link, date):
 
 
 # -------------------------
-start_string = "11/13/2015"
-end_string = "11/14/2015"
+start_string = "1/22/2016"
+end_string = "1/23/2016"
 SLEEP_TIME = 1
 # -------------------------
 
@@ -95,7 +86,4 @@ for date in date_generator:
             print(matchup)
             sleep(SLEEP_TIME)
 boxscores = pandas.concat(boxscore_array)
-boxscores = boxscores.drop(boxscores.index[0:4])  # I don't understand why this is necessary, but it is
-boxscores.to_csv("/Users/travistubbs/Desktop/boxscore_test.txt", sep="\t", index=False)
-
-
+boxscores.to_csv("/Users/travistubbs/cbb_database/boxscores.txt", sep="\t", index=False)
