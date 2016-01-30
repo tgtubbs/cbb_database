@@ -2,7 +2,7 @@
 from geopy.geocoders import Nominatim
 import pandas
 
-teams = pandas.read_csv('~/Desktop/college_basketball_database/data/teams.txt', sep="\t")
+teams = pandas.read_csv('/Users/travistubbs/cbb_database/data/teams.txt', sep="\t")
 
 geolocator = Nominatim()
 latitude = []
@@ -15,5 +15,4 @@ for i in range(len(teams["City, State"])):
 teams["latitude"] = latitude
 teams["longitude"] = longitude
 
-# teams.to_csv("/Users/travistubbs/cbb_database/data/teams_test.txt", sep="\t", index=False)
-teams.to_csv("/Users/travistubbs/Desktop/teams_test.txt", sep="\t", index=False)
+teams.to_csv("/Users/travistubbs/cbb_database/data/teams.txt", sep="\t", index=False)
