@@ -17,7 +17,7 @@ def get_schedule(url):
     return(headers[0:16], row_data)
 
 
-teams = pandas.read_csv('~/Desktop/college_basketball_database/data/teams.txt', sep="\t")
+teams = pandas.read_csv('Users/travistubbs/cbb_database/data/teams.txt', sep="\t")
 years_array = [2015]
 url = format_url(teams["bbref_id"][0], 2015)
 headers, row_data = get_schedule(url)
