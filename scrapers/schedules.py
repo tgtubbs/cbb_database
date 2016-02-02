@@ -13,11 +13,24 @@ def get_schedule(url):
     soup = BeautifulSoup(requests.get(url).text)
     headers = [th.text for th in soup.find_all("table", attrs={"id": "schedule"})[0].find_all("th")]
     rows = soup.find_all("table", attrs={"id": "schedule"})[0].find_all("tbody")[0].find_all("tr", attrs={"class": ""})
-    row_data = [[td.text for td in rows[i].find_all("td")] for i in range(len(rows))]
-    return(headers[0:16], row_data)
+    row_data = []
+    for i in range(len(rows)):
+        a = rows[i].find_all("a")
+        try:
+            opponent = a[1]["href"][13:-10]
+        except IndexError:
+            opponent = "NA"
+        row_text = []
+        for td in rows[i].find_all("td"):
+            row_text.append(td.text)
+        row_text.append(opponent)
+        row_data.append(row_text)
+        headers = headers[0:16]
+        headers.append("opponent_bbref_id")
+    return(headers, row_data)
 
 
-teams = pandas.read_csv('Users/travistubbs/cbb_database/data/teams.txt', sep="\t")
+teams = pandas.read_csv('/Users/travistubbs/cbb_database/data/teams.txt', sep="\t")
 years_array = [2015]
 url = format_url(teams["bbref_id"][0], 2015)
 headers, row_data = get_schedule(url)
