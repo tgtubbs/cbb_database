@@ -2,7 +2,7 @@
 from bs4 import BeautifulSoup
 import pandas
 import requests
-# from time import sleep
+from time import sleep
 
 
 def format_url(bbref_team_id, year):
@@ -17,7 +17,7 @@ def get_schedule(url):
     for i in range(len(rows)):
         a = rows[i].find_all("a")
         try:
-            opponent = a[1]["href"][13:-10]
+            opponent = a[0]["href"][13:-10]
         except IndexError:
             opponent = "NA"
         row_text = []
@@ -25,27 +25,28 @@ def get_schedule(url):
             row_text.append(td.text)
         row_text.append(opponent)
         row_data.append(row_text)
-        headers = headers[0:16]
+        headers = headers[0:14]
         headers.append("opponent_bbref_id")
     return(headers, row_data)
 
 
 teams = pandas.read_csv('/Users/travistubbs/cbb_database/data/teams.txt', sep="\t")
-years_array = [2015]
-url = format_url(teams["bbref_id"][0], 2015)
-headers, row_data = get_schedule(url)
-schedule_array = []
+SLEEP_TIME = 1
+years_array = [2000,2001,2002,2003,2004]
+
 for year in years_array:
+    schedule_array = []
     for team_id in teams["bbref_id"]:
-        print(team_id + " - " + str(year))
         url = format_url(team_id, year)
         try:
             schedule_headers, schedule_data = get_schedule(url)
             schedule_df = pandas.DataFrame(schedule_data, columns=schedule_headers)
             schedule_df["team"] = team_id
             schedule_array.append(schedule_df)
+            print(team_id + " - " + str(year))
         except IndexError:  # teams without schedules for that year will raise IndexError
             next
+        sleep(SLEEP_TIME)
     schedules = pandas.concat(schedule_array)
     schedules["year"] = str(year)
     file_path = "/Users/travistubbs/cbb_database/data/schedules" + str(year) + ".txt"
