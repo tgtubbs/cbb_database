@@ -15,9 +15,9 @@ def get_schedule(url):
     rows = soup.find_all("table", attrs={"id": "schedule"})[0].find_all("tbody")[0].find_all("tr", attrs={"class": ""})
     row_data = []
     for i in range(len(rows)):
-        a = rows[i].find_all("a")
+        opponent = rows[i].find_all("td")[4]
         try:
-            opponent = a[0]["href"][13:-10]
+            opponent = opponent.find_all("a")[0]["href"][13:-10]
         except IndexError:
             opponent = "NA"
         row_text = []
@@ -32,8 +32,8 @@ def get_schedule(url):
 
 teams = pandas.read_csv('/Users/travistubbs/cbb_database/data/teams.txt', sep="\t")
 SLEEP_TIME = 1
-years_array = [2000,2001,2002,2003,2004]
-
+years_array = [2012, 2013, 2014]
+# [2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014]
 for year in years_array:
     schedule_array = []
     for team_id in teams["bbref_id"]:
@@ -49,5 +49,5 @@ for year in years_array:
         sleep(SLEEP_TIME)
     schedules = pandas.concat(schedule_array)
     schedules["year"] = str(year)
-    file_path = "/Users/travistubbs/cbb_database/data/schedules" + str(year) + ".txt"
+    file_path = "/Users/travistubbs/cbb_database/data/schedules/schedules" + str(year) + ".txt"
     schedules.to_csv(file_path, sep="\t", index=False)
