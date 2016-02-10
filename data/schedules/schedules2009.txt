@@ -65,7 +65,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 33	Thu, Mar 12, 2009	CTOURN	N	Miami (OH)	MAC	W	73	63		21	12	W 2	Quicken Loans Arena	miami-oh	akron	2009
 34	Fri, Mar 13, 2009	CTOURN	N	Bowling Green State	MAC	W	63	55		22	12	W 3	Quicken Loans Arena	bowling-green-state	akron	2009
 35	Sat, Mar 14, 2009	CTOURN	N	Buffalo	MAC	W	65	53		23	12	W 4	Quicken Loans Arena	buffalo	akron	2009
-36	Thu, Mar 19, 2009	NCAA	N	Gonzaga (10)	WCC	L	64	77		23	13	L 1		s/2009-03-19-	akron	2009
+36	Thu, Mar 19, 2009	NCAA	N	Gonzaga (10)	WCC	L	64	77		23	13	L 1		gonzaga	akron	2009
 1	Sun, Nov 16, 2008	REG		Mercer	A-Sun	L	69	72		0	1	L 1	Coleman Coliseum 	mercer	alabama	2009
 2	Wed, Nov 19, 2008	REG		Florida A&M	MEAC	W	89	48		1	1	W 1	Coleman Coliseum 	florida-am	alabama	2009
 3	Mon, Nov 24, 2008	REG	N	Oregon	Pac-10	L	69	92		1	2	L 1	Lahaina Civic Center	oregon	alabama	2009
@@ -190,7 +190,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Wed, Mar 11, 2009	CTOURN	N	Alabama A&M	SWAC	W	70	58		20	9	W 2	Fair Park Arena	alabama-am	alabama-state	2009
 30	Fri, Mar 13, 2009	CTOURN	N	Arkansas-Pine Bluff	SWAC	W	63	55		21	9	W 3	Fair Park Arena	arkansas-pine-bluff	alabama-state	2009
 31	Sat, Mar 14, 2009	CTOURN	N	Jackson State	SWAC	W	65	58		22	9	W 4	Fair Park Arena	jackson-state	alabama-state	2009
-32	Tue, Mar 17, 2009	NCAA	N	Morehead State	OVC	L	43	58		22	10	L 1	University of Dayton Arena	s/2009-03-17-alabama-	alabama-state	2009
+32	Tue, Mar 17, 2009	NCAA	N	Morehead State	OVC	L	43	58		22	10	L 1	University of Dayton Arena	morehead-state	alabama-state	2009
 1	Fri, Nov 14, 2008	REG	@	Villanova (23)	Big East	L	60	78		0	1	L 1	Wells Fargo Center	villanova	albany-ny	2009
 2	Mon, Nov 17, 2008	REG	@	DePaul	Big East	L	64	75		0	2	L 2	Allstate Arena	depaul	albany-ny	2009
 3	Wed, Nov 19, 2008	REG	@	Bryant	Ind	W	76	67		1	2	W 1	Chace Athletic Center 	bryant	albany-ny	2009
@@ -284,7 +284,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Wed, Mar 4, 2009	CTOURN		Lafayette	Patriot	W	78	56		22	7	W 11	Bender Arena	lafayette	american	2009
 30	Sun, Mar 8, 2009	CTOURN		Army	Patriot	W	61	60		23	7	W 12	Bender Arena	army	american	2009
 31	Fri, Mar 13, 2009	CTOURN		Holy Cross	Patriot	W	73	57		24	7	W 13	Bender Arena	holy-cross	american	2009
-32	Thu, Mar 19, 2009	NCAA	N	Villanova (11)	Big East	L	67	80		24	8	L 1		s/2009-03-19-ame	american	2009
+32	Thu, Mar 19, 2009	NCAA	N	Villanova (11)	Big East	L	67	80		24	8	L 1		villanova	american	2009
 1	Fri, Nov 14, 2008	REG	@	North Carolina-Wilmington	CAA	L	101	108	OT	0	1	L 1	Trask Coliseum	north-carolina-wilmington	appalachian-state	2009
 2	Wed, Nov 19, 2008	REG		Charlotte	A-10	W	87	84	2OT	1	1	W 1	Holmes Convocation Center	charlotte	appalachian-state	2009
 3	Sat, Nov 22, 2008	REG	@	Niagara	MAAC	L	80	95		1	2	L 1	Gallagher Center	niagara	appalachian-state	2009
@@ -348,9 +348,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 5, 2009	REG		University of California	Pac-10	L	77	83		18	12	L 4	McKale Center	california	arizona	2009
 31	Sat, Mar 7, 2009	REG		Stanford	Pac-10	W	101	87		19	12	W 1	McKale Center	stanford	arizona	2009
 32	Thu, Mar 12, 2009	CTOURN	N	Arizona State (23)	Pac-10	L	56	68		19	13	L 1	Staples Center	arizona-state	arizona	2009
-33	Fri, Mar 20, 2009	NCAA	N	Utah (25)	MWC	W	84	71		20	13	W 1		s/2009-03-20-ar	arizona	2009
-34	Sun, Mar 22, 2009	NCAA	N	Cleveland State	Horizon	W	71	57		21	13	W 2	American Airlines Arena	s/2009-03-22-ar	arizona	2009
-35	Fri, Mar 27, 2009	NCAA	N	Louisville (1)	Big East	L	64	103		21	14	L 1		s/2009-03-27-ar	arizona	2009
+33	Fri, Mar 20, 2009	NCAA	N	Utah (25)	MWC	W	84	71		20	13	W 1		utah	arizona	2009
+34	Sun, Mar 22, 2009	NCAA	N	Cleveland State	Horizon	W	71	57		21	13	W 2	American Airlines Arena	cleveland-state	arizona	2009
+35	Fri, Mar 27, 2009	NCAA	N	Louisville (1)	Big East	L	64	103		21	14	L 1		louisville	arizona	2009
 1	Fri, Nov 14, 2008	REG		Mississippi Valley State	SWAC	W	80	64		1	0	W 1	Wells Fargo Arena	mississippi-valley-state	arizona-state	2009
 2	Tue, Nov 18, 2008	REG	@	San Diego State	MWC	W	59	52		2	0	W 2	Viejas Arena	san-diego-state	arizona-state	2009
 3	Sun, Nov 23, 2008	REG		Pepperdine	WCC	W	61	40		3	0	W 3	Wells Fargo Arena	pepperdine	arizona-state	2009
@@ -384,8 +384,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 12, 2009	CTOURN	N	Arizona	Pac-10	W	68	56		23	8	W 2	Staples Center	arizona	arizona-state	2009
 32	Fri, Mar 13, 2009	CTOURN	N	Washington (13)	Pac-10	W	75	65		24	8	W 3	Staples Center	washington	arizona-state	2009
 33	Sat, Mar 14, 2009	CTOURN	N	Southern California	Pac-10	L	63	66		24	9	L 1	Staples Center	southern-california	arizona-state	2009
-34	Fri, Mar 20, 2009	NCAA	N	Temple	A-10	W	66	57		25	9	W 1	American Airlines Arena	s/2009-03-20-arizona-	arizona-state	2009
-35	Sun, Mar 22, 2009	NCAA	N	Syracuse (13)	Big East	L	67	78		25	10	L 1		s/2009-03-22-arizona-	arizona-state	2009
+34	Fri, Mar 20, 2009	NCAA	N	Temple	A-10	W	66	57		25	9	W 1	American Airlines Arena	temple	arizona-state	2009
+35	Sun, Mar 22, 2009	NCAA	N	Syracuse (13)	Big East	L	67	78		25	10	L 1		syracuse	arizona-state	2009
 1	Fri, Nov 14, 2008	REG		Southeastern Louisiana	Southland	W	91	87	OT	1	0	W 1	Bud Walton Arena	southeastern-louisiana	arkansas	2009
 2	Thu, Nov 20, 2008	REG		UC-Davis	Big West	W	68	59		2	0	W 2	Bud Walton Arena	california-davis	arkansas	2009
 3	Sat, Nov 22, 2008	REG	@	Missouri State	MVC	L	57	62		2	1	L 1	JQH Arena	missouri-state	arkansas	2009
@@ -774,7 +774,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 7, 2009	CTOURN	N	Hartford	AEC	W	73	65		21	8	W 9	SEFCU Arena	hartford	binghamton	2009
 30	Sun, Mar 8, 2009	CTOURN	N	New Hampshire	AEC	W	72	67		22	8	W 10	SEFCU Arena	new-hampshire	binghamton	2009
 31	Sat, Mar 14, 2009	CTOURN		Maryland-Baltimore County	AEC	W	61	51		23	8	W 11	Events Center	maryland-baltimore-county	binghamton	2009
-32	Thu, Mar 19, 2009	NCAA	N	Duke (6)	ACC	L	62	86		23	9	L 1		s/2009-03-19-bingh	binghamton	2009
+32	Thu, Mar 19, 2009	NCAA	N	Duke (6)	ACC	L	62	86		23	9	L 1		duke	binghamton	2009
 1	Fri, Nov 14, 2008	REG		Pacific (OR)		W	100	68		1	0	W 1	Taco Bell Arena	NA	boise-state	2009
 2	Mon, Nov 17, 2008	REG	@	Siena	MAAC	L	52	82		1	1	L 1	Times Union Center 	siena	boise-state	2009
 3	Sat, Nov 22, 2008	REG		Idaho State	Big Sky	W	92	84	2OT	2	1	W 1	Taco Bell Arena	idaho-state	boise-state	2009
@@ -840,7 +840,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 7, 2009	REG		Georgia Tech	ACC	W	67	66		21	10	W 1	Silvio O. Conte Forum	georgia-tech	boston-college	2009
 32	Thu, Mar 12, 2009	CTOURN	N	Virginia	ACC	W	76	63		22	10	W 2	The Omni	virginia	boston-college	2009
 33	Fri, Mar 13, 2009	CTOURN	N	Duke (9)	ACC	L	65	66		22	11	L 1	Georgia Dome	duke	boston-college	2009
-34	Fri, Mar 20, 2009	NCAA	N	Southern California	Pac-10	L	55	72		22	12	L 2	Hubert H. Humphrey Metrodome	s/2009-03-20-boston-co	boston-college	2009
+34	Fri, Mar 20, 2009	NCAA	N	Southern California	Pac-10	L	55	72		22	12	L 2	Hubert H. Humphrey Metrodome	southern-california	boston-college	2009
 1	Fri, Nov 14, 2008	REG		George Washington	A-10	L	58	63	OT	0	1	L 1	Agganis Arena	george-washington	boston-university	2009
 2	Tue, Nov 18, 2008	REG	@	Bucknell	Patriot	W	71	68	OT	1	1	W 1	Sojka Pavilion	bucknell	boston-university	2009
 3	Sat, Nov 22, 2008	REG		Saint Peter's	MAAC	W	67	62		2	1	W 2	Agganis Arena	saint-peters	boston-university	2009
@@ -972,7 +972,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 7, 2009	REG		Air Force	MWC	W	54	49		24	6	W 4	Marriott Center	air-force	brigham-young	2009
 31	Thu, Mar 12, 2009	CTOURN	N	Air Force	MWC	W	80	69		25	6	W 5	Thomas & Mack Center	air-force	brigham-young	2009
 32	Fri, Mar 13, 2009	CTOURN	N	San Diego State	MWC	L	62	64		25	7	L 1	Thomas & Mack Center	san-diego-state	brigham-young	2009
-33	Thu, Mar 19, 2009	NCAA	N	Texas A&M	Big 12	L	66	79		25	8	L 2	Wells Fargo Center	s/2009-03-19-brigham-	brigham-young	2009
+33	Thu, Mar 19, 2009	NCAA	N	Texas A&M	Big 12	L	66	79		25	8	L 2	Wells Fargo Center	texas-am	brigham-young	2009
 1	Fri, Nov 14, 2008	REG	@	Rhode Island	A-10	L	74	76		0	1	L 1	Thomas M. Ryan Center	rhode-island	brown	2009
 2	Mon, Nov 17, 2008	REG	@	George Mason	CAA	L	52	89		0	2	L 2	Patriot Center	george-mason	brown	2009
 3	Wed, Nov 19, 2008	REG	@	Holy Cross	Patriot	W	62	57		1	2	W 1	Hart Recreation Center	holy-cross	brown	2009
@@ -1095,7 +1095,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Feb 28, 2009	REG		Cleveland State	Horizon	W	58	56		25	4	W 3	Hinkle Fieldhouse	cleveland-state	butler	2009
 30	Sat, Mar 7, 2009	CTOURN		Wright State	Horizon	W	62	57		26	4	W 4	Hinkle Fieldhouse	wright-state	butler	2009
 31	Tue, Mar 10, 2009	CTOURN		Cleveland State	Horizon	L	54	57		26	5	L 1	Hinkle Fieldhouse	cleveland-state	butler	2009
-32	Thu, Mar 19, 2009	NCAA	N	Louisiana State (21)	SEC	L	71	75		26	6	L 2		s/2009-03-19-b	butler	2009
+32	Thu, Mar 19, 2009	NCAA	N	Louisiana State (21)	SEC	L	71	75		26	6	L 2		louisiana-state	butler	2009
 1	Fri, Nov 14, 2008	REG		Arkansas-Little Rock	Sun Belt	L	40	67		0	1	L 1	Robert A. Mott Gymnasium	arkansas-little-rock	cal-poly	2009
 2	Thu, Nov 20, 2008	REG	N	Rice	CUSA	L	76	81		0	2	L 2	Marriott Center	rice	cal-poly	2009
 3	Fri, Nov 21, 2008	REG	N	North Florida	A-Sun	W	76	42		1	2	W 1	Marriott Center	north-florida	cal-poly	2009
@@ -1186,7 +1186,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 7, 2009	REG	@	Pacific	Big West	L	55	62		15	13	L 1	A.G. Spanos Center	pacific	cal-state-northridge	2009
 29	Fri, Mar 13, 2009	CTOURN	N	UC-Santa Barbara	Big West	W	67	60		16	13	W 1	Honda Center	california-santa-barbara	cal-state-northridge	2009
 30	Sat, Mar 14, 2009	CTOURN	N	Pacific	Big West	W	71	66	OT	17	13	W 2	Honda Center	pacific	cal-state-northridge	2009
-31	Thu, Mar 19, 2009	NCAA	N	Memphis (3)	CUSA	L	70	81		17	14	L 1		s/2009-03-19-cal-state-north	cal-state-northridge	2009
+31	Thu, Mar 19, 2009	NCAA	N	Memphis (3)	CUSA	L	70	81		17	14	L 1		memphis	cal-state-northridge	2009
 1	Sat, Nov 15, 2008	REG		Pacific	Big West	W	68	56		1	0	W 1	Haas Pavilion	pacific	california	2009
 2	Tue, Nov 18, 2008	REG		San Francisco	WCC	W	87	74		2	0	W 2	Haas Pavilion	san-francisco	california	2009
 3	Thu, Nov 20, 2008	REG		Texas-Rio Grande Valley	Ind	W	85	58		3	0	W 3	Haas Pavilion	texas-pan-american	california	2009
@@ -1219,7 +1219,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 5, 2009	REG	@	Arizona	Pac-10	W	83	77		22	8	W 1	McKale Center	arizona	california	2009
 31	Sat, Mar 7, 2009	REG	@	Arizona State (21)	Pac-10	L	66	83		22	9	L 1	Wells Fargo Arena	arizona-state	california	2009
 32	Thu, Mar 12, 2009	CTOURN	N	Southern California	Pac-10	L	75	79		22	10	L 2	Staples Center	southern-california	california	2009
-33	Thu, Mar 19, 2009	NCAA	N	Maryland	ACC	L	71	84		22	11	L 3	Sprint Center	s/2009-03-19-calif	california	2009
+33	Thu, Mar 19, 2009	NCAA	N	Maryland	ACC	L	71	84		22	11	L 3	Sprint Center	maryland	california	2009
 1	Fri, Nov 14, 2008	REG	@	Iowa State	Big 12	L	58	61		0	1	L 1	James H. Hilton Coliseum 	iowa-state	california-davis	2009
 2	Sat, Nov 15, 2008	REG	N	Milwaukee	Horizon	L	75	81		0	2	L 2	James H. Hilton Coliseum 	milwaukee	california-davis	2009
 3	Sun, Nov 16, 2008	REG	N	Loyola Marymount	WCC	W	64	55		1	2	W 1	James H. Hilton Coliseum 	loyola-marymount	california-davis	2009
@@ -1622,7 +1622,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Sat, Mar 7, 2009	CTOURN		Elon	Southern	W	79	78		16	16	W 1	The McKenzie Arena	elon	chattanooga	2009
 33	Sun, Mar 8, 2009	CTOURN		Samford	Southern	W	81	70		17	16	W 2	The McKenzie Arena	samford	chattanooga	2009
 34	Mon, Mar 9, 2009	CTOURN		College of Charleston	Southern	W	80	69		18	16	W 3	The McKenzie Arena	college-of-charleston	chattanooga	2009
-35	Thu, Mar 19, 2009	NCAA	N	Connecticut (5)	Big East	L	47	103		18	17	L 1		s/2009-03-19-chatta	chattanooga	2009
+35	Thu, Mar 19, 2009	NCAA	N	Connecticut (5)	Big East	L	47	103		18	17	L 1		connecticut	chattanooga	2009
 1	Fri, Nov 14, 2008	REG		Saint Xavier (IL)		W	112	83		1	0	W 1	Emil and Patricia Jones Convocation Center	NA	chicago-state	2009
 2	Mon, Nov 17, 2008	REG	@	Marquette (15)	Big East	L	87	106		1	1	L 1	Bradley Center	marquette	chicago-state	2009
 3	Thu, Nov 20, 2008	REG		Central Michigan	MAC	W	84	74		2	1	W 1	Emil and Patricia Jones Convocation Center	central-michigan	chicago-state	2009
@@ -1751,7 +1751,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Tue, Mar 3, 2009	REG		Virginia	ACC	W	75	57		23	6	W 1	Littlejohn Coliseum	virginia	clemson	2009
 30	Sun, Mar 8, 2009	REG	@	Wake Forest (10)	ACC	L	88	96		23	7	L 1	Lawrence Joel Coliseum	wake-forest	clemson	2009
 31	Thu, Mar 12, 2009	CTOURN	@	Georgia Tech	ACC	L	81	86		23	8	L 2	The Omni	georgia-tech	clemson	2009
-32	Thu, Mar 19, 2009	NCAA	N	Michigan	Big Ten	L	59	62		23	9	L 3	Sprint Center	s/2009-03-19-cl	clemson	2009
+32	Thu, Mar 19, 2009	NCAA	N	Michigan	Big Ten	L	59	62		23	9	L 3	Sprint Center	michigan	clemson	2009
 1	Sat, Nov 15, 2008	REG		Oakland	Summit	W	58	55		1	0	W 1	Henry J. Goodman Arena	oakland	cleveland-state	2009
 2	Tue, Nov 18, 2008	REG	@	Washington	Pac-10	L	63	78		1	1	L 1	Bank of America Arena	washington	cleveland-state	2009
 3	Sat, Nov 22, 2008	REG		Kansas State	Big 12	L	59	69		1	2	L 2	Henry J. Goodman Arena	kansas-state	cleveland-state	2009
@@ -1787,8 +1787,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 33	Fri, Mar 6, 2009	CTOURN	N	Illinois-Chicago	Horizon	W	67	64		23	10	W 2	Hinkle Fieldhouse	illinois-chicago	cleveland-state	2009
 34	Sat, Mar 7, 2009	CTOURN	N	Green Bay	Horizon	W	73	67		24	10	W 3	Hinkle Fieldhouse	green-bay	cleveland-state	2009
 35	Tue, Mar 10, 2009	CTOURN	@	Butler (16)	Horizon	W	57	54		25	10	W 4	Hinkle Fieldhouse	butler	cleveland-state	2009
-36	Fri, Mar 20, 2009	NCAA	N	Wake Forest (12)	ACC	W	84	69		26	10	W 5		s/2009-03-20-cleveland-	cleveland-state	2009
-37	Sun, Mar 22, 2009	NCAA	N	Arizona	Pac-10	L	57	71		26	11	L 1	American Airlines Arena	s/2009-03-22-ar	cleveland-state	2009
+36	Fri, Mar 20, 2009	NCAA	N	Wake Forest (12)	ACC	W	84	69		26	10	W 5		wake-forest	cleveland-state	2009
+37	Sun, Mar 22, 2009	NCAA	N	Arizona	Pac-10	L	57	71		26	11	L 1	American Airlines Arena	arizona	cleveland-state	2009
 1	Sat, Nov 15, 2008	REG		Coker		L	59	80		0	1	L 1	Kimbel Arena	NA	coastal-carolina	2009
 2	Tue, Nov 18, 2008	REG	@	Savannah State	Ind	L	65	66		0	2	L 2	Tiger Arena	savannah-state	coastal-carolina	2009
 3	Sat, Nov 22, 2008	REG	@	Florida State	ACC	L	70	82		0	3	L 3	Donald L. Tucker Center	florida-state	coastal-carolina	2009
@@ -2007,11 +2007,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Feb 28, 2009	REG		Notre Dame	Big East	W	72	65		27	2	W 3	Harry A. Gampel Pavilion	notre-dame	connecticut	2009
 30	Sat, Mar 7, 2009	REG	@	Pittsburgh (3)	Big East	L	60	70		27	3	L 1	Petersen Events Center	pittsburgh	connecticut	2009
 31	Thu, Mar 12, 2009	CTOURN	N	Syracuse (18)	Big East	L	117	127	6OT	27	4	L 2	Madison Square Garden (IV)	syracuse	connecticut	2009
-32	Thu, Mar 19, 2009	NCAA	N	Chattanooga	Southern	W	103	47		28	4	W 1		s/2009-03-19-chatta	connecticut	2009
-33	Sat, Mar 21, 2009	NCAA	N	Texas A&M	Big 12	W	92	66		29	4	W 2	Wells Fargo Center	s/2009-03-21-connec	connecticut	2009
-34	Thu, Mar 26, 2009	NCAA	N	Purdue (17)	Big Ten	W	72	60		30	4	W 3	University of Phoenix Stadium	s/2009-03-26-connec	connecticut	2009
-35	Sat, Mar 28, 2009	NCAA	N	Missouri (9)	Big 12	W	82	75		31	4	W 4	University of Phoenix Stadium	s/2009-03-28-connec	connecticut	2009
-36	Sat, Apr 4, 2009	NCAA	N	Michigan State (8)	Big Ten	L	73	82		31	5	L 1	Ford Field	s/2009-04-04-connec	connecticut	2009
+32	Thu, Mar 19, 2009	NCAA	N	Chattanooga	Southern	W	103	47		28	4	W 1		chattanooga	connecticut	2009
+33	Sat, Mar 21, 2009	NCAA	N	Texas A&M	Big 12	W	92	66		29	4	W 2	Wells Fargo Center	texas-am	connecticut	2009
+34	Thu, Mar 26, 2009	NCAA	N	Purdue (17)	Big Ten	W	72	60		30	4	W 3	University of Phoenix Stadium	purdue	connecticut	2009
+35	Sat, Mar 28, 2009	NCAA	N	Missouri (9)	Big 12	W	82	75		31	4	W 4	University of Phoenix Stadium	missouri	connecticut	2009
+36	Sat, Apr 4, 2009	NCAA	N	Michigan State (8)	Big Ten	L	73	82		31	5	L 1	Ford Field	michigan-state	connecticut	2009
 1	Sat, Nov 15, 2008	REG		Wilmington (DE)		W	94	73		1	0	W 1	Coppin Center	NA	coppin-state	2009
 2	Sat, Nov 22, 2008	REG	@	Purdue (11)	Big Ten	L	46	66		1	1	L 1	Mackey Arena	purdue	coppin-state	2009
 3	Fri, Nov 28, 2008	REG	@	Kansas (22)	Big 12	L	53	85		1	2	L 2	Allen Fieldhouse	kansas	coppin-state	2009
@@ -2074,7 +2074,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Feb 28, 2009	REG	@	Harvard	Ivy	L	70	71		19	9	L 1	Lavietes Pavilion	harvard	cornell	2009
 29	Fri, Mar 6, 2009	REG		Pennsylvania	Ivy	W	83	58		20	9	W 1	Newman Arena	pennsylvania	cornell	2009
 30	Sat, Mar 7, 2009	REG		Princeton	Ivy	W	60	51		21	9	W 2	Newman Arena	princeton	cornell	2009
-31	Fri, Mar 20, 2009	NCAA	N	Missouri (9)	Big 12	L	59	78		21	10	L 1		s/2009-03-20-co	cornell	2009
+31	Fri, Mar 20, 2009	NCAA	N	Missouri (9)	Big 12	L	59	78		21	10	L 1		missouri	cornell	2009
 1	Sun, Nov 16, 2008	REG		New Mexico	MWC	W	82	75		1	0	W 1	Qwest Center OMAHA	new-mexico	creighton	2009
 2	Thu, Nov 20, 2008	REG		Arkansas-Pine Bluff	SWAC	W	82	50		2	0	W 2	Qwest Center OMAHA	arkansas-pine-bluff	creighton	2009
 3	Sat, Nov 22, 2008	REG		Oral Roberts	Summit	W	87	65		3	0	W 3	Qwest Center OMAHA	oral-roberts	creighton	2009
@@ -2206,8 +2206,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 7, 2009	REG		Duquesne	A-10	W	74	61		25	6	W 1	University of Dayton Arena	duquesne	dayton	2009
 32	Thu, Mar 12, 2009	CTOURN	N	Richmond	A-10	W	69	64		26	6	W 2	Boardwalk Hall	richmond	dayton	2009
 33	Fri, Mar 13, 2009	CTOURN	N	Duquesne	A-10	L	66	77		26	7	L 1	Boardwalk Hall	duquesne	dayton	2009
-34	Fri, Mar 20, 2009	NCAA	N	West Virginia	Big East	W	68	60		27	7	W 1		s/2009-03-20-d	dayton	2009
-35	Sun, Mar 22, 2009	NCAA	N	Kansas (14)	Big 12	L	43	60		27	8	L 1		s/2009-03-22-d	dayton	2009
+34	Fri, Mar 20, 2009	NCAA	N	West Virginia	Big East	W	68	60		27	7	W 1		west-virginia	dayton	2009
+35	Sun, Mar 22, 2009	NCAA	N	Kansas (14)	Big 12	L	43	60		27	8	L 1		kansas	dayton	2009
 1	Sun, Nov 16, 2008	REG		Rutgers	Big East	L	77	85		0	1	L 1	Bob Carpenter Center	rutgers	delaware	2009
 2	Tue, Nov 18, 2008	REG	@	Robert Morris	NEC	L	75	86		0	2	L 2	Charles L. Sewall Center	robert-morris	delaware	2009
 3	Fri, Nov 21, 2008	REG	N	St. Bonaventure	A-10	W	85	81		1	2	W 1	Louis Brown Athletic Center	st-bonaventure	delaware	2009
@@ -2462,9 +2462,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Fri, Mar 13, 2009	CTOURN	N	Boston College	ACC	W	66	65		26	6	W 1	Georgia Dome	boston-college	duke	2009
 33	Sat, Mar 14, 2009	CTOURN	N	Maryland	ACC	W	67	61		27	6	W 2	Georgia Dome	maryland	duke	2009
 34	Sun, Mar 15, 2009	CTOURN	N	Florida State (22)	ACC	W	79	69		28	6	W 3	Georgia Dome	florida-state	duke	2009
-35	Thu, Mar 19, 2009	NCAA	N	Binghamton	AEC	W	86	62		29	6	W 4		s/2009-03-19-bingh	duke	2009
-36	Sat, Mar 21, 2009	NCAA	N	Texas	Big 12	W	74	69		30	6	W 5	Greensboro Coliseum	s/2009-03-21	duke	2009
-37	Thu, Mar 26, 2009	NCAA	N	Villanova (11)	Big East	L	54	77		30	7	L 1	TD Garden	s/2009-03-26	duke	2009
+35	Thu, Mar 19, 2009	NCAA	N	Binghamton	AEC	W	86	62		29	6	W 4		binghamton	duke	2009
+36	Sat, Mar 21, 2009	NCAA	N	Texas	Big 12	W	74	69		30	6	W 5	Greensboro Coliseum	texas	duke	2009
+37	Thu, Mar 26, 2009	NCAA	N	Villanova (11)	Big East	L	54	77		30	7	L 1	TD Garden	villanova	duke	2009
 1	Fri, Nov 14, 2008	REG		High Point	Big South	W	84	55		1	0	W 1	A.J. Palumbo Center	high-point	duquesne	2009
 2	Thu, Nov 20, 2008	REG	@	Saint Francis (PA)	NEC	W	83	72		2	0	W 2	Maurice Stokes Athletic Center	saint-francis-pa	duquesne	2009
 3	Sun, Nov 23, 2008	REG		Furman	Southern	W	85	65		3	0	W 3	A.J. Palumbo Center	furman	duquesne	2009
@@ -2562,7 +2562,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Wed, Mar 4, 2009	CTOURN	N	Stetson	A-Sun	W	90	76		21	10	W 3	Allen Arena	stetson	east-tennessee-state	2009
 32	Fri, Mar 6, 2009	CTOURN	@	Belmont	A-Sun	W	88	74		22	10	W 4	Allen Arena	belmont	east-tennessee-state	2009
 33	Sat, Mar 7, 2009	CTOURN	N	Jacksonville	A-Sun	W	85	68		23	10	W 5	Allen Arena	jacksonville	east-tennessee-state	2009
-34	Fri, Mar 20, 2009	NCAA	N	Pittsburgh (4)	Big East	L	62	72		23	11	L 1		s/2009-03-20-east-tennessee-	east-tennessee-state	2009
+34	Fri, Mar 20, 2009	NCAA	N	Pittsburgh (4)	Big East	L	62	72		23	11	L 1		pittsburgh	east-tennessee-state	2009
 1	Sat, Nov 15, 2008	REG	@	Ball State	MAC	L	59	72		0	1	L 1	Worthen Arena	ball-state	eastern-illinois	2009
 2	Wed, Nov 19, 2008	REG		Manchester		W	82	53		1	1	W 1	Lantz Arena	NA	eastern-illinois	2009
 3	Sat, Nov 22, 2008	REG	@	IPFW	Summit	L	77	81	OT	1	2	L 1	Allen County War Memorial Coliseum	ipfw	eastern-illinois	2009
@@ -2976,7 +2976,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Fri, Mar 13, 2009	CTOURN	@	Georgia Tech	ACC	W	64	62		24	8	W 2	The Omni	georgia-tech	florida-state	2009
 33	Sat, Mar 14, 2009	CTOURN	N	North Carolina (1)	ACC	W	73	70		25	8	W 3	The Omni	north-carolina	florida-state	2009
 34	Sun, Mar 15, 2009	CTOURN	N	Duke (9)	ACC	L	69	79		25	9	L 1	Georgia Dome	duke	florida-state	2009
-35	Fri, Mar 20, 2009	NCAA	N	Wisconsin	Big Ten	L	59	61	OT	25	10	L 2	Taco Bell Arena	s/2009-03-20-florida-	florida-state	2009
+35	Fri, Mar 20, 2009	NCAA	N	Wisconsin	Big Ten	L	59	61	OT	25	10	L 2	Taco Bell Arena	wisconsin	florida-state	2009
 1	Fri, Nov 14, 2008	REG		Columbia	Ivy	L	62	65		0	1	L 1	Rose Hill Gym	columbia	fordham	2009
 2	Mon, Nov 17, 2008	REG	@	Villanova (23)	Big East	L	68	107		0	2	L 2	Wells Fargo Center	villanova	fordham	2009
 3	Sat, Nov 22, 2008	REG		Manhattan	MAAC	L	67	81		0	3	L 3	Rose Hill Gym	manhattan	fordham	2009
@@ -3347,9 +3347,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Tue, Mar 3, 2009	REG		South Carolina Upstate	A-Sun	W	90	40		24	5	W 7	McCarthey Athletic Center	south-carolina-upstate	gonzaga	2009
 30	Sun, Mar 8, 2009	CTOURN	N	Santa Clara	WCC	W	94	59		25	5	W 8	Orleans Arena	santa-clara	gonzaga	2009
 31	Mon, Mar 9, 2009	CTOURN	N	Saint Mary's (CA)	WCC	W	83	58		26	5	W 9	Orleans Arena	saint-marys-ca	gonzaga	2009
-32	Thu, Mar 19, 2009	NCAA	N	Akron	MAC	W	77	64		27	5	W 10		s/2009-03-19-	gonzaga	2009
-33	Sat, Mar 21, 2009	NCAA	N	Western Kentucky	Sun Belt	W	83	81		28	5	W 11	Rose Garden Arena	s/2009-03-21-go	gonzaga	2009
-34	Fri, Mar 27, 2009	NCAA	N	North Carolina (2)	ACC	L	77	98		28	6	L 1		s/2009-03-27-go	gonzaga	2009
+32	Thu, Mar 19, 2009	NCAA	N	Akron	MAC	W	77	64		27	5	W 10		akron	gonzaga	2009
+33	Sat, Mar 21, 2009	NCAA	N	Western Kentucky	Sun Belt	W	83	81		28	5	W 11	Rose Garden Arena	western-kentucky	gonzaga	2009
+34	Fri, Mar 27, 2009	NCAA	N	North Carolina (2)	ACC	L	77	98		28	6	L 1		north-carolina	gonzaga	2009
 1	Tue, Nov 18, 2008	REG		Louisiana Tech	WAC	L	74	80	OT	0	1	L 1	HPER Complex	louisiana-tech	grambling	2009
 2	Thu, Nov 20, 2008	REG	@	New Mexico	MWC	L	50	96		0	2	L 2	The Pit/Bob King Court	new-mexico	grambling	2009
 3	Sun, Nov 23, 2008	REG	@	Oklahoma State	Big 12	L	60	91		0	3	L 3	Gallagher-Iba Arena	oklahoma-state	grambling	2009
@@ -3791,7 +3791,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 5, 2009	REG	@	Penn State	Big Ten	L	63	64		23	8	L 2	Bryce Jordan Center	penn-state	illinois	2009
 32	Fri, Mar 13, 2009	CTOURN	N	Michigan	Big Ten	W	60	50		24	8	W 1	Conseco Fieldhouse	michigan	illinois	2009
 33	Sat, Mar 14, 2009	CTOURN	@	Purdue (24)	Big Ten	L	56	66		24	9	L 1	Conseco Fieldhouse	purdue	illinois	2009
-34	Thu, Mar 19, 2009	NCAA	N	Western Kentucky	Sun Belt	L	72	76		24	10	L 2	Rose Garden Arena	s/2009-03-19-ill	illinois	2009
+34	Thu, Mar 19, 2009	NCAA	N	Western Kentucky	Sun Belt	L	72	76		24	10	L 2	Rose Garden Arena	western-kentucky	illinois	2009
 1	Fri, Nov 14, 2008	REG	@	Bradley	MVC	L	61	67		0	1	L 1	Carver Arena	bradley	illinois-chicago	2009
 2	Wed, Nov 19, 2008	REG		Northern Iowa	MVC	W	84	77		1	1	W 1	UIC Pavilion	northern-iowa	illinois-chicago	2009
 3	Sat, Nov 22, 2008	REG		DePaul	Big East	L	63	67		1	2	L 1	UIC Pavilion	depaul	illinois-chicago	2009
@@ -4236,9 +4236,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Wed, Mar 4, 2009	REG	@	Texas Tech	Big 12	L	65	84		24	6	L 1	United Spirit Arena	texas-tech	kansas	2009
 31	Sat, Mar 7, 2009	REG		Texas	Big 12	W	83	73		25	6	W 1	Allen Fieldhouse	texas	kansas	2009
 32	Thu, Mar 12, 2009	CTOURN	N	Baylor	Big 12	L	64	71		25	7	L 1	Ford Center	baylor	kansas	2009
-33	Fri, Mar 20, 2009	NCAA	N	North Dakota State	Summit	W	84	74		26	7	W 1	Hubert H. Humphrey Metrodome	s/2009-03-20-k	kansas	2009
-34	Sun, Mar 22, 2009	NCAA	N	Dayton	A-10	W	60	43		27	7	W 2		s/2009-03-22-d	kansas	2009
-35	Fri, Mar 27, 2009	NCAA	N	Michigan State (8)	Big Ten	L	62	67		27	8	L 1		s/2009-03-27-k	kansas	2009
+33	Fri, Mar 20, 2009	NCAA	N	North Dakota State	Summit	W	84	74		26	7	W 1	Hubert H. Humphrey Metrodome	north-dakota-state	kansas	2009
+34	Sun, Mar 22, 2009	NCAA	N	Dayton	A-10	W	60	43		27	7	W 2		dayton	kansas	2009
+35	Fri, Mar 27, 2009	NCAA	N	Michigan State (8)	Big Ten	L	62	67		27	8	L 1		michigan-state	kansas	2009
 1	Fri, Nov 14, 2008	REG		Florida A&M	MEAC	W	96	57		1	0	W 1	Bramlage Coliseum	florida-am	kansas-state	2009
 2	Sun, Nov 16, 2008	REG		Southeast Missouri State	OVC	W	88	68		2	0	W 2	Bramlage Coliseum	southeast-missouri-state	kansas-state	2009
 3	Wed, Nov 19, 2008	REG		Emporia State		W	82	60		3	0	W 3	Bramlage Coliseum	NA	kansas-state	2009
@@ -4713,8 +4713,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 7, 2009	REG	@	Auburn	SEC	L	53	69		25	6	L 2	Beard-Eaves-Memorial	auburn	louisiana-state	2009
 32	Fri, Mar 13, 2009	CTOURN	N	Kentucky	SEC	W	67	58		26	6	W 1	St. Pete Times Forum	kentucky	louisiana-state	2009
 33	Sat, Mar 14, 2009	CTOURN	N	Mississippi State	SEC	L	57	67		26	7	L 1	St. Pete Times Forum	mississippi-state	louisiana-state	2009
-34	Thu, Mar 19, 2009	NCAA	N	Butler (22)	Horizon	W	75	71		27	7	W 1		s/2009-03-19-b	louisiana-state	2009
-35	Sat, Mar 21, 2009	NCAA	N	North Carolina (2)	ACC	L	70	84		27	8	L 1		s/2009-03-21-louisiana-	louisiana-state	2009
+34	Thu, Mar 19, 2009	NCAA	N	Butler (22)	Horizon	W	75	71		27	7	W 1		butler	louisiana-state	2009
+35	Sat, Mar 21, 2009	NCAA	N	North Carolina (2)	ACC	L	70	84		27	8	L 1		north-carolina	louisiana-state	2009
 1	Sat, Nov 15, 2008	REG	@	Louisiana-Lafayette	Sun Belt	W	61	59		1	0	W 1	Cajundome	louisiana-lafayette	louisiana-tech	2009
 2	Tue, Nov 18, 2008	REG	@	Grambling	SWAC	W	80	74	OT	2	0	W 2	HPER Complex	grambling	louisiana-tech	2009
 3	Sat, Nov 22, 2008	REG	@	Arkansas-Little Rock	Sun Belt	L	69	78		2	1	L 1	Jack Stephens Center	arkansas-little-rock	louisiana-tech	2009
@@ -4781,10 +4781,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 12, 2009	CTOURN	N	Providence	Big East	W	73	55		26	5	W 8	Madison Square Garden (IV)	providence	louisville	2009
 32	Fri, Mar 13, 2009	CTOURN	N	Villanova (10)	Big East	W	69	55		27	5	W 9	Madison Square Garden (IV)	villanova	louisville	2009
 33	Sat, Mar 14, 2009	CTOURN	N	Syracuse (18)	Big East	W	76	66		28	5	W 10	Madison Square Garden (IV)	syracuse	louisville	2009
-34	Fri, Mar 20, 2009	NCAA	N	Morehead State	OVC	W	74	54		29	5	W 11	University of Dayton Arena	s/2009-03-20-louis	louisville	2009
-35	Sun, Mar 22, 2009	NCAA	N	Siena	MAAC	W	79	72		30	5	W 12	University of Dayton Arena	s/2009-03-22-louis	louisville	2009
-36	Fri, Mar 27, 2009	NCAA	N	Arizona	Pac-10	W	103	64		31	5	W 13		s/2009-03-27-ar	louisville	2009
-37	Sun, Mar 29, 2009	NCAA	N	Michigan State (8)	Big Ten	L	52	64		31	6	L 1	Lucas Oil Stadium	s/2009-03-29-louis	louisville	2009
+34	Fri, Mar 20, 2009	NCAA	N	Morehead State	OVC	W	74	54		29	5	W 11	University of Dayton Arena	morehead-state	louisville	2009
+35	Sun, Mar 22, 2009	NCAA	N	Siena	MAAC	W	79	72		30	5	W 12	University of Dayton Arena	siena	louisville	2009
+36	Fri, Mar 27, 2009	NCAA	N	Arizona	Pac-10	W	103	64		31	5	W 13		arizona	louisville	2009
+37	Sun, Mar 29, 2009	NCAA	N	Michigan State (8)	Big Ten	L	52	64		31	6	L 1	Lucas Oil Stadium	michigan-state	louisville	2009
 1	Fri, Nov 14, 2008	REG		Rockhurst		L	79	86		0	1	L 1	Joseph J. Gentile Center	NA	loyola-il	2009
 2	Mon, Nov 17, 2008	REG	N	Georgia	SEC	W	74	53		1	1	W 1	Mackey Arena	georgia	loyola-il	2009
 3	Tue, Nov 18, 2008	REG	@	Purdue (11)	Big Ten	L	46	78		1	2	L 1	Mackey Arena	purdue	loyola-il	2009
@@ -5006,8 +5006,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 7, 2009	REG		Syracuse (25)	Big East	L	79	86	OT	23	8	L 4	Bradley Center	syracuse	marquette	2009
 32	Wed, Mar 11, 2009	CTOURN	@	St. John's (NY)	Big East	W	74	45		24	8	W 1	Madison Square Garden (IV)	st-johns-ny	marquette	2009
 33	Thu, Mar 12, 2009	CTOURN	N	Villanova (10)	Big East	L	75	76		24	9	L 1	Madison Square Garden (IV)	villanova	marquette	2009
-34	Fri, Mar 20, 2009	NCAA	N	Utah State	WAC	W	58	57		25	9	W 1	Taco Bell Arena	s/2009-03-20-marq	marquette	2009
-35	Sun, Mar 22, 2009	NCAA	N	Missouri (9)	Big 12	L	79	83		25	10	L 1		s/2009-03-22-marq	marquette	2009
+34	Fri, Mar 20, 2009	NCAA	N	Utah State	WAC	W	58	57		25	9	W 1	Taco Bell Arena	utah-state	marquette	2009
+35	Sun, Mar 22, 2009	NCAA	N	Missouri (9)	Big 12	L	79	83		25	10	L 1		missouri	marquette	2009
 1	Sun, Nov 16, 2008	REG		West Virginia Tech		W	110	57		1	0	W 1	Henderson Center	NA	marshall	2009
 2	Fri, Nov 21, 2008	REG	N	Morgan State	MEAC	L	67	72		1	1	L 1	Ocean Center	morgan-state	marshall	2009
 3	Sat, Nov 22, 2008	REG	N	Green Bay	Horizon	L	66	72		1	2	L 2	Ocean Center	green-bay	marshall	2009
@@ -5073,8 +5073,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 12, 2009	CTOURN	N	North Carolina State	ACC	W	74	69		19	12	W 1	The Omni	north-carolina-state	maryland	2009
 32	Fri, Mar 13, 2009	CTOURN	N	Wake Forest (8)	ACC	W	75	64		20	12	W 2	The Omni	wake-forest	maryland	2009
 33	Sat, Mar 14, 2009	CTOURN	N	Duke (9)	ACC	L	61	67		20	13	L 1	Georgia Dome	duke	maryland	2009
-34	Thu, Mar 19, 2009	NCAA	N	University of California	Pac-10	W	84	71		21	13	W 1	Sprint Center	s/2009-03-19-calif	maryland	2009
-35	Sat, Mar 21, 2009	NCAA	N	Memphis (3)	CUSA	L	70	89		21	14	L 1		s/2009-03-21-mar	maryland	2009
+34	Thu, Mar 19, 2009	NCAA	N	University of California	Pac-10	W	84	71		21	13	W 1	Sprint Center	california	maryland	2009
+35	Sat, Mar 21, 2009	NCAA	N	Memphis (3)	CUSA	L	70	89		21	14	L 1		memphis	maryland	2009
 1	Sat, Nov 15, 2008	REG		Stevenson		W	91	54		1	0	W 1	RAC Arena	NA	maryland-baltimore-county	2009
 2	Mon, Nov 17, 2008	REG	@	Morgan State	MEAC	L	60	67		1	1	L 1	Hill Field House	morgan-state	maryland-baltimore-county	2009
 3	Fri, Nov 21, 2008	REG	N	Quinnipiac	NEC	W	76	71		2	1	W 1	Levien Gym	quinnipiac	maryland-baltimore-county	2009
@@ -5230,9 +5230,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Thu, Mar 12, 2009	CTOURN		Tulane	CUSA	W	51	41		29	3	W 23	FedExForum	tulane	memphis	2009
 33	Fri, Mar 13, 2009	CTOURN		Houston	CUSA	W	74	49		30	3	W 24	FedExForum	houston	memphis	2009
 34	Sat, Mar 14, 2009	CTOURN		Tulsa	CUSA	W	64	39		31	3	W 25	FedExForum	tulsa	memphis	2009
-35	Thu, Mar 19, 2009	NCAA	N	Cal State Northridge	Big West	W	81	70		32	3	W 26		s/2009-03-19-cal-state-north	memphis	2009
-36	Sat, Mar 21, 2009	NCAA	N	Maryland	ACC	W	89	70		33	3	W 27		s/2009-03-21-mar	memphis	2009
-37	Thu, Mar 26, 2009	NCAA	N	Missouri (9)	Big 12	L	91	102		33	4	L 1	University of Phoenix Stadium	s/2009-03-26-me	memphis	2009
+35	Thu, Mar 19, 2009	NCAA	N	Cal State Northridge	Big West	W	81	70		32	3	W 26		cal-state-northridge	memphis	2009
+36	Sat, Mar 21, 2009	NCAA	N	Maryland	ACC	W	89	70		33	3	W 27		maryland	memphis	2009
+37	Thu, Mar 26, 2009	NCAA	N	Missouri (9)	Big 12	L	91	102		33	4	L 1	University of Phoenix Stadium	missouri	memphis	2009
 1	Fri, Nov 14, 2008	REG		Piedmont		W	89	63		1	0	W 1	University Center	NA	mercer	2009
 2	Sun, Nov 16, 2008	REG	@	Alabama	SEC	W	72	69		2	0	W 2	Coleman Coliseum 	alabama	mercer	2009
 3	Wed, Nov 19, 2008	REG	@	Auburn	SEC	W	78	74		3	0	W 3	Beard-Eaves-Memorial	auburn	mercer	2009
@@ -5360,8 +5360,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 7, 2009	REG	@	Minnesota	Big Ten	W	67	64		19	12	W 1	Williams Arena	minnesota	michigan	2009
 32	Thu, Mar 12, 2009	CTOURN	N	Iowa	Big Ten	W	73	45		20	12	W 2	Conseco Fieldhouse	iowa	michigan	2009
 33	Fri, Mar 13, 2009	CTOURN	N	Illinois	Big Ten	L	50	60		20	13	L 1	Conseco Fieldhouse	illinois	michigan	2009
-34	Thu, Mar 19, 2009	NCAA	N	Clemson (24)	ACC	W	62	59		21	13	W 1	Sprint Center	s/2009-03-19-cl	michigan	2009
-35	Sat, Mar 21, 2009	NCAA	N	Oklahoma (7)	Big 12	L	63	73		21	14	L 1		s/2009-03-21-mic	michigan	2009
+34	Thu, Mar 19, 2009	NCAA	N	Clemson (24)	ACC	W	62	59		21	13	W 1	Sprint Center	clemson	michigan	2009
+35	Sat, Mar 21, 2009	NCAA	N	Oklahoma (7)	Big 12	L	63	73		21	14	L 1		oklahoma	michigan	2009
 1	Sun, Nov 16, 2008	REG		Idaho	WAC	W	100	62		1	0	W 1	Breslin Events Center	idaho	michigan-state	2009
 2	Wed, Nov 19, 2008	REG	@	IPFW	Summit	W	70	59		2	0	W 2	Allen County War Memorial Coliseum	ipfw	michigan-state	2009
 3	Thu, Nov 27, 2008	REG	N	Maryland	ACC	L	62	80		2	1	L 1	The Milk House	maryland	michigan-state	2009
@@ -5394,12 +5394,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sun, Mar 8, 2009	REG		Purdue (19)	Big Ten	W	62	51		25	5	W 5	Breslin Events Center	purdue	michigan-state	2009
 31	Fri, Mar 13, 2009	CTOURN	N	Minnesota	Big Ten	W	64	56		26	5	W 6	Conseco Fieldhouse	minnesota	michigan-state	2009
 32	Sat, Mar 14, 2009	CTOURN	N	Ohio State	Big Ten	L	70	82		26	6	L 1	Conseco Fieldhouse	ohio-state	michigan-state	2009
-33	Fri, Mar 20, 2009	NCAA	N	Robert Morris	NEC	W	77	62		27	6	W 1	Hubert H. Humphrey Metrodome	s/2009-03-20-michigan-	michigan-state	2009
-34	Sun, Mar 22, 2009	NCAA	N	Southern California	Pac-10	W	74	69		28	6	W 2	Hubert H. Humphrey Metrodome	s/2009-03-22-michigan-	michigan-state	2009
-35	Fri, Mar 27, 2009	NCAA	N	Kansas (14)	Big 12	W	67	62		29	6	W 3		s/2009-03-27-k	michigan-state	2009
-36	Sun, Mar 29, 2009	NCAA	N	Louisville (1)	Big East	W	64	52		30	6	W 4	Lucas Oil Stadium	s/2009-03-29-louis	michigan-state	2009
-37	Sat, Apr 4, 2009	NCAA	N	Connecticut (5)	Big East	W	82	73		31	6	W 5	Ford Field	s/2009-04-04-connec	michigan-state	2009
-38	Mon, Apr 6, 2009	NCAA	N	North Carolina (2)	ACC	L	72	89		31	7	L 1		s/2009-04-06-michigan-	michigan-state	2009
+33	Fri, Mar 20, 2009	NCAA	N	Robert Morris	NEC	W	77	62		27	6	W 1	Hubert H. Humphrey Metrodome	robert-morris	michigan-state	2009
+34	Sun, Mar 22, 2009	NCAA	N	Southern California	Pac-10	W	74	69		28	6	W 2	Hubert H. Humphrey Metrodome	southern-california	michigan-state	2009
+35	Fri, Mar 27, 2009	NCAA	N	Kansas (14)	Big 12	W	67	62		29	6	W 3		kansas	michigan-state	2009
+36	Sun, Mar 29, 2009	NCAA	N	Louisville (1)	Big East	W	64	52		30	6	W 4	Lucas Oil Stadium	louisville	michigan-state	2009
+37	Sat, Apr 4, 2009	NCAA	N	Connecticut (5)	Big East	W	82	73		31	6	W 5	Ford Field	connecticut	michigan-state	2009
+38	Mon, Apr 6, 2009	NCAA	N	North Carolina (2)	ACC	L	72	89		31	7	L 1		north-carolina	michigan-state	2009
 1	Fri, Nov 14, 2008	REG		Trevecca Nazarene		W	94	53		1	0	W 1	Murphy Athletic Center	NA	middle-tennessee	2009
 2	Sun, Nov 16, 2008	REG		Houston Baptist	Ind	W	80	63		2	0	W 2	Murphy Athletic Center	houston-baptist	middle-tennessee	2009
 3	Fri, Nov 21, 2008	REG		Tennessee (14)	SEC	L	66	76		2	1	L 1	Murphy Athletic Center	tennessee	middle-tennessee	2009
@@ -5495,7 +5495,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 7, 2009	REG		Michigan	Big Ten	L	64	67		21	9	L 1	Williams Arena	michigan	minnesota	2009
 31	Thu, Mar 12, 2009	CTOURN	N	Northwestern	Big Ten	W	66	53		22	9	W 1	Conseco Fieldhouse	northwestern	minnesota	2009
 32	Fri, Mar 13, 2009	CTOURN	N	Michigan State (7)	Big Ten	L	56	64		22	10	L 1	Conseco Fieldhouse	michigan-state	minnesota	2009
-33	Thu, Mar 19, 2009	NCAA	N	Texas	Big 12	L	62	76		22	11	L 2		s/2009-03-19-minn	minnesota	2009
+33	Thu, Mar 19, 2009	NCAA	N	Texas	Big 12	L	62	76		22	11	L 2		texas	minnesota	2009
 1	Fri, Nov 14, 2008	REG		Arkansas State	Sun Belt	W	65	52		1	0	W 1	C.M. Tad Smith Coliseum	arkansas-state	mississippi	2009
 2	Tue, Nov 18, 2008	REG		South Alabama	Sun Belt	W	89	71		2	0	W 2	C.M. Tad Smith Coliseum	south-alabama	mississippi	2009
 3	Fri, Nov 21, 2008	REG	N	Utah	MWC	L	72	83		2	1	L 1	Ocean Center	utah	mississippi	2009
@@ -5562,7 +5562,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 33	Fri, Mar 13, 2009	CTOURN	N	South Carolina	SEC	W	82	68		21	12	W 4	St. Pete Times Forum	south-carolina	mississippi-state	2009
 34	Sat, Mar 14, 2009	CTOURN	N	Louisiana State (20)	SEC	W	67	57		22	12	W 5	St. Pete Times Forum	louisiana-state	mississippi-state	2009
 35	Sun, Mar 15, 2009	CTOURN	N	Tennessee	SEC	W	64	61		23	12	W 6	St. Pete Times Forum	tennessee	mississippi-state	2009
-36	Thu, Mar 19, 2009	NCAA	N	Washington (15)	Pac-10	L	58	71		23	13	L 1		s/2009-03-19-mississippi-	mississippi-state	2009
+36	Thu, Mar 19, 2009	NCAA	N	Washington (15)	Pac-10	L	58	71		23	13	L 1		washington	mississippi-state	2009
 1	Fri, Nov 14, 2008	REG	@	Arizona State (15)	Pac-10	L	64	80		0	1	L 1	Wells Fargo Arena	arizona-state	mississippi-valley-state	2009
 2	Sat, Nov 15, 2008	REG	@	Washington State	Pac-10	L	25	76		0	2	L 2	Friel Court	washington-state	mississippi-valley-state	2009
 3	Mon, Nov 17, 2008	REG	@	Oklahoma (12)	Big 12	L	53	94		0	3	L 3	Lloyd Noble Center	oklahoma	mississippi-valley-state	2009
@@ -5629,10 +5629,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Thu, Mar 12, 2009	CTOURN	N	Texas Tech	Big 12	W	81	60		26	6	W 1	Ford Center	texas-tech	missouri	2009
 33	Fri, Mar 13, 2009	CTOURN	N	Oklahoma State	Big 12	W	67	59		27	6	W 2	Ford Center	oklahoma-state	missouri	2009
 34	Sat, Mar 14, 2009	CTOURN	N	Baylor	Big 12	W	73	60		28	6	W 3	Ford Center	baylor	missouri	2009
-35	Fri, Mar 20, 2009	NCAA	N	Cornell	Ivy	W	78	59		29	6	W 4		s/2009-03-20-co	missouri	2009
-36	Sun, Mar 22, 2009	NCAA	N	Marquette (23)	Big East	W	83	79		30	6	W 5		s/2009-03-22-marq	missouri	2009
-37	Thu, Mar 26, 2009	NCAA	N	Memphis (3)	CUSA	W	102	91		31	6	W 6	University of Phoenix Stadium	s/2009-03-26-me	missouri	2009
-38	Sat, Mar 28, 2009	NCAA	N	Connecticut (5)	Big East	L	75	82		31	7	L 1	University of Phoenix Stadium	s/2009-03-28-connec	missouri	2009
+35	Fri, Mar 20, 2009	NCAA	N	Cornell	Ivy	W	78	59		29	6	W 4		cornell	missouri	2009
+36	Sun, Mar 22, 2009	NCAA	N	Marquette (23)	Big East	W	83	79		30	6	W 5		marquette	missouri	2009
+37	Thu, Mar 26, 2009	NCAA	N	Memphis (3)	CUSA	W	102	91		31	6	W 6	University of Phoenix Stadium	memphis	missouri	2009
+38	Sat, Mar 28, 2009	NCAA	N	Connecticut (5)	Big East	L	75	82		31	7	L 1	University of Phoenix Stadium	connecticut	missouri	2009
 1	Fri, Nov 14, 2008	REG		North Dakota		L	56	61		0	1	L 1	Municipal Auditorium	NA	missouri-kansas-city	2009
 2	Sun, Nov 16, 2008	REG	@	Kansas (24)	Big 12	L	56	71		0	2	L 2	Allen Fieldhouse	kansas	missouri-kansas-city	2009
 3	Wed, Nov 19, 2008	REG	@	Wichita State	MVC	W	66	63		1	2	W 1	Charles Koch Arena	wichita-state	missouri-kansas-city	2009
@@ -5820,8 +5820,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Tue, Mar 3, 2009	CTOURN		Eastern Kentucky	OVC	W	91	72		17	15	W 1	Ellis T. Johnson Arena	eastern-kentucky	morehead-state	2009
 33	Fri, Mar 6, 2009	CTOURN	N	Tennessee-Martin	OVC	W	63	55		18	15	W 2	Bridgestone Arena	tennessee-martin	morehead-state	2009
 34	Sat, Mar 7, 2009	CTOURN	N	Austin Peay	OVC	W	67	65	2OT	19	15	W 3	Bridgestone Arena	austin-peay	morehead-state	2009
-35	Tue, Mar 17, 2009	NCAA	N	Alabama State	SWAC	W	58	43		20	15	W 4	University of Dayton Arena	s/2009-03-17-alabama-	morehead-state	2009
-36	Fri, Mar 20, 2009	NCAA	N	Louisville (1)	Big East	L	54	74		20	16	L 1	University of Dayton Arena	s/2009-03-20-louis	morehead-state	2009
+35	Tue, Mar 17, 2009	NCAA	N	Alabama State	SWAC	W	58	43		20	15	W 4	University of Dayton Arena	alabama-state	morehead-state	2009
+36	Fri, Mar 20, 2009	NCAA	N	Louisville (1)	Big East	L	54	74		20	16	L 1	University of Dayton Arena	louisville	morehead-state	2009
 1	Sat, Nov 15, 2008	REG	@	La Salle	A-10	L	61	64		0	1	L 1	Tom Gola Arena	la-salle	morgan-state	2009
 2	Mon, Nov 17, 2008	REG		Maryland-Baltimore County	AEC	W	67	60		1	1	W 1	Hill Field House	maryland-baltimore-county	morgan-state	2009
 3	Wed, Nov 19, 2008	REG	@	Manhattan	MAAC	L	60	61		1	2	L 1	Draddy Gymnasium	manhattan	morgan-state	2009
@@ -5856,7 +5856,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Wed, Mar 11, 2009	CTOURN	N	Florida A&M	MEAC	W	71	41		21	11	W 3	RBC Center	florida-am	morgan-state	2009
 33	Fri, Mar 13, 2009	CTOURN	N	Coppin State	MEAC	W	75	67		22	11	W 4	RBC Center	coppin-state	morgan-state	2009
 34	Sat, Mar 14, 2009	CTOURN	N	Norfolk State	MEAC	W	83	69		23	11	W 5	RBC Center	norfolk-state	morgan-state	2009
-35	Thu, Mar 19, 2009	NCAA	N	Oklahoma (7)	Big 12	L	54	82		23	12	L 1		s/2009-03-19-morgan-	morgan-state	2009
+35	Thu, Mar 19, 2009	NCAA	N	Oklahoma (7)	Big 12	L	54	82		23	12	L 1		oklahoma	morgan-state	2009
 1	Fri, Nov 14, 2008	REG	@	Loyola (MD)	MAAC	W	84	76		1	0	W 1	Reitz Arena	loyola-md	mount-st-marys	2009
 2	Mon, Nov 17, 2008	REG	@	Virginia Tech	ACC	L	57	62		1	1	L 1	Cassell Coliseum	virginia-tech	mount-st-marys	2009
 3	Tue, Nov 25, 2008	REG	@	George Mason	CAA	L	60	72		1	2	L 2	Patriot Center	george-mason	mount-st-marys	2009
@@ -6303,12 +6303,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sun, Mar 8, 2009	REG		Duke (7)	ACC	W	79	71		27	3	W 3	Smith Center	duke	north-carolina	2009
 31	Fri, Mar 13, 2009	CTOURN	N	Virginia Tech	ACC	W	79	76		28	3	W 4	The Omni	virginia-tech	north-carolina	2009
 32	Sat, Mar 14, 2009	CTOURN	N	Florida State (22)	ACC	L	70	73		28	4	L 1	The Omni	florida-state	north-carolina	2009
-33	Thu, Mar 19, 2009	NCAA	N	Radford	Big South	W	101	58		29	4	W 1	Greensboro Coliseum	s/2009-03-19-north-car	north-carolina	2009
-34	Sat, Mar 21, 2009	NCAA	N	Louisiana State (21)	SEC	W	84	70		30	4	W 2		s/2009-03-21-louisiana-	north-carolina	2009
-35	Fri, Mar 27, 2009	NCAA	N	Gonzaga (10)	WCC	W	98	77		31	4	W 3		s/2009-03-27-go	north-carolina	2009
-36	Sun, Mar 29, 2009	NCAA	N	Oklahoma (7)	Big 12	W	72	60		32	4	W 4	FedExForum	s/2009-03-29-north-car	north-carolina	2009
-37	Sat, Apr 4, 2009	NCAA	N	Villanova (11)	Big East	W	83	69		33	4	W 5	Ford Field	s/2009-04-04-north-car	north-carolina	2009
-38	Mon, Apr 6, 2009	NCAA	N	Michigan State (8)	Big Ten	W	89	72		34	4	W 6		s/2009-04-06-michigan-	north-carolina	2009
+33	Thu, Mar 19, 2009	NCAA	N	Radford	Big South	W	101	58		29	4	W 1	Greensboro Coliseum	radford	north-carolina	2009
+34	Sat, Mar 21, 2009	NCAA	N	Louisiana State (21)	SEC	W	84	70		30	4	W 2		louisiana-state	north-carolina	2009
+35	Fri, Mar 27, 2009	NCAA	N	Gonzaga (10)	WCC	W	98	77		31	4	W 3		gonzaga	north-carolina	2009
+36	Sun, Mar 29, 2009	NCAA	N	Oklahoma (7)	Big 12	W	72	60		32	4	W 4	FedExForum	oklahoma	north-carolina	2009
+37	Sat, Apr 4, 2009	NCAA	N	Villanova (11)	Big East	W	83	69		33	4	W 5	Ford Field	villanova	north-carolina	2009
+38	Mon, Apr 6, 2009	NCAA	N	Michigan State (8)	Big Ten	W	89	72		34	4	W 6		michigan-state	north-carolina	2009
 1	Fri, Nov 14, 2008	REG		Belmont Abbey		W	75	63		1	0	W 1	Charlie Justice Center	NA	north-carolina-asheville	2009
 2	Sun, Nov 16, 2008	REG		Montreat		W	91	78		2	0	W 2	Charlie Justice Center	NA	north-carolina-asheville	2009
 3	Tue, Nov 18, 2008	REG		Liberty	Big South	W	84	56		3	0	W 3	Charlie Justice Center	liberty	north-carolina-asheville	2009
@@ -6496,7 +6496,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 7, 2009	CTOURN	N	Centenary (LA)	Summit	W	83	77		24	6	W 5	Sioux Falls Arena	centenary-la	north-dakota-state	2009
 31	Mon, Mar 9, 2009	CTOURN	N	Southern Utah	Summit	W	79	67		25	6	W 6	Sioux Falls Arena	southern-utah	north-dakota-state	2009
 32	Tue, Mar 10, 2009	CTOURN	N	Oakland	Summit	W	66	64		26	6	W 7	Sioux Falls Arena	oakland	north-dakota-state	2009
-33	Fri, Mar 20, 2009	NCAA	N	Kansas (14)	Big 12	L	74	84		26	7	L 1	Hubert H. Humphrey Metrodome	s/2009-03-20-k	north-dakota-state	2009
+33	Fri, Mar 20, 2009	NCAA	N	Kansas (14)	Big 12	L	74	84		26	7	L 1	Hubert H. Humphrey Metrodome	kansas	north-dakota-state	2009
 1	Fri, Nov 14, 2008	REG		Cameron		W	87	66		1	0	W 1	Super Pit	NA	north-texas	2009
 2	Mon, Nov 17, 2008	REG	@	Oklahoma State	Big 12	L	88	100		1	1	L 1	Gallagher-Iba Arena	oklahoma-state	north-texas	2009
 3	Thu, Nov 20, 2008	REG	@	Sam Houston State	Southland	W	76	71		2	1	W 1	Johnson Coliseum	sam-houston-state	north-texas	2009
@@ -6683,7 +6683,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 6, 2009	CTOURN	N	Indiana State	MVC	W	73	69		21	10	W 3	Scottrade Center	indiana-state	northern-iowa	2009
 32	Sat, Mar 7, 2009	CTOURN	N	Bradley	MVC	W	76	62		22	10	W 4	Scottrade Center	bradley	northern-iowa	2009
 33	Sun, Mar 8, 2009	CTOURN	N	Illinois State	MVC	W	60	57	OT	23	10	W 5	Scottrade Center	illinois-state	northern-iowa	2009
-34	Thu, Mar 19, 2009	NCAA	N	Purdue (17)	Big Ten	L	56	61		23	11	L 1		s/2009-03-19-northern	northern-iowa	2009
+34	Thu, Mar 19, 2009	NCAA	N	Purdue (17)	Big Ten	L	56	61		23	11	L 1		purdue	northern-iowa	2009
 1	Sun, Nov 16, 2008	REG		Central Arkansas	Southland	W	81	39		1	0	W 1	Welsh-Ryan Arena	central-arkansas	northwestern	2009
 2	Wed, Nov 19, 2008	REG		Texas A&M-Corpus Christi	Southland	W	66	48		2	0	W 2	Welsh-Ryan Arena	texas-am-corpus-christi	northwestern	2009
 3	Sat, Nov 22, 2008	REG	@	Brown	Ivy	W	73	64		3	0	W 3	Pizzitola Sports Center	brown	northwestern	2009
@@ -6882,7 +6882,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Fri, Mar 13, 2009	CTOURN	N	Wisconsin	Big Ten	W	61	57		21	9	W 3	Conseco Fieldhouse	wisconsin	ohio-state	2009
 31	Sat, Mar 14, 2009	CTOURN	N	Michigan State (7)	Big Ten	W	82	70		22	9	W 4	Conseco Fieldhouse	michigan-state	ohio-state	2009
 32	Sun, Mar 15, 2009	CTOURN	@	Purdue (24)	Big Ten	L	61	65		22	10	L 1	Conseco Fieldhouse	purdue	ohio-state	2009
-33	Fri, Mar 20, 2009	NCAA	N	Siena	MAAC	L	72	74	2OT	22	11	L 2	University of Dayton Arena	s/2009-03-20-ohio-	ohio-state	2009
+33	Fri, Mar 20, 2009	NCAA	N	Siena	MAAC	L	72	74	2OT	22	11	L 2	University of Dayton Arena	siena	ohio-state	2009
 1	Fri, Nov 14, 2008	REG		American	Patriot	W	83	54		1	0	W 1	Lloyd Noble Center	american	oklahoma	2009
 2	Mon, Nov 17, 2008	REG		Mississippi Valley State	SWAC	W	94	53		2	0	W 2	Lloyd Noble Center	mississippi-valley-state	oklahoma	2009
 3	Tue, Nov 18, 2008	REG		Davidson (21)	Southern	W	82	78		3	0	W 3	Lloyd Noble Center	davidson	oklahoma	2009
@@ -6915,10 +6915,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Wed, Mar 4, 2009	REG	@	Missouri (15)	Big 12	L	64	73		26	4	L 1	Mizzou Arena	missouri	oklahoma	2009
 31	Sat, Mar 7, 2009	REG		Oklahoma State	Big 12	W	82	78		27	4	W 1	Lloyd Noble Center	oklahoma-state	oklahoma	2009
 32	Thu, Mar 12, 2009	CTOURN	N	Oklahoma State	Big 12	L	70	71		27	5	L 1	Ford Center	oklahoma-state	oklahoma	2009
-33	Thu, Mar 19, 2009	NCAA	N	Morgan State	MEAC	W	82	54		28	5	W 1		s/2009-03-19-morgan-	oklahoma	2009
-34	Sat, Mar 21, 2009	NCAA	N	Michigan	Big Ten	W	73	63		29	5	W 2		s/2009-03-21-mic	oklahoma	2009
-35	Fri, Mar 27, 2009	NCAA	N	Syracuse (13)	Big East	W	84	71		30	5	W 3	FedExForum	s/2009-03-27-okl	oklahoma	2009
-36	Sun, Mar 29, 2009	NCAA	N	North Carolina (2)	ACC	L	60	72		30	6	L 1	FedExForum	s/2009-03-29-north-car	oklahoma	2009
+33	Thu, Mar 19, 2009	NCAA	N	Morgan State	MEAC	W	82	54		28	5	W 1		morgan-state	oklahoma	2009
+34	Sat, Mar 21, 2009	NCAA	N	Michigan	Big Ten	W	73	63		29	5	W 2		michigan	oklahoma	2009
+35	Fri, Mar 27, 2009	NCAA	N	Syracuse (13)	Big East	W	84	71		30	5	W 3	FedExForum	syracuse	oklahoma	2009
+36	Sun, Mar 29, 2009	NCAA	N	North Carolina (2)	ACC	L	60	72		30	6	L 1	FedExForum	north-carolina	oklahoma	2009
 1	Fri, Nov 14, 2008	REG		Texas-San Antonio	Southland	W	76	57		1	0	W 1	Gallagher-Iba Arena	texas-san-antonio	oklahoma-state	2009
 2	Mon, Nov 17, 2008	REG		North Texas	Sun Belt	W	100	88		2	0	W 2	Gallagher-Iba Arena	north-texas	oklahoma-state	2009
 3	Thu, Nov 20, 2008	REG		Tulsa	CUSA	W	91	73		3	0	W 3	Gallagher-Iba Arena	tulsa	oklahoma-state	2009
@@ -6952,8 +6952,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Wed, Mar 11, 2009	CTOURN	N	Iowa State	Big 12	W	81	67		21	10	W 1	Ford Center	iowa-state	oklahoma-state	2009
 32	Thu, Mar 12, 2009	CTOURN	N	Oklahoma (6)	Big 12	W	71	70		22	10	W 2	Ford Center	oklahoma	oklahoma-state	2009
 33	Fri, Mar 13, 2009	CTOURN	N	Missouri (14)	Big 12	L	59	67		22	11	L 1	Ford Center	missouri	oklahoma-state	2009
-34	Fri, Mar 20, 2009	NCAA	N	Tennessee	SEC	W	77	75		23	11	W 1	University of Dayton Arena	s/2009-03-20-oklahoma-	oklahoma-state	2009
-35	Sun, Mar 22, 2009	NCAA	N	Pittsburgh (4)	Big East	L	76	84		23	12	L 1		s/2009-03-22-oklahoma-	oklahoma-state	2009
+34	Fri, Mar 20, 2009	NCAA	N	Tennessee	SEC	W	77	75		23	11	W 1	University of Dayton Arena	tennessee	oklahoma-state	2009
+35	Sun, Mar 22, 2009	NCAA	N	Pittsburgh (4)	Big East	L	76	84		23	12	L 1		pittsburgh	oklahoma-state	2009
 1	Sun, Nov 16, 2008	REG	@	Charlotte	A-10	W	69	68		1	0	W 1	Dale F. Halton Arena	charlotte	old-dominion	2009
 2	Sat, Nov 22, 2008	REG		Alabama-Birmingham	CUSA	L	62	77		1	1	L 1	Ted Constant Convocation Ctr.	alabama-birmingham	old-dominion	2009
 3	Tue, Nov 25, 2008	REG	@	Bucknell	Patriot	L	82	83	2OT	1	2	L 2	Sojka Pavilion	bucknell	old-dominion	2009
@@ -7251,10 +7251,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Wed, Mar 4, 2009	REG		Marquette (13)	Big East	W	90	75		27	3	W 2	Petersen Events Center	marquette	pittsburgh	2009
 31	Sat, Mar 7, 2009	REG		Connecticut (1)	Big East	W	70	60		28	3	W 3	Petersen Events Center	connecticut	pittsburgh	2009
 32	Thu, Mar 12, 2009	CTOURN	N	West Virginia	Big East	L	60	74		28	4	L 1	Madison Square Garden (IV)	west-virginia	pittsburgh	2009
-33	Fri, Mar 20, 2009	NCAA	N	East Tennessee State	A-Sun	W	72	62		29	4	W 1		s/2009-03-20-east-tennessee-	pittsburgh	2009
-34	Sun, Mar 22, 2009	NCAA	N	Oklahoma State	Big 12	W	84	76		30	4	W 2		s/2009-03-22-oklahoma-	pittsburgh	2009
-35	Thu, Mar 26, 2009	NCAA	N	Xavier (20)	A-10	W	60	55		31	4	W 3	TD Garden	s/2009-03-26-pitts	pittsburgh	2009
-36	Sat, Mar 28, 2009	NCAA	N	Villanova (11)	Big East	L	76	78		31	5	L 1	TD Garden	s/2009-03-28-pitts	pittsburgh	2009
+33	Fri, Mar 20, 2009	NCAA	N	East Tennessee State	A-Sun	W	72	62		29	4	W 1		east-tennessee-state	pittsburgh	2009
+34	Sun, Mar 22, 2009	NCAA	N	Oklahoma State	Big 12	W	84	76		30	4	W 2		oklahoma-state	pittsburgh	2009
+35	Thu, Mar 26, 2009	NCAA	N	Xavier (20)	A-10	W	60	55		31	4	W 3	TD Garden	xavier	pittsburgh	2009
+36	Sat, Mar 28, 2009	NCAA	N	Villanova (11)	Big East	L	76	78		31	5	L 1	TD Garden	villanova	pittsburgh	2009
 1	Sat, Nov 15, 2008	REG		Washington	Pac-10	W	80	74		1	0	W 1	Chiles Center	washington	portland	2009
 2	Tue, Nov 18, 2008	REG	@	Portland State	Big Sky	L	76	81		1	1	L 1	Peter W. Stott Center	portland-state	portland	2009
 3	Fri, Nov 21, 2008	REG		Yale	Ivy	W	77	58		2	1	W 1	Chiles Center	yale	portland	2009
@@ -7319,7 +7319,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Feb 28, 2009	REG	@	Eastern Washington	Big Sky	W	66	62	OT	21	9	W 4	Reese Court	eastern-washington	portland-state	2009
 31	Tue, Mar 10, 2009	CTOURN	N	Idaho State	Big Sky	W	61	53		22	9	W 5	Dee Events Center	idaho-state	portland-state	2009
 32	Wed, Mar 11, 2009	CTOURN		Montana State	Big Sky	W	79	77		23	9	W 6	Rose Garden Arena	montana-state	portland-state	2009
-33	Fri, Mar 20, 2009	NCAA	N	Xavier (20)	A-10	L	59	77		23	10	L 1		s/2009-03-20-portland-	portland-state	2009
+33	Fri, Mar 20, 2009	NCAA	N	Xavier (20)	A-10	L	59	77		23	10	L 1		xavier	portland-state	2009
 1	Wed, Nov 12, 2008	REG	@	UCLA (4)	Pac-10	L	58	82		0	1	L 1	Pauley Pavilion	ucla	prairie-view	2009
 2	Thu, Nov 13, 2008	REG	N	Weber State	Big Sky	L	68	78		0	2	L 2	Pauley Pavilion	weber-state	prairie-view	2009
 3	Sat, Nov 15, 2008	REG	@	Missouri	Big 12	L	65	86		0	3	L 3	Mizzou Arena	missouri	prairie-view	2009
@@ -7447,9 +7447,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Fri, Mar 13, 2009	CTOURN		Penn State	Big Ten	W	79	65		23	9	W 1	Conseco Fieldhouse	penn-state	purdue	2009
 33	Sat, Mar 14, 2009	CTOURN		Illinois	Big Ten	W	66	56		24	9	W 2	Conseco Fieldhouse	illinois	purdue	2009
 34	Sun, Mar 15, 2009	CTOURN		Ohio State	Big Ten	W	65	61		25	9	W 3	Conseco Fieldhouse	ohio-state	purdue	2009
-35	Thu, Mar 19, 2009	NCAA	N	Northern Iowa	MVC	W	61	56		26	9	W 4		s/2009-03-19-northern	purdue	2009
-36	Sat, Mar 21, 2009	NCAA	N	Washington (15)	Pac-10	W	76	74		27	9	W 5		s/2009-03-21-p	purdue	2009
-37	Thu, Mar 26, 2009	NCAA	N	Connecticut (5)	Big East	L	60	72		27	10	L 1	University of Phoenix Stadium	s/2009-03-26-connec	purdue	2009
+35	Thu, Mar 19, 2009	NCAA	N	Northern Iowa	MVC	W	61	56		26	9	W 4		northern-iowa	purdue	2009
+36	Sat, Mar 21, 2009	NCAA	N	Washington (15)	Pac-10	W	76	74		27	9	W 5		washington	purdue	2009
+37	Thu, Mar 26, 2009	NCAA	N	Connecticut (5)	Big East	L	60	72		27	10	L 1	University of Phoenix Stadium	connecticut	purdue	2009
 1	Fri, Nov 14, 2008	REG	@	Hartford	AEC	W	63	62		1	0	W 1	Chase Arena at Reich Family Pavilion	hartford	quinnipiac	2009
 2	Mon, Nov 17, 2008	REG		Army	Patriot	W	66	64	OT	2	0	W 2	TD Bank Sports Center	army	quinnipiac	2009
 3	Fri, Nov 21, 2008	REG	N	Maryland-Baltimore County	AEC	L	71	76		2	1	L 1	Levien Gym	maryland-baltimore-county	quinnipiac	2009
@@ -7513,7 +7513,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Tue, Mar 3, 2009	CTOURN		High Point	Big South	W	82	58		19	11	W 1	Donald N. Dedmon Center	high-point	radford	2009
 31	Thu, Mar 5, 2009	CTOURN		North Carolina-Asheville	Big South	W	94	86		20	11	W 2	Donald N. Dedmon Center	north-carolina-asheville	radford	2009
 32	Sat, Mar 7, 2009	CTOURN		Virginia Military Institute	Big South	W	108	94		21	11	W 3	Donald N. Dedmon Center	virginia-military-institute	radford	2009
-33	Thu, Mar 19, 2009	NCAA	N	North Carolina (2)	ACC	L	58	101		21	12	L 1	Greensboro Coliseum	s/2009-03-19-north-car	radford	2009
+33	Thu, Mar 19, 2009	NCAA	N	North Carolina (2)	ACC	L	58	101		21	12	L 1	Greensboro Coliseum	north-carolina	radford	2009
 1	Fri, Nov 14, 2008	REG		Brown	Ivy	W	76	74		1	0	W 1	Thomas M. Ryan Center	brown	rhode-island	2009
 2	Sun, Nov 16, 2008	REG	@	Duke (8)	ACC	L	79	82		1	1	L 1	Cameron Indoor Stadium	duke	rhode-island	2009
 3	Thu, Nov 20, 2008	REG	@	Monmouth	NEC	W	85	62		2	1	W 1	Boylan Gymnasium	monmouth	rhode-island	2009
@@ -7682,7 +7682,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Thu, Mar 5, 2009	CTOURN		St. Francis (NY)	NEC	W	73	60		22	10	W 3	Charles L. Sewall Center	st-francis-ny	robert-morris	2009
 33	Sun, Mar 8, 2009	CTOURN		Quinnipiac	NEC	W	75	48		23	10	W 4	Charles L. Sewall Center	quinnipiac	robert-morris	2009
 34	Wed, Mar 11, 2009	CTOURN		Mount St. Mary's	NEC	W	48	46		24	10	W 5	Charles L. Sewall Center	mount-st-marys	robert-morris	2009
-35	Fri, Mar 20, 2009	NCAA	N	Michigan State (8)	Big Ten	L	62	77		24	11	L 1	Hubert H. Humphrey Metrodome	s/2009-03-20-michigan-	robert-morris	2009
+35	Fri, Mar 20, 2009	NCAA	N	Michigan State (8)	Big Ten	L	62	77		24	11	L 1	Hubert H. Humphrey Metrodome	michigan-state	robert-morris	2009
 1	Fri, Nov 14, 2008	REG		Marist	MAAC	W	63	61		1	0	W 1	Louis Brown Athletic Center	marist	rutgers	2009
 2	Sun, Nov 16, 2008	REG	@	Delaware	CAA	W	85	77		2	0	W 2	Bob Carpenter Center	delaware	rutgers	2009
 3	Fri, Nov 21, 2008	REG		Robert Morris	NEC	W	69	55		3	0	W 3	Louis Brown Athletic Center	robert-morris	rutgers	2009
@@ -8250,8 +8250,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 7, 2009	CTOURN		Canisius	MAAC	W	77	52		24	7	W 2	Times Union Center 	canisius	siena	2009
 32	Sun, Mar 8, 2009	CTOURN		Fairfield	MAAC	W	80	65		25	7	W 3	Times Union Center 	fairfield	siena	2009
 33	Mon, Mar 9, 2009	CTOURN		Niagara	MAAC	W	77	70		26	7	W 4	Times Union Center 	niagara	siena	2009
-34	Fri, Mar 20, 2009	NCAA	N	Ohio State	Big Ten	W	74	72	2OT	27	7	W 5	University of Dayton Arena	s/2009-03-20-ohio-	siena	2009
-35	Sun, Mar 22, 2009	NCAA	N	Louisville (1)	Big East	L	72	79		27	8	L 1	University of Dayton Arena	s/2009-03-22-louis	siena	2009
+34	Fri, Mar 20, 2009	NCAA	N	Ohio State	Big Ten	W	74	72	2OT	27	7	W 5	University of Dayton Arena	ohio-state	siena	2009
+35	Sun, Mar 22, 2009	NCAA	N	Louisville (1)	Big East	L	72	79		27	8	L 1	University of Dayton Arena	louisville	siena	2009
 1	Fri, Nov 14, 2008	REG		Alcorn State	SWAC	W	87	79		1	0	W 1	Mitchell Center	alcorn-state	south-alabama	2009
 2	Tue, Nov 18, 2008	REG	@	Mississippi	SEC	L	71	89		1	1	L 1	C.M. Tad Smith Coliseum	mississippi	south-alabama	2009
 3	Sat, Nov 22, 2008	REG	N	Florida A&M	MEAC	W	93	64		2	1	W 1	Freedom Hall	florida-am	south-alabama	2009
@@ -8535,8 +8535,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 12, 2009	CTOURN	N	University of California	Pac-10	W	79	75		19	12	W 3	Staples Center	california	southern-california	2009
 32	Fri, Mar 13, 2009	CTOURN	N	UCLA (15)	Pac-10	W	65	55		20	12	W 4	Staples Center	ucla	southern-california	2009
 33	Sat, Mar 14, 2009	CTOURN	N	Arizona State (23)	Pac-10	W	66	63		21	12	W 5	Staples Center	arizona-state	southern-california	2009
-34	Fri, Mar 20, 2009	NCAA	N	Boston College	ACC	W	72	55		22	12	W 6	Hubert H. Humphrey Metrodome	s/2009-03-20-boston-co	southern-california	2009
-35	Sun, Mar 22, 2009	NCAA	N	Michigan State (8)	Big Ten	L	69	74		22	13	L 1	Hubert H. Humphrey Metrodome	s/2009-03-22-michigan-	southern-california	2009
+34	Fri, Mar 20, 2009	NCAA	N	Boston College	ACC	W	72	55		22	12	W 6	Hubert H. Humphrey Metrodome	boston-college	southern-california	2009
+35	Sun, Mar 22, 2009	NCAA	N	Michigan State (8)	Big Ten	L	69	74		22	13	L 1	Hubert H. Humphrey Metrodome	michigan-state	southern-california	2009
 1	Tue, Nov 11, 2008	REG		California (PA)		W	66	52		1	0	W 1	The SIU Arena	NA	southern-illinois	2009
 2	Wed, Nov 12, 2008	REG		Massachusetts	A-10	W	80	73		2	0	W 2	The SIU Arena	massachusetts	southern-illinois	2009
 3	Thu, Nov 20, 2008	REG	N	Duke (10)	ACC	L	58	83		2	1	L 1	Madison Square Garden (IV)	duke	southern-illinois	2009
@@ -8820,7 +8820,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 12, 2009	CTOURN	N	Southeastern Louisiana	Southland	W	67	56		22	7	W 6	Leonard E. Merrell Center	southeastern-louisiana	stephen-f-austin	2009
 30	Fri, Mar 13, 2009	CTOURN	N	Texas A&M-Corpus Christi	Southland	W	63	60		23	7	W 7	Leonard E. Merrell Center	texas-am-corpus-christi	stephen-f-austin	2009
 31	Sun, Mar 15, 2009	CTOURN	N	Texas-San Antonio	Southland	W	68	57		24	7	W 8	Leonard E. Merrell Center	texas-san-antonio	stephen-f-austin	2009
-32	Fri, Mar 20, 2009	NCAA	N	Syracuse (13)	Big East	L	44	59		24	8	L 1		s/2009-03-20-stephen-f-a	stephen-f-austin	2009
+32	Fri, Mar 20, 2009	NCAA	N	Syracuse (13)	Big East	L	44	59		24	8	L 1		syracuse	stephen-f-austin	2009
 1	Fri, Nov 14, 2008	REG	@	Texas (7)	Big 12	L	38	68		0	1	L 1	Frank Erwin Center	texas	stetson	2009
 2	Tue, Nov 18, 2008	REG		Bethune-Cookman	MEAC	W	64	58	OT	1	1	W 1	Edmunds Center	bethune-cookman	stetson	2009
 3	Thu, Nov 20, 2008	REG	@	Florida State	ACC	L	77	79		1	2	L 1	Donald L. Tucker Center	florida-state	stetson	2009
@@ -8916,9 +8916,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 33	Thu, Mar 12, 2009	CTOURN	N	Connecticut (3)	Big East	W	127	117	6OT	25	8	W 6	Madison Square Garden (IV)	connecticut	syracuse	2009
 34	Fri, Mar 13, 2009	CTOURN	N	West Virginia	Big East	W	74	69	OT	26	8	W 7	Madison Square Garden (IV)	west-virginia	syracuse	2009
 35	Sat, Mar 14, 2009	CTOURN	N	Louisville (5)	Big East	L	66	76		26	9	L 1	Madison Square Garden (IV)	louisville	syracuse	2009
-36	Fri, Mar 20, 2009	NCAA	N	Stephen F. Austin	Southland	W	59	44		27	9	W 1		s/2009-03-20-stephen-f-a	syracuse	2009
-37	Sun, Mar 22, 2009	NCAA	N	Arizona State (19)	Pac-10	W	78	67		28	9	W 2		s/2009-03-22-arizona-	syracuse	2009
-38	Fri, Mar 27, 2009	NCAA	N	Oklahoma (7)	Big 12	L	71	84		28	10	L 1	FedExForum	s/2009-03-27-okl	syracuse	2009
+36	Fri, Mar 20, 2009	NCAA	N	Stephen F. Austin	Southland	W	59	44		27	9	W 1		stephen-f-austin	syracuse	2009
+37	Sun, Mar 22, 2009	NCAA	N	Arizona State (19)	Pac-10	W	78	67		28	9	W 2		arizona-state	syracuse	2009
+38	Fri, Mar 27, 2009	NCAA	N	Oklahoma (7)	Big 12	L	71	84		28	10	L 1	FedExForum	oklahoma	syracuse	2009
 1	Fri, Nov 14, 2008	REG	N	East Tennessee State	A-Sun	W	79	65		1	0	W 1	Carolina First Arena	east-tennessee-state	temple	2009
 2	Sat, Nov 15, 2008	REG	@	College of Charleston	Southern	W	70	65		2	0	W 2	Carolina First Arena	college-of-charleston	temple	2009
 3	Sun, Nov 16, 2008	REG	N	Clemson	ACC	L	72	76		2	1	L 1	Carolina First Arena	clemson	temple	2009
@@ -8952,7 +8952,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 12, 2009	CTOURN	N	Saint Joseph's	A-10	W	79	65		20	11	W 3	Boardwalk Hall	saint-josephs	temple	2009
 32	Fri, Mar 13, 2009	CTOURN	N	Xavier (19)	A-10	W	55	53		21	11	W 4	Boardwalk Hall	xavier	temple	2009
 33	Sat, Mar 14, 2009	CTOURN	N	Duquesne	A-10	W	69	64		22	11	W 5	Boardwalk Hall	duquesne	temple	2009
-34	Fri, Mar 20, 2009	NCAA	N	Arizona State (19)	Pac-10	L	57	66		22	12	L 1	American Airlines Arena	s/2009-03-20-arizona-	temple	2009
+34	Fri, Mar 20, 2009	NCAA	N	Arizona State (19)	Pac-10	L	57	66		22	12	L 1	American Airlines Arena	arizona-state	temple	2009
 1	Sat, Nov 15, 2008	REG		Chattanooga	Southern	W	114	75		1	0	W 1	Thompson-Boling Arena	chattanooga	tennessee	2009
 2	Tue, Nov 18, 2008	REG		Tennessee-Martin	OVC	W	91	64		2	0	W 2	Thompson-Boling Arena	tennessee-martin	tennessee	2009
 3	Fri, Nov 21, 2008	REG	@	Middle Tennessee	Sun Belt	W	76	66		3	0	W 3	Murphy Athletic Center	middle-tennessee	tennessee	2009
@@ -8986,7 +8986,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 13, 2009	CTOURN	N	Alabama	SEC	W	86	62		20	11	W 1	St. Pete Times Forum	alabama	tennessee	2009
 32	Sat, Mar 14, 2009	CTOURN	N	Auburn	SEC	W	94	85		21	11	W 2	St. Pete Times Forum	auburn	tennessee	2009
 33	Sun, Mar 15, 2009	CTOURN	N	Mississippi State	SEC	L	61	64		21	12	L 1	St. Pete Times Forum	mississippi-state	tennessee	2009
-34	Fri, Mar 20, 2009	NCAA	N	Oklahoma State	Big 12	L	75	77		21	13	L 2	University of Dayton Arena	s/2009-03-20-oklahoma-	tennessee	2009
+34	Fri, Mar 20, 2009	NCAA	N	Oklahoma State	Big 12	L	75	77		21	13	L 2	University of Dayton Arena	oklahoma-state	tennessee	2009
 1	Fri, Nov 14, 2008	REG		Maryville (MO)		W	121	56		1	0	W 1	Skyhawk Arena	NA	tennessee-martin	2009
 2	Tue, Nov 18, 2008	REG	@	Tennessee (14)	SEC	L	64	91		1	1	L 1	Thompson-Boling Arena	tennessee	tennessee-martin	2009
 3	Sat, Nov 22, 2008	REG		Elon	Southern	W	82	65		2	1	W 1	Skyhawk Arena	elon	tennessee-martin	2009
@@ -9112,8 +9112,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Wed, Mar 11, 2009	CTOURN	N	Colorado	Big 12	W	67	56		21	10	W 1	Ford Center	colorado	texas	2009
 32	Thu, Mar 12, 2009	CTOURN	N	Kansas State	Big 12	W	61	58		22	10	W 2	Ford Center	kansas-state	texas	2009
 33	Fri, Mar 13, 2009	CTOURN	N	Baylor	Big 12	L	70	76		22	11	L 1	Ford Center	baylor	texas	2009
-34	Thu, Mar 19, 2009	NCAA	N	Minnesota	Big Ten	W	76	62		23	11	W 1		s/2009-03-19-minn	texas	2009
-35	Sat, Mar 21, 2009	NCAA	N	Duke (6)	ACC	L	69	74		23	12	L 1	Greensboro Coliseum	s/2009-03-21	texas	2009
+34	Thu, Mar 19, 2009	NCAA	N	Minnesota	Big Ten	W	76	62		23	11	W 1		minnesota	texas	2009
+35	Sat, Mar 21, 2009	NCAA	N	Duke (6)	ACC	L	69	74		23	12	L 1	Greensboro Coliseum	duke	texas	2009
 1	Sun, Nov 16, 2008	REG		Arkansas-Pine Bluff	SWAC	W	76	47		1	0	W 1	Reed Arena	arkansas-pine-bluff	texas-am	2009
 2	Tue, Nov 18, 2008	REG		Stephen F. Austin	Southland	W	55	48		2	0	W 2	Reed Arena	stephen-f-austin	texas-am	2009
 3	Fri, Nov 21, 2008	REG		Jackson State	SWAC	W	96	78		3	0	W 3	Reed Arena	jackson-state	texas-am	2009
@@ -9146,8 +9146,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Wed, Mar 4, 2009	REG	@	Colorado	Big 12	W	72	66		22	8	W 5	Coors Events/Conference Center	colorado	texas-am	2009
 31	Sat, Mar 7, 2009	REG		Missouri (15)	Big 12	W	96	86		23	8	W 6	Reed Arena	missouri	texas-am	2009
 32	Wed, Mar 11, 2009	CTOURN	N	Texas Tech	Big 12	L	83	88		23	9	L 1	Ford Center	texas-tech	texas-am	2009
-33	Thu, Mar 19, 2009	NCAA	N	Brigham Young	MWC	W	79	66		24	9	W 1	Wells Fargo Center	s/2009-03-19-brigham-	texas-am	2009
-34	Sat, Mar 21, 2009	NCAA	N	Connecticut (5)	Big East	L	66	92		24	10	L 1	Wells Fargo Center	s/2009-03-21-connec	texas-am	2009
+33	Thu, Mar 19, 2009	NCAA	N	Brigham Young	MWC	W	79	66		24	9	W 1	Wells Fargo Center	brigham-young	texas-am	2009
+34	Sat, Mar 21, 2009	NCAA	N	Connecticut (5)	Big East	L	66	92		24	10	L 1	Wells Fargo Center	connecticut	texas-am	2009
 1	Fri, Nov 14, 2008	REG		Texas A&M-Kingsville		W	83	64		1	0	W 1	American Bank Center	NA	texas-am-corpus-christi	2009
 2	Sun, Nov 16, 2008	REG	@	Illinois	Big Ten	L	53	72		1	1	L 1	Assembly Hall	illinois	texas-am-corpus-christi	2009
 3	Wed, Nov 19, 2008	REG	@	Northwestern	Big Ten	L	48	66		1	2	L 2	Welsh-Ryan Arena	northwestern	texas-am-corpus-christi	2009
@@ -9631,8 +9631,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 7, 2009	REG		Oregon	Pac-10	W	94	68		24	7	W 4	Pauley Pavilion	oregon	ucla	2009
 32	Thu, Mar 12, 2009	CTOURN	N	Washington State	Pac-10	W	64	53		25	7	W 5	Staples Center	washington-state	ucla	2009
 33	Fri, Mar 13, 2009	CTOURN	N	Southern California	Pac-10	L	55	65		25	8	L 1	Staples Center	southern-california	ucla	2009
-34	Thu, Mar 19, 2009	NCAA	N	Virginia Commonwealth	CAA	W	65	64		26	8	W 1	Wells Fargo Center	s/2009-03-19	ucla	2009
-35	Sat, Mar 21, 2009	NCAA	N	Villanova (11)	Big East	L	69	89		26	9	L 1		s/2009-03-21	ucla	2009
+34	Thu, Mar 19, 2009	NCAA	N	Virginia Commonwealth	CAA	W	65	64		26	8	W 1	Wells Fargo Center	virginia-commonwealth	ucla	2009
+35	Sat, Mar 21, 2009	NCAA	N	Villanova (11)	Big East	L	69	89		26	9	L 1		villanova	ucla	2009
 1	Sat, Nov 15, 2008	REG		Southwest Baptist		L	79	80		0	1	L 1	Jon M. Huntsman Center	NA	utah	2009
 2	Tue, Nov 18, 2008	REG		Green Bay	Horizon	W	79	60		1	1	W 1	Jon M. Huntsman Center	green-bay	utah	2009
 3	Fri, Nov 21, 2008	REG	N	Mississippi	SEC	W	83	72		2	1	W 2	Ocean Center	mississippi	utah	2009
@@ -9666,7 +9666,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 12, 2009	CTOURN	N	Texas Christian	MWC	W	61	58		22	9	W 2	Thomas & Mack Center	texas-christian	utah	2009
 32	Fri, Mar 13, 2009	CTOURN	N	Wyoming	MWC	W	68	55		23	9	W 3	Thomas & Mack Center	wyoming	utah	2009
 33	Sat, Mar 14, 2009	CTOURN	N	San Diego State	MWC	W	52	50		24	9	W 4	Thomas & Mack Center	san-diego-state	utah	2009
-34	Fri, Mar 20, 2009	NCAA	N	Arizona	Pac-10	L	71	84		24	10	L 1		s/2009-03-20-ar	utah	2009
+34	Fri, Mar 20, 2009	NCAA	N	Arizona	Pac-10	L	71	84		24	10	L 1		arizona	utah	2009
 1	Fri, Nov 14, 2008	REG		Montana State-Northern		W	71	50		1	0	W 1	Dee Glen Smith Spectrum	NA	utah-state	2009
 2	Mon, Nov 17, 2008	REG	@	UC-Santa Barbara	Big West	W	61	59		2	0	W 2	The Thunderdome	california-santa-barbara	utah-state	2009
 3	Tue, Nov 25, 2008	REG		Weber State	Big Sky	W	75	49		3	0	W 3	Dee Glen Smith Spectrum	weber-state	utah-state	2009
@@ -9701,7 +9701,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Thu, Mar 12, 2009	CTOURN	N	Fresno State	WAC	W	85	68		28	4	W 2	Lawlor Events Center	fresno-state	utah-state	2009
 33	Fri, Mar 13, 2009	CTOURN	N	New Mexico State	WAC	W	71	70		29	4	W 3	Lawlor Events Center	new-mexico-state	utah-state	2009
 34	Sat, Mar 14, 2009	CTOURN	@	Nevada	WAC	W	72	62		30	4	W 4	Lawlor Events Center	nevada	utah-state	2009
-35	Fri, Mar 20, 2009	NCAA	N	Marquette (23)	Big East	L	57	58		30	5	L 1	Taco Bell Arena	s/2009-03-20-marq	utah-state	2009
+35	Fri, Mar 20, 2009	NCAA	N	Marquette (23)	Big East	L	57	58		30	5	L 1	Taco Bell Arena	marquette	utah-state	2009
 1	Sat, Nov 15, 2008	REG		Marian (IN)		W	87	56		1	0	W 1	Athletics-Recreation Center	NA	valparaiso	2009
 2	Tue, Nov 18, 2008	REG		Central Florida	CUSA	W	69	52		2	0	W 2	Athletics-Recreation Center	central-florida	valparaiso	2009
 3	Fri, Nov 21, 2008	REG	N	San Diego	WCC	L	66	73		2	1	L 1	Virgin Islands Sport & Fitness Center 	san-diego	valparaiso	2009
@@ -9830,11 +9830,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 5, 2009	REG		Providence	Big East	W	97	80		25	6	W 2	Wells Fargo Center	providence	villanova	2009
 32	Thu, Mar 12, 2009	CTOURN	N	Marquette (21)	Big East	W	76	75		26	6	W 3	Madison Square Garden (IV)	marquette	villanova	2009
 33	Fri, Mar 13, 2009	CTOURN	N	Louisville (5)	Big East	L	55	69		26	7	L 1	Madison Square Garden (IV)	louisville	villanova	2009
-34	Thu, Mar 19, 2009	NCAA	N	American	Patriot	W	80	67		27	7	W 1		s/2009-03-19-ame	villanova	2009
-35	Sat, Mar 21, 2009	NCAA	N	UCLA (18)	Pac-10	W	89	69		28	7	W 2		s/2009-03-21	villanova	2009
-36	Thu, Mar 26, 2009	NCAA	N	Duke (6)	ACC	W	77	54		29	7	W 3	TD Garden	s/2009-03-26	villanova	2009
-37	Sat, Mar 28, 2009	NCAA	N	Pittsburgh (4)	Big East	W	78	76		30	7	W 4	TD Garden	s/2009-03-28-pitts	villanova	2009
-38	Sat, Apr 4, 2009	NCAA	N	North Carolina (2)	ACC	L	69	83		30	8	L 1	Ford Field	s/2009-04-04-north-car	villanova	2009
+34	Thu, Mar 19, 2009	NCAA	N	American	Patriot	W	80	67		27	7	W 1		american	villanova	2009
+35	Sat, Mar 21, 2009	NCAA	N	UCLA (18)	Pac-10	W	89	69		28	7	W 2		ucla	villanova	2009
+36	Thu, Mar 26, 2009	NCAA	N	Duke (6)	ACC	W	77	54		29	7	W 3	TD Garden	duke	villanova	2009
+37	Sat, Mar 28, 2009	NCAA	N	Pittsburgh (4)	Big East	W	78	76		30	7	W 4	TD Garden	pittsburgh	villanova	2009
+38	Sat, Apr 4, 2009	NCAA	N	North Carolina (2)	ACC	L	69	83		30	8	L 1	Ford Field	north-carolina	villanova	2009
 1	Sun, Nov 16, 2008	REG		Virginia Military Institute	Big South	W	107	97		1	0	W 1	John Paul Jones Arena	virginia-military-institute	virginia	2009
 2	Wed, Nov 19, 2008	REG		South Florida	Big East	W	77	75		2	0	W 2	John Paul Jones Arena	south-florida	virginia	2009
 3	Fri, Nov 21, 2008	REG		Radford	Big South	W	68	66		3	0	W 3	John Paul Jones Arena	radford	virginia	2009
@@ -9896,7 +9896,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 7, 2009	CTOURN		Georgia State	CAA	W	61	52		22	9	W 3	Richmond Coliseum	georgia-state	virginia-commonwealth	2009
 32	Sun, Mar 8, 2009	CTOURN		Old Dominion	CAA	W	61	53		23	9	W 4	Richmond Coliseum	old-dominion	virginia-commonwealth	2009
 33	Mon, Mar 9, 2009	CTOURN		George Mason	CAA	W	71	50		24	9	W 5	Richmond Coliseum	george-mason	virginia-commonwealth	2009
-34	Thu, Mar 19, 2009	NCAA	N	UCLA (18)	Pac-10	L	64	65		24	10	L 1	Wells Fargo Center	s/2009-03-19	virginia-commonwealth	2009
+34	Thu, Mar 19, 2009	NCAA	N	UCLA (18)	Pac-10	L	64	65		24	10	L 1	Wells Fargo Center	ucla	virginia-commonwealth	2009
 1	Fri, Nov 14, 2008	REG	@	Kentucky	SEC	W	111	103		1	0	W 1	Rupp Arena	kentucky	virginia-military-institute	2009
 2	Sun, Nov 16, 2008	REG	@	Virginia	ACC	L	97	107		1	1	L 1	John Paul Jones Arena	virginia	virginia-military-institute	2009
 3	Tue, Nov 18, 2008	REG		Maryland Bible		W	118	72		2	1	W 1	Cameron Hall	NA	virginia-military-institute	2009
@@ -10023,7 +10023,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Mar 3, 2009	REG	@	Maryland	ACC	W	65	63		23	5	W 3	Comcast Center	maryland	wake-forest	2009
 29	Sun, Mar 8, 2009	REG		Clemson (18)	ACC	W	96	88		24	5	W 4	Lawrence Joel Coliseum	clemson	wake-forest	2009
 30	Fri, Mar 13, 2009	CTOURN	N	Maryland	ACC	L	64	75		24	6	L 1	The Omni	maryland	wake-forest	2009
-31	Fri, Mar 20, 2009	NCAA	N	Cleveland State	Horizon	L	69	84		24	7	L 2		s/2009-03-20-cleveland-	wake-forest	2009
+31	Fri, Mar 20, 2009	NCAA	N	Cleveland State	Horizon	L	69	84		24	7	L 2		cleveland-state	wake-forest	2009
 1	Sat, Nov 15, 2008	REG	@	Portland	WCC	L	74	80		0	1	L 1	Chiles Center	portland	washington	2009
 2	Tue, Nov 18, 2008	REG		Cleveland State	Horizon	W	78	63		1	1	W 1	Bank of America Arena	cleveland-state	washington	2009
 3	Thu, Nov 20, 2008	REG		Florida International	Sun Belt	W	74	51		2	1	W 2	Bank of America Arena	florida-international	washington	2009
@@ -10057,8 +10057,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 7, 2009	REG		Washington State	Pac-10	W	67	60		24	7	W 5	Bank of America Arena	washington-state	washington	2009
 32	Thu, Mar 12, 2009	CTOURN	N	Stanford	Pac-10	W	85	73		25	7	W 6	Staples Center	stanford	washington	2009
 33	Fri, Mar 13, 2009	CTOURN	N	Arizona State (23)	Pac-10	L	65	75		25	8	L 1	Staples Center	arizona-state	washington	2009
-34	Thu, Mar 19, 2009	NCAA	N	Mississippi State	SEC	W	71	58		26	8	W 1		s/2009-03-19-mississippi-	washington	2009
-35	Sat, Mar 21, 2009	NCAA	N	Purdue (17)	Big Ten	L	74	76		26	9	L 1		s/2009-03-21-p	washington	2009
+34	Thu, Mar 19, 2009	NCAA	N	Mississippi State	SEC	W	71	58		26	8	W 1		mississippi-state	washington	2009
+35	Sat, Mar 21, 2009	NCAA	N	Purdue (17)	Big Ten	L	74	76		26	9	L 1		purdue	washington	2009
 1	Sat, Nov 15, 2008	REG		Mississippi Valley State	SWAC	W	76	25		1	0	W 1	Friel Court	mississippi-valley-state	washington-state	2009
 2	Tue, Nov 18, 2008	REG		Fairleigh Dickinson	NEC	W	55	33		2	0	W 2	Friel Court	fairleigh-dickinson	washington-state	2009
 3	Fri, Nov 21, 2008	REG		Sacramento State	Big Sky	W	76	55		3	0	W 3	Friel Court	sacramento-state	washington-state	2009
@@ -10157,7 +10157,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Wed, Mar 11, 2009	CTOURN	N	Notre Dame	Big East	W	74	62		22	10	W 1	Madison Square Garden (IV)	notre-dame	west-virginia	2009
 33	Thu, Mar 12, 2009	CTOURN	N	Pittsburgh (2)	Big East	W	74	60		23	10	W 2	Madison Square Garden (IV)	pittsburgh	west-virginia	2009
 34	Fri, Mar 13, 2009	CTOURN	N	Syracuse (18)	Big East	L	69	74	OT	23	11	L 1	Madison Square Garden (IV)	syracuse	west-virginia	2009
-35	Fri, Mar 20, 2009	NCAA	N	Dayton	A-10	L	60	68		23	12	L 2		s/2009-03-20-d	west-virginia	2009
+35	Fri, Mar 20, 2009	NCAA	N	Dayton	A-10	L	60	68		23	12	L 2		dayton	west-virginia	2009
 1	Fri, Nov 14, 2008	REG	@	Connecticut (2)	Big East	L	55	81		0	1	L 1	Harry A. Gampel Pavilion	connecticut	western-carolina	2009
 2	Thu, Nov 20, 2008	REG		Toccoa Falls		W	120	62		1	1	W 1	Ramsey Center	NA	western-carolina	2009
 3	Thu, Nov 27, 2008	REG	N	San Diego State	MWC	L	58	59		1	2	L 1	Sullivan Arena	san-diego-state	western-carolina	2009
@@ -10250,8 +10250,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sun, Mar 8, 2009	CTOURN	N	Florida International	Sun Belt	W	66	48		22	8	W 5	Summit Arena	florida-international	western-kentucky	2009
 31	Mon, Mar 9, 2009	CTOURN	N	North Texas	Sun Belt	W	77	70		23	8	W 6	Summit Arena	north-texas	western-kentucky	2009
 32	Tue, Mar 10, 2009	CTOURN	N	South Alabama	Sun Belt	W	64	56		24	8	W 7	Summit Arena	south-alabama	western-kentucky	2009
-33	Thu, Mar 19, 2009	NCAA	N	Illinois	Big Ten	W	76	72		25	8	W 8	Rose Garden Arena	s/2009-03-19-ill	western-kentucky	2009
-34	Sat, Mar 21, 2009	NCAA	N	Gonzaga (10)	WCC	L	81	83		25	9	L 1	Rose Garden Arena	s/2009-03-21-go	western-kentucky	2009
+33	Thu, Mar 19, 2009	NCAA	N	Illinois	Big Ten	W	76	72		25	8	W 8	Rose Garden Arena	illinois	western-kentucky	2009
+34	Sat, Mar 21, 2009	NCAA	N	Gonzaga (10)	WCC	L	81	83		25	9	L 1	Rose Garden Arena	gonzaga	western-kentucky	2009
 1	Fri, Nov 14, 2008	REG	N	Texas Christian	MWC	L	63	67		0	1	L 1	Carolina First Arena	texas-christian	western-michigan	2009
 2	Sat, Nov 15, 2008	REG	N	Hofstra	CAA	L	68	71	OT	0	2	L 2	Carolina First Arena	hofstra	western-michigan	2009
 3	Sun, Nov 16, 2008	REG	N	Southern Illinois-Edwardsville	OVC	L	72	83		0	3	L 3	Carolina First Arena	southern-illinois-edwardsville	western-michigan	2009
@@ -10408,8 +10408,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Wed, Mar 4, 2009	REG	@	Minnesota	Big Ten	L	46	51		18	11	L 1	Williams Arena	minnesota	wisconsin	2009
 30	Sun, Mar 8, 2009	REG		Indiana	Big Ten	W	85	61		19	11	W 1	Kohl Center	indiana	wisconsin	2009
 31	Fri, Mar 13, 2009	CTOURN	N	Ohio State	Big Ten	L	57	61		19	12	L 1	Conseco Fieldhouse	ohio-state	wisconsin	2009
-32	Fri, Mar 20, 2009	NCAA	N	Florida State (16)	ACC	W	61	59	OT	20	12	W 1	Taco Bell Arena	s/2009-03-20-florida-	wisconsin	2009
-33	Sun, Mar 22, 2009	NCAA	N	Xavier (20)	A-10	L	49	60		20	13	L 1		s/2009-03-22-wisc	wisconsin	2009
+32	Fri, Mar 20, 2009	NCAA	N	Florida State (16)	ACC	W	61	59	OT	20	12	W 1	Taco Bell Arena	florida-state	wisconsin	2009
+33	Sun, Mar 22, 2009	NCAA	N	Xavier (20)	A-10	L	49	60		20	13	L 1		xavier	wisconsin	2009
 1	Sun, Nov 16, 2008	REG	@	Dayton	A-10	L	49	52		0	1	L 1	University of Dayton Arena	dayton	wofford	2009
 2	Wed, Nov 19, 2008	REG	@	Clemson	ACC	L	40	93		0	2	L 2	Littlejohn Coliseum	clemson	wofford	2009
 3	Sat, Nov 22, 2008	REG	@	Texas-Rio Grande Valley	Ind	W	75	70		1	2	W 1	UTPA Fieldhouse	texas-pan-american	wofford	2009
@@ -10538,9 +10538,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 7, 2009	REG	@	Richmond	A-10	L	75	80		24	6	L 1	Robins Center	richmond	xavier	2009
 31	Thu, Mar 12, 2009	CTOURN	N	Saint Louis	A-10	W	66	47		25	6	W 1	Boardwalk Hall	saint-louis	xavier	2009
 32	Fri, Mar 13, 2009	CTOURN	N	Temple	A-10	L	53	55		25	7	L 1	Boardwalk Hall	temple	xavier	2009
-33	Fri, Mar 20, 2009	NCAA	N	Portland State	Big Sky	W	77	59		26	7	W 1		s/2009-03-20-portland-	xavier	2009
-34	Sun, Mar 22, 2009	NCAA	N	Wisconsin	Big Ten	W	60	49		27	7	W 2		s/2009-03-22-wisc	xavier	2009
-35	Thu, Mar 26, 2009	NCAA	N	Pittsburgh (4)	Big East	L	55	60		27	8	L 1	TD Garden	s/2009-03-26-pitts	xavier	2009
+33	Fri, Mar 20, 2009	NCAA	N	Portland State	Big Sky	W	77	59		26	7	W 1		portland-state	xavier	2009
+34	Sun, Mar 22, 2009	NCAA	N	Wisconsin	Big Ten	W	60	49		27	7	W 2		wisconsin	xavier	2009
+35	Thu, Mar 26, 2009	NCAA	N	Pittsburgh (4)	Big East	L	55	60		27	8	L 1	TD Garden	pittsburgh	xavier	2009
 1	Fri, Nov 14, 2008	REG		Stanford	Pac-10	L	67	75		0	1	L 1	John J. Lee Ampitheater	stanford	yale	2009
 2	Tue, Nov 18, 2008	REG	@	Vermont	AEC	L	58	89		0	2	L 2	Roy L. Patrick Gymnasium	vermont	yale	2009
 3	Fri, Nov 21, 2008	REG	@	Portland	WCC	L	58	77		0	3	L 3	Chiles Center	portland	yale	2009

@@ -181,7 +181,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Mar 6, 2001	CTOURN		Prairie View	SWAC	W	91	72		20	8	W 2	ASU Acadome	prairie-view	alabama-state	2001
 29	Fri, Mar 9, 2001	CTOURN	N	Southern	SWAC	W	81	56		21	8	W 3	Fair Park Arena	southern	alabama-state	2001
 30	Sat, Mar 10, 2001	CTOURN	N	Alcorn State	SWAC	W	64	52		22	8	W 4	Fair Park Arena	alcorn-state	alabama-state	2001
-31	Fri, Mar 16, 2001	NCAA	N	Michigan State (3)	Big Ten	L	35	69		22	9	L 1		s/2001-03-16-alabama-	alabama-state	2001
+31	Fri, Mar 16, 2001	NCAA	N	Michigan State (3)	Big Ten	L	35	69		22	9	L 1		michigan-state	alabama-state	2001
 1	Fri, Nov 17, 2000	REG	@	Central Connecticut State	NEC	L	67	76		0	1	L 1	Detrick Gymnasium	central-connecticut-state	albany-ny	2001
 2	Sat, Nov 18, 2000	REG	N	Catholic		L	56	59		0	2	L 2	Detrick Gymnasium	NA	albany-ny	2001
 3	Tue, Nov 21, 2000	REG	@	Niagara	MAAC	L	66	74		0	3	L 3	Gallagher Center	niagara	albany-ny	2001
@@ -328,12 +328,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 3, 2001	REG		Oregon	Pac-10	W	104	65		21	7	W 4	McKale Center	oregon	arizona	2001
 29	Thu, Mar 8, 2001	REG	@	Stanford (1)	Pac-10	W	76	75		22	7	W 5	Maples Pavilion	stanford	arizona	2001
 30	Sat, Mar 10, 2001	REG	@	University of California	Pac-10	W	78	76		23	7	W 6	Haas Pavilion	california	arizona	2001
-31	Fri, Mar 16, 2001	NCAA	N	Eastern Illinois	OVC	W	101	76		24	7	W 7	Kemper Arena	s/2001-03-16-ar	arizona	2001
-32	Sun, Mar 18, 2001	NCAA	N	Butler	MW Coll	W	73	52		25	7	W 8	Kemper Arena	s/2001-03-18-ar	arizona	2001
-33	Fri, Mar 23, 2001	NCAA	N	Mississippi (14)	SEC	W	66	56		26	7	W 9	Alamodome	s/2001-03-23-ar	arizona	2001
-34	Sun, Mar 25, 2001	NCAA	N	Illinois (4)	Big Ten	W	87	81		27	7	W 10		s/2001-03-25-ar	arizona	2001
-35	Sat, Mar 31, 2001	NCAA	N	Michigan State (3)	Big Ten	W	80	61		28	7	W 11		s/2001-03-31-ar	arizona	2001
-36	Mon, Apr 2, 2001	NCAA	N	Duke (1)	ACC	L	72	82		28	8	L 1		s/2001-04-02-ar	arizona	2001
+31	Fri, Mar 16, 2001	NCAA	N	Eastern Illinois	OVC	W	101	76		24	7	W 7	Kemper Arena	eastern-illinois	arizona	2001
+32	Sun, Mar 18, 2001	NCAA	N	Butler	MW Coll	W	73	52		25	7	W 8	Kemper Arena	butler	arizona	2001
+33	Fri, Mar 23, 2001	NCAA	N	Mississippi (14)	SEC	W	66	56		26	7	W 9	Alamodome	mississippi	arizona	2001
+34	Sun, Mar 25, 2001	NCAA	N	Illinois (4)	Big Ten	W	87	81		27	7	W 10		illinois	arizona	2001
+35	Sat, Mar 31, 2001	NCAA	N	Michigan State (3)	Big Ten	W	80	61		28	7	W 11		michigan-state	arizona	2001
+36	Mon, Apr 2, 2001	NCAA	N	Duke (1)	ACC	L	72	82		28	8	L 1		duke	arizona	2001
 1	Fri, Nov 10, 2000	REG	N	Tulsa	WAC	L	67	69		0	1	L 1	Smith Center	tulsa	arizona-state	2001
 2	Sat, Nov 11, 2000	REG	N	Winthrop	Big South	W	76	68		1	1	W 1	Smith Center	winthrop	arizona-state	2001
 3	Fri, Nov 17, 2000	REG		Southern Utah	Mid-Cont	W	94	72		2	1	W 2	Wells Fargo Arena	southern-utah	arizona-state	2001
@@ -393,7 +393,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 3, 2001	REG		Georgia	SEC	W	82	67		19	9	W 5	Bud Walton Arena	georgia	arkansas	2001
 29	Fri, Mar 9, 2001	CTOURN	N	Louisiana State	SEC	W	77	72		20	9	W 6	Bridgestone Arena	louisiana-state	arkansas	2001
 30	Sat, Mar 10, 2001	CTOURN	N	Kentucky (15)	SEC	L	78	87		20	10	L 1	Bridgestone Arena	kentucky	arkansas	2001
-31	Thu, Mar 15, 2001	NCAA	N	Georgetown (21)	Big East	L	61	63		20	11	L 2	Taco Bell Arena	s/2001-03-15-ark	arkansas	2001
+31	Thu, Mar 15, 2001	NCAA	N	Georgetown (21)	Big East	L	61	63		20	11	L 2	Taco Bell Arena	georgetown	arkansas	2001
 1	Sat, Nov 18, 2000	REG	@	Northwestern	Big Ten	W	53	43		1	0	W 1	Welsh-Ryan Arena	northwestern	arkansas-little-rock	2001
 2	Tue, Nov 21, 2000	REG		Central Arkansas		W	75	47		2	0	W 2	Alltel Arena	NA	arkansas-little-rock	2001
 3	Sat, Nov 25, 2000	REG		Southwest Assemblies of God		W	100	36		3	0	W 3	Alltel Arena	NA	arkansas-little-rock	2001
@@ -751,8 +751,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 8, 2001	CTOURN	N	Villanova	Big East	W	93	79		24	4	W 5	Madison Square Garden (IV)	villanova	boston-college	2001
 29	Fri, Mar 9, 2001	CTOURN	N	Seton Hall	Big East	W	75	48		25	4	W 6	Madison Square Garden (IV)	seton-hall	boston-college	2001
 30	Sat, Mar 10, 2001	CTOURN	N	Pittsburgh	Big East	W	79	57		26	4	W 7	Madison Square Garden (IV)	pittsburgh	boston-college	2001
-31	Thu, Mar 15, 2001	NCAA	N	Southern Utah	Mid-Cont	W	68	65		27	4	W 8	Nassau Coliseum	s/2001-03-15-boston-co	boston-college	2001
-32	Sat, Mar 17, 2001	NCAA	N	Southern California	Pac-10	L	71	74		27	5	L 1	Nassau Coliseum	s/2001-03-17-boston-co	boston-college	2001
+31	Thu, Mar 15, 2001	NCAA	N	Southern Utah	Mid-Cont	W	68	65		27	4	W 8	Nassau Coliseum	southern-utah	boston-college	2001
+32	Sat, Mar 17, 2001	NCAA	N	Southern California	Pac-10	L	71	74		27	5	L 1	Nassau Coliseum	southern-california	boston-college	2001
 1	Fri, Nov 17, 2000	REG	@	Saint Peter's	MAAC	W	77	64		1	0	W 1	Yanitelli Center	saint-peters	boston-university	2001
 2	Tue, Nov 21, 2000	REG	@	Liberty	Big South	W	55	54		2	0	W 2	Vines Center	liberty	boston-university	2001
 3	Fri, Nov 24, 2000	REG	N	Quinnipiac	NEC	W	66	60		3	0	W 3	Charles E. Smith Center	quinnipiac	boston-university	2001
@@ -873,7 +873,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 8, 2001	CTOURN	N	Air Force	MWC	W	69	54		22	8	W 3	Thomas & Mack Center	air-force	brigham-young	2001
 31	Fri, Mar 9, 2001	CTOURN	N	Wyoming	MWC	W	77	66		23	8	W 4	Thomas & Mack Center	wyoming	brigham-young	2001
 32	Sat, Mar 10, 2001	CTOURN	N	New Mexico	MWC	W	69	65		24	8	W 5	Thomas & Mack Center	new-mexico	brigham-young	2001
-33	Thu, Mar 15, 2001	NCAA	N	Cincinnati	CUSA	L	59	84		24	9	L 1		s/2001-03-15-brigham-	brigham-young	2001
+33	Thu, Mar 15, 2001	NCAA	N	Cincinnati	CUSA	L	59	84		24	9	L 1		cincinnati	brigham-young	2001
 1	Fri, Nov 17, 2000	REG	@	Wagner	NEC	L	91	122		0	1	L 1	Spiro Sports Center	wagner	brown	2001
 2	Tue, Nov 21, 2000	REG		High Point	Big South	W	91	83		1	1	W 1	Pizzitola Sports Center	high-point	brown	2001
 3	Sat, Nov 25, 2000	REG	@	Boston College	Big East	L	52	81		1	2	L 1	Silvio O. Conte Forum	boston-college	brown	2001
@@ -988,8 +988,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 3, 2001	CTOURN	N	Loyola (IL)	MW Coll	W	78	52		21	7	W 6	Ervin J. Nutter Center	loyola-il	butler	2001
 29	Sun, Mar 4, 2001	CTOURN	@	Wright State	MW Coll	W	66	58		22	7	W 7	Ervin J. Nutter Center	wright-state	butler	2001
 30	Tue, Mar 6, 2001	CTOURN	N	Detroit Mercy	MW Coll	W	53	38		23	7	W 8	Ervin J. Nutter Center	detroit-mercy	butler	2001
-31	Fri, Mar 16, 2001	NCAA	N	Wake Forest (23)	ACC	W	79	63		24	7	W 9		s/2001-03-16-b	butler	2001
-32	Sun, Mar 18, 2001	NCAA	N	Arizona (5)	Pac-10	L	52	73		24	8	L 1	Kemper Arena	s/2001-03-18-ar	butler	2001
+31	Fri, Mar 16, 2001	NCAA	N	Wake Forest (23)	ACC	W	79	63		24	7	W 9		wake-forest	butler	2001
+32	Sun, Mar 18, 2001	NCAA	N	Arizona (5)	Pac-10	L	52	73		24	8	L 1	Kemper Arena	arizona	butler	2001
 1	Mon, Nov 20, 2000	REG		UC-San Diego		W	89	67		1	0	W 1	Robert A. Mott Gymnasium	NA	cal-poly	2001
 2	Sun, Nov 26, 2000	REG	@	Texas A&M-Corpus Christi		L	72	86		1	1	L 1	Circle K Court	NA	cal-poly	2001
 3	Thu, Nov 30, 2000	REG		Cal State Monterey Bay		W	104	50		2	1	W 1	Robert A. Mott Gymnasium	NA	cal-poly	2001
@@ -1077,7 +1077,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 3, 2001	REG	@	Portland State	Big Sky	W	81	75		20	9	W 5	Peter W. Stott Center	portland-state	cal-state-northridge	2001
 30	Fri, Mar 9, 2001	CTOURN		Weber State	Big Sky	W	91	74		21	9	W 6	The Matadome	weber-state	cal-state-northridge	2001
 31	Sat, Mar 10, 2001	CTOURN		Eastern Washington	Big Sky	W	73	58		22	9	W 7	The Matadome	eastern-washington	cal-state-northridge	2001
-32	Fri, Mar 16, 2001	NCAA	N	Kansas (12)	Big 12	L	75	99		22	10	L 1		s/2001-03-16-cal-state-north	cal-state-northridge	2001
+32	Fri, Mar 16, 2001	NCAA	N	Kansas (12)	Big 12	L	75	99		22	10	L 1		kansas	cal-state-northridge	2001
 1	Mon, Nov 13, 2000	REG		Mississippi State	SEC	W	83	76	OT	1	0	W 1	Haas Pavilion	mississippi-state	california	2001
 2	Wed, Nov 15, 2000	REG	@	Texas	Big 12	L	54	57		1	1	L 1	Frank Erwin Center	texas	california	2001
 3	Wed, Nov 29, 2000	REG	@	Saint Louis	CUSA	L	66	88		1	2	L 2	Scottrade Center	saint-louis	california	2001
@@ -1108,7 +1108,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 3, 2001	REG	@	Southern California	Pac-10	L	69	74		19	9	L 2	L. A. Sports Arena	southern-california	california	2001
 29	Thu, Mar 8, 2001	REG		Arizona State	Pac-10	W	86	67		20	9	W 1	Haas Pavilion	arizona-state	california	2001
 30	Sat, Mar 10, 2001	REG		Arizona (8)	Pac-10	L	76	78		20	10	L 1	Haas Pavilion	arizona	california	2001
-31	Fri, Mar 16, 2001	NCAA	N	Fresno State	WAC	L	70	82		20	11	L 2	The Pyramid	s/2001-03-16-calif	california	2001
+31	Fri, Mar 16, 2001	NCAA	N	Fresno State	WAC	L	70	82		20	11	L 2	The Pyramid	fresno-state	california	2001
 1	Fri, Nov 17, 2000	REG		Howard	MEAC	W	71	47		1	0	W 1	Bren Events Center	howard	california-irvine	2001
 2	Tue, Nov 21, 2000	REG		Loyola Marymount	WCC	W	62	57		2	0	W 2	Bren Events Center	loyola-marymount	california-irvine	2001
 3	Wed, Nov 29, 2000	REG		San Diego	WCC	L	60	63		2	1	L 1	Bren Events Center	san-diego	california-irvine	2001
@@ -1400,8 +1400,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 8, 2001	CTOURN	N	South Florida	CUSA	W	77	74		19	10	W 3	Freedom Hall	south-florida	charlotte	2001
 30	Fri, Mar 9, 2001	CTOURN	N	Southern Mississippi	CUSA	W	75	63		20	10	W 4	Freedom Hall	southern-mississippi	charlotte	2001
 31	Sat, Mar 10, 2001	CTOURN	N	Cincinnati	CUSA	W	80	72		21	10	W 5	Freedom Hall	cincinnati	charlotte	2001
-32	Fri, Mar 16, 2001	NCAA	N	Tennessee	SEC	W	70	63		22	10	W 6		s/2001-03-16-char	charlotte	2001
-33	Sun, Mar 18, 2001	NCAA	N	Illinois (4)	Big Ten	L	61	79		22	11	L 1		s/2001-03-18-char	charlotte	2001
+32	Fri, Mar 16, 2001	NCAA	N	Tennessee	SEC	W	70	63		22	10	W 6		tennessee	charlotte	2001
+33	Sun, Mar 18, 2001	NCAA	N	Illinois (4)	Big Ten	L	61	79		22	11	L 1		illinois	charlotte	2001
 1	Fri, Nov 17, 2000	REG	@	Tennessee (9)	SEC	L	66	88		0	1	L 1	Thompson-Boling Arena	tennessee	chattanooga	2001
 2	Mon, Nov 20, 2000	REG		College of Charleston	Southern	L	56	57		0	2	L 2	The McKenzie Arena	college-of-charleston	chattanooga	2001
 3	Sat, Nov 25, 2000	REG		Tennessee Tech	OVC	W	74	64		1	2	W 1	The McKenzie Arena	tennessee-tech	chattanooga	2001
@@ -1492,9 +1492,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 8, 2001	CTOURN	N	Alabama-Birmingham	CUSA	W	73	70		22	8	W 5	Freedom Hall	alabama-birmingham	cincinnati	2001
 31	Fri, Mar 9, 2001	CTOURN	N	Memphis	CUSA	W	89	79		23	8	W 6	Freedom Hall	memphis	cincinnati	2001
 32	Sat, Mar 10, 2001	CTOURN	N	Charlotte	CUSA	L	72	80		23	9	L 1	Freedom Hall	charlotte	cincinnati	2001
-33	Thu, Mar 15, 2001	NCAA	N	Brigham Young	MWC	W	84	59		24	9	W 1		s/2001-03-15-brigham-	cincinnati	2001
-34	Sat, Mar 17, 2001	NCAA	N	Kent State	MAC	W	66	43		25	9	W 2	Viejas Arena	s/2001-03-17-cinci	cincinnati	2001
-35	Thu, Mar 22, 2001	NCAA	N	Stanford (2)	Pac-10	L	65	78		25	10	L 1		s/2001-03-22-cinci	cincinnati	2001
+33	Thu, Mar 15, 2001	NCAA	N	Brigham Young	MWC	W	84	59		24	9	W 1		brigham-young	cincinnati	2001
+34	Sat, Mar 17, 2001	NCAA	N	Kent State	MAC	W	66	43		25	9	W 2	Viejas Arena	kent-state	cincinnati	2001
+35	Thu, Mar 22, 2001	NCAA	N	Stanford (2)	Pac-10	L	65	78		25	10	L 1		stanford	cincinnati	2001
 1	Sat, Nov 18, 2000	REG		Methodist		W	80	55		1	0	W 1	McAlister Field House	NA	citadel	2001
 2	Mon, Nov 20, 2000	REG		Limestone		W	78	72		2	0	W 2	McAlister Field House	NA	citadel	2001
 3	Sat, Nov 25, 2000	REG	@	Clemson	ACC	L	76	84		2	1	L 1	Littlejohn Coliseum	clemson	citadel	2001
@@ -1874,7 +1874,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Mon, Feb 26, 2001	REG		Missouri State	MVC	W	72	48		23	6	W 10	Omaha Civic Auditorium	missouri-state	creighton	2001
 30	Sat, Mar 3, 2001	CTOURN	N	Missouri State	MVC	W	63	41		24	6	W 11	Scottrade Center	missouri-state	creighton	2001
 31	Sun, Mar 4, 2001	CTOURN	N	Indiana State	MVC	L	74	87		24	7	L 1	Scottrade Center	indiana-state	creighton	2001
-32	Thu, Mar 15, 2001	NCAA	N	Iowa (24)	Big Ten	L	56	69		24	8	L 2		s/2001-03-15-crei	creighton	2001
+32	Thu, Mar 15, 2001	NCAA	N	Iowa (24)	Big Ten	L	56	69		24	8	L 2		iowa	creighton	2001
 1	Fri, Nov 17, 2000	REG	@	Marist	MAAC	L	54	68		0	1	L 1	McCann Recreation Center	marist	dartmouth	2001
 2	Sat, Nov 18, 2000	REG	N	Arkansas State	Sun Belt	L	49	67		0	2	L 2	McCann Recreation Center	arkansas-state	dartmouth	2001
 3	Sat, Nov 25, 2000	REG		New Hampshire	AEC	L	89	96	OT	0	3	L 3	Leede Arena	new-hampshire	dartmouth	2001
@@ -2209,12 +2209,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 9, 2001	CTOURN	N	North Carolina State	ACC	W	76	61		27	4	W 2	Georgia Dome	north-carolina-state	duke	2001
 32	Sat, Mar 10, 2001	CTOURN	N	Maryland (11)	ACC	W	84	82		28	4	W 3	Georgia Dome	maryland	duke	2001
 33	Sun, Mar 11, 2001	CTOURN	N	North Carolina (6)	ACC	W	79	53		29	4	W 4	Georgia Dome	north-carolina	duke	2001
-34	Thu, Mar 15, 2001	NCAA	N	Monmouth	NEC	W	95	52		30	4	W 5	Greensboro Coliseum	s/2001-03-15	duke	2001
-35	Sat, Mar 17, 2001	NCAA	N	Missouri	Big 12	W	94	81		31	4	W 6	Greensboro Coliseum	s/2001-03-17	duke	2001
-36	Thu, Mar 22, 2001	NCAA	N	UCLA (15)	Pac-10	W	76	63		32	4	W 7	Wells Fargo Center	s/2001-03-22	duke	2001
-37	Sat, Mar 24, 2001	NCAA	N	Southern California	Pac-10	W	79	69		33	4	W 8	Wells Fargo Center	s/2001-03-24	duke	2001
-38	Sat, Mar 31, 2001	NCAA	N	Maryland (11)	ACC	W	95	84		34	4	W 9	Hubert H. Humphrey Metrodome	s/2001-03-31	duke	2001
-39	Mon, Apr 2, 2001	NCAA	N	Arizona (5)	Pac-10	W	82	72		35	4	W 10		s/2001-04-02-ar	duke	2001
+34	Thu, Mar 15, 2001	NCAA	N	Monmouth	NEC	W	95	52		30	4	W 5	Greensboro Coliseum	monmouth	duke	2001
+35	Sat, Mar 17, 2001	NCAA	N	Missouri	Big 12	W	94	81		31	4	W 6	Greensboro Coliseum	missouri	duke	2001
+36	Thu, Mar 22, 2001	NCAA	N	UCLA (15)	Pac-10	W	76	63		32	4	W 7	Wells Fargo Center	ucla	duke	2001
+37	Sat, Mar 24, 2001	NCAA	N	Southern California	Pac-10	W	79	69		33	4	W 8	Wells Fargo Center	southern-california	duke	2001
+38	Sat, Mar 31, 2001	NCAA	N	Maryland (11)	ACC	W	95	84		34	4	W 9	Hubert H. Humphrey Metrodome	maryland	duke	2001
+39	Mon, Apr 2, 2001	NCAA	N	Arizona (5)	Pac-10	W	82	72		35	4	W 10		arizona	duke	2001
 1	Sun, Nov 19, 2000	REG		North Carolina A&T	MEAC	W	82	56		1	0	W 1	A.J. Palumbo Center	north-carolina-at	duquesne	2001
 2	Tue, Nov 21, 2000	REG		North Carolina-Wilmington	CAA	W	82	73		2	0	W 2	A.J. Palumbo Center	north-carolina-wilmington	duquesne	2001
 3	Fri, Nov 24, 2000	REG	N	College of Charleston	Southern	L	66	69		2	1	L 1	Neal S. Blaisdell Center	college-of-charleston	duquesne	2001
@@ -2331,7 +2331,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Feb 27, 2001	CTOURN		Morehead State	OVC	W	102	80		19	9	W 3	Lantz Arena	morehead-state	eastern-illinois	2001
 29	Fri, Mar 2, 2001	CTOURN	N	Murray State	OVC	W	97	71		20	9	W 4	Bridgestone Arena	murray-state	eastern-illinois	2001
 30	Sat, Mar 3, 2001	CTOURN	N	Austin Peay	OVC	W	84	83		21	9	W 5	Bridgestone Arena	austin-peay	eastern-illinois	2001
-31	Fri, Mar 16, 2001	NCAA	N	Arizona (5)	Pac-10	L	76	101		21	10	L 1	Kemper Arena	s/2001-03-16-ar	eastern-illinois	2001
+31	Fri, Mar 16, 2001	NCAA	N	Arizona (5)	Pac-10	L	76	101		21	10	L 1	Kemper Arena	arizona	eastern-illinois	2001
 1	Fri, Nov 17, 2000	REG		Urbana		W	73	47		1	0	W 1	McBrayer Arena	NA	eastern-kentucky	2001
 2	Wed, Nov 22, 2000	REG	@	Xavier	A-10	L	75	93		1	1	L 1	Cintas Center	xavier	eastern-kentucky	2001
 3	Tue, Nov 28, 2000	REG		Capital		W	70	61		2	1	W 1	McBrayer Arena	NA	eastern-kentucky	2001
@@ -2558,8 +2558,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sun, Mar 4, 2001	REG		Kentucky (15)	SEC	W	94	86		22	5	W 7	Stephen C. O'Connell Center	kentucky	florida	2001
 28	Fri, Mar 9, 2001	CTOURN	N	Alabama	SEC	W	69	61		23	5	W 8	Bridgestone Arena	alabama	florida	2001
 29	Sat, Mar 10, 2001	CTOURN	N	Mississippi (14)	SEC	L	69	74		23	6	L 1	Bridgestone Arena	mississippi	florida	2001
-30	Fri, Mar 16, 2001	NCAA	N	Western Kentucky	Sun Belt	W	69	56		24	6	W 1	Louisiana Superdome	s/2001-03-16-fl	florida	2001
-31	Sun, Mar 18, 2001	NCAA	N	Temple	A-10	L	54	75		24	7	L 1	Louisiana Superdome	s/2001-03-18-fl	florida	2001
+30	Fri, Mar 16, 2001	NCAA	N	Western Kentucky	Sun Belt	W	69	56		24	6	W 1	Louisiana Superdome	western-kentucky	florida	2001
+31	Sun, Mar 18, 2001	NCAA	N	Temple	A-10	L	54	75		24	7	L 1	Louisiana Superdome	temple	florida	2001
 1	Fri, Nov 17, 2000	REG	@	Auburn	SEC	L	52	87		0	1	L 1	Beard-Eaves-Memorial	auburn	florida-am	2001
 2	Tue, Nov 21, 2000	REG		Southeastern Louisiana	Southland	L	65	76		0	2	L 2	Gaither Athletic Center	southeastern-louisiana	florida-am	2001
 3	Sat, Nov 25, 2000	REG		Bethune-Cookman	MEAC	L	72	75		0	3	L 3	Gaither Athletic Center	bethune-cookman	florida-am	2001
@@ -2738,8 +2738,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 3, 2001	REG		Tulsa	WAC	W	84	77		24	5	W 4	Selland Arena 	tulsa	fresno-state	2001
 30	Thu, Mar 8, 2001	CTOURN	N	Rice	WAC	W	60	52		25	5	W 5	Donald W. Reynolds Center	rice	fresno-state	2001
 31	Fri, Mar 9, 2001	CTOURN	N	Hawaii	WAC	L	67	76		25	6	L 1	Donald W. Reynolds Center	hawaii	fresno-state	2001
-32	Fri, Mar 16, 2001	NCAA	N	University of California	Pac-10	W	82	70		26	6	W 1	The Pyramid	s/2001-03-16-calif	fresno-state	2001
-33	Sun, Mar 18, 2001	NCAA	N	Michigan State (3)	Big Ten	L	65	81		26	7	L 1		s/2001-03-18-fresno-	fresno-state	2001
+32	Fri, Mar 16, 2001	NCAA	N	University of California	Pac-10	W	82	70		26	6	W 1	The Pyramid	california	fresno-state	2001
+33	Sun, Mar 18, 2001	NCAA	N	Michigan State (3)	Big Ten	L	65	81		26	7	L 1		michigan-state	fresno-state	2001
 1	Sat, Nov 18, 2000	REG		Atlanta Christian		W	115	68		1	0	W 1	Timmons Arena	NA	furman	2001
 2	Tue, Nov 21, 2000	REG	@	Belmont	Ind	L	61	68		1	1	L 1	Striplin Gymnasium	belmont	furman	2001
 3	Sat, Nov 25, 2000	REG	@	Coastal Carolina	Big South	W	81	67		2	1	W 1	Kimbel Arena	coastal-carolina	furman	2001
@@ -2795,7 +2795,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Feb 24, 2001	REG	@	Richmond	CAA	L	57	77		16	11	L 2	Robins Center	richmond	george-mason	2001
 28	Sun, Mar 4, 2001	CTOURN	N	James Madison	CAA	W	62	36		17	11	W 1	Richmond Coliseum	james-madison	george-mason	2001
 29	Mon, Mar 5, 2001	CTOURN	N	North Carolina-Wilmington	CAA	W	35	33		18	11	W 2	Richmond Coliseum	north-carolina-wilmington	george-mason	2001
-30	Thu, Mar 15, 2001	NCAA	N	Maryland (11)	ACC	L	80	83		18	12	L 1		s/2001-03-15-george-	george-mason	2001
+30	Thu, Mar 15, 2001	NCAA	N	Maryland (11)	ACC	L	80	83		18	12	L 1		maryland	george-mason	2001
 1	Sat, Nov 18, 2000	REG		Texas A&M	Big 12	W	94	74		1	0	W 1	Charles E. Smith Center	texas-am	george-washington	2001
 2	Mon, Nov 20, 2000	REG		Old Dominion	CAA	W	91	89		2	0	W 2	Charles E. Smith Center	old-dominion	george-washington	2001
 3	Fri, Nov 24, 2000	REG		Howard	MEAC	W	119	80		3	0	W 3	Charles E. Smith Center	howard	george-washington	2001
@@ -2858,9 +2858,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Wed, Feb 28, 2001	REG		Rutgers	Big East	W	74	58		22	6	W 2	Verizon Center	rutgers	georgetown	2001
 29	Sun, Mar 4, 2001	REG	@	Notre Dame (13)	Big East	W	79	72		23	6	W 3	Purcell Pavilion at the Joyce Center	notre-dame	georgetown	2001
 30	Thu, Mar 8, 2001	CTOURN	N	Seton Hall	Big East	L	40	58		23	7	L 1	Madison Square Garden (IV)	seton-hall	georgetown	2001
-31	Thu, Mar 15, 2001	NCAA	N	Arkansas	SEC	W	63	61		24	7	W 1	Taco Bell Arena	s/2001-03-15-ark	georgetown	2001
-32	Sat, Mar 17, 2001	NCAA	N	Hampton	MEAC	W	76	57		25	7	W 2	Taco Bell Arena	s/2001-03-17-georg	georgetown	2001
-33	Thu, Mar 22, 2001	NCAA	N	Maryland (11)	ACC	L	66	76		25	8	L 1		s/2001-03-22-georg	georgetown	2001
+31	Thu, Mar 15, 2001	NCAA	N	Arkansas	SEC	W	63	61		24	7	W 1	Taco Bell Arena	arkansas	georgetown	2001
+32	Sat, Mar 17, 2001	NCAA	N	Hampton	MEAC	W	76	57		25	7	W 2	Taco Bell Arena	hampton	georgetown	2001
+33	Thu, Mar 22, 2001	NCAA	N	Maryland (11)	ACC	L	66	76		25	8	L 1		maryland	georgetown	2001
 1	Fri, Nov 17, 2000	REG		Georgia State	A-Sun	L	79	91		0	1	L 1	Stegeman Coliseum	georgia-state	georgia	2001
 2	Sun, Nov 19, 2000	REG	@	Minnesota	Big Ten	L	74	77		0	2	L 2	Williams Arena	minnesota	georgia	2001
 3	Thu, Nov 23, 2000	REG	N	Indiana State	MVC	W	82	64		1	2	W 1		indiana-state	georgia	2001
@@ -2891,7 +2891,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Wed, Feb 28, 2001	REG		Mississippi State	SEC	W	94	73		16	12	W 1	Stegeman Coliseum	mississippi-state	georgia	2001
 29	Sat, Mar 3, 2001	REG	@	Arkansas	SEC	L	67	82		16	13	L 1	Bud Walton Arena	arkansas	georgia	2001
 30	Thu, Mar 8, 2001	CTOURN	N	Louisiana State	SEC	L	62	63		16	14	L 2	Bridgestone Arena	louisiana-state	georgia	2001
-31	Thu, Mar 15, 2001	NCAA	N	Missouri	Big 12	L	68	70		16	15	L 3	Greensboro Coliseum	s/2001-03-15-ge	georgia	2001
+31	Thu, Mar 15, 2001	NCAA	N	Missouri	Big 12	L	68	70		16	15	L 3	Greensboro Coliseum	missouri	georgia	2001
 1	Sat, Nov 18, 2000	REG		Northern Georgia		W	93	71		1	0	W 1	Hanner Fieldhouse	NA	georgia-southern	2001
 2	Tue, Nov 21, 2000	REG		Jacksonville	A-Sun	L	78	80		1	1	L 1	Hanner Fieldhouse	jacksonville	georgia-southern	2001
 3	Sat, Nov 25, 2000	REG	@	High Point	Big South	L	66	67		1	2	L 2	Millis Center	high-point	georgia-southern	2001
@@ -2954,8 +2954,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 1, 2001	CTOURN		Florida Atlantic	A-Sun	W	96	57		26	4	W 5	GSU Sports Arena	florida-atlantic	georgia-state	2001
 31	Fri, Mar 2, 2001	CTOURN		Samford	A-Sun	W	66	56		27	4	W 6	GSU Sports Arena	samford	georgia-state	2001
 32	Sat, Mar 3, 2001	CTOURN		Troy	A-Sun	W	79	55		28	4	W 7	GSU Sports Arena	troy	georgia-state	2001
-33	Thu, Mar 15, 2001	NCAA	N	Wisconsin (25)	Big Ten	W	50	49		29	4	W 8		s/2001-03-15-georgia-	georgia-state	2001
-34	Sat, Mar 17, 2001	NCAA	N	Maryland (11)	ACC	L	60	79		29	5	L 1		s/2001-03-17-georgia-	georgia-state	2001
+33	Thu, Mar 15, 2001	NCAA	N	Wisconsin (25)	Big Ten	W	50	49		29	4	W 8		wisconsin	georgia-state	2001
+34	Sat, Mar 17, 2001	NCAA	N	Maryland (11)	ACC	L	60	79		29	5	L 1		maryland	georgia-state	2001
 1	Fri, Nov 17, 2000	REG		Wofford	Southern	W	92	49		1	0	W 1	Alexander Memorial Coliseum	wofford	georgia-tech	2001
 2	Tue, Nov 21, 2000	REG		Charleston Southern	Big South	W	85	62		2	0	W 2	Alexander Memorial Coliseum	charleston-southern	georgia-tech	2001
 3	Fri, Nov 24, 2000	REG		Davidson	Southern	W	92	61		3	0	W 3	Alexander Memorial Coliseum	davidson	georgia-tech	2001
@@ -2985,7 +2985,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Wed, Feb 28, 2001	REG	@	Florida State	ACC	L	59	69		16	11	L 1	Donald L. Tucker Center	florida-state	georgia-tech	2001
 28	Fri, Mar 9, 2001	CTOURN		Virginia (12)	ACC	W	74	69		17	11	W 1	The Omni	virginia	georgia-tech	2001
 29	Sat, Mar 10, 2001	CTOURN	N	North Carolina (6)	ACC	L	63	70		17	12	L 1	The Omni	north-carolina	georgia-tech	2001
-30	Thu, Mar 15, 2001	NCAA	N	Saint Joseph's (22)	A-10	L	62	66		17	13	L 2	Viejas Arena	s/2001-03-15-georgia	georgia-tech	2001
+30	Thu, Mar 15, 2001	NCAA	N	Saint Joseph's (22)	A-10	L	62	66		17	13	L 2	Viejas Arena	saint-josephs	georgia-tech	2001
 1	Fri, Nov 17, 2000	REG	@	Eastern Washington	Big Sky	W	74	65		1	0	W 1	Reese Court	eastern-washington	gonzaga	2001
 2	Sun, Nov 19, 2000	REG		Green Bay	MW Coll	W	85	58		2	0	W 2	The Kennel	green-bay	gonzaga	2001
 3	Sat, Nov 25, 2000	REG		Idaho	Big West	W	92	42		3	0	W 3	The Kennel	idaho	gonzaga	2001
@@ -3016,9 +3016,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 3, 2001	CTOURN	N	Saint Mary's (CA)	WCC	W	105	65		22	6	W 2	Jenny Craig Pavillion	saint-marys-ca	gonzaga	2001
 29	Sun, Mar 4, 2001	CTOURN	@	San Diego	WCC	W	76	68		23	6	W 3	Jenny Craig Pavillion	san-diego	gonzaga	2001
 30	Mon, Mar 5, 2001	CTOURN	N	Santa Clara	WCC	W	80	77		24	6	W 4	Jenny Craig Pavillion	santa-clara	gonzaga	2001
-31	Fri, Mar 16, 2001	NCAA	N	Virginia (16)	ACC	W	86	85		25	6	W 5		s/2001-03-16-go	gonzaga	2001
-32	Sun, Mar 18, 2001	NCAA	N	Indiana State	MVC	W	85	68		26	6	W 6	The Pyramid	s/2001-03-18-go	gonzaga	2001
-33	Fri, Mar 23, 2001	NCAA	N	Michigan State (3)	Big Ten	L	62	77		26	7	L 1		s/2001-03-23-go	gonzaga	2001
+31	Fri, Mar 16, 2001	NCAA	N	Virginia (16)	ACC	W	86	85		25	6	W 5		virginia	gonzaga	2001
+32	Sun, Mar 18, 2001	NCAA	N	Indiana State	MVC	W	85	68		26	6	W 6	The Pyramid	indiana-state	gonzaga	2001
+33	Fri, Mar 23, 2001	NCAA	N	Michigan State (3)	Big Ten	L	62	77		26	7	L 1		michigan-state	gonzaga	2001
 1	Mon, Dec 4, 2000	REG	@	Alabama	SEC	L	61	107		0	1	L 1	Coleman Coliseum 	alabama	grambling	2001
 2	Tue, Dec 5, 2000	REG	@	Auburn	SEC	L	60	104		0	2	L 2	Beard-Eaves-Memorial	auburn	grambling	2001
 3	Sat, Dec 9, 2000	REG	@	Georgetown	Big East	L	51	88		0	3	L 3	Verizon Center	georgetown	grambling	2001
@@ -3103,8 +3103,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Wed, Mar 7, 2001	CTOURN	N	Morgan State	MEAC	W	76	64		22	6	W 1	Arthur Ashe Athletic Center	morgan-state	hampton	2001
 29	Fri, Mar 9, 2001	CTOURN	N	Norfolk State	MEAC	W	94	67		23	6	W 2	Arthur Ashe Athletic Center	norfolk-state	hampton	2001
 30	Sat, Mar 10, 2001	CTOURN	N	South Carolina State	MEAC	W	70	58		24	6	W 3	Arthur Ashe Athletic Center	south-carolina-state	hampton	2001
-31	Thu, Mar 15, 2001	NCAA	N	Iowa State (10)	Big 12	W	58	57		25	6	W 4		s/2001-03-15-ha	hampton	2001
-32	Sat, Mar 17, 2001	NCAA	N	Georgetown (21)	Big East	L	57	76		25	7	L 1	Taco Bell Arena	s/2001-03-17-georg	hampton	2001
+31	Thu, Mar 15, 2001	NCAA	N	Iowa State (10)	Big 12	W	58	57		25	6	W 4		iowa-state	hampton	2001
+32	Sat, Mar 17, 2001	NCAA	N	Georgetown (21)	Big East	L	57	76		25	7	L 1	Taco Bell Arena	georgetown	hampton	2001
 1	Fri, Nov 17, 2000	REG	@	Clemson	ACC	L	67	86		0	1	L 1	Littlejohn Coliseum	clemson	hartford	2001
 2	Sat, Nov 25, 2000	REG		Sacred Heart	NEC	W	69	58		1	1	W 1	Chase Arena at Reich Family Pavilion	sacred-heart	hartford	2001
 3	Tue, Nov 28, 2000	REG		Manhattan	MAAC	L	58	89		1	2	L 1	Chase Arena at Reich Family Pavilion	manhattan	hartford	2001
@@ -3189,7 +3189,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 8, 2001	CTOURN	N	Texas Christian	WAC	W	99	79		15	13	W 1	Donald W. Reynolds Center	texas-christian	hawaii	2001
 29	Fri, Mar 9, 2001	CTOURN	N	Fresno State (25)	WAC	W	76	67		16	13	W 2	Donald W. Reynolds Center	fresno-state	hawaii	2001
 30	Sat, Mar 10, 2001	CTOURN	@	Tulsa	WAC	W	78	72	OT	17	13	W 3	Donald W. Reynolds Center	tulsa	hawaii	2001
-31	Fri, Mar 16, 2001	NCAA	N	Syracuse (17)	Big East	L	69	79		17	14	L 1		s/2001-03-16-h	hawaii	2001
+31	Fri, Mar 16, 2001	NCAA	N	Syracuse (17)	Big East	L	69	79		17	14	L 1		syracuse	hawaii	2001
 1	Fri, Nov 17, 2000	REG	@	William & Mary	CAA	L	62	87		0	1	L 1	Kaplan Arena at William and Mary Hall	william-mary	high-point	2001
 2	Sun, Nov 19, 2000	REG		Warren Wilson		W	69	47		1	1	W 1	Millis Center	NA	high-point	2001
 3	Tue, Nov 21, 2000	REG	@	Brown	Ivy	L	83	91		1	2	L 1	Pizzitola Sports Center	brown	high-point	2001
@@ -3248,7 +3248,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 3, 2001	CTOURN	N	Vermont	AEC	W	68	55		24	4	W 16	Bob Carpenter Center	vermont	hofstra	2001
 29	Sun, Mar 4, 2001	CTOURN	N	Maine	AEC	W	78	66		25	4	W 17	Bob Carpenter Center	maine	hofstra	2001
 30	Sat, Mar 10, 2001	CTOURN		Delaware	AEC	W	68	54		26	4	W 18	Mack Sports Complex	delaware	hofstra	2001
-31	Thu, Mar 15, 2001	NCAA	N	UCLA (15)	Pac-10	L	48	61		26	5	L 1		s/2001-03-15-ho	hofstra	2001
+31	Thu, Mar 15, 2001	NCAA	N	UCLA (15)	Pac-10	L	48	61		26	5	L 1		ucla	hofstra	2001
 1	Sat, Nov 18, 2000	REG	@	Providence	Big East	L	57	63		0	1	L 1	Dunkin' Donuts Center	providence	holy-cross	2001
 2	Tue, Nov 21, 2000	REG	@	Harvard	Ivy	W	60	55		1	1	W 1	Lavietes Pavilion	harvard	holy-cross	2001
 3	Sat, Nov 25, 2000	REG		Massachusetts	A-10	W	78	65		2	1	W 2	Hart Recreation Center	massachusetts	holy-cross	2001
@@ -3278,7 +3278,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Feb 24, 2001	REG	@	Army	Patriot	L	75	78		20	7	L 2	Christl Arena	army	holy-cross	2001
 28	Sun, Mar 4, 2001	CTOURN		Lehigh	Patriot	W	69	57		21	7	W 1	Hart Recreation Center	lehigh	holy-cross	2001
 29	Fri, Mar 9, 2001	CTOURN		Navy	Patriot	W	68	64	OT	22	7	W 2	Hart Recreation Center	navy	holy-cross	2001
-30	Thu, Mar 15, 2001	NCAA	N	Kentucky (9)	SEC	L	68	72		22	8	L 1		s/2001-03-15-holy-	holy-cross	2001
+30	Thu, Mar 15, 2001	NCAA	N	Kentucky (9)	SEC	L	68	72		22	8	L 1		kentucky	holy-cross	2001
 1	Thu, Nov 16, 2000	REG	@	Air Force	MWC	L	53	59		0	1	L 1	Lawrence Joel Coliseum	air-force	houston	2001
 2	Fri, Nov 17, 2000	REG	N	Mount St. Mary's	NEC	W	77	52		1	1	W 1	Lawrence Joel Coliseum	mount-st-marys	houston	2001
 3	Tue, Nov 21, 2000	REG	@	Rice	WAC	L	45	65		1	2	L 1	Tudor Fieldhouse	rice	houston	2001
@@ -3422,10 +3422,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sun, Mar 4, 2001	REG	@	Minnesota	Big Ten	W	67	59		23	6	W 2	Williams Arena	minnesota	illinois	2001
 30	Fri, Mar 9, 2001	CTOURN	N	Purdue	Big Ten	W	83	66		24	6	W 3	United Center	purdue	illinois	2001
 31	Sat, Mar 10, 2001	CTOURN	N	Indiana	Big Ten	L	56	58		24	7	L 1	United Center	indiana	illinois	2001
-32	Fri, Mar 16, 2001	NCAA	N	Northwestern State	Southland	W	96	54		25	7	W 1	University of Dayton Arena	s/2001-03-16-ill	illinois	2001
-33	Sun, Mar 18, 2001	NCAA	N	Charlotte	CUSA	W	79	61		26	7	W 2		s/2001-03-18-char	illinois	2001
-34	Fri, Mar 23, 2001	NCAA	N	Kansas (12)	Big 12	W	80	64		27	7	W 3	Alamodome	s/2001-03-23-ill	illinois	2001
-35	Sun, Mar 25, 2001	NCAA	N	Arizona (5)	Pac-10	L	81	87		27	8	L 1		s/2001-03-25-ar	illinois	2001
+32	Fri, Mar 16, 2001	NCAA	N	Northwestern State	Southland	W	96	54		25	7	W 1	University of Dayton Arena	northwestern-state	illinois	2001
+33	Sun, Mar 18, 2001	NCAA	N	Charlotte	CUSA	W	79	61		26	7	W 2		charlotte	illinois	2001
+34	Fri, Mar 23, 2001	NCAA	N	Kansas (12)	Big 12	W	80	64		27	7	W 3	Alamodome	kansas	illinois	2001
+35	Sun, Mar 25, 2001	NCAA	N	Arizona (5)	Pac-10	L	81	87		27	8	L 1		arizona	illinois	2001
 1	Sat, Nov 18, 2000	REG	@	Saint Louis	CUSA	L	57	60		0	1	L 1	Scottrade Center	saint-louis	illinois-chicago	2001
 2	Tue, Nov 21, 2000	REG		Texas-San Antonio	Southland	W	91	75		1	1	W 1	UIC Pavilion	texas-san-antonio	illinois-chicago	2001
 3	Sat, Nov 25, 2000	REG	@	Central Michigan	MAC	L	56	70		1	2	L 1	Rose Arena	central-michigan	illinois-chicago	2001
@@ -3517,7 +3517,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 9, 2001	CTOURN	N	Wisconsin (23)	Big Ten	W	64	52		20	11	W 4	United Center	wisconsin	indiana	2001
 32	Sat, Mar 10, 2001	CTOURN	N	Illinois (4)	Big Ten	W	58	56		21	11	W 5	United Center	illinois	indiana	2001
 33	Sun, Mar 11, 2001	CTOURN	N	Iowa	Big Ten	L	61	63		21	12	L 1	United Center	iowa	indiana	2001
-34	Thu, Mar 15, 2001	NCAA	N	Kent State	MAC	L	73	77		21	13	L 2	Viejas Arena	s/2001-03-15-in	indiana	2001
+34	Thu, Mar 15, 2001	NCAA	N	Kent State	MAC	L	73	77		21	13	L 2	Viejas Arena	kent-state	indiana	2001
 1	Thu, Nov 23, 2000	REG	N	Georgia	SEC	L	64	82		0	1	L 1		georgia	indiana-state	2001
 2	Fri, Nov 24, 2000	REG	@	American-Puerto Rico		W	85	58		1	1	W 1		NA	indiana-state	2001
 3	Sat, Nov 25, 2000	REG	N	Miami (OH)	MAC	W	54	46		2	1	W 2		miami-oh	indiana-state	2001
@@ -3550,8 +3550,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 3, 2001	CTOURN	N	Southern Illinois	MVC	W	67	64		19	11	W 1	Scottrade Center	southern-illinois	indiana-state	2001
 31	Sun, Mar 4, 2001	CTOURN	N	Creighton	MVC	W	87	74		20	11	W 2	Scottrade Center	creighton	indiana-state	2001
 32	Mon, Mar 5, 2001	CTOURN	N	Bradley	MVC	W	69	63		21	11	W 3	Scottrade Center	bradley	indiana-state	2001
-33	Fri, Mar 16, 2001	NCAA	N	Oklahoma (13)	Big 12	W	70	68	OT	22	11	W 4		s/2001-03-16-indiana-	indiana-state	2001
-34	Sun, Mar 18, 2001	NCAA	N	Gonzaga	WCC	L	68	85		22	12	L 1	The Pyramid	s/2001-03-18-go	indiana-state	2001
+33	Fri, Mar 16, 2001	NCAA	N	Oklahoma (13)	Big 12	W	70	68	OT	22	11	W 4		oklahoma	indiana-state	2001
+34	Sun, Mar 18, 2001	NCAA	N	Gonzaga	WCC	L	68	85		22	12	L 1	The Pyramid	gonzaga	indiana-state	2001
 1	Sat, Nov 18, 2000	REG	@	Massachusetts	A-10	L	65	67		0	1	L 1	Mullins Center	massachusetts	iona	2001
 2	Tue, Nov 21, 2000	REG	@	Coppin State	MEAC	W	78	61		1	1	W 1	Coppin Center	coppin-state	iona	2001
 3	Sat, Nov 25, 2000	REG	@	Fordham	A-10	L	82	85		1	2	L 1	Rose Hill Gym	fordham	iona	2001
@@ -3584,7 +3584,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 3, 2001	CTOURN	N	Loyola (MD)	MAAC	W	64	52		20	10	W 1	HSBC Arena	loyola-md	iona	2001
 31	Sun, Mar 4, 2001	CTOURN	N	Marist	MAAC	W	75	71		21	10	W 2	HSBC Arena	marist	iona	2001
 32	Mon, Mar 5, 2001	CTOURN	@	Canisius	MAAC	W	74	67		22	10	W 3	HSBC Arena	canisius	iona	2001
-33	Fri, Mar 16, 2001	NCAA	N	Mississippi (14)	SEC	L	70	72		22	11	L 1		s/2001-03-16	iona	2001
+33	Fri, Mar 16, 2001	NCAA	N	Mississippi (14)	SEC	L	70	72		22	11	L 1		mississippi	iona	2001
 1	Sun, Nov 19, 2000	REG		Milwaukee	MW Coll	W	83	79		1	0	W 1	Carver-Hawkeye Arena	milwaukee	iowa	2001
 2	Tue, Nov 21, 2000	REG	@	Drake	MVC	W	73	71		2	0	W 2	Knapp Center	drake	iowa	2001
 3	Tue, Nov 28, 2000	REG		Georgia Tech	ACC	W	85	67		3	0	W 3	Carver-Hawkeye Arena	georgia-tech	iowa	2001
@@ -3618,8 +3618,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 9, 2001	CTOURN	N	Ohio State (24)	Big Ten	W	75	66		20	11	W 2	United Center	ohio-state	iowa	2001
 32	Sat, Mar 10, 2001	CTOURN	N	Penn State	Big Ten	W	94	74		21	11	W 3	United Center	penn-state	iowa	2001
 33	Sun, Mar 11, 2001	CTOURN	N	Indiana	Big Ten	W	63	61		22	11	W 4	United Center	indiana	iowa	2001
-34	Thu, Mar 15, 2001	NCAA	N	Creighton	MVC	W	69	56		23	11	W 5		s/2001-03-15-crei	iowa	2001
-35	Sat, Mar 17, 2001	NCAA	N	Kentucky (9)	SEC	L	79	92		23	12	L 1		s/2001-03-17	iowa	2001
+34	Thu, Mar 15, 2001	NCAA	N	Creighton	MVC	W	69	56		23	11	W 5		creighton	iowa	2001
+35	Sat, Mar 17, 2001	NCAA	N	Kentucky (9)	SEC	L	79	92		23	12	L 1		kentucky	iowa	2001
 1	Tue, Nov 21, 2000	REG		Morningside		W	102	97	OT	1	0	W 1	James H. Hilton Coliseum 	NA	iowa-state	2001
 2	Fri, Nov 24, 2000	REG		Texas Southern	SWAC	W	109	70		2	0	W 2	James H. Hilton Coliseum 	texas-southern	iowa-state	2001
 3	Mon, Nov 27, 2000	REG	@	Northern Iowa	MVC	W	69	55		3	0	W 3	UNI-Dome	northern-iowa	iowa-state	2001
@@ -3650,7 +3650,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Wed, Feb 28, 2001	REG		Texas Tech	Big 12	W	80	63		24	4	W 1	James H. Hilton Coliseum 	texas-tech	iowa-state	2001
 29	Sat, Mar 3, 2001	REG		Nebraska	Big 12	W	86	73		25	4	W 2	James H. Hilton Coliseum 	nebraska	iowa-state	2001
 30	Fri, Mar 9, 2001	CTOURN	N	Baylor	Big 12	L	49	62		25	5	L 1	Kemper Arena	baylor	iowa-state	2001
-31	Thu, Mar 15, 2001	NCAA	N	Hampton	MEAC	L	57	58		25	6	L 2		s/2001-03-15-ha	iowa-state	2001
+31	Thu, Mar 15, 2001	NCAA	N	Hampton	MEAC	L	57	58		25	6	L 2		hampton	iowa-state	2001
 1	Sat, Nov 18, 2000	REG		Wilberforce		W	122	72		1	0	W 1	The Jungle	NA	iupui	2001
 2	Wed, Nov 22, 2000	REG	@	Ball State	MAC	L	65	73		1	1	L 1	Worthen Arena	ball-state	iupui	2001
 3	Sat, Nov 25, 2000	REG	@	Austin Peay	OVC	L	76	79		1	2	L 2	Winfield Dunn Center	austin-peay	iupui	2001
@@ -3825,9 +3825,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sun, Mar 4, 2001	REG		Missouri	Big 12	W	75	59		23	5	W 4	Allen Fieldhouse	missouri	kansas	2001
 29	Fri, Mar 9, 2001	CTOURN	N	Kansas State	Big 12	W	94	63		24	5	W 5	Kemper Arena	kansas-state	kansas	2001
 30	Sat, Mar 10, 2001	CTOURN	N	Oklahoma (16)	Big 12	L	57	62		24	6	L 1	Kemper Arena	oklahoma	kansas	2001
-31	Fri, Mar 16, 2001	NCAA	N	Cal State Northridge	Big Sky	W	99	75		25	6	W 1		s/2001-03-16-cal-state-north	kansas	2001
-32	Sun, Mar 18, 2001	NCAA	N	Syracuse (17)	Big East	W	87	58		26	6	W 2	University of Dayton Arena	s/2001-03-18-k	kansas	2001
-33	Fri, Mar 23, 2001	NCAA	N	Illinois (4)	Big Ten	L	64	80		26	7	L 1	Alamodome	s/2001-03-23-ill	kansas	2001
+31	Fri, Mar 16, 2001	NCAA	N	Cal State Northridge	Big Sky	W	99	75		25	6	W 1		cal-state-northridge	kansas	2001
+32	Sun, Mar 18, 2001	NCAA	N	Syracuse (17)	Big East	W	87	58		26	6	W 2	University of Dayton Arena	syracuse	kansas	2001
+33	Fri, Mar 23, 2001	NCAA	N	Illinois (4)	Big Ten	L	64	80		26	7	L 1	Alamodome	illinois	kansas	2001
 1	Sat, Nov 18, 2000	REG		Texas-San Antonio	Southland	W	71	55		1	0	W 1	Bramlage Coliseum	texas-san-antonio	kansas-state	2001
 2	Tue, Nov 21, 2000	REG	@	Wichita State	MVC	L	66	76		1	1	L 1	Levitt Arena	wichita-state	kansas-state	2001
 3	Tue, Nov 28, 2000	REG		Tennessee State	OVC	W	69	67	OT	2	1	W 1	Bramlage Coliseum	tennessee-state	kansas-state	2001
@@ -3889,8 +3889,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 8, 2001	CTOURN	N	Bowling Green State	MAC	W	71	64		21	9	W 1	Quicken Loans Arena	bowling-green-state	kent-state	2001
 31	Fri, Mar 9, 2001	CTOURN	N	Ball State	MAC	W	67	55		22	9	W 2	Quicken Loans Arena	ball-state	kent-state	2001
 32	Sat, Mar 10, 2001	CTOURN	N	Miami (OH)	MAC	W	67	61		23	9	W 3	Quicken Loans Arena	miami-oh	kent-state	2001
-33	Thu, Mar 15, 2001	NCAA	N	Indiana (20)	Big Ten	W	77	73		24	9	W 4	Viejas Arena	s/2001-03-15-in	kent-state	2001
-34	Sat, Mar 17, 2001	NCAA	N	Cincinnati	CUSA	L	43	66		24	10	L 1	Viejas Arena	s/2001-03-17-cinci	kent-state	2001
+33	Thu, Mar 15, 2001	NCAA	N	Indiana (20)	Big Ten	W	77	73		24	9	W 4	Viejas Arena	indiana	kent-state	2001
+34	Sat, Mar 17, 2001	NCAA	N	Cincinnati	CUSA	L	43	66		24	10	L 1	Viejas Arena	cincinnati	kent-state	2001
 1	Thu, Nov 9, 2000	REG	@	St. John's (NY)	Big East	L	61	62		0	1	L 1	Madison Square Garden (IV)	st-johns-ny	kentucky	2001
 2	Fri, Nov 10, 2000	REG	N	UCLA (17)	Pac-10	L	92	97	OT	0	2	L 2	Madison Square Garden (IV)	ucla	kentucky	2001
 3	Tue, Nov 21, 2000	REG	N	Jacksonville State	A-Sun	W	91	48		1	2	W 1	Riverfront Coliseum	jacksonville-state	kentucky	2001
@@ -3922,9 +3922,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Fri, Mar 9, 2001	CTOURN	N	South Carolina	SEC	W	78	65		20	9	W 1	Bridgestone Arena	south-carolina	kentucky	2001
 30	Sat, Mar 10, 2001	CTOURN	N	Arkansas	SEC	W	87	78		21	9	W 2	Bridgestone Arena	arkansas	kentucky	2001
 31	Sun, Mar 11, 2001	CTOURN	N	Mississippi (14)	SEC	W	77	55		22	9	W 3	Bridgestone Arena	mississippi	kentucky	2001
-32	Thu, Mar 15, 2001	NCAA	N	Holy Cross	Patriot	W	72	68		23	9	W 4		s/2001-03-15-holy-	kentucky	2001
-33	Sat, Mar 17, 2001	NCAA	N	Iowa (24)	Big Ten	W	92	79		24	9	W 5		s/2001-03-17	kentucky	2001
-34	Thu, Mar 22, 2001	NCAA	N	Southern California	Pac-10	L	76	80		24	10	L 1	Wells Fargo Center	s/2001-03-22-ken	kentucky	2001
+32	Thu, Mar 15, 2001	NCAA	N	Holy Cross	Patriot	W	72	68		23	9	W 4		holy-cross	kentucky	2001
+33	Sat, Mar 17, 2001	NCAA	N	Iowa (24)	Big Ten	W	92	79		24	9	W 5		iowa	kentucky	2001
+34	Thu, Mar 22, 2001	NCAA	N	Southern California	Pac-10	L	76	80		24	10	L 1	Wells Fargo Center	southern-california	kentucky	2001
 1	Fri, Nov 17, 2000	REG	N	North Carolina-Wilmington	CAA	W	78	71		1	0	W 1	Lloyd Noble Center	north-carolina-wilmington	la-salle	2001
 2	Sat, Nov 18, 2000	REG	@	Oklahoma (21)	Big 12	L	72	89		1	1	L 1	Lloyd Noble Center	oklahoma	la-salle	2001
 3	Wed, Nov 22, 2000	REG	@	Central Connecticut State	NEC	W	79	73		2	1	W 1	Detrick Gymnasium	central-connecticut-state	la-salle	2001
@@ -4531,11 +4531,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 3, 2001	REG		Virginia (7)	ACC	W	102	67		20	9	W 5	Cole Fieldhouse	virginia	maryland	2001
 30	Fri, Mar 9, 2001	CTOURN	N	Wake Forest (22)	ACC	W	71	53		21	9	W 6	The Omni	wake-forest	maryland	2001
 31	Sat, Mar 10, 2001	CTOURN	N	Duke (3)	ACC	L	82	84		21	10	L 1	Georgia Dome	duke	maryland	2001
-32	Thu, Mar 15, 2001	NCAA	N	George Mason	CAA	W	83	80		22	10	W 1		s/2001-03-15-george-	maryland	2001
-33	Sat, Mar 17, 2001	NCAA	N	Georgia State	A-Sun	W	79	60		23	10	W 2		s/2001-03-17-georgia-	maryland	2001
-34	Thu, Mar 22, 2001	NCAA	N	Georgetown (21)	Big East	W	76	66		24	10	W 3		s/2001-03-22-georg	maryland	2001
-35	Sat, Mar 24, 2001	NCAA	N	Stanford (2)	Pac-10	W	87	73		25	10	W 4		s/2001-03-24-mar	maryland	2001
-36	Sat, Mar 31, 2001	NCAA	N	Duke (1)	ACC	L	84	95		25	11	L 1	Hubert H. Humphrey Metrodome	s/2001-03-31	maryland	2001
+32	Thu, Mar 15, 2001	NCAA	N	George Mason	CAA	W	83	80		22	10	W 1		george-mason	maryland	2001
+33	Sat, Mar 17, 2001	NCAA	N	Georgia State	A-Sun	W	79	60		23	10	W 2		georgia-state	maryland	2001
+34	Thu, Mar 22, 2001	NCAA	N	Georgetown (21)	Big East	W	76	66		24	10	W 3		georgetown	maryland	2001
+35	Sat, Mar 24, 2001	NCAA	N	Stanford (2)	Pac-10	W	87	73		25	10	W 4		stanford	maryland	2001
+36	Sat, Mar 31, 2001	NCAA	N	Duke (1)	ACC	L	84	95		25	11	L 1	Hubert H. Humphrey Metrodome	duke	maryland	2001
 1	Sat, Nov 18, 2000	REG		Towson	AEC	W	87	72		1	0	W 1	RAC Arena	towson	maryland-baltimore-county	2001
 2	Mon, Nov 20, 2000	REG		Loyola (MD)	MAAC	W	74	56		2	0	W 2	RAC Arena	loyola-md	maryland-baltimore-county	2001
 3	Sat, Dec 2, 2000	REG		Robert Morris	NEC	W	80	73		3	0	W 3	RAC Arena	robert-morris	maryland-baltimore-county	2001
@@ -4836,11 +4836,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Tue, Feb 27, 2001	REG	@	Wisconsin (22)	Big Ten	W	51	47		23	3	W 5	Kohl Center	wisconsin	michigan-state	2001
 27	Sat, Mar 3, 2001	REG		Michigan	Big Ten	W	78	57		24	3	W 6	Breslin Events Center	michigan	michigan-state	2001
 28	Fri, Mar 9, 2001	CTOURN	N	Penn State	Big Ten	L	63	65		24	4	L 1	United Center	penn-state	michigan-state	2001
-29	Fri, Mar 16, 2001	NCAA	N	Alabama State	SWAC	W	69	35		25	4	W 1		s/2001-03-16-alabama-	michigan-state	2001
-30	Sun, Mar 18, 2001	NCAA	N	Fresno State	WAC	W	81	65		26	4	W 2		s/2001-03-18-fresno-	michigan-state	2001
-31	Fri, Mar 23, 2001	NCAA	N	Gonzaga	WCC	W	77	62		27	4	W 3		s/2001-03-23-go	michigan-state	2001
-32	Sun, Mar 25, 2001	NCAA	N	Temple	A-10	W	69	62		28	4	W 4	Georgia Dome	s/2001-03-25-michigan-	michigan-state	2001
-33	Sat, Mar 31, 2001	NCAA	N	Arizona (5)	Pac-10	L	61	80		28	5	L 1		s/2001-03-31-ar	michigan-state	2001
+29	Fri, Mar 16, 2001	NCAA	N	Alabama State	SWAC	W	69	35		25	4	W 1		alabama-state	michigan-state	2001
+30	Sun, Mar 18, 2001	NCAA	N	Fresno State	WAC	W	81	65		26	4	W 2		fresno-state	michigan-state	2001
+31	Fri, Mar 23, 2001	NCAA	N	Gonzaga	WCC	W	77	62		27	4	W 3		gonzaga	michigan-state	2001
+32	Sun, Mar 25, 2001	NCAA	N	Temple	A-10	W	69	62		28	4	W 4	Georgia Dome	temple	michigan-state	2001
+33	Sat, Mar 31, 2001	NCAA	N	Arizona (5)	Pac-10	L	61	80		28	5	L 1		arizona	michigan-state	2001
 1	Fri, Nov 17, 2000	REG		Saint Francis (IN)		W	93	59		1	0	W 1	Murphy Athletic Center	NA	middle-tennessee	2001
 2	Mon, Nov 20, 2000	REG	@	Tennessee State	OVC	L	71	75		1	1	L 1	Gentry Center Complex	tennessee-state	middle-tennessee	2001
 3	Mon, Nov 27, 2000	REG	@	Kansas (3)	Big 12	L	66	92		1	2	L 2	Allen Fieldhouse	kansas	middle-tennessee	2001
@@ -4960,9 +4960,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Fri, Mar 9, 2001	CTOURN	N	Tennessee	SEC	W	86	73		24	6	W 2	Bridgestone Arena	tennessee	mississippi	2001
 31	Sat, Mar 10, 2001	CTOURN	N	Florida (5)	SEC	W	74	69		25	6	W 3	Bridgestone Arena	florida	mississippi	2001
 32	Sun, Mar 11, 2001	CTOURN	N	Kentucky (15)	SEC	L	55	77		25	7	L 1	Bridgestone Arena	kentucky	mississippi	2001
-33	Fri, Mar 16, 2001	NCAA	N	Iona	MAAC	W	72	70		26	7	W 1		s/2001-03-16	mississippi	2001
-34	Sun, Mar 18, 2001	NCAA	N	Notre Dame (19)	Big East	W	59	56		27	7	W 2	Kemper Arena	s/2001-03-18-missis	mississippi	2001
-35	Fri, Mar 23, 2001	NCAA	N	Arizona (5)	Pac-10	L	56	66		27	8	L 1	Alamodome	s/2001-03-23-ar	mississippi	2001
+33	Fri, Mar 16, 2001	NCAA	N	Iona	MAAC	W	72	70		26	7	W 1		iona	mississippi	2001
+34	Sun, Mar 18, 2001	NCAA	N	Notre Dame (19)	Big East	W	59	56		27	7	W 2	Kemper Arena	notre-dame	mississippi	2001
+35	Fri, Mar 23, 2001	NCAA	N	Arizona (5)	Pac-10	L	56	66		27	8	L 1	Alamodome	arizona	mississippi	2001
 1	Mon, Nov 13, 2000	REG	@	University of California	Pac-10	L	76	83	OT	0	1	L 1	Haas Pavilion	california	mississippi-state	2001
 2	Sat, Nov 18, 2000	REG		McNeese State	Southland	W	83	74		1	1	W 1	Humphrey Coliseum	mcneese-state	mississippi-state	2001
 3	Tue, Nov 21, 2000	REG		Mississippi Valley State	SWAC	W	93	53		2	1	W 2	Humphrey Coliseum	mississippi-valley-state	mississippi-state	2001
@@ -5052,8 +5052,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sun, Mar 4, 2001	REG	@	Kansas (10)	Big 12	L	59	75		18	11	L 2	Allen Fieldhouse	kansas	missouri	2001
 30	Thu, Mar 8, 2001	CTOURN	N	Texas A&M	Big 12	W	77	62		19	11	W 1	Kemper Arena	texas-am	missouri	2001
 31	Fri, Mar 9, 2001	CTOURN	N	Oklahoma (16)	Big 12	L	65	67		19	12	L 1	Kemper Arena	oklahoma	missouri	2001
-32	Thu, Mar 15, 2001	NCAA	N	Georgia	SEC	W	70	68		20	12	W 1	Greensboro Coliseum	s/2001-03-15-ge	missouri	2001
-33	Sat, Mar 17, 2001	NCAA	N	Duke (1)	ACC	L	81	94		20	13	L 1	Greensboro Coliseum	s/2001-03-17	missouri	2001
+32	Thu, Mar 15, 2001	NCAA	N	Georgia	SEC	W	70	68		20	12	W 1	Greensboro Coliseum	georgia	missouri	2001
+33	Sat, Mar 17, 2001	NCAA	N	Duke (1)	ACC	L	81	94		20	13	L 1	Greensboro Coliseum	duke	missouri	2001
 1	Fri, Nov 17, 2000	REG	@	Morris Brown		L	62	70		0	1	L 1	John H. Lewis Gym	NA	missouri-kansas-city	2001
 2	Tue, Nov 21, 2000	REG	@	Oklahoma State	Big 12	L	46	69		0	2	L 2	Gallagher-Iba Arena	oklahoma-state	missouri-kansas-city	2001
 3	Fri, Nov 24, 2000	REG		Providence	Big East	L	53	60		0	3	L 3	Municipal Auditorium	providence	missouri-kansas-city	2001
@@ -5143,7 +5143,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 3, 2001	CTOURN	N	Fairleigh Dickinson	NEC	W	71	59		19	9	W 2	Sun National Bank Center	fairleigh-dickinson	monmouth	2001
 29	Sun, Mar 4, 2001	CTOURN	N	Maryland-Baltimore County	NEC	W	67	54		20	9	W 3	Sun National Bank Center	maryland-baltimore-county	monmouth	2001
 30	Mon, Mar 5, 2001	CTOURN	N	St. Francis (NY)	NEC	W	67	64		21	9	W 4	Sun National Bank Center	st-francis-ny	monmouth	2001
-31	Thu, Mar 15, 2001	NCAA	N	Duke (1)	ACC	L	52	95		21	10	L 1	Greensboro Coliseum	s/2001-03-15	monmouth	2001
+31	Thu, Mar 15, 2001	NCAA	N	Duke (1)	ACC	L	52	95		21	10	L 1	Greensboro Coliseum	duke	monmouth	2001
 1	Sun, Nov 19, 2000	REG		Carroll (MT)		W	86	76		1	0	W 1	Adams Center/Dahlberg Arena	NA	montana	2001
 2	Wed, Nov 22, 2000	REG		Northern Iowa	MVC	W	72	58		2	0	W 2	Adams Center/Dahlberg Arena	northern-iowa	montana	2001
 3	Sat, Nov 25, 2000	REG	@	Nevada	WAC	L	85	86	OT	2	1	L 1	Lawlor Events Center	nevada	montana	2001
@@ -5668,8 +5668,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Fri, Mar 9, 2001	CTOURN	N	Clemson	ACC	W	99	81		24	5	W 1	The Omni	clemson	north-carolina	2001
 30	Sat, Mar 10, 2001	CTOURN	N	Georgia Tech	ACC	W	70	63		25	5	W 2	The Omni	georgia-tech	north-carolina	2001
 31	Sun, Mar 11, 2001	CTOURN	N	Duke (3)	ACC	L	53	79		25	6	L 1	Georgia Dome	duke	north-carolina	2001
-32	Fri, Mar 16, 2001	NCAA	N	Princeton	Ivy	W	70	48		26	6	W 1	Louisiana Superdome	s/2001-03-16-north-car	north-carolina	2001
-33	Sun, Mar 18, 2001	NCAA	N	Penn State	Big Ten	L	74	82		26	7	L 1	Louisiana Superdome	s/2001-03-18-north-car	north-carolina	2001
+32	Fri, Mar 16, 2001	NCAA	N	Princeton	Ivy	W	70	48		26	6	W 1	Louisiana Superdome	princeton	north-carolina	2001
+33	Sun, Mar 18, 2001	NCAA	N	Penn State	Big Ten	L	74	82		26	7	L 1	Louisiana Superdome	penn-state	north-carolina	2001
 1	Sat, Nov 18, 2000	REG		Campbell	A-Sun	L	70	85		0	1	L 1	Charlie Justice Center	campbell	north-carolina-asheville	2001
 2	Tue, Nov 21, 2000	REG		Lenoir-Rhyne		W	63	52		1	1	W 1	Charlie Justice Center	NA	north-carolina-asheville	2001
 3	Sat, Nov 25, 2000	REG	@	Mercer	A-Sun	W	76	60		2	1	W 2	Porter Gym	mercer	north-carolina-asheville	2001
@@ -5758,7 +5758,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 2, 2001	CTOURN	N	Western Carolina	Southern	W	91	69		17	11	W 1	Timmons Arena	western-carolina	north-carolina-greensboro	2001
 29	Sat, Mar 3, 2001	CTOURN	N	Davidson	Southern	W	73	68		18	11	W 2	Timmons Arena	davidson	north-carolina-greensboro	2001
 30	Sun, Mar 4, 2001	CTOURN	N	Chattanooga	Southern	W	67	66		19	11	W 3	Timmons Arena	chattanooga	north-carolina-greensboro	2001
-31	Thu, Mar 15, 2001	NCAA	N	Stanford (2)	Pac-10	L	60	89		19	12	L 1		s/2001-03-15-north-carolina-green	north-carolina-greensboro	2001
+31	Thu, Mar 15, 2001	NCAA	N	Stanford (2)	Pac-10	L	60	89		19	12	L 1		stanford	north-carolina-greensboro	2001
 1	Fri, Nov 17, 2000	REG		Pennsylvania	Ivy	W	77	64		1	0	W 1	Reynolds Coliseum	pennsylvania	north-carolina-state	2001
 2	Sat, Nov 18, 2000	REG		Charlotte	CUSA	L	78	95		1	1	L 1	Reynolds Coliseum	charlotte	north-carolina-state	2001
 3	Wed, Nov 22, 2000	REG	N	Fresno State	WAC	L	63	82		1	2	L 2	MassMutual Center	fresno-state	north-carolina-state	2001
@@ -6023,8 +6023,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Mar 6, 2001	CTOURN	@	Nicholls State	Southland	W	68	61		16	12	W 3	David Stopher Gymnasium	nicholls-state	northwestern-state	2001
 29	Fri, Mar 9, 2001	CTOURN	N	Texas-San Antonio	Southland	W	86	73		17	12	W 4	CenturyTel Center	texas-san-antonio	northwestern-state	2001
 30	Sat, Mar 10, 2001	CTOURN	N	McNeese State	Southland	W	72	71		18	12	W 5	CenturyTel Center	mcneese-state	northwestern-state	2001
-31	Tue, Mar 13, 2001	NCAA	N	Winthrop	Big South	W	71	67		19	12	W 6	University of Dayton Arena	s/2001-03-13-northwestern-	northwestern-state	2001
-32	Fri, Mar 16, 2001	NCAA	N	Illinois (4)	Big Ten	L	54	96		19	13	L 1	University of Dayton Arena	s/2001-03-16-ill	northwestern-state	2001
+31	Tue, Mar 13, 2001	NCAA	N	Winthrop	Big South	W	71	67		19	12	W 6	University of Dayton Arena	winthrop	northwestern-state	2001
+32	Fri, Mar 16, 2001	NCAA	N	Illinois (4)	Big Ten	L	54	96		19	13	L 1	University of Dayton Arena	illinois	northwestern-state	2001
 1	Sat, Nov 18, 2000	REG		Sacred Heart	NEC	W	104	58		1	0	W 1	Purcell Pavilion at the Joyce Center	sacred-heart	notre-dame	2001
 2	Wed, Nov 22, 2000	REG		Loyola (IL)	MW Coll	W	107	68		2	0	W 2	Purcell Pavilion at the Joyce Center	loyola-il	notre-dame	2001
 3	Sat, Nov 25, 2000	REG		Cincinnati (16)	CUSA	W	69	51		3	0	W 3	Purcell Pavilion at the Joyce Center	cincinnati	notre-dame	2001
@@ -6053,8 +6053,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Mon, Feb 26, 2001	REG	@	Connecticut	Big East	L	59	75		19	7	L 1	Harry A. Gampel Pavilion	connecticut	notre-dame	2001
 27	Sun, Mar 4, 2001	REG		Georgetown (21)	Big East	L	72	79		19	8	L 2	Purcell Pavilion at the Joyce Center	georgetown	notre-dame	2001
 28	Thu, Mar 8, 2001	CTOURN	N	Pittsburgh	Big East	L	54	66		19	9	L 3	Madison Square Garden (IV)	pittsburgh	notre-dame	2001
-29	Fri, Mar 16, 2001	NCAA	N	Xavier	A-10	W	83	71		20	9	W 1	Kemper Arena	s/2001-03-16-notre	notre-dame	2001
-30	Sun, Mar 18, 2001	NCAA	N	Mississippi (14)	SEC	L	56	59		20	10	L 1	Kemper Arena	s/2001-03-18-missis	notre-dame	2001
+29	Fri, Mar 16, 2001	NCAA	N	Xavier	A-10	W	83	71		20	9	W 1	Kemper Arena	xavier	notre-dame	2001
+30	Sun, Mar 18, 2001	NCAA	N	Mississippi (14)	SEC	L	56	59		20	10	L 1	Kemper Arena	mississippi	notre-dame	2001
 1	Fri, Nov 17, 2000	REG		Michigan	Big Ten	W	97	90		1	0	W 1	Athletics Center O'rena	michigan	oakland	2001
 2	Sun, Nov 19, 2000	REG	@	Michigan State (3)	Big Ten	L	61	97		1	1	L 1	Breslin Events Center	michigan-state	oakland	2001
 3	Tue, Nov 21, 2000	REG		Ferris State		L	70	75		1	2	L 2	Athletics Center O'rena	NA	oakland	2001
@@ -6143,7 +6143,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Feb 24, 2001	REG	@	Northwestern	Big Ten	W	69	57		19	9	W 2	Welsh-Ryan Arena	northwestern	ohio-state	2001
 29	Sat, Mar 3, 2001	REG	@	Penn State	Big Ten	W	93	87		20	9	W 3	Bryce Jordan Center	penn-state	ohio-state	2001
 30	Fri, Mar 9, 2001	CTOURN	N	Iowa	Big Ten	L	66	75		20	10	L 1	United Center	iowa	ohio-state	2001
-31	Thu, Mar 15, 2001	NCAA	N	Utah State	Big West	L	68	77	OT	20	11	L 2	Greensboro Coliseum	s/2001-03-15-ohio-	ohio-state	2001
+31	Thu, Mar 15, 2001	NCAA	N	Utah State	Big West	L	68	77	OT	20	11	L 2	Greensboro Coliseum	utah-state	ohio-state	2001
 1	Fri, Nov 17, 2000	REG		Alcorn State	SWAC	W	75	56		1	0	W 1	Lloyd Noble Center	alcorn-state	oklahoma	2001
 2	Sat, Nov 18, 2000	REG		La Salle	A-10	W	89	72		2	0	W 2	Lloyd Noble Center	la-salle	oklahoma	2001
 3	Fri, Nov 24, 2000	REG	N	Montana State	Big Sky	W	84	76		3	0	W 3	Afook-Chinen Civic Auditorium	montana-state	oklahoma	2001
@@ -6176,7 +6176,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Fri, Mar 9, 2001	CTOURN	N	Missouri	Big 12	W	67	65		24	6	W 3	Kemper Arena	missouri	oklahoma	2001
 31	Sat, Mar 10, 2001	CTOURN	N	Kansas (9)	Big 12	W	62	57		25	6	W 4	Kemper Arena	kansas	oklahoma	2001
 32	Sun, Mar 11, 2001	CTOURN	N	Texas (20)	Big 12	W	54	45		26	6	W 5	Kemper Arena	texas	oklahoma	2001
-33	Fri, Mar 16, 2001	NCAA	N	Indiana State	MVC	L	68	70	OT	26	7	L 1		s/2001-03-16-indiana-	oklahoma	2001
+33	Fri, Mar 16, 2001	NCAA	N	Indiana State	MVC	L	68	70	OT	26	7	L 1		indiana-state	oklahoma	2001
 1	Tue, Nov 21, 2000	REG		Missouri-Kansas City	Mid-Cont	W	69	46		1	0	W 1	Gallagher-Iba Arena	missouri-kansas-city	oklahoma-state	2001
 2	Tue, Nov 28, 2000	REG	@	North Texas	Sun Belt	W	94	56		2	0	W 2	Super Pit	north-texas	oklahoma-state	2001
 3	Sat, Dec 2, 2000	REG		Nevada-Las Vegas	MWC	W	77	69	OT	3	0	W 3	Gallagher-Iba Arena	nevada-las-vegas	oklahoma-state	2001
@@ -6206,7 +6206,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 3, 2001	REG	@	Oklahoma (17)	Big 12	L	56	68		19	8	L 1	Lloyd Noble Center	oklahoma	oklahoma-state	2001
 28	Thu, Mar 8, 2001	CTOURN	N	Texas Tech	Big 12	W	71	59		20	8	W 1	Kemper Arena	texas-tech	oklahoma-state	2001
 29	Fri, Mar 9, 2001	CTOURN	N	Texas (20)	Big 12	L	54	55		20	9	L 1	Kemper Arena	texas	oklahoma-state	2001
-30	Thu, Mar 15, 2001	NCAA	N	Southern California	Pac-10	L	54	69		20	10	L 2		s/2001-03-15-oklahoma-	oklahoma-state	2001
+30	Thu, Mar 15, 2001	NCAA	N	Southern California	Pac-10	L	54	69		20	10	L 2		southern-california	oklahoma-state	2001
 1	Sat, Nov 18, 2000	REG		Gardner-Webb		W	84	57		1	0	W 1	ODU Fieldhouse	NA	old-dominion	2001
 2	Mon, Nov 20, 2000	REG	@	George Washington	A-10	L	89	91		1	1	L 1	Charles E. Smith Center	george-washington	old-dominion	2001
 3	Thu, Nov 23, 2000	REG	N	Stanford (5)	Pac-10	L	60	84		1	2	L 2		stanford	old-dominion	2001
@@ -6385,9 +6385,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 8, 2001	CTOURN	N	Michigan	Big Ten	W	82	80		18	10	W 1	United Center	michigan	penn-state	2001
 29	Fri, Mar 9, 2001	CTOURN	N	Michigan State (2)	Big Ten	W	65	63		19	10	W 2	United Center	michigan-state	penn-state	2001
 30	Sat, Mar 10, 2001	CTOURN	N	Iowa	Big Ten	L	74	94		19	11	L 1	United Center	iowa	penn-state	2001
-31	Fri, Mar 16, 2001	NCAA	N	Providence	Big East	W	69	59		20	11	W 1	Louisiana Superdome	s/2001-03-16-penn-	penn-state	2001
-32	Sun, Mar 18, 2001	NCAA	N	North Carolina (6)	ACC	W	82	74		21	11	W 2	Louisiana Superdome	s/2001-03-18-north-car	penn-state	2001
-33	Fri, Mar 23, 2001	NCAA	N	Temple	A-10	L	72	84		21	12	L 1	Georgia Dome	s/2001-03-23-penn-	penn-state	2001
+31	Fri, Mar 16, 2001	NCAA	N	Providence	Big East	W	69	59		20	11	W 1	Louisiana Superdome	providence	penn-state	2001
+32	Sun, Mar 18, 2001	NCAA	N	North Carolina (6)	ACC	W	82	74		21	11	W 2	Louisiana Superdome	north-carolina	penn-state	2001
+33	Fri, Mar 23, 2001	NCAA	N	Temple	A-10	L	72	84		21	12	L 1	Georgia Dome	temple	penn-state	2001
 1	Fri, Nov 17, 2000	REG	@	North Carolina State	ACC	L	64	77		0	1	L 1	Reynolds Coliseum	north-carolina-state	pennsylvania	2001
 2	Sat, Nov 18, 2000	REG	N	Fordham	A-10	L	78	81		0	2	L 2	Reynolds Coliseum	fordham	pennsylvania	2001
 3	Tue, Nov 28, 2000	REG	@	Davidson	Southern	L	81	84	OT	0	3	L 3	Belk Arena	davidson	pennsylvania	2001
@@ -6590,7 +6590,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 24	Fri, Mar 2, 2001	REG	@	Yale	Ivy	W	60	49		14	10	W 3	John J. Lee Ampitheater	yale	princeton	2001
 25	Sat, Mar 3, 2001	REG	@	Brown	Ivy	W	64	55		15	10	W 4	Pizzitola Sports Center	brown	princeton	2001
 26	Tue, Mar 6, 2001	REG		Pennsylvania	Ivy	W	68	52		16	10	W 5	Jadwin Gymnasium	pennsylvania	princeton	2001
-27	Fri, Mar 16, 2001	NCAA	N	North Carolina (6)	ACC	L	48	70		16	11	L 1	Louisiana Superdome	s/2001-03-16-north-car	princeton	2001
+27	Fri, Mar 16, 2001	NCAA	N	North Carolina (6)	ACC	L	48	70		16	11	L 1	Louisiana Superdome	north-carolina	princeton	2001
 1	Sat, Nov 18, 2000	REG		Holy Cross	Patriot	W	63	57		1	0	W 1	Dunkin' Donuts Center	holy-cross	providence	2001
 2	Tue, Nov 21, 2000	REG		Maine	AEC	L	71	80		1	1	L 1	Dunkin' Donuts Center	maine	providence	2001
 3	Fri, Nov 24, 2000	REG	@	Missouri-Kansas City	Mid-Cont	W	60	53		2	1	W 1	Municipal Auditorium	missouri-kansas-city	providence	2001
@@ -6621,7 +6621,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Feb 24, 2001	REG		Boston College (10)	Big East	L	58	59		20	8	L 1	Dunkin' Donuts Center	boston-college	providence	2001
 29	Sat, Mar 3, 2001	REG	@	Rutgers	Big East	W	69	66		21	8	W 1	Louis Brown Athletic Center	rutgers	providence	2001
 30	Thu, Mar 8, 2001	CTOURN	N	Syracuse (17)	Big East	L	54	55		21	9	L 1	Madison Square Garden (IV)	syracuse	providence	2001
-31	Fri, Mar 16, 2001	NCAA	N	Penn State	Big Ten	L	59	69		21	10	L 2	Louisiana Superdome	s/2001-03-16-penn-	providence	2001
+31	Fri, Mar 16, 2001	NCAA	N	Penn State	Big Ten	L	59	69		21	10	L 2	Louisiana Superdome	penn-state	providence	2001
 1	Tue, Nov 21, 2000	REG		Central Michigan	MAC	L	66	67		0	1	L 1	Mackey Arena	central-michigan	purdue	2001
 2	Sat, Nov 25, 2000	REG		Arizona (1)	Pac-10	W	72	69		1	1	W 1	Mackey Arena	arizona	purdue	2001
 3	Wed, Nov 29, 2000	REG	@	Virginia (21)	ACC	L	79	98		1	2	L 1	University Hall	virginia	purdue	2001
@@ -6996,8 +6996,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 3, 2001	REG	@	La Salle	A-10	L	90	91		24	5	L 1	Tom Gola Arena	la-salle	saint-josephs	2001
 30	Thu, Mar 8, 2001	CTOURN	N	La Salle	A-10	W	82	74		25	5	W 1	The Spectrum	la-salle	saint-josephs	2001
 31	Fri, Mar 9, 2001	CTOURN		Massachusetts	A-10	L	70	75		25	6	L 1	The Spectrum	massachusetts	saint-josephs	2001
-32	Thu, Mar 15, 2001	NCAA	N	Georgia Tech	ACC	W	66	62		26	6	W 1	Viejas Arena	s/2001-03-15-georgia	saint-josephs	2001
-33	Sat, Mar 17, 2001	NCAA	N	Stanford (2)	Pac-10	L	83	90		26	7	L 1		s/2001-03-17-saint-jo	saint-josephs	2001
+32	Thu, Mar 15, 2001	NCAA	N	Georgia Tech	ACC	W	66	62		26	6	W 1	Viejas Arena	georgia-tech	saint-josephs	2001
+33	Sat, Mar 17, 2001	NCAA	N	Stanford (2)	Pac-10	L	83	90		26	7	L 1		stanford	saint-josephs	2001
 1	Sat, Nov 18, 2000	REG		Illinois-Chicago	MW Coll	W	60	57		1	0	W 1	Scottrade Center	illinois-chicago	saint-louis	2001
 2	Tue, Nov 21, 2000	REG	@	Southern Illinois	MVC	L	72	82		1	1	L 1	The SIU Arena	southern-illinois	saint-louis	2001
 3	Sat, Nov 25, 2000	REG		East Carolina	CAA	W	90	54		2	1	W 1	Scottrade Center	east-carolina	saint-louis	2001
@@ -7595,10 +7595,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 3, 2001	REG		University of California	Pac-10	W	74	69		19	9	W 1	L. A. Sports Arena	california	southern-california	2001
 29	Thu, Mar 8, 2001	REG	@	Washington	Pac-10	W	85	56		20	9	W 2	Bank of America Arena	washington	southern-california	2001
 30	Sat, Mar 10, 2001	REG	@	Washington State	Pac-10	W	78	63		21	9	W 3	Friel Court	washington-state	southern-california	2001
-31	Thu, Mar 15, 2001	NCAA	N	Oklahoma State	Big 12	W	69	54		22	9	W 4		s/2001-03-15-oklahoma-	southern-california	2001
-32	Sat, Mar 17, 2001	NCAA	N	Boston College (7)	Big East	W	74	71		23	9	W 5	Nassau Coliseum	s/2001-03-17-boston-co	southern-california	2001
-33	Thu, Mar 22, 2001	NCAA	N	Kentucky (9)	SEC	W	80	76		24	9	W 6	Wells Fargo Center	s/2001-03-22-ken	southern-california	2001
-34	Sat, Mar 24, 2001	NCAA	N	Duke (1)	ACC	L	69	79		24	10	L 1	Wells Fargo Center	s/2001-03-24	southern-california	2001
+31	Thu, Mar 15, 2001	NCAA	N	Oklahoma State	Big 12	W	69	54		22	9	W 4		oklahoma-state	southern-california	2001
+32	Sat, Mar 17, 2001	NCAA	N	Boston College (7)	Big East	W	74	71		23	9	W 5	Nassau Coliseum	boston-college	southern-california	2001
+33	Thu, Mar 22, 2001	NCAA	N	Kentucky (9)	SEC	W	80	76		24	9	W 6	Wells Fargo Center	kentucky	southern-california	2001
+34	Sat, Mar 24, 2001	NCAA	N	Duke (1)	ACC	L	69	79		24	10	L 1	Wells Fargo Center	duke	southern-california	2001
 1	Fri, Nov 17, 2000	REG		Long Beach State	Big West	W	101	89		1	0	W 1	The SIU Arena	long-beach-state	southern-illinois	2001
 2	Tue, Nov 21, 2000	REG		Saint Louis	CUSA	W	82	72		2	0	W 2	The SIU Arena	saint-louis	southern-illinois	2001
 3	Sat, Nov 25, 2000	REG		Ball State	MAC	W	93	80		3	0	W 3	The SIU Arena	ball-state	southern-illinois	2001
@@ -7720,7 +7720,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sun, Mar 4, 2001	CTOURN	N	Western Illinois	Mid-Cont	W	66	53		23	5	W 5	Allen County War Memorial Coliseum	western-illinois	southern-utah	2001
 29	Mon, Mar 5, 2001	CTOURN	N	Oral Roberts	Mid-Cont	W	73	62		24	5	W 6	Allen County War Memorial Coliseum	oral-roberts	southern-utah	2001
 30	Tue, Mar 6, 2001	CTOURN	N	Valparaiso	Mid-Cont	W	62	59		25	5	W 7	Allen County War Memorial Coliseum	valparaiso	southern-utah	2001
-31	Thu, Mar 15, 2001	NCAA	N	Boston College (7)	Big East	L	65	68		25	6	L 1	Nassau Coliseum	s/2001-03-15-boston-co	southern-utah	2001
+31	Thu, Mar 15, 2001	NCAA	N	Boston College (7)	Big East	L	65	68		25	6	L 1	Nassau Coliseum	boston-college	southern-utah	2001
 1	Fri, Nov 17, 2000	REG	N	New Mexico State	Sun Belt	W	68	53		1	0	W 1	Selland Arena 	new-mexico-state	st-bonaventure	2001
 2	Sun, Nov 19, 2000	REG	@	Fresno State	WAC	W	87	74		2	0	W 2	Selland Arena 	fresno-state	st-bonaventure	2001
 3	Sat, Nov 25, 2000	REG		Charlotte	CUSA	W	79	78		3	0	W 3	Reilly Center	charlotte	st-bonaventure	2001
@@ -7839,10 +7839,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 3, 2001	REG	@	UCLA (12)	Pac-10	W	85	79		27	1	W 7	Pauley Pavilion	ucla	stanford	2001
 29	Thu, Mar 8, 2001	REG		Arizona (8)	Pac-10	L	75	76		27	2	L 1	Maples Pavilion	arizona	stanford	2001
 30	Sat, Mar 10, 2001	REG		Arizona State	Pac-10	W	99	75		28	2	W 1	Maples Pavilion	arizona-state	stanford	2001
-31	Thu, Mar 15, 2001	NCAA	N	North Carolina-Greensboro	Southern	W	89	60		29	2	W 2		s/2001-03-15-north-carolina-green	stanford	2001
-32	Sat, Mar 17, 2001	NCAA	N	Saint Joseph's (22)	A-10	W	90	83		30	2	W 3		s/2001-03-17-saint-jo	stanford	2001
-33	Thu, Mar 22, 2001	NCAA	N	Cincinnati	CUSA	W	78	65		31	2	W 4		s/2001-03-22-cinci	stanford	2001
-34	Sat, Mar 24, 2001	NCAA	N	Maryland (11)	ACC	L	73	87		31	3	L 1		s/2001-03-24-mar	stanford	2001
+31	Thu, Mar 15, 2001	NCAA	N	North Carolina-Greensboro	Southern	W	89	60		29	2	W 2		north-carolina-greensboro	stanford	2001
+32	Sat, Mar 17, 2001	NCAA	N	Saint Joseph's (22)	A-10	W	90	83		30	2	W 3		saint-josephs	stanford	2001
+33	Thu, Mar 22, 2001	NCAA	N	Cincinnati	CUSA	W	78	65		31	2	W 4		cincinnati	stanford	2001
+34	Sat, Mar 24, 2001	NCAA	N	Maryland (11)	ACC	L	73	87		31	3	L 1		maryland	stanford	2001
 1	Sun, Nov 19, 2000	REG	N	Loyola (IL)	MW Coll	W	64	60		1	0	W 1	Carlson Center	loyola-il	stephen-f-austin	2001
 2	Tue, Nov 21, 2000	REG	@	South Alabama	Sun Belt	L	51	73		1	1	L 1	Mitchell Center	south-alabama	stephen-f-austin	2001
 3	Sat, Nov 25, 2000	REG		Arkansas-Monticello		W	74	66		2	1	W 1	William Johnson Coliseum	NA	stephen-f-austin	2001
@@ -7958,8 +7958,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Wed, Mar 7, 2001	CTOURN	N	Connecticut	Big East	W	86	75		23	7	W 3	Madison Square Garden (IV)	connecticut	syracuse	2001
 31	Thu, Mar 8, 2001	CTOURN	N	Providence	Big East	W	55	54		24	7	W 4	Madison Square Garden (IV)	providence	syracuse	2001
 32	Fri, Mar 9, 2001	CTOURN	N	Pittsburgh	Big East	L	54	55	OT	24	8	L 1	Madison Square Garden (IV)	pittsburgh	syracuse	2001
-33	Fri, Mar 16, 2001	NCAA	N	Hawaii	WAC	W	79	69		25	8	W 1		s/2001-03-16-h	syracuse	2001
-34	Sun, Mar 18, 2001	NCAA	N	Kansas (12)	Big 12	L	58	87		25	9	L 1	University of Dayton Arena	s/2001-03-18-k	syracuse	2001
+33	Fri, Mar 16, 2001	NCAA	N	Hawaii	WAC	W	79	69		25	8	W 1		hawaii	syracuse	2001
+34	Sun, Mar 18, 2001	NCAA	N	Kansas (12)	Big 12	L	58	87		25	9	L 1	University of Dayton Arena	kansas	syracuse	2001
 1	Mon, Nov 13, 2000	REG		Delaware	AEC	W	56	49		1	0	W 1	Liacouras Center	delaware	temple	2001
 2	Wed, Nov 15, 2000	REG		New Mexico	MWC	W	61	49		2	0	W 2	Liacouras Center	new-mexico	temple	2001
 3	Fri, Nov 17, 2000	REG	@	Memphis	CUSA	W	67	62		3	0	W 3	The Pyramid	memphis	temple	2001
@@ -7993,10 +7993,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 8, 2001	CTOURN		Dayton	A-10	W	76	63		19	12	W 5	The Spectrum	dayton	temple	2001
 32	Fri, Mar 9, 2001	CTOURN		George Washington	A-10	W	77	76		20	12	W 6	The Spectrum	george-washington	temple	2001
 33	Sat, Mar 10, 2001	CTOURN		Massachusetts	A-10	W	76	65		21	12	W 7	The Spectrum	massachusetts	temple	2001
-34	Fri, Mar 16, 2001	NCAA	N	Texas (18)	Big 12	W	79	65		22	12	W 8		s/2001-03-16-t	temple	2001
-35	Sun, Mar 18, 2001	NCAA	N	Florida (8)	SEC	W	75	54		23	12	W 9	Louisiana Superdome	s/2001-03-18-fl	temple	2001
-36	Fri, Mar 23, 2001	NCAA	N	Penn State	Big Ten	W	84	72		24	12	W 10	Georgia Dome	s/2001-03-23-penn-	temple	2001
-37	Sun, Mar 25, 2001	NCAA	N	Michigan State (3)	Big Ten	L	62	69		24	13	L 1	Georgia Dome	s/2001-03-25-michigan-	temple	2001
+34	Fri, Mar 16, 2001	NCAA	N	Texas (18)	Big 12	W	79	65		22	12	W 8		texas	temple	2001
+35	Sun, Mar 18, 2001	NCAA	N	Florida (8)	SEC	W	75	54		23	12	W 9	Louisiana Superdome	florida	temple	2001
+36	Fri, Mar 23, 2001	NCAA	N	Penn State	Big Ten	W	84	72		24	12	W 10	Georgia Dome	penn-state	temple	2001
+37	Sun, Mar 25, 2001	NCAA	N	Michigan State (3)	Big Ten	L	62	69		24	13	L 1	Georgia Dome	michigan-state	temple	2001
 1	Fri, Nov 17, 2000	REG		Chattanooga	Southern	W	88	66		1	0	W 1	Thompson-Boling Arena	chattanooga	tennessee	2001
 2	Sun, Nov 19, 2000	REG		East Tennessee State	Southern	W	102	76		2	0	W 2	Thompson-Boling Arena	east-tennessee-state	tennessee	2001
 3	Tue, Nov 21, 2000	REG		Wisconsin (18)	Big Ten	W	66	56		3	0	W 3	Thompson-Boling Arena	wisconsin	tennessee	2001
@@ -8029,7 +8029,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 3, 2001	REG		Louisiana State	SEC	W	78	71		21	9	W 3	Thompson-Boling Arena	louisiana-state	tennessee	2001
 31	Thu, Mar 8, 2001	CTOURN	N	Auburn	SEC	W	73	66	OT	22	9	W 4	Bridgestone Arena	auburn	tennessee	2001
 32	Fri, Mar 9, 2001	CTOURN	N	Mississippi (14)	SEC	L	73	86		22	10	L 1	Bridgestone Arena	mississippi	tennessee	2001
-33	Fri, Mar 16, 2001	NCAA	N	Charlotte	CUSA	L	63	70		22	11	L 2		s/2001-03-16-char	tennessee	2001
+33	Fri, Mar 16, 2001	NCAA	N	Charlotte	CUSA	L	63	70		22	11	L 2		charlotte	tennessee	2001
 1	Mon, Nov 20, 2000	REG		Bethel (TN)		W	121	65		1	0	W 1	Skyhawk Arena	NA	tennessee-martin	2001
 2	Sat, Nov 25, 2000	REG		Centenary (LA)	Ind	W	69	56		2	0	W 2	Skyhawk Arena	centenary-la	tennessee-martin	2001
 3	Wed, Nov 29, 2000	REG	@	Memphis	CUSA	L	49	81		2	1	L 1	The Pyramid	memphis	tennessee-martin	2001
@@ -8149,7 +8149,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 9, 2001	CTOURN	N	Oklahoma State	Big 12	W	55	54		24	7	W 7	Kemper Arena	oklahoma-state	texas	2001
 32	Sat, Mar 10, 2001	CTOURN	N	Baylor	Big 12	W	76	62		25	7	W 8	Kemper Arena	baylor	texas	2001
 33	Sun, Mar 11, 2001	CTOURN	N	Oklahoma (16)	Big 12	L	45	54		25	8	L 1	Kemper Arena	oklahoma	texas	2001
-34	Fri, Mar 16, 2001	NCAA	N	Temple	A-10	L	65	79		25	9	L 2		s/2001-03-16-t	texas	2001
+34	Fri, Mar 16, 2001	NCAA	N	Temple	A-10	L	65	79		25	9	L 2		temple	texas	2001
 1	Sat, Nov 18, 2000	REG	@	George Washington	A-10	L	74	94		0	1	L 1	Charles E. Smith Center	george-washington	texas-am	2001
 2	Mon, Nov 20, 2000	REG		North Texas	Sun Belt	W	77	74		1	1	W 1	Reed Arena	north-texas	texas-am	2001
 3	Sun, Nov 26, 2000	REG		Birmingham-Southern		L	54	74		1	2	L 1	Reed Arena	NA	texas-am	2001
@@ -8603,9 +8603,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 3, 2001	REG		Stanford (1)	Pac-10	L	79	85		20	7	L 1	Pauley Pavilion	stanford	ucla	2001
 28	Thu, Mar 8, 2001	REG	@	Washington State	Pac-10	W	86	76		21	7	W 1	Friel Court	washington-state	ucla	2001
 29	Sat, Mar 10, 2001	REG	@	Washington	Pac-10	L	94	96		21	8	L 1	Bank of America Arena	washington	ucla	2001
-30	Thu, Mar 15, 2001	NCAA	N	Hofstra	AEC	W	61	48		22	8	W 1		s/2001-03-15-ho	ucla	2001
-31	Sat, Mar 17, 2001	NCAA	N	Utah State	Big West	W	75	50		23	8	W 2	Greensboro Coliseum	s/2001-03-17	ucla	2001
-32	Thu, Mar 22, 2001	NCAA	N	Duke (1)	ACC	L	63	76		23	9	L 1	Wells Fargo Center	s/2001-03-22	ucla	2001
+30	Thu, Mar 15, 2001	NCAA	N	Hofstra	AEC	W	61	48		22	8	W 1		hofstra	ucla	2001
+31	Sat, Mar 17, 2001	NCAA	N	Utah State	Big West	W	75	50		23	8	W 2	Greensboro Coliseum	utah-state	ucla	2001
+32	Thu, Mar 22, 2001	NCAA	N	Duke (1)	ACC	L	63	76		23	9	L 1	Wells Fargo Center	duke	ucla	2001
 1	Fri, Nov 17, 2000	REG		Idaho State	Big Sky	W	71	65		1	0	W 1	Jon M. Huntsman Center	idaho-state	utah	2001
 2	Thu, Nov 23, 2000	REG	@	American-Puerto Rico		W	94	37		2	0	W 2		NA	utah	2001
 3	Fri, Nov 24, 2000	REG	N	Georgia	SEC	L	60	65		2	1	L 1		georgia	utah	2001
@@ -8669,8 +8669,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 8, 2001	CTOURN	N	Cal State Fullerton	Big West	W	74	43		25	5	W 3	Honda Center	cal-state-fullerton	utah-state	2001
 31	Fri, Mar 9, 2001	CTOURN	N	Boise State	Big West	W	67	48		26	5	W 4	Honda Center	boise-state	utah-state	2001
 32	Sat, Mar 10, 2001	CTOURN	N	Pacific	Big West	W	50	38		27	5	W 5	Honda Center	pacific	utah-state	2001
-33	Thu, Mar 15, 2001	NCAA	N	Ohio State	Big Ten	W	77	68	OT	28	5	W 6	Greensboro Coliseum	s/2001-03-15-ohio-	utah-state	2001
-34	Sat, Mar 17, 2001	NCAA	N	UCLA (15)	Pac-10	L	50	75		28	6	L 1	Greensboro Coliseum	s/2001-03-17	utah-state	2001
+33	Thu, Mar 15, 2001	NCAA	N	Ohio State	Big Ten	W	77	68	OT	28	5	W 6	Greensboro Coliseum	ohio-state	utah-state	2001
+34	Sat, Mar 17, 2001	NCAA	N	UCLA (15)	Pac-10	L	50	75		28	6	L 1	Greensboro Coliseum	ucla	utah-state	2001
 1	Sat, Nov 18, 2000	REG		Indiana-South Bend		W	80	66		1	0	W 1	Athletics-Recreation Center	NA	valparaiso	2001
 2	Wed, Nov 22, 2000	REG	@	Alaska-Anchorage		W	83	67		2	0	W 2	Sullivan Arena	NA	valparaiso	2001
 3	Fri, Nov 24, 2000	REG	N	Missouri	Big 12	L	61	77		2	1	L 1	Sullivan Arena	missouri	valparaiso	2001
@@ -8821,7 +8821,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Wed, Feb 28, 2001	REG		Clemson	ACC	W	84	65		20	6	W 4	University Hall	clemson	virginia	2001
 27	Sat, Mar 3, 2001	REG	@	Maryland (16)	ACC	L	67	102		20	7	L 1	Cole Fieldhouse	maryland	virginia	2001
 28	Fri, Mar 9, 2001	CTOURN	@	Georgia Tech	ACC	L	69	74		20	8	L 2	The Omni	georgia-tech	virginia	2001
-29	Fri, Mar 16, 2001	NCAA	N	Gonzaga	WCC	L	85	86		20	9	L 3		s/2001-03-16-go	virginia	2001
+29	Fri, Mar 16, 2001	NCAA	N	Gonzaga	WCC	L	85	86		20	9	L 3		gonzaga	virginia	2001
 1	Fri, Nov 17, 2000	REG		Gardner-Webb		W	82	67		1	0	W 1	Alltel Pavilion at the Stuart C. Siegel Center	NA	virginia-commonwealth	2001
 2	Mon, Nov 20, 2000	REG	@	Tulane	CUSA	L	80	84		1	1	L 1	Avron B. Fogelman Arena	tulane	virginia-commonwealth	2001
 3	Wed, Nov 22, 2000	REG	@	East Tennessee State	Southern	W	63	53		2	1	W 1	Memorial Center	east-tennessee-state	virginia-commonwealth	2001
@@ -8965,7 +8965,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Feb 24, 2001	REG		Duke (4)	ACC	L	80	82		18	9	L 1	Lawrence Joel Coliseum	duke	wake-forest	2001
 28	Sun, Mar 4, 2001	REG	@	North Carolina State	ACC	W	76	58		19	9	W 1	RBC Center	north-carolina-state	wake-forest	2001
 29	Fri, Mar 9, 2001	CTOURN	N	Maryland (11)	ACC	L	53	71		19	10	L 1	The Omni	maryland	wake-forest	2001
-30	Fri, Mar 16, 2001	NCAA	N	Butler	MW Coll	L	63	79		19	11	L 2		s/2001-03-16-b	wake-forest	2001
+30	Fri, Mar 16, 2001	NCAA	N	Butler	MW Coll	L	63	79		19	11	L 2		butler	wake-forest	2001
 1	Tue, Nov 21, 2000	REG		Texas-El Paso	WAC	L	61	73		0	1	L 1	Bank of America Arena	texas-el-paso	washington	2001
 2	Sat, Nov 25, 2000	REG		New Mexico State	Sun Belt	W	81	77		1	1	W 1	Bank of America Arena	new-mexico-state	washington	2001
 3	Tue, Nov 28, 2000	REG		Portland State	Big Sky	W	94	63		2	1	W 2	Bank of America Arena	portland-state	washington	2001
@@ -9171,7 +9171,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 3, 2001	CTOURN	N	Florida International	Sun Belt	W	68	51		22	6	W 5	Mitchell Center	florida-international	western-kentucky	2001
 29	Mon, Mar 5, 2001	CTOURN	N	Louisiana-Lafayette	Sun Belt	W	82	75		23	6	W 6	Mitchell Center	louisiana-lafayette	western-kentucky	2001
 30	Tue, Mar 6, 2001	CTOURN	@	South Alabama	Sun Belt	W	64	54		24	6	W 7	Mitchell Center	south-alabama	western-kentucky	2001
-31	Fri, Mar 16, 2001	NCAA	N	Florida (8)	SEC	L	56	69		24	7	L 1	Louisiana Superdome	s/2001-03-16-fl	western-kentucky	2001
+31	Fri, Mar 16, 2001	NCAA	N	Florida (8)	SEC	L	56	69		24	7	L 1	Louisiana Superdome	florida	western-kentucky	2001
 1	Sat, Nov 18, 2000	REG		Hampton	MEAC	L	81	87	OT	0	1	L 1	University Arena	hampton	western-michigan	2001
 2	Tue, Nov 21, 2000	REG	@	Michigan	Big Ten	L	78	92		0	2	L 2	Crisler Arena	michigan	western-michigan	2001
 3	Sat, Nov 25, 2000	REG		Richmond	CAA	L	70	86		0	3	L 3	University Arena	richmond	western-michigan	2001
@@ -9286,7 +9286,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Feb 24, 2001	REG	@	North Carolina-Asheville	Big South	W	71	58		16	12	W 3	Charlie Justice Center	north-carolina-asheville	winthrop	2001
 29	Fri, Mar 2, 2001	CTOURN	N	Liberty	Big South	W	67	62	2OT	17	12	W 4	Roanoke Civic Center	liberty	winthrop	2001
 30	Sat, Mar 3, 2001	CTOURN	N	Radford	Big South	W	67	65	OT	18	12	W 5	Roanoke Civic Center	radford	winthrop	2001
-31	Tue, Mar 13, 2001	NCAA	N	Northwestern State	Southland	L	67	71		18	13	L 1	University of Dayton Arena	s/2001-03-13-northwestern-	winthrop	2001
+31	Tue, Mar 13, 2001	NCAA	N	Northwestern State	Southland	L	67	71		18	13	L 1	University of Dayton Arena	northwestern-state	winthrop	2001
 1	Tue, Nov 21, 2000	REG	@	Tennessee (9)	SEC	L	56	66		0	1	L 1	Thompson-Boling Arena	tennessee	wisconsin	2001
 2	Sat, Nov 25, 2000	REG		Northern Illinois	MAC	W	68	64		1	1	W 1	Kohl Center	northern-illinois	wisconsin	2001
 3	Wed, Nov 29, 2000	REG		Maryland (13)	ACC	W	78	75	OT	2	1	W 2	Kohl Center	maryland	wisconsin	2001
@@ -9315,7 +9315,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Tue, Feb 27, 2001	REG		Michigan State (3)	Big Ten	L	47	51		17	9	L 2	Kohl Center	michigan-state	wisconsin	2001
 27	Sat, Mar 3, 2001	REG	@	Iowa	Big Ten	W	59	57		18	9	W 1	Carver-Hawkeye Arena	iowa	wisconsin	2001
 28	Fri, Mar 9, 2001	CTOURN	N	Indiana	Big Ten	L	52	64		18	10	L 1	United Center	indiana	wisconsin	2001
-29	Thu, Mar 15, 2001	NCAA	N	Georgia State	A-Sun	L	49	50		18	11	L 2		s/2001-03-15-georgia-	wisconsin	2001
+29	Thu, Mar 15, 2001	NCAA	N	Georgia State	A-Sun	L	49	50		18	11	L 2		georgia-state	wisconsin	2001
 1	Fri, Nov 17, 2000	REG	@	Georgia Tech	ACC	L	49	92		0	1	L 1	Alexander Memorial Coliseum	georgia-tech	wofford	2001
 2	Tue, Nov 21, 2000	REG	@	South Carolina	SEC	L	48	74		0	2	L 2	Carolina Coliseum	south-carolina	wofford	2001
 3	Sat, Nov 25, 2000	REG		Guilford		W	68	50		1	2	W 1	Benjamin Johnson Arena	NA	wofford	2001
@@ -9431,7 +9431,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Sun, Feb 25, 2001	REG	@	La Salle	A-10	W	79	55		21	5	W 3	Tom Gola Arena	la-salle	xavier	2001
 27	Sun, Mar 4, 2001	REG	@	Dayton	A-10	L	62	65		21	6	L 1	University of Dayton Arena	dayton	xavier	2001
 28	Thu, Mar 8, 2001	CTOURN	N	George Washington	A-10	L	74	83		21	7	L 2	The Spectrum	george-washington	xavier	2001
-29	Fri, Mar 16, 2001	NCAA	N	Notre Dame (19)	Big East	L	71	83		21	8	L 3	Kemper Arena	s/2001-03-16-notre	xavier	2001
+29	Fri, Mar 16, 2001	NCAA	N	Notre Dame (19)	Big East	L	71	83		21	8	L 3	Kemper Arena	notre-dame	xavier	2001
 1	Fri, Nov 17, 2000	REG	@	Ohio State	Big Ten	L	45	65		0	1	L 1	Value City Arena	ohio-state	yale	2001
 2	Sun, Nov 19, 2000	REG	@	Cleveland State	MW Coll	L	70	80		0	2	L 2	Henry J. Goodman Arena	cleveland-state	yale	2001
 3	Wed, Nov 22, 2000	REG		Long Island University	NEC	W	67	53		1	2	W 1	John J. Lee Ampitheater	long-island-university	yale	2001

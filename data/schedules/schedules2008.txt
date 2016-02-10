@@ -284,7 +284,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Wed, Mar 5, 2008	CTOURN		Holy Cross	Patriot	W	62	60		19	11	W 2	Bender Arena	holy-cross	american	2008
 31	Sun, Mar 9, 2008	CTOURN		Army	Patriot	W	72	60		20	11	W 3	Bender Arena	army	american	2008
 32	Fri, Mar 14, 2008	CTOURN		Colgate	Patriot	W	52	46		21	11	W 4	Bender Arena	colgate	american	2008
-33	Fri, Mar 21, 2008	NCAA	N	Tennessee (5)	SEC	L	57	72		21	12	L 1		s/2008-03-21-ame	american	2008
+33	Fri, Mar 21, 2008	NCAA	N	Tennessee (5)	SEC	L	57	72		21	12	L 1		tennessee	american	2008
 1	Mon, Nov 12, 2007	REG	@	Charlotte	A-10	L	78	84		0	1	L 1	Dale F. Halton Arena	charlotte	appalachian-state	2008
 2	Thu, Nov 15, 2007	REG	N	Lipscomb	A-Sun	W	81	58		1	1	W 1	Murphy Athletic Center	lipscomb	appalachian-state	2008
 3	Fri, Nov 16, 2007	REG	N	San Jose State	WAC	L	62	64		1	2	L 1	Murphy Athletic Center	san-jose-state	appalachian-state	2008
@@ -349,7 +349,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 8, 2008	REG	@	Oregon	Pac-10	L	69	78		18	13	L 1	McArthur Court	oregon	arizona	2008
 32	Wed, Mar 12, 2008	CTOURN	N	Oregon State	Pac-10	W	87	56		19	13	W 1	Staples Center	oregon-state	arizona	2008
 33	Thu, Mar 13, 2008	CTOURN	N	Stanford (11)	Pac-10	L	64	75		19	14	L 1	Staples Center	stanford	arizona	2008
-34	Thu, Mar 20, 2008	NCAA	N	West Virginia	Big East	L	65	75		19	15	L 2		s/2008-03-20-ar	arizona	2008
+34	Thu, Mar 20, 2008	NCAA	N	West Virginia	Big East	L	65	75		19	15	L 2		west-virginia	arizona	2008
 1	Mon, Nov 19, 2007	REG	N	Illinois	Big Ten	L	54	77		0	1	L 1	Lahaina Civic Center	illinois	arizona-state	2008
 2	Tue, Nov 20, 2007	REG	N	Princeton	Ivy	W	61	42		1	1	W 1	Lahaina Civic Center	princeton	arizona-state	2008
 3	Wed, Nov 21, 2007	REG	N	Louisiana State	SEC	W	87	84	OT	2	1	W 2	Lahaina Civic Center	louisiana-state	arizona-state	2008
@@ -417,8 +417,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 14, 2008	CTOURN	N	Vanderbilt (18)	SEC	W	81	75		21	10	W 2	Georgia Dome	vanderbilt	arkansas	2008
 32	Sat, Mar 15, 2008	CTOURN	N	Tennessee (4)	SEC	W	92	91		22	10	W 3	Georgia Dome	tennessee	arkansas	2008
 33	Sun, Mar 16, 2008	CTOURN	N	Georgia	SEC	L	57	66		22	11	L 1	Georgia Dome	georgia	arkansas	2008
-34	Fri, Mar 21, 2008	NCAA	N	Indiana	Big Ten	W	86	72		23	11	W 1		s/2008-03-21-ark	arkansas	2008
-35	Sun, Mar 23, 2008	NCAA	N	North Carolina (1)	ACC	L	77	108		23	12	L 1		s/2008-03-23-ark	arkansas	2008
+34	Fri, Mar 21, 2008	NCAA	N	Indiana	Big Ten	W	86	72		23	11	W 1		indiana	arkansas	2008
+35	Sun, Mar 23, 2008	NCAA	N	North Carolina (1)	ACC	L	77	108		23	12	L 1		north-carolina	arkansas	2008
 1	Fri, Nov 9, 2007	REG		University of the Ozarks		W	92	54		1	0	W 1	Jack Stephens Center	NA	arkansas-little-rock	2008
 2	Mon, Nov 12, 2007	REG	@	Loyola Marymount	WCC	W	71	40		2	0	W 2	Albert Gersten Pavilion	loyola-marymount	arkansas-little-rock	2008
 3	Sun, Nov 18, 2007	REG		Texas-Arlington	Southland	L	58	68		2	1	L 1	Jack Stephens Center	texas-arlington	arkansas-little-rock	2008
@@ -605,7 +605,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Tue, Mar 4, 2008	CTOURN		Eastern Kentucky	OVC	W	76	51		22	10	W 4	Winfield Dunn Center	eastern-kentucky	austin-peay	2008
 33	Fri, Mar 7, 2008	CTOURN	N	Tennessee-Martin	OVC	W	78	77		23	10	W 5	Nashville Municipal Auditorium	tennessee-martin	austin-peay	2008
 34	Sat, Mar 8, 2008	CTOURN	@	Tennessee State	OVC	W	82	64		24	10	W 6	Nashville Municipal Auditorium	tennessee-state	austin-peay	2008
-35	Fri, Mar 21, 2008	NCAA	N	Texas (7)	Big 12	L	54	74		24	11	L 1		s/2008-03-21-austin	austin-peay	2008
+35	Fri, Mar 21, 2008	NCAA	N	Texas (7)	Big 12	L	54	74		24	11	L 1		texas	austin-peay	2008
 1	Fri, Nov 9, 2007	REG		Butler	Horizon	L	45	61		0	1	L 1	Worthen Arena	butler	ball-state	2008
 2	Wed, Nov 14, 2007	REG		Milwaukee	Horizon	L	74	81	OT	0	2	L 2	Worthen Arena	milwaukee	ball-state	2008
 3	Wed, Nov 21, 2007	REG		Georgetown (5)	Big East	L	48	57		0	3	L 3	Worthen Arena	georgetown	ball-state	2008
@@ -667,7 +667,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Wed, Mar 5, 2008	REG		Texas A&M	Big 12	L	57	71		20	9	L 1	Ferrell Center	texas-am	baylor	2008
 30	Sat, Mar 8, 2008	REG	@	Texas Tech	Big 12	W	86	73		21	9	W 1	United Spirit Arena	texas-tech	baylor	2008
 31	Thu, Mar 13, 2008	CTOURN	N	Colorado	Big 12	L	84	91	2OT	21	10	L 1	Sprint Center	colorado	baylor	2008
-32	Thu, Mar 20, 2008	NCAA	N	Purdue (20)	Big Ten	L	79	90		21	11	L 2		s/2008-03-20-b	baylor	2008
+32	Thu, Mar 20, 2008	NCAA	N	Purdue (20)	Big Ten	L	79	90		21	11	L 2		purdue	baylor	2008
 1	Fri, Nov 9, 2007	REG	@	Cincinnati	Big East	W	86	75		1	0	W 1	Fifth Third Arena	cincinnati	belmont	2008
 2	Sat, Nov 10, 2007	REG	N	Bowling Green State	MAC	L	67	78		1	1	L 1	Fifth Third Arena	bowling-green-state	belmont	2008
 3	Sun, Nov 11, 2007	REG	N	Western Carolina	Southern	W	79	70		2	1	W 1	Fifth Third Arena	western-carolina	belmont	2008
@@ -701,7 +701,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Wed, Mar 5, 2008	CTOURN		Campbell	A-Sun	W	75	66		23	8	W 11	Allen Arena	campbell	belmont	2008
 32	Fri, Mar 7, 2008	CTOURN		East Tennessee State	A-Sun	W	69	65		24	8	W 12	Allen Arena	east-tennessee-state	belmont	2008
 33	Sat, Mar 8, 2008	CTOURN		Jacksonville	A-Sun	W	79	61		25	8	W 13	Allen Arena	jacksonville	belmont	2008
-34	Thu, Mar 20, 2008	NCAA	N	Duke (9)	ACC	L	70	71		25	9	L 1		s/2008-03-20-be	belmont	2008
+34	Thu, Mar 20, 2008	NCAA	N	Duke (9)	ACC	L	70	71		25	9	L 1		duke	belmont	2008
 1	Sat, Nov 10, 2007	REG		Warner Southern		L	59	65		0	1	L 1	Moore Gymnasium	NA	bethune-cookman	2008
 2	Mon, Nov 12, 2007	REG		Florida Gulf Coast	A-Sun	L	57	60		0	2	L 2	Moore Gymnasium	florida-gulf-coast	bethune-cookman	2008
 3	Thu, Nov 15, 2007	REG	@	Purdue	Big Ten	L	40	66		0	3	L 3	Mackey Arena	purdue	bethune-cookman	2008
@@ -797,7 +797,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 13, 2008	CTOURN	N	Hawaii	WAC	W	80	74		23	8	W 1	Pan American Center	hawaii	boise-state	2008
 32	Fri, Mar 14, 2008	CTOURN	N	Utah State	WAC	W	88	78		24	8	W 2	Pan American Center	utah-state	boise-state	2008
 33	Sat, Mar 15, 2008	CTOURN	@	New Mexico State	WAC	W	107	102	3OT	25	8	W 3	Pan American Center	new-mexico-state	boise-state	2008
-34	Fri, Mar 21, 2008	NCAA	N	Louisville (13)	Big East	L	61	79		25	9	L 1		s/2008-03-21-boise-	boise-state	2008
+34	Fri, Mar 21, 2008	NCAA	N	Louisville (13)	Big East	L	61	79		25	9	L 1		louisville	boise-state	2008
 1	Sat, Nov 10, 2007	REG		New Hampshire	AEC	W	67	57		1	0	W 1	Silvio O. Conte Forum	new-hampshire	boston-college	2008
 2	Mon, Nov 12, 2007	REG		Florida Atlantic	Sun Belt	W	68	62		2	0	W 2	Silvio O. Conte Forum	florida-atlantic	boston-college	2008
 3	Sun, Nov 18, 2007	REG		Mercer	A-Sun	W	73	56		3	0	W 3	Silvio O. Conte Forum	mercer	boston-college	2008
@@ -962,7 +962,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Thu, Mar 13, 2008	CTOURN	N	Colorado State	MWC	W	89	62		26	6	W 5	Thomas & Mack Center	colorado-state	brigham-young	2008
 33	Fri, Mar 14, 2008	CTOURN	N	San Diego State	MWC	W	63	54		27	6	W 6	Thomas & Mack Center	san-diego-state	brigham-young	2008
 34	Sat, Mar 15, 2008	CTOURN	@	Nevada-Las Vegas	MWC	L	61	76		27	7	L 1	Thomas & Mack Center	nevada-las-vegas	brigham-young	2008
-35	Thu, Mar 20, 2008	NCAA	N	Texas A&M	Big 12	L	62	67		27	8	L 2	Honda Center	s/2008-03-20-brigham-	brigham-young	2008
+35	Thu, Mar 20, 2008	NCAA	N	Texas A&M	Big 12	L	62	67		27	8	L 2	Honda Center	texas-am	brigham-young	2008
 1	Fri, Nov 9, 2007	REG	@	Eastern Michigan	MAC	W	74	55		1	0	W 1	Convocation Center	eastern-michigan	brown	2008
 2	Sun, Nov 11, 2007	REG	@	Michigan	Big Ten	L	57	72		1	1	L 1	Crisler Arena	michigan	brown	2008
 3	Wed, Nov 14, 2007	REG		Rhode Island	A-10	L	61	75		1	2	L 2	Pizzitola Sports Center	rhode-island	brown	2008
@@ -1085,8 +1085,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 1, 2008	REG		Detroit Mercy	Horizon	W	65	31		27	3	W 2	Hinkle Fieldhouse	detroit-mercy	butler	2008
 31	Sat, Mar 8, 2008	CTOURN		Illinois-Chicago	Horizon	W	66	50		28	3	W 3	Hinkle Fieldhouse	illinois-chicago	butler	2008
 32	Tue, Mar 11, 2008	CTOURN		Cleveland State	Horizon	W	70	55		29	3	W 4	Hinkle Fieldhouse	cleveland-state	butler	2008
-33	Fri, Mar 21, 2008	NCAA	N	South Alabama	Sun Belt	W	81	61		30	3	W 5	Birmingham-Jefferson Civic Center	s/2008-03-21-b	butler	2008
-34	Sun, Mar 23, 2008	NCAA	N	Tennessee (5)	SEC	L	71	76	OT	30	4	L 1		s/2008-03-23-b	butler	2008
+33	Fri, Mar 21, 2008	NCAA	N	South Alabama	Sun Belt	W	81	61		30	3	W 5	Birmingham-Jefferson Civic Center	south-alabama	butler	2008
+34	Sun, Mar 23, 2008	NCAA	N	Tennessee (5)	SEC	L	71	76	OT	30	4	L 1		tennessee	butler	2008
 1	Fri, Nov 9, 2007	REG	N	Massachusetts	A-10	L	64	90		0	1	L 1	McLeod Center	massachusetts	cal-poly	2008
 2	Sat, Nov 10, 2007	REG	@	Northern Iowa	MVC	L	55	62		0	2	L 2	McLeod Center	northern-iowa	cal-poly	2008
 3	Sun, Nov 11, 2007	REG	N	Northern Illinois	MAC	W	88	78		1	2	W 1	McLeod Center	northern-illinois	cal-poly	2008
@@ -1149,7 +1149,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 13, 2008	CTOURN	N	UC-Riverside	Big West	W	81	69		22	8	W 4	Honda Center	california-riverside	cal-state-fullerton	2008
 31	Fri, Mar 14, 2008	CTOURN	N	Cal State Northridge	Big West	W	83	68		23	8	W 5	Honda Center	cal-state-northridge	cal-state-fullerton	2008
 32	Sat, Mar 15, 2008	CTOURN	N	UC-Irvine	Big West	W	81	66		24	8	W 6	Honda Center	california-irvine	cal-state-fullerton	2008
-33	Thu, Mar 20, 2008	NCAA	N	Wisconsin (6)	Big Ten	L	56	71		24	9	L 1		s/2008-03-20-cal-state-full	cal-state-fullerton	2008
+33	Thu, Mar 20, 2008	NCAA	N	Wisconsin (6)	Big Ten	L	56	71		24	9	L 1		wisconsin	cal-state-fullerton	2008
 1	Sat, Nov 10, 2007	REG		Chicago State	Ind	W	96	85		1	0	W 1	The Matadome	chicago-state	cal-state-northridge	2008
 2	Sat, Nov 17, 2007	REG	@	Pepperdine	WCC	W	97	89		2	0	W 2	Firestone Fieldhouse	pepperdine	cal-state-northridge	2008
 3	Wed, Nov 21, 2007	REG		Cal State Bakersfield	Ind	W	92	76		3	0	W 3	The Matadome	cal-state-bakersfield	cal-state-northridge	2008
@@ -1742,7 +1742,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 14, 2008	CTOURN	N	Boston College	ACC	W	82	48		23	8	W 2	Bojangles Coliseum	boston-college	clemson	2008
 32	Sat, Mar 15, 2008	CTOURN	N	Duke (7)	ACC	W	78	74		24	8	W 3	Times Warner Cable Arena	duke	clemson	2008
 33	Sun, Mar 16, 2008	CTOURN	N	North Carolina (1)	ACC	L	81	86		24	9	L 1	Bojangles Coliseum	north-carolina	clemson	2008
-34	Fri, Mar 21, 2008	NCAA	N	Villanova	Big East	L	69	75		24	10	L 2	St. Pete Times Forum	s/2008-03-21-cl	clemson	2008
+34	Fri, Mar 21, 2008	NCAA	N	Villanova	Big East	L	69	75		24	10	L 2	St. Pete Times Forum	villanova	clemson	2008
 1	Fri, Nov 9, 2007	REG	@	South Florida	Big East	W	73	70		1	0	W 1	Sun Dome	south-florida	cleveland-state	2008
 2	Tue, Nov 13, 2007	REG	@	George Mason	CAA	L	47	56		1	1	L 1	Patriot Center	george-mason	cleveland-state	2008
 3	Fri, Nov 16, 2007	REG	N	Georgia Southern	Southern	L	70	72		1	2	L 2	Ocean Center	georgia-southern	cleveland-state	2008
@@ -1995,7 +1995,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 6, 2008	REG	@	Providence	Big East	L	76	85		23	7	L 1	Dunkin' Donuts Center	providence	connecticut	2008
 31	Sun, Mar 9, 2008	REG		Cincinnati	Big East	W	96	51		24	7	W 1	Harry A. Gampel Pavilion	cincinnati	connecticut	2008
 32	Thu, Mar 13, 2008	CTOURN	N	West Virginia	Big East	L	72	78		24	8	L 1	Madison Square Garden (IV)	west-virginia	connecticut	2008
-33	Fri, Mar 21, 2008	NCAA	N	San Diego	WCC	L	69	70	OT	24	9	L 2	St. Pete Times Forum	s/2008-03-21-connec	connecticut	2008
+33	Fri, Mar 21, 2008	NCAA	N	San Diego	WCC	L	69	70	OT	24	9	L 2	St. Pete Times Forum	san-diego	connecticut	2008
 1	Fri, Nov 9, 2007	REG	N	Saint Paul's		W	69	65		1	0	W 1	Memorial Hall	NA	coppin-state	2008
 2	Sat, Nov 10, 2007	REG	N	Allen		W	72	61		2	0	W 2	Memorial Hall	NA	coppin-state	2008
 3	Sun, Nov 18, 2007	REG	@	Kent State	MAC	L	51	74		2	1	L 1	Memorial Athletic & Convocation Center	kent-state	coppin-state	2008
@@ -2032,7 +2032,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 34	Wed, Mar 12, 2008	CTOURN	N	Hampton	MEAC	W	75	74	OT	14	20	W 2	RBC Center	hampton	coppin-state	2008
 35	Fri, Mar 14, 2008	CTOURN	N	Norfolk State	MEAC	W	67	65		15	20	W 3	RBC Center	norfolk-state	coppin-state	2008
 36	Sat, Mar 15, 2008	CTOURN	N	Morgan State	MEAC	W	62	60		16	20	W 4	RBC Center	morgan-state	coppin-state	2008
-37	Tue, Mar 18, 2008	NCAA	N	Mount St. Mary's	NEC	L	60	69		16	21	L 1	University of Dayton Arena	s/2008-03-18-coppin-	coppin-state	2008
+37	Tue, Mar 18, 2008	NCAA	N	Mount St. Mary's	NEC	L	60	69		16	21	L 1	University of Dayton Arena	mount-st-marys	coppin-state	2008
 1	Sat, Nov 10, 2007	REG		Lehigh	Patriot	W	87	83		1	0	W 1	Newman Arena	lehigh	cornell	2008
 2	Sat, Nov 17, 2007	REG	@	Ohio	MAC	L	89	102		1	1	L 1	Convocation Center	ohio	cornell	2008
 3	Tue, Nov 20, 2007	REG		Army	Patriot	W	93	78		2	1	W 1	Newman Arena	army	cornell	2008
@@ -2060,7 +2060,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 25	Sat, Mar 1, 2008	REG		Harvard	Ivy	W	86	53		20	5	W 14	Newman Arena	harvard	cornell	2008
 26	Fri, Mar 7, 2008	REG	@	Pennsylvania	Ivy	W	94	92		21	5	W 15	The Palestra	pennsylvania	cornell	2008
 27	Sat, Mar 8, 2008	REG	@	Princeton	Ivy	W	71	64		22	5	W 16	Jadwin Gymnasium	princeton	cornell	2008
-28	Thu, Mar 20, 2008	NCAA	N	Stanford (10)	Pac-10	L	53	77		22	6	L 1		s/2008-03-20-co	cornell	2008
+28	Thu, Mar 20, 2008	NCAA	N	Stanford (10)	Pac-10	L	53	77		22	6	L 1		stanford	cornell	2008
 1	Fri, Nov 9, 2007	REG		DePaul	Big East	W	74	62		1	0	W 1	Qwest Center OMAHA	depaul	creighton	2008
 2	Sat, Nov 17, 2007	REG		Mississippi Valley State	SWAC	W	76	46		2	0	W 2	Qwest Center OMAHA	mississippi-valley-state	creighton	2008
 3	Sat, Nov 24, 2007	REG		Nebraska	Big 12	W	74	62		3	0	W 3	Qwest Center OMAHA	nebraska	creighton	2008
@@ -2154,10 +2154,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 8, 2008	CTOURN	N	Wofford	Southern	W	82	49		24	6	W 20	North Charleston Coliseum	wofford	davidson	2008
 31	Sun, Mar 9, 2008	CTOURN	N	North Carolina-Greensboro	Southern	W	82	52		25	6	W 21	North Charleston Coliseum	north-carolina-greensboro	davidson	2008
 32	Mon, Mar 10, 2008	CTOURN	N	Elon	Southern	W	65	49		26	6	W 22	North Charleston Coliseum	elon	davidson	2008
-33	Fri, Mar 21, 2008	NCAA	N	Gonzaga (24)	WCC	W	82	76		27	6	W 23		s/2008-03-21-dav	davidson	2008
-34	Sun, Mar 23, 2008	NCAA	N	Georgetown (8)	Big East	W	74	70		28	6	W 24		s/2008-03-23-dav	davidson	2008
-35	Fri, Mar 28, 2008	NCAA	N	Wisconsin (6)	Big Ten	W	73	56		29	6	W 25		s/2008-03-28-dav	davidson	2008
-36	Sun, Mar 30, 2008	NCAA	N	Kansas (4)	Big 12	L	57	59		29	7	L 1		s/2008-03-30-dav	davidson	2008
+33	Fri, Mar 21, 2008	NCAA	N	Gonzaga (24)	WCC	W	82	76		27	6	W 23		gonzaga	davidson	2008
+34	Sun, Mar 23, 2008	NCAA	N	Georgetown (8)	Big East	W	74	70		28	6	W 24		georgetown	davidson	2008
+35	Fri, Mar 28, 2008	NCAA	N	Wisconsin (6)	Big Ten	W	73	56		29	6	W 25		wisconsin	davidson	2008
+36	Sun, Mar 30, 2008	NCAA	N	Kansas (4)	Big 12	L	57	59		29	7	L 1		kansas	davidson	2008
 1	Sat, Nov 10, 2007	REG		East Tennessee State	A-Sun	W	78	74		1	0	W 1	University of Dayton Arena	east-tennessee-state	dayton	2008
 2	Sat, Nov 17, 2007	REG	@	George Mason	CAA	L	56	67		1	1	L 1	Patriot Center	george-mason	dayton	2008
 3	Wed, Nov 21, 2007	REG		Toledo	MAC	W	76	70		2	1	W 1	University of Dayton Arena	toledo	dayton	2008
@@ -2375,7 +2375,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Fri, Mar 7, 2008	CTOURN	N	Indiana State	MVC	W	68	46		26	4	W 2	Scottrade Center	indiana-state	drake	2008
 31	Sat, Mar 8, 2008	CTOURN	N	Creighton	MVC	W	75	67		27	4	W 3	Scottrade Center	creighton	drake	2008
 32	Sun, Mar 9, 2008	CTOURN	N	Illinois State	MVC	W	79	49		28	4	W 4	Scottrade Center	illinois-state	drake	2008
-33	Fri, Mar 21, 2008	NCAA	N	Western Kentucky	Sun Belt	L	99	101	OT	28	5	L 1	St. Pete Times Forum	s/2008-03-21-	drake	2008
+33	Fri, Mar 21, 2008	NCAA	N	Western Kentucky	Sun Belt	L	99	101	OT	28	5	L 1	St. Pete Times Forum	western-kentucky	drake	2008
 1	Fri, Nov 9, 2007	REG	@	Pennsylvania	Ivy	W	67	59	OT	1	0	W 1	The Palestra	pennsylvania	drexel	2008
 2	Sun, Nov 11, 2007	REG		Navy	Patriot	W	86	70		2	0	W 2	Daskalakis Athletic Center	navy	drexel	2008
 3	Wed, Nov 14, 2007	REG	@	Florida Gulf Coast	A-Sun	W	77	58		3	0	W 3	Alico Arena	florida-gulf-coast	drexel	2008
@@ -2440,8 +2440,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 8, 2008	REG		North Carolina (1)	ACC	L	68	76		26	4	L 1	Cameron Indoor Stadium	north-carolina	duke	2008
 31	Fri, Mar 14, 2008	CTOURN	N	Georgia Tech	ACC	W	82	70		27	4	W 1	Times Warner Cable Arena	georgia-tech	duke	2008
 32	Sat, Mar 15, 2008	CTOURN	N	Clemson	ACC	L	74	78		27	5	L 1	Times Warner Cable Arena	clemson	duke	2008
-33	Thu, Mar 20, 2008	NCAA	N	Belmont	A-Sun	W	71	70		28	5	W 1		s/2008-03-20-be	duke	2008
-34	Sat, Mar 22, 2008	NCAA	N	West Virginia	Big East	L	67	73		28	6	L 1	Verizon Center	s/2008-03-22	duke	2008
+33	Thu, Mar 20, 2008	NCAA	N	Belmont	A-Sun	W	71	70		28	5	W 1		belmont	duke	2008
+34	Sat, Mar 22, 2008	NCAA	N	West Virginia	Big East	L	67	73		28	6	L 1	Verizon Center	west-virginia	duke	2008
 1	Fri, Nov 9, 2007	REG		Howard	MEAC	W	129	59		1	0	W 1	A.J. Palumbo Center	howard	duquesne	2008
 2	Mon, Nov 12, 2007	REG		Winston-Salem	Ind	W	93	63		2	0	W 2	A.J. Palumbo Center	winston-salem	duquesne	2008
 3	Sat, Nov 17, 2007	REG	@	Rice	CUSA	W	86	59		3	0	W 3	Tudor Fieldhouse	rice	duquesne	2008
@@ -3095,7 +3095,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 8, 2008	CTOURN	N	Northeastern	CAA	W	63	52		21	10	W 1	Richmond Coliseum	northeastern	george-mason	2008
 32	Sun, Mar 9, 2008	CTOURN	N	North Carolina-Wilmington	CAA	W	53	41		22	10	W 2	Richmond Coliseum	north-carolina-wilmington	george-mason	2008
 33	Mon, Mar 10, 2008	CTOURN	N	William & Mary	CAA	W	68	59		23	10	W 3	Richmond Coliseum	william-mary	george-mason	2008
-34	Thu, Mar 20, 2008	NCAA	N	Notre Dame (15)	Big East	L	50	68		23	11	L 1		s/2008-03-20-george-	george-mason	2008
+34	Thu, Mar 20, 2008	NCAA	N	Notre Dame (15)	Big East	L	50	68		23	11	L 1		notre-dame	george-mason	2008
 1	Sat, Nov 10, 2007	REG		Mount St. Mary's	NEC	W	77	62		1	0	W 1	Charles E. Smith Center	mount-st-marys	george-washington	2008
 2	Wed, Nov 14, 2007	REG		Boston University	AEC	W	69	56		2	0	W 2	Charles E. Smith Center	boston-university	george-washington	2008
 3	Sat, Nov 24, 2007	REG	@	Maryland-Baltimore County	AEC	L	79	89		2	1	L 1	RAC Arena	maryland-baltimore-county	george-washington	2008
@@ -3154,8 +3154,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 13, 2008	CTOURN	N	Villanova	Big East	W	82	63		26	4	W 6	Madison Square Garden (IV)	villanova	georgetown	2008
 31	Fri, Mar 14, 2008	CTOURN	N	West Virginia	Big East	W	72	55		27	4	W 7	Madison Square Garden (IV)	west-virginia	georgetown	2008
 32	Sat, Mar 15, 2008	CTOURN	N	Pittsburgh	Big East	L	65	74		27	5	L 1	Madison Square Garden (IV)	pittsburgh	georgetown	2008
-33	Fri, Mar 21, 2008	NCAA	N	Maryland-Baltimore County	AEC	W	66	47		28	5	W 1	RBC Center	s/2008-03-21-georg	georgetown	2008
-34	Sun, Mar 23, 2008	NCAA	N	Davidson (23)	Southern	L	70	74		28	6	L 1		s/2008-03-23-dav	georgetown	2008
+33	Fri, Mar 21, 2008	NCAA	N	Maryland-Baltimore County	AEC	W	66	47		28	5	W 1	RBC Center	maryland-baltimore-county	georgetown	2008
+34	Sun, Mar 23, 2008	NCAA	N	Davidson (23)	Southern	L	70	74		28	6	L 1		davidson	georgetown	2008
 1	Fri, Nov 9, 2007	REG		Jacksonville State	OVC	W	107	65		1	0	W 1	Stegeman Coliseum	jacksonville-state	georgia	2008
 2	Wed, Nov 14, 2007	REG		Grambling	SWAC	W	83	70		2	0	W 2	Stegeman Coliseum	grambling	georgia	2008
 3	Tue, Nov 20, 2007	REG		Elon	Southern	W	76	65		3	0	W 3	Stegeman Coliseum	elon	georgia	2008
@@ -3189,7 +3189,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 14, 2008	CTOURN	N	Kentucky	SEC	W	60	56	OT	15	16	W 2	Alexander Memorial Coliseum	kentucky	georgia	2008
 32	Sat, Mar 15, 2008	CTOURN	N	Mississippi State	SEC	W	64	60		16	16	W 3	Georgia Dome	mississippi-state	georgia	2008
 33	Sun, Mar 16, 2008	CTOURN	N	Arkansas	SEC	W	66	57		17	16	W 4	Georgia Dome	arkansas	georgia	2008
-34	Thu, Mar 20, 2008	NCAA	N	Xavier (12)	A-10	L	61	73		17	17	L 1		s/2008-03-20-ge	georgia	2008
+34	Thu, Mar 20, 2008	NCAA	N	Xavier (12)	A-10	L	61	73		17	17	L 1		xavier	georgia	2008
 1	Mon, Nov 12, 2007	REG	@	Florida State	ACC	L	67	92		0	1	L 1	Donald L. Tucker Center	florida-state	georgia-southern	2008
 2	Fri, Nov 16, 2007	REG	N	Cleveland State	Horizon	W	72	70		1	1	W 1	Ocean Center	cleveland-state	georgia-southern	2008
 3	Sat, Nov 17, 2007	REG	N	Alabama-Birmingham	CUSA	W	59	57		2	1	W 2	Ocean Center	alabama-birmingham	georgia-southern	2008
@@ -3316,7 +3316,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Mon, Mar 3, 2008	REG		Santa Clara	WCC	W	88	54		24	6	W 7	McCarthey Athletic Center	santa-clara	gonzaga	2008
 31	Sun, Mar 9, 2008	CTOURN	N	Santa Clara	WCC	W	52	48		25	6	W 8	Jenny Craig Pavillion	santa-clara	gonzaga	2008
 32	Mon, Mar 10, 2008	CTOURN	@	San Diego	WCC	L	62	69		25	7	L 1	Jenny Craig Pavillion	san-diego	gonzaga	2008
-33	Fri, Mar 21, 2008	NCAA	N	Davidson (23)	Southern	L	76	82		25	8	L 2		s/2008-03-21-dav	gonzaga	2008
+33	Fri, Mar 21, 2008	NCAA	N	Davidson (23)	Southern	L	76	82		25	8	L 2		davidson	gonzaga	2008
 1	Sun, Nov 11, 2007	REG		Texas College		L	82	86	OT	0	1	L 1	HPER Complex	NA	grambling	2008
 2	Wed, Nov 14, 2007	REG	@	Georgia	SEC	L	70	83		0	2	L 2	Stegeman Coliseum	georgia	grambling	2008
 3	Sat, Nov 17, 2007	REG	@	South Alabama	Sun Belt	L	56	76		0	3	L 3	Mitchell Center	south-alabama	grambling	2008
@@ -3848,7 +3848,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Wed, Mar 5, 2008	REG		Minnesota	Big Ten	W	69	55		25	5	W 1	Assembly Hall	minnesota	indiana	2008
 31	Sun, Mar 9, 2008	REG	@	Penn State	Big Ten	L	64	68	OT	25	6	L 1	Bryce Jordan Center	penn-state	indiana	2008
 32	Fri, Mar 14, 2008	CTOURN	N	Minnesota	Big Ten	L	58	59		25	7	L 2	Conseco Fieldhouse	minnesota	indiana	2008
-33	Fri, Mar 21, 2008	NCAA	N	Arkansas	SEC	L	72	86		25	8	L 3		s/2008-03-21-ark	indiana	2008
+33	Fri, Mar 21, 2008	NCAA	N	Arkansas	SEC	L	72	86		25	8	L 3		arkansas	indiana	2008
 1	Fri, Nov 9, 2007	REG		Oakland City		W	78	45		1	0	W 1	Hulman Center	NA	indiana-state	2008
 2	Wed, Nov 14, 2007	REG	@	Butler (25)	Horizon	L	48	76		1	1	L 1	Hinkle Fieldhouse	butler	indiana-state	2008
 3	Sat, Nov 17, 2007	REG	@	North Texas	Sun Belt	L	69	78		1	2	L 2	Super Pit	north-texas	indiana-state	2008
@@ -4198,12 +4198,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Fri, Mar 14, 2008	CTOURN	N	Nebraska	Big 12	W	64	54		29	3	W 5	Sprint Center	nebraska	kansas	2008
 33	Sat, Mar 15, 2008	CTOURN	N	Texas A&M	Big 12	W	77	71		30	3	W 6	Sprint Center	texas-am	kansas	2008
 34	Sun, Mar 16, 2008	CTOURN	N	Texas (6)	Big 12	W	84	74		31	3	W 7	Sprint Center	texas	kansas	2008
-35	Thu, Mar 20, 2008	NCAA	N	Portland State	Big Sky	W	85	61		32	3	W 8	Qwest Center OMAHA	s/2008-03-20-k	kansas	2008
-36	Sat, Mar 22, 2008	NCAA	N	Nevada-Las Vegas	MWC	W	75	56		33	3	W 9	Qwest Center OMAHA	s/2008-03-22-k	kansas	2008
-37	Fri, Mar 28, 2008	NCAA	N	Villanova	Big East	W	72	57		34	3	W 10	Ford Field	s/2008-03-28-k	kansas	2008
-38	Sun, Mar 30, 2008	NCAA	N	Davidson (23)	Southern	W	59	57		35	3	W 11		s/2008-03-30-dav	kansas	2008
-39	Sat, Apr 5, 2008	NCAA	N	North Carolina (1)	ACC	W	84	66		36	3	W 12	Alamodome	s/2008-04-05-k	kansas	2008
-40	Mon, Apr 7, 2008	NCAA	N	Memphis (2)	CUSA	W	75	68	OT	37	3	W 13	Alamodome	s/2008-04-07-k	kansas	2008
+35	Thu, Mar 20, 2008	NCAA	N	Portland State	Big Sky	W	85	61		32	3	W 8	Qwest Center OMAHA	portland-state	kansas	2008
+36	Sat, Mar 22, 2008	NCAA	N	Nevada-Las Vegas	MWC	W	75	56		33	3	W 9	Qwest Center OMAHA	nevada-las-vegas	kansas	2008
+37	Fri, Mar 28, 2008	NCAA	N	Villanova	Big East	W	72	57		34	3	W 10	Ford Field	villanova	kansas	2008
+38	Sun, Mar 30, 2008	NCAA	N	Davidson (23)	Southern	W	59	57		35	3	W 11		davidson	kansas	2008
+39	Sat, Apr 5, 2008	NCAA	N	North Carolina (1)	ACC	W	84	66		36	3	W 12	Alamodome	north-carolina	kansas	2008
+40	Mon, Apr 7, 2008	NCAA	N	Memphis (2)	CUSA	W	75	68	OT	37	3	W 13	Alamodome	memphis	kansas	2008
 1	Fri, Nov 9, 2007	REG		Sacramento State	Big Sky	W	94	63		1	0	W 1	Bramlage Coliseum	sacramento-state	kansas-state	2008
 2	Sun, Nov 11, 2007	REG		Pittsburg State		W	76	66		2	0	W 2	Bramlage Coliseum	NA	kansas-state	2008
 3	Sat, Nov 17, 2007	REG		Western Illinois	Summit	W	77	64		3	0	W 3	Bramlage Coliseum	western-illinois	kansas-state	2008
@@ -4235,8 +4235,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Tue, Mar 4, 2008	REG		Colorado	Big 12	W	78	72		19	10	W 1	Bramlage Coliseum	colorado	kansas-state	2008
 30	Sat, Mar 8, 2008	REG	@	Iowa State	Big 12	W	73	69		20	10	W 2	James H. Hilton Coliseum 	iowa-state	kansas-state	2008
 31	Fri, Mar 14, 2008	CTOURN	N	Texas A&M	Big 12	L	60	63		20	11	L 1	Sprint Center	texas-am	kansas-state	2008
-32	Thu, Mar 20, 2008	NCAA	N	Southern California	Pac-10	W	80	67		21	11	W 1		s/2008-03-20-kansas-	kansas-state	2008
-33	Sat, Mar 22, 2008	NCAA	N	Wisconsin (6)	Big Ten	L	55	72		21	12	L 1		s/2008-03-22-kansas-	kansas-state	2008
+32	Thu, Mar 20, 2008	NCAA	N	Southern California	Pac-10	W	80	67		21	11	W 1		southern-california	kansas-state	2008
+33	Sat, Mar 22, 2008	NCAA	N	Wisconsin (6)	Big Ten	L	55	72		21	12	L 1		wisconsin	kansas-state	2008
 1	Sat, Nov 10, 2007	REG	@	Detroit Mercy	Horizon	L	60	61		0	1	L 1	Calihan Hall	detroit-mercy	kent-state	2008
 2	Thu, Nov 15, 2007	REG		Hampton	MEAC	W	77	71		1	1	W 1	Memorial Athletic & Convocation Center	hampton	kent-state	2008
 3	Sun, Nov 18, 2007	REG		Coppin State	MEAC	W	74	51		2	1	W 2	Memorial Athletic & Convocation Center	coppin-state	kent-state	2008
@@ -4271,7 +4271,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Thu, Mar 13, 2008	CTOURN	N	Toledo	MAC	W	77	57		26	6	W 3	Quicken Loans Arena	toledo	kent-state	2008
 33	Fri, Mar 14, 2008	CTOURN	N	Miami (OH)	MAC	W	49	47		27	6	W 4	Quicken Loans Arena	miami-oh	kent-state	2008
 34	Sat, Mar 15, 2008	CTOURN	N	Akron	MAC	W	74	55		28	6	W 5	Quicken Loans Arena	akron	kent-state	2008
-35	Thu, Mar 20, 2008	NCAA	N	Nevada-Las Vegas	MWC	L	58	71		28	7	L 1		s/2008-03-20-kent-	kent-state	2008
+35	Thu, Mar 20, 2008	NCAA	N	Nevada-Las Vegas	MWC	L	58	71		28	7	L 1		nevada-las-vegas	kent-state	2008
 1	Tue, Nov 6, 2007	REG		Central Arkansas	Southland	W	67	40		1	0	W 1	Rupp Arena	central-arkansas	kentucky	2008
 2	Wed, Nov 7, 2007	REG		Gardner-Webb	A-Sun	L	68	84		1	1	L 1	Rupp Arena	gardner-webb	kentucky	2008
 3	Wed, Nov 21, 2007	REG		Liberty	Big South	W	80	54		2	1	W 1	Rupp Arena	liberty	kentucky	2008
@@ -4302,7 +4302,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Wed, Mar 5, 2008	REG	@	South Carolina	SEC	W	71	63		17	11	W 1	The Colonial Life Arena	south-carolina	kentucky	2008
 29	Sun, Mar 9, 2008	REG		Florida	SEC	W	75	70		18	11	W 2	Rupp Arena	florida	kentucky	2008
 30	Fri, Mar 14, 2008	CTOURN	N	Georgia	SEC	L	56	60	OT	18	12	L 1	Alexander Memorial Coliseum	georgia	kentucky	2008
-31	Thu, Mar 20, 2008	NCAA	N	Marquette (25)	Big East	L	66	74		18	13	L 2		s/2008-03-20-ken	kentucky	2008
+31	Thu, Mar 20, 2008	NCAA	N	Marquette (25)	Big East	L	66	74		18	13	L 2		marquette	kentucky	2008
 1	Tue, Nov 13, 2007	REG		Maryland-Baltimore County	AEC	L	69	76		0	1	L 1	Tom Gola Arena	maryland-baltimore-county	la-salle	2008
 2	Sat, Nov 17, 2007	REG	@	Mount St. Mary's	NEC	W	66	63		1	1	W 1	Knott Arena	mount-st-marys	la-salle	2008
 3	Tue, Nov 20, 2007	REG	@	Howard	MEAC	L	63	69		1	2	L 1	Burr Gymnasium	howard	la-salle	2008
@@ -4733,10 +4733,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sun, Mar 2, 2008	REG		Villanova	Big East	W	68	54		24	6	W 9	Freedom Hall	villanova	louisville	2008
 31	Sat, Mar 8, 2008	REG	@	Georgetown (11)	Big East	L	52	55		24	7	L 1	Verizon Center	georgetown	louisville	2008
 32	Thu, Mar 13, 2008	CTOURN	N	Pittsburgh	Big East	L	69	76	OT	24	8	L 2	Madison Square Garden (IV)	pittsburgh	louisville	2008
-33	Fri, Mar 21, 2008	NCAA	N	Boise State	WAC	W	79	61		25	8	W 1		s/2008-03-21-boise-	louisville	2008
-34	Sun, Mar 23, 2008	NCAA	N	Oklahoma	Big 12	W	78	48		26	8	W 2	Birmingham-Jefferson Civic Center	s/2008-03-23-louis	louisville	2008
-35	Thu, Mar 27, 2008	NCAA	N	Tennessee (5)	SEC	W	79	60		27	8	W 3		s/2008-03-27-louis	louisville	2008
-36	Sat, Mar 29, 2008	NCAA	N	North Carolina (1)	ACC	L	73	83		27	9	L 1		s/2008-03-29-louis	louisville	2008
+33	Fri, Mar 21, 2008	NCAA	N	Boise State	WAC	W	79	61		25	8	W 1		boise-state	louisville	2008
+34	Sun, Mar 23, 2008	NCAA	N	Oklahoma	Big 12	W	78	48		26	8	W 2	Birmingham-Jefferson Civic Center	oklahoma	louisville	2008
+35	Thu, Mar 27, 2008	NCAA	N	Tennessee (5)	SEC	W	79	60		27	8	W 3		tennessee	louisville	2008
+36	Sat, Mar 29, 2008	NCAA	N	North Carolina (1)	ACC	L	73	83		27	9	L 1		north-carolina	louisville	2008
 1	Sat, Nov 10, 2007	REG		Le Moyne		W	73	57		1	0	W 1	Joseph J. Gentile Center	NA	loyola-il	2008
 2	Tue, Nov 13, 2007	REG	@	Eastern Illinois	OVC	W	72	65		2	0	W 2	Lantz Arena	eastern-illinois	loyola-il	2008
 3	Fri, Nov 16, 2007	REG		Western Michigan	MAC	L	61	63		2	1	L 1	Joseph J. Gentile Center	western-michigan	loyola-il	2008
@@ -4958,8 +4958,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Wed, Mar 12, 2008	CTOURN	N	Seton Hall	Big East	W	67	54		23	8	W 1	Madison Square Garden (IV)	seton-hall	marquette	2008
 32	Thu, Mar 13, 2008	CTOURN	N	Notre Dame (14)	Big East	W	89	79		24	8	W 2	Madison Square Garden (IV)	notre-dame	marquette	2008
 33	Fri, Mar 14, 2008	CTOURN	N	Pittsburgh	Big East	L	61	68		24	9	L 1	Madison Square Garden (IV)	pittsburgh	marquette	2008
-34	Thu, Mar 20, 2008	NCAA	N	Kentucky	SEC	W	74	66		25	9	W 1		s/2008-03-20-ken	marquette	2008
-35	Sat, Mar 22, 2008	NCAA	N	Stanford (10)	Pac-10	L	81	82	OT	25	10	L 1		s/2008-03-22-marq	marquette	2008
+34	Thu, Mar 20, 2008	NCAA	N	Kentucky	SEC	W	74	66		25	9	W 1		kentucky	marquette	2008
+35	Sat, Mar 22, 2008	NCAA	N	Stanford (10)	Pac-10	L	81	82	OT	25	10	L 1		stanford	marquette	2008
 1	Tue, Nov 13, 2007	REG		Pikeville		W	60	49		1	0	W 1	Henderson Center	NA	marshall	2008
 2	Tue, Nov 20, 2007	REG		East Tennessee State	A-Sun	W	84	83	OT	2	0	W 2	Henderson Center	east-tennessee-state	marshall	2008
 3	Sun, Nov 25, 2007	REG		Boston University	AEC	W	70	47		3	0	W 3	Henderson Center	boston-university	marshall	2008
@@ -5056,7 +5056,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 8, 2008	CTOURN	N	Stony Brook	AEC	W	76	60		22	8	W 1	Events Center	stony-brook	maryland-baltimore-county	2008
 31	Sun, Mar 9, 2008	CTOURN	N	Vermont	AEC	W	73	64		23	8	W 2	Events Center	vermont	maryland-baltimore-county	2008
 32	Sat, Mar 15, 2008	CTOURN		Hartford	AEC	W	82	65		24	8	W 3	RAC Arena	hartford	maryland-baltimore-county	2008
-33	Fri, Mar 21, 2008	NCAA	N	Georgetown (8)	Big East	L	47	66		24	9	L 1	RBC Center	s/2008-03-21-georg	maryland-baltimore-county	2008
+33	Fri, Mar 21, 2008	NCAA	N	Georgetown (8)	Big East	L	47	66		24	9	L 1	RBC Center	georgetown	maryland-baltimore-county	2008
 1	Fri, Nov 9, 2007	REG	@	Virginia Commonwealth	CAA	L	51	70		0	1	L 1	Alltel Pavilion at the Stuart C. Siegel Center	virginia-commonwealth	maryland-eastern-shore	2008
 2	Thu, Nov 15, 2007	REG		Stony Brook	AEC	W	53	52		1	1	W 1	Hytche Athletic Center	stony-brook	maryland-eastern-shore	2008
 3	Sun, Nov 18, 2007	REG	@	Bradley	MVC	L	71	98		1	2	L 1	Carver Arena	bradley	maryland-eastern-shore	2008
@@ -5188,12 +5188,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Thu, Mar 13, 2008	CTOURN		Tulane	CUSA	W	75	56		31	1	W 5	FedExForum	tulane	memphis	2008
 33	Fri, Mar 14, 2008	CTOURN	N	Southern Mississippi	CUSA	W	69	53		32	1	W 6	FedExForum	southern-mississippi	memphis	2008
 34	Sat, Mar 15, 2008	CTOURN		Tulsa	CUSA	W	77	51		33	1	W 7	FedExForum	tulsa	memphis	2008
-35	Fri, Mar 21, 2008	NCAA	N	Texas-Arlington	Southland	W	87	63		34	1	W 8	Alltel Arena	s/2008-03-21-me	memphis	2008
-36	Sun, Mar 23, 2008	NCAA	N	Mississippi State	SEC	W	77	74		35	1	W 9	Alltel Arena	s/2008-03-23-me	memphis	2008
-37	Fri, Mar 28, 2008	NCAA	N	Michigan State (18)	Big Ten	W	92	74		36	1	W 10	Reliant Stadium	s/2008-03-28-me	memphis	2008
-38	Sun, Mar 30, 2008	NCAA	N	Texas (7)	Big 12	W	85	67		37	1	W 11		s/2008-03-30-me	memphis	2008
-39	Sat, Apr 5, 2008	NCAA	N	UCLA (3)	Pac-10	W	78	63		38	1	W 12	Alamodome	s/2008-04-05-me	memphis	2008
-40	Mon, Apr 7, 2008	NCAA	N	Kansas (4)	Big 12	L	68	75	OT	38	2	L 1	Alamodome	s/2008-04-07-k	memphis	2008
+35	Fri, Mar 21, 2008	NCAA	N	Texas-Arlington	Southland	W	87	63		34	1	W 8	Alltel Arena	texas-arlington	memphis	2008
+36	Sun, Mar 23, 2008	NCAA	N	Mississippi State	SEC	W	77	74		35	1	W 9	Alltel Arena	mississippi-state	memphis	2008
+37	Fri, Mar 28, 2008	NCAA	N	Michigan State (18)	Big Ten	W	92	74		36	1	W 10	Reliant Stadium	michigan-state	memphis	2008
+38	Sun, Mar 30, 2008	NCAA	N	Texas (7)	Big 12	W	85	67		37	1	W 11		texas	memphis	2008
+39	Sat, Apr 5, 2008	NCAA	N	UCLA (3)	Pac-10	W	78	63		38	1	W 12	Alamodome	ucla	memphis	2008
+40	Mon, Apr 7, 2008	NCAA	N	Kansas (4)	Big 12	L	68	75	OT	38	2	L 1	Alamodome	kansas	memphis	2008
 1	Sat, Nov 10, 2007	REG	@	Southern California (18)	Pac-10	W	96	81		1	0	W 1	Galen Center	southern-california	mercer	2008
 2	Tue, Nov 13, 2007	REG		Alabama	SEC	L	83	90		1	1	L 1	University Center	alabama	mercer	2008
 3	Fri, Nov 16, 2007	REG	@	Harvard	Ivy	L	73	91		1	2	L 2	Lavietes Pavilion	harvard	mercer	2008
@@ -5256,8 +5256,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 8, 2008	REG	@	Florida State	ACC	L	72	75	OT	21	9	L 1	Donald L. Tucker Center	florida-state	miami-fl	2008
 31	Thu, Mar 13, 2008	CTOURN	N	North Carolina State	ACC	W	63	50		22	9	W 1	Bojangles Coliseum	north-carolina-state	miami-fl	2008
 32	Fri, Mar 14, 2008	CTOURN	N	Virginia Tech	ACC	L	49	63		22	10	L 1	Bojangles Coliseum	virginia-tech	miami-fl	2008
-33	Fri, Mar 21, 2008	NCAA	N	Saint Mary's (CA)	WCC	W	78	64		23	10	W 1	Alltel Arena	s/2008-03-21-mia	miami-fl	2008
-34	Sun, Mar 23, 2008	NCAA	N	Texas (7)	Big 12	L	72	75		23	11	L 1		s/2008-03-23-mia	miami-fl	2008
+33	Fri, Mar 21, 2008	NCAA	N	Saint Mary's (CA)	WCC	W	78	64		23	10	W 1	Alltel Arena	saint-marys-ca	miami-fl	2008
+34	Sun, Mar 23, 2008	NCAA	N	Texas (7)	Big 12	L	72	75		23	11	L 1		texas	miami-fl	2008
 1	Tue, Nov 13, 2007	REG		Xavier	A-10	W	59	57		1	0	W 1	Millett Hall	xavier	miami-oh	2008
 2	Thu, Nov 22, 2007	REG	N	South Alabama	Sun Belt	W	64	59		2	0	W 2	Anaheim Convention Center	south-alabama	miami-oh	2008
 3	Fri, Nov 23, 2007	REG	N	Southern California	Pac-10	L	53	57		2	1	L 1	Anaheim Convention Center	southern-california	miami-oh	2008
@@ -5356,9 +5356,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sun, Mar 9, 2008	REG	@	Ohio State	Big Ten	L	54	63		24	7	L 1	Value City Arena	ohio-state	michigan-state	2008
 32	Fri, Mar 14, 2008	CTOURN	N	Ohio State	Big Ten	W	67	60		25	7	W 1	Conseco Fieldhouse	ohio-state	michigan-state	2008
 33	Sat, Mar 15, 2008	CTOURN	N	Wisconsin (8)	Big Ten	L	63	65		25	8	L 1	Conseco Fieldhouse	wisconsin	michigan-state	2008
-34	Thu, Mar 20, 2008	NCAA	N	Temple	A-10	W	72	61		26	8	W 1	The Pepsi Center	s/2008-03-20-michigan-	michigan-state	2008
-35	Sat, Mar 22, 2008	NCAA	N	Pittsburgh (17)	Big East	W	65	54		27	8	W 2		s/2008-03-22-michigan-	michigan-state	2008
-36	Fri, Mar 28, 2008	NCAA	N	Memphis (2)	CUSA	L	74	92		27	9	L 1	Reliant Stadium	s/2008-03-28-me	michigan-state	2008
+34	Thu, Mar 20, 2008	NCAA	N	Temple	A-10	W	72	61		26	8	W 1	The Pepsi Center	temple	michigan-state	2008
+35	Sat, Mar 22, 2008	NCAA	N	Pittsburgh (17)	Big East	W	65	54		27	8	W 2		pittsburgh	michigan-state	2008
+36	Fri, Mar 28, 2008	NCAA	N	Memphis (2)	CUSA	L	74	92		27	9	L 1	Reliant Stadium	memphis	michigan-state	2008
 1	Thu, Nov 15, 2007	REG		San Jose State	WAC	L	77	78		0	1	L 1	Murphy Athletic Center	san-jose-state	middle-tennessee	2008
 2	Fri, Nov 16, 2007	REG		Lipscomb	A-Sun	W	68	62		1	1	W 1	Murphy Athletic Center	lipscomb	middle-tennessee	2008
 3	Sat, Nov 17, 2007	REG		Appalachian State	Southern	L	79	84		1	2	L 1	Murphy Athletic Center	appalachian-state	middle-tennessee	2008
@@ -5522,8 +5522,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 8, 2008	REG		Louisiana State	SEC	W	84	75		21	9	W 1	Humphrey Coliseum	louisiana-state	mississippi-state	2008
 31	Fri, Mar 14, 2008	CTOURN	N	Alabama	SEC	W	69	67	OT	22	9	W 2	Georgia Dome	alabama	mississippi-state	2008
 32	Sat, Mar 15, 2008	CTOURN	N	Georgia	SEC	L	60	64		22	10	L 1	Georgia Dome	georgia	mississippi-state	2008
-33	Fri, Mar 21, 2008	NCAA	N	Oregon	Pac-10	W	76	69		23	10	W 1	Alltel Arena	s/2008-03-21-mississippi-	mississippi-state	2008
-34	Sun, Mar 23, 2008	NCAA	N	Memphis (2)	CUSA	L	74	77		23	11	L 1	Alltel Arena	s/2008-03-23-me	mississippi-state	2008
+33	Fri, Mar 21, 2008	NCAA	N	Oregon	Pac-10	W	76	69		23	10	W 1	Alltel Arena	oregon	mississippi-state	2008
+34	Sun, Mar 23, 2008	NCAA	N	Memphis (2)	CUSA	L	74	77		23	11	L 1	Alltel Arena	memphis	mississippi-state	2008
 1	Sat, Nov 10, 2007	REG	@	Mississippi	SEC	L	63	97		0	1	L 1	C.M. Tad Smith Coliseum	mississippi	mississippi-valley-state	2008
 2	Thu, Nov 15, 2007	REG	@	Pittsburgh (19)	Big East	L	45	78		0	2	L 2	Petersen Events Center	pittsburgh	mississippi-valley-state	2008
 3	Sat, Nov 17, 2007	REG	@	Creighton	MVC	L	46	76		0	3	L 3	Qwest Center OMAHA	creighton	mississippi-valley-state	2008
@@ -5556,7 +5556,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Wed, Mar 12, 2008	CTOURN	N	Grambling	SWAC	W	79	73		15	15	W 7	Fair Park Arena	grambling	mississippi-valley-state	2008
 31	Fri, Mar 14, 2008	CTOURN	N	Arkansas-Pine Bluff	SWAC	W	70	59		16	15	W 8	Fair Park Arena	arkansas-pine-bluff	mississippi-valley-state	2008
 32	Sat, Mar 15, 2008	CTOURN	N	Jackson State	SWAC	W	59	58		17	15	W 9	Fair Park Arena	jackson-state	mississippi-valley-state	2008
-33	Thu, Mar 20, 2008	NCAA	N	UCLA (3)	Pac-10	L	29	70		17	16	L 1		s/2008-03-20-mississippi-valley-	mississippi-valley-state	2008
+33	Thu, Mar 20, 2008	NCAA	N	UCLA (3)	Pac-10	L	29	70		17	16	L 1		ucla	mississippi-valley-state	2008
 1	Mon, Nov 12, 2007	REG		Central Michigan	MAC	W	87	76		1	0	W 1	Mizzou Arena	central-michigan	missouri	2008
 2	Tue, Nov 13, 2007	REG		Fordham	A-10	W	79	55		2	0	W 2	Mizzou Arena	fordham	missouri	2008
 3	Fri, Nov 16, 2007	REG		Southern	SWAC	W	95	50		3	0	W 3	Mizzou Arena	southern	missouri	2008
@@ -5840,8 +5840,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 6, 2008	CTOURN		Quinnipiac	NEC	W	80	70		16	14	W 3	Knott Arena	quinnipiac	mount-st-marys	2008
 31	Sun, Mar 9, 2008	CTOURN	@	Robert Morris	NEC	W	83	65		17	14	W 4	Charles L. Sewall Center	robert-morris	mount-st-marys	2008
 32	Wed, Mar 12, 2008	CTOURN	@	Sacred Heart	NEC	W	68	55		18	14	W 5	William H. Pitt Center	sacred-heart	mount-st-marys	2008
-33	Tue, Mar 18, 2008	NCAA	N	Coppin State	MEAC	W	69	60		19	14	W 6	University of Dayton Arena	s/2008-03-18-coppin-	mount-st-marys	2008
-34	Fri, Mar 21, 2008	NCAA	N	North Carolina (1)	ACC	L	74	113		19	15	L 1		s/2008-03-21-mount-st-	mount-st-marys	2008
+33	Tue, Mar 18, 2008	NCAA	N	Coppin State	MEAC	W	69	60		19	14	W 6	University of Dayton Arena	coppin-state	mount-st-marys	2008
+34	Fri, Mar 21, 2008	NCAA	N	North Carolina (1)	ACC	L	74	113		19	15	L 1		north-carolina	mount-st-marys	2008
 1	Sat, Nov 10, 2007	REG		Rider	MAAC	W	66	65		1	0	W 1	Regional Special Events Center	rider	murray-state	2008
 2	Sat, Nov 17, 2007	REG	@	Western Kentucky	Sun Belt	L	63	87		1	1	L 1	E.A. Diddle Arena	western-kentucky	murray-state	2008
 3	Fri, Nov 23, 2007	REG		Avila		W	84	55		2	1	W 1	Regional Special Events Center	NA	murray-state	2008
@@ -6002,8 +6002,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 13, 2008	CTOURN		Texas Christian	MWC	W	89	88		24	7	W 2	Thomas & Mack Center	texas-christian	nevada-las-vegas	2008
 32	Fri, Mar 14, 2008	CTOURN		Utah	MWC	W	61	55		25	7	W 3	Thomas & Mack Center	utah	nevada-las-vegas	2008
 33	Sat, Mar 15, 2008	CTOURN		Brigham Young (24)	MWC	W	76	61		26	7	W 4	Thomas & Mack Center	brigham-young	nevada-las-vegas	2008
-34	Thu, Mar 20, 2008	NCAA	N	Kent State	MAC	W	71	58		27	7	W 5		s/2008-03-20-kent-	nevada-las-vegas	2008
-35	Sat, Mar 22, 2008	NCAA	N	Kansas (4)	Big 12	L	56	75		27	8	L 1	Qwest Center OMAHA	s/2008-03-22-k	nevada-las-vegas	2008
+34	Thu, Mar 20, 2008	NCAA	N	Kent State	MAC	W	71	58		27	7	W 5		kent-state	nevada-las-vegas	2008
+35	Sat, Mar 22, 2008	NCAA	N	Kansas (4)	Big 12	L	56	75		27	8	L 1	Qwest Center OMAHA	kansas	nevada-las-vegas	2008
 1	Sat, Nov 10, 2007	REG	@	Boston College	ACC	L	57	67		0	1	L 1	Silvio O. Conte Forum	boston-college	new-hampshire	2008
 2	Wed, Nov 14, 2007	REG		Suffolk		W	95	46		1	1	W 1	Lundholm Gymnasium	NA	new-hampshire	2008
 3	Sat, Nov 17, 2007	REG	@	Central Connecticut State	NEC	W	78	70		2	1	W 2	Detrick Gymnasium	central-connecticut-state	new-hampshire	2008
@@ -6258,11 +6258,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Fri, Mar 14, 2008	CTOURN	N	Florida State	ACC	W	82	70		30	2	W 9	Bojangles Coliseum	florida-state	north-carolina	2008
 33	Sat, Mar 15, 2008	CTOURN	N	Virginia Tech	ACC	W	68	66		31	2	W 10	Bojangles Coliseum	virginia-tech	north-carolina	2008
 34	Sun, Mar 16, 2008	CTOURN	N	Clemson	ACC	W	86	81		32	2	W 11	Bojangles Coliseum	clemson	north-carolina	2008
-35	Fri, Mar 21, 2008	NCAA	N	Mount St. Mary's	NEC	W	113	74		33	2	W 12		s/2008-03-21-mount-st-	north-carolina	2008
-36	Sun, Mar 23, 2008	NCAA	N	Arkansas	SEC	W	108	77		34	2	W 13		s/2008-03-23-ark	north-carolina	2008
-37	Thu, Mar 27, 2008	NCAA	N	Washington State (21)	Pac-10	W	68	47		35	2	W 14	Times Warner Cable Arena	s/2008-03-27-north-car	north-carolina	2008
-38	Sat, Mar 29, 2008	NCAA	N	Louisville (13)	Big East	W	83	73		36	2	W 15		s/2008-03-29-louis	north-carolina	2008
-39	Sat, Apr 5, 2008	NCAA	N	Kansas (4)	Big 12	L	66	84		36	3	L 1	Alamodome	s/2008-04-05-k	north-carolina	2008
+35	Fri, Mar 21, 2008	NCAA	N	Mount St. Mary's	NEC	W	113	74		33	2	W 12		mount-st-marys	north-carolina	2008
+36	Sun, Mar 23, 2008	NCAA	N	Arkansas	SEC	W	108	77		34	2	W 13		arkansas	north-carolina	2008
+37	Thu, Mar 27, 2008	NCAA	N	Washington State (21)	Pac-10	W	68	47		35	2	W 14	Times Warner Cable Arena	washington-state	north-carolina	2008
+38	Sat, Mar 29, 2008	NCAA	N	Louisville (13)	Big East	W	83	73		36	2	W 15		louisville	north-carolina	2008
+39	Sat, Apr 5, 2008	NCAA	N	Kansas (4)	Big 12	L	66	84		36	3	L 1	Alamodome	kansas	north-carolina	2008
 1	Fri, Nov 9, 2007	REG		Furman	Southern	W	78	75		1	0	W 1	Charlie Justice Center	furman	north-carolina-asheville	2008
 2	Sun, Nov 11, 2007	REG		Lees-McRae		W	74	48		2	0	W 2	Charlie Justice Center	NA	north-carolina-asheville	2008
 3	Tue, Nov 13, 2007	REG		Brevard		W	75	35		3	0	W 3	Charlie Justice Center	NA	north-carolina-asheville	2008
@@ -6699,8 +6699,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Wed, Mar 5, 2008	REG		St. John's (NY)	Big East	W	68	55		23	6	W 2	Purcell Pavilion at the Joyce Center	st-johns-ny	notre-dame	2008
 30	Sat, Mar 8, 2008	REG	@	South Florida	Big East	W	67	60		24	6	W 3	Sun Dome	south-florida	notre-dame	2008
 31	Thu, Mar 13, 2008	CTOURN	N	Marquette (25)	Big East	L	79	89		24	7	L 1	Madison Square Garden (IV)	marquette	notre-dame	2008
-32	Thu, Mar 20, 2008	NCAA	N	George Mason	CAA	W	68	50		25	7	W 1		s/2008-03-20-george-	notre-dame	2008
-33	Sat, Mar 22, 2008	NCAA	N	Washington State (21)	Pac-10	L	41	61		25	8	L 1		s/2008-03-22-notre	notre-dame	2008
+32	Thu, Mar 20, 2008	NCAA	N	George Mason	CAA	W	68	50		25	7	W 1		george-mason	notre-dame	2008
+33	Sat, Mar 22, 2008	NCAA	N	Washington State (21)	Pac-10	L	41	61		25	8	L 1		washington-state	notre-dame	2008
 1	Fri, Nov 9, 2007	REG	@	Green Bay	Horizon	L	75	76		0	1	L 1	Resch Center	green-bay	oakland	2008
 2	Sun, Nov 11, 2007	REG		Adrian		W	86	46		1	1	W 1	Athletics Center O'rena	NA	oakland	2008
 3	Sat, Nov 17, 2007	REG		Eastern Michigan	MAC	W	86	71		2	1	W 2	Athletics Center O'rena	eastern-michigan	oakland	2008
@@ -6835,8 +6835,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 8, 2008	REG		Missouri	Big 12	W	75	66		21	10	W 3	Lloyd Noble Center	missouri	oklahoma	2008
 32	Fri, Mar 14, 2008	CTOURN	N	Colorado	Big 12	W	54	49		22	10	W 4	Sprint Center	colorado	oklahoma	2008
 33	Sat, Mar 15, 2008	CTOURN	N	Texas (6)	Big 12	L	49	77		22	11	L 1	Sprint Center	texas	oklahoma	2008
-34	Fri, Mar 21, 2008	NCAA	N	Saint Joseph's	A-10	W	72	64		23	11	W 1	Birmingham-Jefferson Civic Center	s/2008-03-21-okl	oklahoma	2008
-35	Sun, Mar 23, 2008	NCAA	N	Louisville (13)	Big East	L	48	78		23	12	L 1	Birmingham-Jefferson Civic Center	s/2008-03-23-louis	oklahoma	2008
+34	Fri, Mar 21, 2008	NCAA	N	Saint Joseph's	A-10	W	72	64		23	11	W 1	Birmingham-Jefferson Civic Center	saint-josephs	oklahoma	2008
+35	Sun, Mar 23, 2008	NCAA	N	Louisville (13)	Big East	L	48	78		23	12	L 1	Birmingham-Jefferson Civic Center	louisville	oklahoma	2008
 1	Fri, Nov 9, 2007	REG		Prairie View	SWAC	W	104	48		1	0	W 1	Gallagher-Iba Arena	prairie-view	oklahoma-state	2008
 2	Wed, Nov 14, 2007	REG	@	North Texas	Sun Belt	L	73	82		1	1	L 1	Super Pit	north-texas	oklahoma-state	2008
 3	Mon, Nov 19, 2007	REG	N	Louisiana State	SEC	W	83	77		2	1	W 1	Lahaina Civic Center	louisiana-state	oklahoma-state	2008
@@ -6936,7 +6936,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 8, 2008	CTOURN	N	Centenary (LA)	Summit	W	84	56		22	8	W 1	Union Multipurpose Activity Center	centenary-la	oral-roberts	2008
 31	Mon, Mar 10, 2008	CTOURN	N	IPFW	Summit	W	58	42		23	8	W 2	Union Multipurpose Activity Center	ipfw	oral-roberts	2008
 32	Tue, Mar 11, 2008	CTOURN	N	IUPUI	Summit	W	71	64		24	8	W 3	Union Multipurpose Activity Center	iupui	oral-roberts	2008
-33	Thu, Mar 20, 2008	NCAA	N	Pittsburgh (17)	Big East	L	63	82		24	9	L 1		s/2008-03-20-oral-ro	oral-roberts	2008
+33	Thu, Mar 20, 2008	NCAA	N	Pittsburgh (17)	Big East	L	63	82		24	9	L 1		pittsburgh	oral-roberts	2008
 1	Sat, Nov 10, 2007	REG		Pepperdine	WCC	W	100	70		1	0	W 1	McArthur Court	pepperdine	oregon	2008
 2	Sun, Nov 11, 2007	REG		Pacific	Big West	W	80	64		2	0	W 2	McArthur Court	pacific	oregon	2008
 3	Mon, Nov 12, 2007	REG		Western Michigan	MAC	W	97	88		3	0	W 3	McArthur Court	western-michigan	oregon	2008
@@ -6968,7 +6968,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 6, 2008	REG		Arizona State	Pac-10	W	67	61		17	12	W 2	McArthur Court	arizona-state	oregon	2008
 30	Sat, Mar 8, 2008	REG		Arizona	Pac-10	W	78	69		18	12	W 3	McArthur Court	arizona	oregon	2008
 31	Thu, Mar 13, 2008	CTOURN	N	Washington State (21)	Pac-10	L	70	75		18	13	L 1	Staples Center	washington-state	oregon	2008
-32	Fri, Mar 21, 2008	NCAA	N	Mississippi State	SEC	L	69	76		18	14	L 2	Alltel Arena	s/2008-03-21-mississippi-	oregon	2008
+32	Fri, Mar 21, 2008	NCAA	N	Mississippi State	SEC	L	69	76		18	14	L 2	Alltel Arena	mississippi-state	oregon	2008
 1	Thu, Nov 15, 2007	REG	N	Colorado State	MWC	L	56	69		0	1	L 1	Carlson Center	colorado-state	oregon-state	2008
 2	Sat, Nov 17, 2007	REG	@	Alaska-Fairbanks		L	60	62		0	2	L 2	Carlson Center	NA	oregon-state	2008
 3	Sun, Nov 18, 2007	REG	N	South Carolina Upstate	A-Sun	W	65	46		1	2	W 1	Carlson Center	south-carolina-upstate	oregon-state	2008
@@ -7160,8 +7160,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 33	Thu, Mar 13, 2008	CTOURN	N	Louisville (13)	Big East	W	76	69	OT	24	9	W 3	Madison Square Garden (IV)	louisville	pittsburgh	2008
 34	Fri, Mar 14, 2008	CTOURN	N	Marquette (25)	Big East	W	68	61		25	9	W 4	Madison Square Garden (IV)	marquette	pittsburgh	2008
 35	Sat, Mar 15, 2008	CTOURN	N	Georgetown (9)	Big East	W	74	65		26	9	W 5	Madison Square Garden (IV)	georgetown	pittsburgh	2008
-36	Thu, Mar 20, 2008	NCAA	N	Oral Roberts	Summit	W	82	63		27	9	W 6		s/2008-03-20-oral-ro	pittsburgh	2008
-37	Sat, Mar 22, 2008	NCAA	N	Michigan State (18)	Big Ten	L	54	65		27	10	L 1		s/2008-03-22-michigan-	pittsburgh	2008
+36	Thu, Mar 20, 2008	NCAA	N	Oral Roberts	Summit	W	82	63		27	9	W 6		oral-roberts	pittsburgh	2008
+37	Sat, Mar 22, 2008	NCAA	N	Michigan State (18)	Big Ten	L	54	65		27	10	L 1		michigan-state	pittsburgh	2008
 1	Fri, Nov 9, 2007	REG	@	Fresno State	WAC	L	68	75		0	1	L 1	Save Mart Center	fresno-state	portland	2008
 2	Sat, Nov 10, 2007	REG	N	San Diego State	MWC	L	64	78		0	2	L 2	Save Mart Center	san-diego-state	portland	2008
 3	Sun, Nov 11, 2007	REG	N	Liberty	Big South	W	73	62		1	2	W 1	Save Mart Center	liberty	portland	2008
@@ -7225,7 +7225,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Tue, Mar 4, 2008	REG		Eastern Washington	Big Sky	W	76	74		21	9	W 3	Peter W. Stott Center	eastern-washington	portland-state	2008
 31	Tue, Mar 11, 2008	CTOURN		Idaho State	Big Sky	W	72	61		22	9	W 4	Rose Garden Arena	idaho-state	portland-state	2008
 32	Wed, Mar 12, 2008	CTOURN		Northern Arizona	Big Sky	W	67	51		23	9	W 5	Rose Garden Arena	northern-arizona	portland-state	2008
-33	Thu, Mar 20, 2008	NCAA	N	Kansas (4)	Big 12	L	61	85		23	10	L 1	Qwest Center OMAHA	s/2008-03-20-k	portland-state	2008
+33	Thu, Mar 20, 2008	NCAA	N	Kansas (4)	Big 12	L	61	85		23	10	L 1	Qwest Center OMAHA	kansas	portland-state	2008
 1	Fri, Nov 9, 2007	REG	@	Oklahoma State	Big 12	L	48	104		0	1	L 1	Gallagher-Iba Arena	oklahoma-state	prairie-view	2008
 2	Wed, Nov 14, 2007	REG		Schreiner		W	88	59		1	1	W 1	William J. Nicks Building	NA	prairie-view	2008
 3	Fri, Nov 16, 2007	REG	@	Tennessee (7)	SEC	L	75	89		1	2	L 1	Thompson-Boling Arena	tennessee	prairie-view	2008
@@ -7348,8 +7348,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Tue, Mar 4, 2008	REG	@	Ohio State	Big Ten	L	77	80	OT	23	7	L 1	Value City Arena	ohio-state	purdue	2008
 31	Sun, Mar 9, 2008	REG	@	Michigan	Big Ten	W	72	58		24	7	W 1	Crisler Arena	michigan	purdue	2008
 32	Fri, Mar 14, 2008	CTOURN		Illinois	Big Ten	L	67	74	OT	24	8	L 1	Conseco Fieldhouse	illinois	purdue	2008
-33	Thu, Mar 20, 2008	NCAA	N	Baylor	Big 12	W	90	79		25	8	W 1		s/2008-03-20-b	purdue	2008
-34	Sat, Mar 22, 2008	NCAA	N	Xavier (12)	A-10	L	78	85		25	9	L 1		s/2008-03-22-p	purdue	2008
+33	Thu, Mar 20, 2008	NCAA	N	Baylor	Big 12	W	90	79		25	8	W 1		baylor	purdue	2008
+34	Sat, Mar 22, 2008	NCAA	N	Xavier (12)	A-10	L	78	85		25	9	L 1		xavier	purdue	2008
 1	Sun, Nov 11, 2007	REG		Hartford	AEC	W	85	79	2OT	1	0	W 1	TD Bank Sports Center	hartford	quinnipiac	2008
 2	Wed, Nov 14, 2007	REG	@	Binghamton	AEC	L	75	88		1	1	L 1	Events Center	binghamton	quinnipiac	2008
 3	Tue, Nov 20, 2007	REG		Maine	AEC	L	59	64		1	2	L 2	TD Bank Sports Center	maine	quinnipiac	2008
@@ -7725,7 +7725,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 13, 2008	CTOURN	N	Richmond	A-10	W	61	47		20	11	W 2	Boardwalk Hall	richmond	saint-josephs	2008
 32	Fri, Mar 14, 2008	CTOURN	N	Xavier (10)	A-10	W	61	53		21	11	W 3	Boardwalk Hall	xavier	saint-josephs	2008
 33	Sat, Mar 15, 2008	CTOURN	N	Temple	A-10	L	64	69		21	12	L 1	Boardwalk Hall	temple	saint-josephs	2008
-34	Fri, Mar 21, 2008	NCAA	N	Oklahoma	Big 12	L	64	72		21	13	L 2	Birmingham-Jefferson Civic Center	s/2008-03-21-okl	saint-josephs	2008
+34	Fri, Mar 21, 2008	NCAA	N	Oklahoma	Big 12	L	64	72		21	13	L 2	Birmingham-Jefferson Civic Center	oklahoma	saint-josephs	2008
 1	Fri, Nov 9, 2007	REG	N	North Carolina A&T	MEAC	W	54	43		1	0	W 1	Petersen Events Center	north-carolina-at	saint-louis	2008
 2	Sat, Nov 10, 2007	REG	N	Houston Baptist		W	91	56		2	0	W 2	Petersen Events Center	NA	saint-louis	2008
 3	Sun, Nov 11, 2007	REG	@	Pittsburgh (22)	Big East	L	58	69		2	1	L 1	Petersen Events Center	pittsburgh	saint-louis	2008
@@ -7788,7 +7788,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 1, 2008	REG	@	Gonzaga (24)	WCC	L	76	88		24	5	L 1	McCarthey Athletic Center	gonzaga	saint-marys-ca	2008
 30	Mon, Mar 3, 2008	REG	@	Portland	WCC	W	64	50		25	5	W 1	Chiles Center	portland	saint-marys-ca	2008
 31	Sun, Mar 9, 2008	CTOURN	@	San Diego	WCC	L	69	75	2OT	25	6	L 1	Jenny Craig Pavillion	san-diego	saint-marys-ca	2008
-32	Fri, Mar 21, 2008	NCAA	N	Miami (FL)	ACC	L	64	78		25	7	L 2	Alltel Arena	s/2008-03-21-mia	saint-marys-ca	2008
+32	Fri, Mar 21, 2008	NCAA	N	Miami (FL)	ACC	L	64	78		25	7	L 2	Alltel Arena	miami-fl	saint-marys-ca	2008
 1	Sat, Nov 10, 2007	REG	@	Maryland-Baltimore County	AEC	L	78	81		0	1	L 1	RAC Arena	maryland-baltimore-county	saint-peters	2008
 2	Wed, Nov 14, 2007	REG	@	Lehigh	Patriot	L	56	60		0	2	L 2	Stabler Arena	lehigh	saint-peters	2008
 3	Sat, Nov 17, 2007	REG		Wagner	NEC	W	72	69		1	2	W 1	Yanitelli Center	wagner	saint-peters	2008
@@ -7914,8 +7914,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Sat, Mar 8, 2008	CTOURN		Pepperdine	WCC	W	73	55		19	13	W 3	Jenny Craig Pavillion	pepperdine	san-diego	2008
 33	Sun, Mar 9, 2008	CTOURN		Saint Mary's (CA)	WCC	W	75	69	2OT	20	13	W 4	Jenny Craig Pavillion	saint-marys-ca	san-diego	2008
 34	Mon, Mar 10, 2008	CTOURN		Gonzaga (20)	WCC	W	69	62		21	13	W 5	Jenny Craig Pavillion	gonzaga	san-diego	2008
-35	Fri, Mar 21, 2008	NCAA	N	Connecticut (16)	Big East	W	70	69	OT	22	13	W 6	St. Pete Times Forum	s/2008-03-21-connec	san-diego	2008
-36	Sun, Mar 23, 2008	NCAA	N	Western Kentucky	Sun Belt	L	63	72		22	14	L 1		s/2008-03-23-san-	san-diego	2008
+35	Fri, Mar 21, 2008	NCAA	N	Connecticut (16)	Big East	W	70	69	OT	22	13	W 6	St. Pete Times Forum	connecticut	san-diego	2008
+36	Sun, Mar 23, 2008	NCAA	N	Western Kentucky	Sun Belt	L	63	72		22	14	L 1		western-kentucky	san-diego	2008
 1	Fri, Nov 9, 2007	REG	N	Liberty	Big South	W	62	50		1	0	W 1	Save Mart Center	liberty	san-diego-state	2008
 2	Sat, Nov 10, 2007	REG	N	Portland	WCC	W	78	64		2	0	W 2	Save Mart Center	portland	san-diego-state	2008
 3	Sun, Nov 11, 2007	REG	@	Fresno State	WAC	W	89	72		3	0	W 3	Save Mart Center	fresno-state	san-diego-state	2008
@@ -8138,8 +8138,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 8, 2008	CTOURN		Manhattan	MAAC	W	66	58		20	10	W 4	Times Union Center 	manhattan	siena	2008
 31	Sun, Mar 9, 2008	CTOURN		Loyola (MD)	MAAC	W	65	63		21	10	W 5	Times Union Center 	loyola-md	siena	2008
 32	Mon, Mar 10, 2008	CTOURN		Rider	MAAC	W	74	53		22	10	W 6	Times Union Center 	rider	siena	2008
-33	Fri, Mar 21, 2008	NCAA	N	Vanderbilt (19)	SEC	W	83	62		23	10	W 7		s/2008-03-21-	siena	2008
-34	Sun, Mar 23, 2008	NCAA	N	Villanova	Big East	L	72	84		23	11	L 1		s/2008-03-23-	siena	2008
+33	Fri, Mar 21, 2008	NCAA	N	Vanderbilt (19)	SEC	W	83	62		23	10	W 7		vanderbilt	siena	2008
+34	Sun, Mar 23, 2008	NCAA	N	Villanova	Big East	L	72	84		23	11	L 1		villanova	siena	2008
 1	Sat, Nov 10, 2007	REG		West Florida		W	73	41		1	0	W 1	Mitchell Center	NA	south-alabama	2008
 2	Tue, Nov 13, 2007	REG	@	Mississippi	SEC	L	78	81		1	1	L 1	C.M. Tad Smith Coliseum	mississippi	south-alabama	2008
 3	Sat, Nov 17, 2007	REG		Grambling	SWAC	W	76	56		2	1	W 1	Mitchell Center	grambling	south-alabama	2008
@@ -8172,7 +8172,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 1, 2008	REG	@	Florida International	Sun Belt	W	74	55		25	5	W 5	US Century Bank Arena	florida-international	south-alabama	2008
 31	Sun, Mar 9, 2008	CTOURN		New Orleans	Sun Belt	W	81	77		26	5	W 6	Mitchell Center	new-orleans	south-alabama	2008
 32	Mon, Mar 10, 2008	CTOURN		Middle Tennessee	Sun Belt	L	73	82		26	6	L 1	Mitchell Center	middle-tennessee	south-alabama	2008
-33	Fri, Mar 21, 2008	NCAA	N	Butler (11)	Horizon	L	61	81		26	7	L 2	Birmingham-Jefferson Civic Center	s/2008-03-21-b	south-alabama	2008
+33	Fri, Mar 21, 2008	NCAA	N	Butler (11)	Horizon	L	61	81		26	7	L 2	Birmingham-Jefferson Civic Center	butler	south-alabama	2008
 1	Fri, Nov 9, 2007	REG		South Carolina State	MEAC	W	92	67		1	0	W 1	The Colonial Life Arena	south-carolina-state	south-carolina	2008
 2	Mon, Nov 12, 2007	REG		Citadel	Southern	W	103	42		2	0	W 2	The Colonial Life Arena	citadel	south-carolina	2008
 3	Sat, Nov 17, 2007	REG		Southern California	Pac-10	L	75	85		2	1	L 1	The Colonial Life Arena	southern-california	south-carolina	2008
@@ -8392,7 +8392,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 8, 2008	REG		Stanford (7)	Pac-10	W	77	64		20	10	W 2	Galen Center	stanford	southern-california	2008
 31	Thu, Mar 13, 2008	CTOURN	N	Arizona State	Pac-10	W	59	55		21	10	W 3	Staples Center	arizona-state	southern-california	2008
 32	Fri, Mar 14, 2008	CTOURN	N	UCLA (3)	Pac-10	L	54	57		21	11	L 1	Staples Center	ucla	southern-california	2008
-33	Thu, Mar 20, 2008	NCAA	N	Kansas State	Big 12	L	67	80		21	12	L 2		s/2008-03-20-kansas-	southern-california	2008
+33	Thu, Mar 20, 2008	NCAA	N	Kansas State	Big 12	L	67	80		21	12	L 2		kansas-state	southern-california	2008
 1	Sat, Nov 17, 2007	REG		Northern Illinois	MAC	W	88	68		1	0	W 1	The SIU Arena	northern-illinois	southern-illinois	2008
 2	Thu, Nov 22, 2007	REG	N	Chattanooga	Southern	W	63	41		2	0	W 2	Anaheim Convention Center	chattanooga	southern-illinois	2008
 3	Fri, Nov 23, 2007	REG	N	Mississippi State	SEC	W	63	49		3	0	W 3	Anaheim Convention Center	mississippi-state	southern-illinois	2008
@@ -8641,9 +8641,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 13, 2008	CTOURN	N	Arizona	Pac-10	W	75	64		25	6	W 1	Staples Center	arizona	stanford	2008
 32	Fri, Mar 14, 2008	CTOURN	N	Washington State (21)	Pac-10	W	75	68		26	6	W 2	Staples Center	washington-state	stanford	2008
 33	Sat, Mar 15, 2008	CTOURN	N	UCLA (3)	Pac-10	L	64	67		26	7	L 1	Staples Center	ucla	stanford	2008
-34	Thu, Mar 20, 2008	NCAA	N	Cornell	Ivy	W	77	53		27	7	W 1		s/2008-03-20-co	stanford	2008
-35	Sat, Mar 22, 2008	NCAA	N	Marquette (25)	Big East	W	82	81	OT	28	7	W 2		s/2008-03-22-marq	stanford	2008
-36	Fri, Mar 28, 2008	NCAA	N	Texas (7)	Big 12	L	62	82		28	8	L 1		s/2008-03-28-sta	stanford	2008
+34	Thu, Mar 20, 2008	NCAA	N	Cornell	Ivy	W	77	53		27	7	W 1		cornell	stanford	2008
+35	Sat, Mar 22, 2008	NCAA	N	Marquette (25)	Big East	W	82	81	OT	28	7	W 2		marquette	stanford	2008
+36	Fri, Mar 28, 2008	NCAA	N	Texas (7)	Big 12	L	62	82		28	8	L 1		texas	stanford	2008
 1	Fri, Nov 9, 2007	REG		Texas-Tyler		W	63	47		1	0	W 1	William Johnson Coliseum	NA	stephen-f-austin	2008
 2	Tue, Nov 13, 2007	REG		Jackson State	SWAC	W	70	55		2	0	W 2	William Johnson Coliseum	jackson-state	stephen-f-austin	2008
 3	Sat, Nov 17, 2007	REG	@	Texas Tech	Big 12	L	44	60		2	1	L 1	United Spirit Arena	texas-tech	stephen-f-austin	2008
@@ -8806,7 +8806,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 13, 2008	CTOURN	N	La Salle	A-10	W	84	75		19	12	W 5	Boardwalk Hall	la-salle	temple	2008
 32	Fri, Mar 14, 2008	CTOURN	N	Charlotte	A-10	W	60	45		20	12	W 6	Boardwalk Hall	charlotte	temple	2008
 33	Sat, Mar 15, 2008	CTOURN	N	Saint Joseph's	A-10	W	69	64		21	12	W 7	Boardwalk Hall	saint-josephs	temple	2008
-34	Thu, Mar 20, 2008	NCAA	N	Michigan State (18)	Big Ten	L	61	72		21	13	L 1	The Pepsi Center	s/2008-03-20-michigan-	temple	2008
+34	Thu, Mar 20, 2008	NCAA	N	Michigan State (18)	Big Ten	L	61	72		21	13	L 1	The Pepsi Center	michigan-state	temple	2008
 1	Fri, Nov 9, 2007	REG		Temple	A-10	W	80	63		1	0	W 1	Thompson-Boling Arena	temple	tennessee	2008
 2	Wed, Nov 14, 2007	REG		Arkansas-Monticello		W	101	44		2	0	W 2	Thompson-Boling Arena	NA	tennessee	2008
 3	Fri, Nov 16, 2007	REG		Prairie View	SWAC	W	89	75		3	0	W 3	Thompson-Boling Arena	prairie-view	tennessee	2008
@@ -8840,9 +8840,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sun, Mar 9, 2008	REG		South Carolina	SEC	W	89	56		28	3	W 3	Thompson-Boling Arena	south-carolina	tennessee	2008
 32	Fri, Mar 14, 2008	CTOURN	N	South Carolina	SEC	W	89	87		29	3	W 4	Georgia Dome	south-carolina	tennessee	2008
 33	Sat, Mar 15, 2008	CTOURN	N	Arkansas	SEC	L	91	92		29	4	L 1	Georgia Dome	arkansas	tennessee	2008
-34	Fri, Mar 21, 2008	NCAA	N	American	Patriot	W	72	57		30	4	W 1		s/2008-03-21-ame	tennessee	2008
-35	Sun, Mar 23, 2008	NCAA	N	Butler (11)	Horizon	W	76	71	OT	31	4	W 2		s/2008-03-23-b	tennessee	2008
-36	Thu, Mar 27, 2008	NCAA	N	Louisville (13)	Big East	L	60	79		31	5	L 1		s/2008-03-27-louis	tennessee	2008
+34	Fri, Mar 21, 2008	NCAA	N	American	Patriot	W	72	57		30	4	W 1		american	tennessee	2008
+35	Sun, Mar 23, 2008	NCAA	N	Butler (11)	Horizon	W	76	71	OT	31	4	W 2		butler	tennessee	2008
+36	Thu, Mar 27, 2008	NCAA	N	Louisville (13)	Big East	L	60	79		31	5	L 1		louisville	tennessee	2008
 1	Mon, Nov 5, 2007	REG	@	Memphis (3)	CUSA	L	71	102		0	1	L 1	FedExForum	memphis	tennessee-martin	2008
 2	Tue, Nov 6, 2007	REG	N	Maine	AEC	W	66	62		1	1	W 1	FedExForum	maine	tennessee-martin	2008
 3	Tue, Nov 13, 2007	REG		Central Baptist		W	116	74		2	1	W 2	Skyhawk Arena	NA	tennessee-martin	2008
@@ -8974,10 +8974,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Fri, Mar 14, 2008	CTOURN	N	Oklahoma State	Big 12	W	66	59		27	5	W 3	Sprint Center	oklahoma-state	texas	2008
 33	Sat, Mar 15, 2008	CTOURN	N	Oklahoma	Big 12	W	77	49		28	5	W 4	Sprint Center	oklahoma	texas	2008
 34	Sun, Mar 16, 2008	CTOURN	N	Kansas (5)	Big 12	L	74	84		28	6	L 1	Sprint Center	kansas	texas	2008
-35	Fri, Mar 21, 2008	NCAA	N	Austin Peay	OVC	W	74	54		29	6	W 1		s/2008-03-21-austin	texas	2008
-36	Sun, Mar 23, 2008	NCAA	N	Miami (FL)	ACC	W	75	72		30	6	W 2		s/2008-03-23-mia	texas	2008
-37	Fri, Mar 28, 2008	NCAA	N	Stanford (10)	Pac-10	W	82	62		31	6	W 3		s/2008-03-28-sta	texas	2008
-38	Sun, Mar 30, 2008	NCAA	N	Memphis (2)	CUSA	L	67	85		31	7	L 1		s/2008-03-30-me	texas	2008
+35	Fri, Mar 21, 2008	NCAA	N	Austin Peay	OVC	W	74	54		29	6	W 1		austin-peay	texas	2008
+36	Sun, Mar 23, 2008	NCAA	N	Miami (FL)	ACC	W	75	72		30	6	W 2		miami-fl	texas	2008
+37	Fri, Mar 28, 2008	NCAA	N	Stanford (10)	Pac-10	W	82	62		31	6	W 3		stanford	texas	2008
+38	Sun, Mar 30, 2008	NCAA	N	Memphis (2)	CUSA	L	67	85		31	7	L 1		memphis	texas	2008
 1	Fri, Nov 9, 2007	REG		McNeese State	Southland	W	73	50		1	0	W 1	Reed Arena	mcneese-state	texas-am	2008
 2	Tue, Nov 13, 2007	REG		Oral Roberts	Summit	W	67	53		2	0	W 2	Reed Arena	oral-roberts	texas-am	2008
 3	Wed, Nov 14, 2007	REG		Texas-El Paso	CUSA	W	81	76		3	0	W 3	Reed Arena	texas-el-paso	texas-am	2008
@@ -9012,8 +9012,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Thu, Mar 13, 2008	CTOURN	N	Iowa State	Big 12	W	60	47		23	9	W 1	Sprint Center	iowa-state	texas-am	2008
 33	Fri, Mar 14, 2008	CTOURN	N	Kansas State	Big 12	W	63	60		24	9	W 2	Sprint Center	kansas-state	texas-am	2008
 34	Sat, Mar 15, 2008	CTOURN	N	Kansas (5)	Big 12	L	71	77		24	10	L 1	Sprint Center	kansas	texas-am	2008
-35	Thu, Mar 20, 2008	NCAA	N	Brigham Young	MWC	W	67	62		25	10	W 1	Honda Center	s/2008-03-20-brigham-	texas-am	2008
-36	Sat, Mar 22, 2008	NCAA	N	UCLA (3)	Pac-10	L	49	51		25	11	L 1		s/2008-03-22-tex	texas-am	2008
+35	Thu, Mar 20, 2008	NCAA	N	Brigham Young	MWC	W	67	62		25	10	W 1	Honda Center	brigham-young	texas-am	2008
+36	Sat, Mar 22, 2008	NCAA	N	UCLA (3)	Pac-10	L	49	51		25	11	L 1		ucla	texas-am	2008
 1	Fri, Nov 9, 2007	REG		Texas Southern	SWAC	L	64	72		0	1	L 1	American Bank Center	texas-southern	texas-am-corpus-christi	2008
 2	Tue, Nov 13, 2007	REG	N	Texas-El Paso	CUSA	L	62	77		0	2	L 2	Reed Arena	texas-el-paso	texas-am-corpus-christi	2008
 3	Wed, Nov 14, 2007	REG	N	Oral Roberts	Summit	W	86	81	OT	1	2	W 1	Reed Arena	oral-roberts	texas-am-corpus-christi	2008
@@ -9075,7 +9075,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 13, 2008	CTOURN	N	Lamar	Southland	W	81	75		19	11	W 1	Leonard E. Merrell Center	lamar	texas-arlington	2008
 31	Fri, Mar 14, 2008	CTOURN	N	Sam Houston State	Southland	W	72	66		20	11	W 2	Leonard E. Merrell Center	sam-houston-state	texas-arlington	2008
 32	Sun, Mar 16, 2008	CTOURN	N	Northwestern State	Southland	W	82	79		21	11	W 3	Leonard E. Merrell Center	northwestern-state	texas-arlington	2008
-33	Fri, Mar 21, 2008	NCAA	N	Memphis (2)	CUSA	L	63	87		21	12	L 1	Alltel Arena	s/2008-03-21-me	texas-arlington	2008
+33	Fri, Mar 21, 2008	NCAA	N	Memphis (2)	CUSA	L	63	87		21	12	L 1	Alltel Arena	memphis	texas-arlington	2008
 1	Sat, Nov 10, 2007	REG		Angelo State		W	89	70		1	0	W 1	Daniel-Meyer Coliseum	NA	texas-christian	2008
 2	Tue, Nov 13, 2007	REG		Rice	CUSA	W	76	49		2	0	W 2	Daniel-Meyer Coliseum	rice	texas-christian	2008
 3	Sat, Nov 17, 2007	REG		Arkansas-Pine Bluff	SWAC	W	75	61		3	0	W 3	Daniel-Meyer Coliseum	arkansas-pine-bluff	texas-christian	2008
@@ -9489,11 +9489,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Thu, Mar 13, 2008	CTOURN	N	University of California	Pac-10	W	88	66		29	3	W 8	Staples Center	california	ucla	2008
 33	Fri, Mar 14, 2008	CTOURN	N	Southern California	Pac-10	W	57	54		30	3	W 9	Staples Center	southern-california	ucla	2008
 34	Sat, Mar 15, 2008	CTOURN	N	Stanford (11)	Pac-10	W	67	64		31	3	W 10	Staples Center	stanford	ucla	2008
-35	Thu, Mar 20, 2008	NCAA	N	Mississippi Valley State	SWAC	W	70	29		32	3	W 11		s/2008-03-20-mississippi-valley-	ucla	2008
-36	Sat, Mar 22, 2008	NCAA	N	Texas A&M	Big 12	W	51	49		33	3	W 12		s/2008-03-22-tex	ucla	2008
-37	Thu, Mar 27, 2008	NCAA	N	Western Kentucky	Sun Belt	W	88	78		34	3	W 13	US Airways Center	s/2008-03-27	ucla	2008
-38	Sat, Mar 29, 2008	NCAA	N	Xavier (12)	A-10	W	76	57		35	3	W 14	US Airways Center	s/2008-03-29	ucla	2008
-39	Sat, Apr 5, 2008	NCAA	N	Memphis (2)	CUSA	L	63	78		35	4	L 1	Alamodome	s/2008-04-05-me	ucla	2008
+35	Thu, Mar 20, 2008	NCAA	N	Mississippi Valley State	SWAC	W	70	29		32	3	W 11		mississippi-valley-state	ucla	2008
+36	Sat, Mar 22, 2008	NCAA	N	Texas A&M	Big 12	W	51	49		33	3	W 12		texas-am	ucla	2008
+37	Thu, Mar 27, 2008	NCAA	N	Western Kentucky	Sun Belt	W	88	78		34	3	W 13	US Airways Center	western-kentucky	ucla	2008
+38	Sat, Mar 29, 2008	NCAA	N	Xavier (12)	A-10	W	76	57		35	3	W 14	US Airways Center	xavier	ucla	2008
+39	Sat, Apr 5, 2008	NCAA	N	Memphis (2)	CUSA	L	63	78		35	4	L 1	Alamodome	memphis	ucla	2008
 1	Fri, Nov 9, 2007	REG		South Carolina Upstate	A-Sun	W	86	52		1	0	W 1	Jon M. Huntsman Center	south-carolina-upstate	utah	2008
 2	Tue, Nov 13, 2007	REG	N	High Point	Big South	W	77	64		2	0	W 2	Bank of America Arena	high-point	utah	2008
 3	Wed, Nov 14, 2007	REG	@	Washington	Pac-10	L	77	81		2	1	L 1	Bank of America Arena	washington	utah	2008
@@ -9631,7 +9631,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 8, 2008	REG	@	Alabama	SEC	L	73	78	OT	25	6	L 1	Coleman Coliseum 	alabama	vanderbilt	2008
 32	Thu, Mar 13, 2008	CTOURN	N	Auburn	SEC	W	93	82		26	6	W 1	Georgia Dome	auburn	vanderbilt	2008
 33	Fri, Mar 14, 2008	CTOURN	N	Arkansas	SEC	L	75	81		26	7	L 1	Georgia Dome	arkansas	vanderbilt	2008
-34	Fri, Mar 21, 2008	NCAA	N	Siena	MAAC	L	62	83		26	8	L 2		s/2008-03-21-	vanderbilt	2008
+34	Fri, Mar 21, 2008	NCAA	N	Siena	MAAC	L	62	83		26	8	L 2		siena	vanderbilt	2008
 1	Fri, Nov 9, 2007	REG	@	George Mason	CAA	L	53	60		0	1	L 1	Patriot Center	george-mason	vermont	2008
 2	Sun, Nov 11, 2007	REG	@	Virginia	ACC	L	72	90		0	2	L 2	John Paul Jones Arena	virginia	vermont	2008
 3	Sun, Nov 18, 2007	REG	@	Loyola (MD)	MAAC	L	79	83		0	3	L 3	Reitz Arena	loyola-md	vermont	2008
@@ -9695,9 +9695,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 8, 2008	REG	@	Providence	Big East	W	73	63		19	11	W 2	Dunkin' Donuts Center	providence	villanova	2008
 31	Wed, Mar 12, 2008	CTOURN	N	Syracuse	Big East	W	82	63		20	11	W 3	Madison Square Garden (IV)	syracuse	villanova	2008
 32	Thu, Mar 13, 2008	CTOURN	N	Georgetown (9)	Big East	L	63	82		20	12	L 1	Madison Square Garden (IV)	georgetown	villanova	2008
-33	Fri, Mar 21, 2008	NCAA	N	Clemson (22)	ACC	W	75	69		21	12	W 1	St. Pete Times Forum	s/2008-03-21-cl	villanova	2008
-34	Sun, Mar 23, 2008	NCAA	N	Siena	MAAC	W	84	72		22	12	W 2		s/2008-03-23-	villanova	2008
-35	Fri, Mar 28, 2008	NCAA	N	Kansas (4)	Big 12	L	57	72		22	13	L 1	Ford Field	s/2008-03-28-k	villanova	2008
+33	Fri, Mar 21, 2008	NCAA	N	Clemson (22)	ACC	W	75	69		21	12	W 1	St. Pete Times Forum	clemson	villanova	2008
+34	Sun, Mar 23, 2008	NCAA	N	Siena	MAAC	W	84	72		22	12	W 2		siena	villanova	2008
+35	Fri, Mar 28, 2008	NCAA	N	Kansas (4)	Big 12	L	57	72		22	13	L 1	Ford Field	kansas	villanova	2008
 1	Sun, Nov 11, 2007	REG		Vermont	AEC	W	90	72		1	0	W 1	John Paul Jones Arena	vermont	virginia	2008
 2	Wed, Nov 14, 2007	REG		Howard	MEAC	W	92	53		2	0	W 2	John Paul Jones Arena	howard	virginia	2008
 3	Sat, Nov 17, 2007	REG	@	Arizona (17)	Pac-10	W	75	72		3	0	W 3	McKale Center	arizona	virginia	2008
@@ -9953,9 +9953,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 8, 2008	REG		Washington	Pac-10	W	76	73	2OT	23	7	W 1	Friel Court	washington	washington-state	2008
 31	Thu, Mar 13, 2008	CTOURN	N	Oregon	Pac-10	W	75	70		24	7	W 2	Staples Center	oregon	washington-state	2008
 32	Fri, Mar 14, 2008	CTOURN	N	Stanford (11)	Pac-10	L	68	75		24	8	L 1	Staples Center	stanford	washington-state	2008
-33	Thu, Mar 20, 2008	NCAA	N	Winthrop	Big South	W	71	40		25	8	W 1	The Pepsi Center	s/2008-03-20-washington-	washington-state	2008
-34	Sat, Mar 22, 2008	NCAA	N	Notre Dame (15)	Big East	W	61	41		26	8	W 2		s/2008-03-22-notre	washington-state	2008
-35	Thu, Mar 27, 2008	NCAA	N	North Carolina (1)	ACC	L	47	68		26	9	L 1	Times Warner Cable Arena	s/2008-03-27-north-car	washington-state	2008
+33	Thu, Mar 20, 2008	NCAA	N	Winthrop	Big South	W	71	40		25	8	W 1	The Pepsi Center	winthrop	washington-state	2008
+34	Sat, Mar 22, 2008	NCAA	N	Notre Dame (15)	Big East	W	61	41		26	8	W 2		notre-dame	washington-state	2008
+35	Thu, Mar 27, 2008	NCAA	N	North Carolina (1)	ACC	L	47	68		26	9	L 1	Times Warner Cable Arena	north-carolina	washington-state	2008
 1	Sat, Nov 10, 2007	REG		Utah State	WAC	W	78	71		1	0	W 1	Dee Events Center	utah-state	weber-state	2008
 2	Mon, Nov 12, 2007	REG	N	Cal State San Bernardino		L	59	71		1	1	L 1	Pauley Pavilion	NA	weber-state	2008
 3	Tue, Nov 13, 2007	REG	N	Youngstown State	Horizon	L	66	69		1	2	L 2	Pauley Pavilion	youngstown-state	weber-state	2008
@@ -10020,9 +10020,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Wed, Mar 12, 2008	CTOURN	N	Providence	Big East	W	58	53		23	9	W 3	Madison Square Garden (IV)	providence	west-virginia	2008
 33	Thu, Mar 13, 2008	CTOURN	N	Connecticut (15)	Big East	W	78	72		24	9	W 4	Madison Square Garden (IV)	connecticut	west-virginia	2008
 34	Fri, Mar 14, 2008	CTOURN	N	Georgetown (9)	Big East	L	55	72		24	10	L 1	Madison Square Garden (IV)	georgetown	west-virginia	2008
-35	Thu, Mar 20, 2008	NCAA	N	Arizona	Pac-10	W	75	65		25	10	W 1		s/2008-03-20-ar	west-virginia	2008
-36	Sat, Mar 22, 2008	NCAA	N	Duke (9)	ACC	W	73	67		26	10	W 2	Verizon Center	s/2008-03-22	west-virginia	2008
-37	Thu, Mar 27, 2008	NCAA	N	Xavier (12)	A-10	L	75	79	OT	26	11	L 1		s/2008-03-27-west-vir	west-virginia	2008
+35	Thu, Mar 20, 2008	NCAA	N	Arizona	Pac-10	W	75	65		25	10	W 1		arizona	west-virginia	2008
+36	Sat, Mar 22, 2008	NCAA	N	Duke (9)	ACC	W	73	67		26	10	W 2	Verizon Center	duke	west-virginia	2008
+37	Thu, Mar 27, 2008	NCAA	N	Xavier (12)	A-10	L	75	79	OT	26	11	L 1		xavier	west-virginia	2008
 1	Fri, Nov 9, 2007	REG	N	Bowling Green State	MAC	W	63	60		1	0	W 1	Fifth Third Arena	bowling-green-state	western-carolina	2008
 2	Sat, Nov 10, 2007	REG	@	Cincinnati	Big East	L	64	66		1	1	L 1	Fifth Third Arena	cincinnati	western-carolina	2008
 3	Sun, Nov 11, 2007	REG	N	Belmont	A-Sun	L	70	79		1	2	L 2	Fifth Third Arena	belmont	western-carolina	2008
@@ -10117,9 +10117,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sun, Mar 9, 2008	CTOURN	N	North Texas	Sun Belt	W	84	70		25	6	W 4	Mitchell Center	north-texas	western-kentucky	2008
 32	Mon, Mar 10, 2008	CTOURN	N	Arkansas-Little Rock	Sun Belt	W	70	55		26	6	W 5	Mitchell Center	arkansas-little-rock	western-kentucky	2008
 33	Tue, Mar 11, 2008	CTOURN	N	Middle Tennessee	Sun Belt	W	67	57		27	6	W 6	Mitchell Center	middle-tennessee	western-kentucky	2008
-34	Fri, Mar 21, 2008	NCAA	N	Drake (14)	MVC	W	101	99	OT	28	6	W 7	St. Pete Times Forum	s/2008-03-21-	western-kentucky	2008
-35	Sun, Mar 23, 2008	NCAA	N	San Diego	WCC	W	72	63		29	6	W 8		s/2008-03-23-san-	western-kentucky	2008
-36	Thu, Mar 27, 2008	NCAA	N	UCLA (3)	Pac-10	L	78	88		29	7	L 1	US Airways Center	s/2008-03-27	western-kentucky	2008
+34	Fri, Mar 21, 2008	NCAA	N	Drake (14)	MVC	W	101	99	OT	28	6	W 7	St. Pete Times Forum	drake	western-kentucky	2008
+35	Sun, Mar 23, 2008	NCAA	N	San Diego	WCC	W	72	63		29	6	W 8		san-diego	western-kentucky	2008
+36	Thu, Mar 27, 2008	NCAA	N	UCLA (3)	Pac-10	L	78	88		29	7	L 1	US Airways Center	ucla	western-kentucky	2008
 1	Sat, Nov 10, 2007	REG	N	Pacific	Big West	L	76	90		0	1	L 1	McArthur Court	pacific	western-michigan	2008
 2	Sun, Nov 11, 2007	REG	N	Pepperdine	WCC	W	70	65		1	1	W 1	McArthur Court	pepperdine	western-michigan	2008
 3	Mon, Nov 12, 2007	REG	@	Oregon (11)	Pac-10	L	88	97		1	2	L 1	McArthur Court	oregon	western-michigan	2008
@@ -10249,7 +10249,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Tue, Mar 4, 2008	CTOURN		Radford	Big South	W	76	45		20	11	W 1	Winthrop Coliseum	radford	winthrop	2008
 32	Thu, Mar 6, 2008	CTOURN	N	High Point	Big South	W	61	53		21	11	W 2	Charlie Justice Center	high-point	winthrop	2008
 33	Sat, Mar 8, 2008	CTOURN	@	North Carolina-Asheville	Big South	W	66	48		22	11	W 3	Charlie Justice Center	north-carolina-asheville	winthrop	2008
-34	Thu, Mar 20, 2008	NCAA	N	Washington State (21)	Pac-10	L	40	71		22	12	L 1	The Pepsi Center	s/2008-03-20-washington-	winthrop	2008
+34	Thu, Mar 20, 2008	NCAA	N	Washington State (21)	Pac-10	L	40	71		22	12	L 1	The Pepsi Center	washington-state	winthrop	2008
 1	Sun, Nov 11, 2007	REG		IPFW	Summit	W	83	55		1	0	W 1	Kohl Center	ipfw	wisconsin	2008
 2	Thu, Nov 15, 2007	REG		Savannah State	Ind	W	79	32		2	0	W 2	Kohl Center	savannah-state	wisconsin	2008
 3	Fri, Nov 16, 2007	REG		Florida A&M	MEAC	W	88	40		3	0	W 3	Kohl Center	florida-am	wisconsin	2008
@@ -10283,9 +10283,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 14, 2008	CTOURN	N	Michigan	Big Ten	W	51	34		27	4	W 8	Conseco Fieldhouse	michigan	wisconsin	2008
 32	Sat, Mar 15, 2008	CTOURN	N	Michigan State (19)	Big Ten	W	65	63		28	4	W 9	Conseco Fieldhouse	michigan-state	wisconsin	2008
 33	Sun, Mar 16, 2008	CTOURN	N	Illinois	Big Ten	W	61	48		29	4	W 10	Conseco Fieldhouse	illinois	wisconsin	2008
-34	Thu, Mar 20, 2008	NCAA	N	Cal State Fullerton	Big West	W	71	56		30	4	W 11		s/2008-03-20-cal-state-full	wisconsin	2008
-35	Sat, Mar 22, 2008	NCAA	N	Kansas State	Big 12	W	72	55		31	4	W 12		s/2008-03-22-kansas-	wisconsin	2008
-36	Fri, Mar 28, 2008	NCAA	N	Davidson (23)	Southern	L	56	73		31	5	L 1		s/2008-03-28-dav	wisconsin	2008
+34	Thu, Mar 20, 2008	NCAA	N	Cal State Fullerton	Big West	W	71	56		30	4	W 11		cal-state-fullerton	wisconsin	2008
+35	Sat, Mar 22, 2008	NCAA	N	Kansas State	Big 12	W	72	55		31	4	W 12		kansas-state	wisconsin	2008
+36	Fri, Mar 28, 2008	NCAA	N	Davidson (23)	Southern	L	56	73		31	5	L 1		davidson	wisconsin	2008
 1	Fri, Nov 9, 2007	REG	@	Arkansas (19)	SEC	L	45	67		0	1	L 1	Bud Walton Arena	arkansas	wofford	2008
 2	Tue, Nov 13, 2007	REG		Lees-McRae		W	80	38		1	1	W 1	Benjamin Johnson Arena	NA	wofford	2008
 3	Sat, Nov 24, 2007	REG		Virginia Wise		W	83	62		2	1	W 2	Benjamin Johnson Arena	NA	wofford	2008
@@ -10412,10 +10412,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 8, 2008	REG		Richmond	A-10	W	86	61		26	5	W 1	Cintas Center	richmond	xavier	2008
 32	Thu, Mar 13, 2008	CTOURN	N	Dayton	A-10	W	74	65		27	5	W 2	Boardwalk Hall	dayton	xavier	2008
 33	Fri, Mar 14, 2008	CTOURN	N	Saint Joseph's	A-10	L	53	61		27	6	L 1	Boardwalk Hall	saint-josephs	xavier	2008
-34	Thu, Mar 20, 2008	NCAA	N	Georgia	SEC	W	73	61		28	6	W 1		s/2008-03-20-ge	xavier	2008
-35	Sat, Mar 22, 2008	NCAA	N	Purdue (20)	Big Ten	W	85	78		29	6	W 2		s/2008-03-22-p	xavier	2008
-36	Thu, Mar 27, 2008	NCAA	N	West Virginia	Big East	W	79	75	OT	30	6	W 3		s/2008-03-27-west-vir	xavier	2008
-37	Sat, Mar 29, 2008	NCAA	N	UCLA (3)	Pac-10	L	57	76		30	7	L 1	US Airways Center	s/2008-03-29	xavier	2008
+34	Thu, Mar 20, 2008	NCAA	N	Georgia	SEC	W	73	61		28	6	W 1		georgia	xavier	2008
+35	Sat, Mar 22, 2008	NCAA	N	Purdue (20)	Big Ten	W	85	78		29	6	W 2		purdue	xavier	2008
+36	Thu, Mar 27, 2008	NCAA	N	West Virginia	Big East	W	79	75	OT	30	6	W 3		west-virginia	xavier	2008
+37	Sat, Mar 29, 2008	NCAA	N	UCLA (3)	Pac-10	L	57	76		30	7	L 1	US Airways Center	ucla	xavier	2008
 1	Sat, Nov 10, 2007	REG		Sacred Heart	NEC	W	82	71		1	0	W 1	John J. Lee Ampitheater	sacred-heart	yale	2008
 2	Wed, Nov 14, 2007	REG	@	Massachusetts	A-10	L	80	89		1	1	L 1	Mullins Center	massachusetts	yale	2008
 3	Tue, Nov 20, 2007	REG	@	Stanford	Pac-10	L	61	72		1	2	L 2	Maples Pavilion	stanford	yale	2008

@@ -91,8 +91,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 8, 2002	CTOURN	N	Tennessee	SEC	W	91	72		25	6	W 1	Georgia Dome	tennessee	alabama	2002
 32	Sat, Mar 9, 2002	CTOURN	N	South Carolina	SEC	W	65	57		26	6	W 2	Georgia Dome	south-carolina	alabama	2002
 33	Sun, Mar 10, 2002	CTOURN	N	Mississippi State	SEC	L	58	61		26	7	L 1	Georgia Dome	mississippi-state	alabama	2002
-34	Thu, Mar 14, 2002	NCAA	N	Florida Atlantic	A-Sun	W	86	78		27	7	W 1	BI-LO Center	s/2002-03-14-al	alabama	2002
-35	Sat, Mar 16, 2002	NCAA	N	Kent State	MAC	L	58	71		27	8	L 1	BI-LO Center	s/2002-03-16-al	alabama	2002
+34	Thu, Mar 14, 2002	NCAA	N	Florida Atlantic	A-Sun	W	86	78		27	7	W 1	BI-LO Center	florida-atlantic	alabama	2002
+35	Sat, Mar 16, 2002	NCAA	N	Kent State	MAC	L	58	71		27	8	L 1	BI-LO Center	kent-state	alabama	2002
 1	Sat, Nov 17, 2001	REG		Tuskegee		W	75	59		1	0	W 1	Elmore Health Science Building 	NA	alabama-am	2002
 2	Sat, Nov 24, 2001	REG	@	Detroit Mercy	Horizon	L	75	98		1	1	L 1	Calihan Hall	detroit-mercy	alabama-am	2002
 3	Wed, Nov 28, 2001	REG	@	Mississippi State	SEC	L	45	70		1	2	L 2	Humphrey Coliseum	mississippi-state	alabama-am	2002
@@ -242,7 +242,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Mar 5, 2002	CTOURN		Grambling	SWAC	W	108	84		19	9	W 5	Davey L. Whitney Complex	grambling	alcorn-state	2002
 29	Fri, Mar 8, 2002	CTOURN	N	Texas Southern	SWAC	W	87	65		20	9	W 6	Fair Park Arena	texas-southern	alcorn-state	2002
 30	Sat, Mar 9, 2002	CTOURN	N	Alabama State	SWAC	W	70	67		21	9	W 7	Fair Park Arena	alabama-state	alcorn-state	2002
-31	Tue, Mar 12, 2002	NCAA	N	Siena	MAAC	L	77	81		21	10	L 1	University of Dayton Arena	s/2002-03-12-alcorn-	alcorn-state	2002
+31	Tue, Mar 12, 2002	NCAA	N	Siena	MAAC	L	77	81		21	10	L 1	University of Dayton Arena	siena	alcorn-state	2002
 1	Sat, Nov 17, 2001	REG	@	Maryland (2)	ACC	L	53	83		0	1	L 1	Cole Fieldhouse	maryland	american	2002
 2	Tue, Nov 20, 2001	REG	@	Saint Francis (PA)	NEC	W	55	52		1	1	W 1	Maurice Stokes Athletic Center	saint-francis-pa	american	2002
 3	Sat, Nov 24, 2001	REG		Fairleigh Dickinson	NEC	W	55	48		2	1	W 2	Bender Arena	fairleigh-dickinson	american	2002
@@ -332,9 +332,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 7, 2002	CTOURN		Arizona State	Pac-10	W	73	56		20	9	W 2	McKale Center	arizona-state	arizona	2002
 30	Fri, Mar 8, 2002	CTOURN		University of California (25)	Pac-10	W	90	78		21	9	W 3	McKale Center	california	arizona	2002
 31	Sat, Mar 9, 2002	CTOURN		Southern California (22)	Pac-10	W	81	71		22	9	W 4	McKale Center	southern-california	arizona	2002
-32	Thu, Mar 14, 2002	NCAA	N	UC-Santa Barbara	Big West	W	86	81		23	9	W 5	The Pit/Bob King Court	s/2002-03-14-ar	arizona	2002
-33	Sat, Mar 16, 2002	NCAA	N	Wyoming	MWC	W	68	60		24	9	W 6	The Pit/Bob King Court	s/2002-03-16-ar	arizona	2002
-34	Thu, Mar 21, 2002	NCAA	N	Oklahoma (3)	Big 12	L	67	88		24	10	L 1		s/2002-03-21-ar	arizona	2002
+32	Thu, Mar 14, 2002	NCAA	N	UC-Santa Barbara	Big West	W	86	81		23	9	W 5	The Pit/Bob King Court	california-santa-barbara	arizona	2002
+33	Sat, Mar 16, 2002	NCAA	N	Wyoming	MWC	W	68	60		24	9	W 6	The Pit/Bob King Court	wyoming	arizona	2002
+34	Thu, Mar 21, 2002	NCAA	N	Oklahoma (3)	Big 12	L	67	88		24	10	L 1		oklahoma	arizona	2002
 1	Sat, Nov 17, 2001	REG		Stephen F. Austin	Southland	W	92	61		1	0	W 1	Wells Fargo Arena	stephen-f-austin	arizona-state	2002
 2	Tue, Nov 20, 2001	REG		Portland State	Big Sky	L	69	79	OT	1	1	L 1	Wells Fargo Arena	portland-state	arizona-state	2002
 3	Sat, Nov 24, 2001	REG	@	Brigham Young	MWC	L	70	82		1	2	L 2	Marriott Center	brigham-young	arizona-state	2002
@@ -780,7 +780,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sun, Mar 3, 2002	REG	@	Syracuse	Big East	W	69	65		19	10	W 1	Carrier Dome	syracuse	boston-college	2002
 30	Wed, Mar 6, 2002	CTOURN	N	Rutgers	Big East	W	60	55		20	10	W 2	Madison Square Garden (IV)	rutgers	boston-college	2002
 31	Thu, Mar 7, 2002	CTOURN	N	Pittsburgh (7)	Big East	L	62	76		20	11	L 1	Madison Square Garden (IV)	pittsburgh	boston-college	2002
-32	Fri, Mar 15, 2002	NCAA	N	Texas	Big 12	L	57	70		20	12	L 2		s/2002-03-15-boston-co	boston-college	2002
+32	Fri, Mar 15, 2002	NCAA	N	Texas	Big 12	L	57	70		20	12	L 2		texas	boston-college	2002
 1	Tue, Nov 13, 2001	REG	N	New Orleans	Sun Belt	W	69	63		1	0	W 1	Carver-Hawkeye Arena	new-orleans	boston-university	2002
 2	Wed, Nov 14, 2001	REG	@	Iowa (9)	Big Ten	L	61	90		1	1	L 1	Carver-Hawkeye Arena	iowa	boston-university	2002
 3	Sun, Nov 18, 2001	REG	@	Boston College (17)	Big East	L	65	82		1	2	L 2	Silvio O. Conte Forum	boston-college	boston-university	2002
@@ -812,7 +812,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 2, 2002	CTOURN	N	Northeastern	AEC	W	86	76		20	9	W 7	Walter Brown Arena	northeastern	boston-university	2002
 30	Sun, Mar 3, 2002	CTOURN		Hartford	AEC	W	63	60		21	9	W 8	Walter Brown Arena	hartford	boston-university	2002
 31	Sat, Mar 9, 2002	CTOURN		Maine	AEC	W	66	40		22	9	W 9	Case Gym	maine	boston-university	2002
-32	Fri, Mar 15, 2002	NCAA	N	Cincinnati (5)	CUSA	L	52	90		22	10	L 1		s/2002-03-15-boston-unive	boston-university	2002
+32	Fri, Mar 15, 2002	NCAA	N	Cincinnati (5)	CUSA	L	52	90		22	10	L 1		cincinnati	boston-university	2002
 1	Thu, Nov 15, 2001	REG	N	Mississippi	SEC	W	82	78	OT	1	0	W 1	Carlson Center	mississippi	bowling-green-state	2002
 2	Sat, Nov 17, 2001	REG	N	Washington	Pac-10	L	74	81		1	1	L 1	Carlson Center	washington	bowling-green-state	2002
 3	Sun, Nov 18, 2001	REG	N	Delaware	CAA	W	73	70		2	1	W 1	Carlson Center	delaware	bowling-green-state	2002
@@ -1135,8 +1135,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 2, 2002	REG	@	Arizona (14)	Pac-10	L	53	99		21	7	L 1	McKale Center	arizona	california	2002
 29	Thu, Mar 7, 2002	CTOURN		UCLA	Pac-10	W	67	61		22	7	W 1	Haas Pavilion	ucla	california	2002
 30	Fri, Mar 8, 2002	CTOURN	@	Arizona (15)	Pac-10	L	78	90		22	8	L 1	McKale Center	arizona	california	2002
-31	Fri, Mar 15, 2002	NCAA	N	Pennsylvania	Ivy	W	82	75		23	8	W 1	Mellon Arena	s/2002-03-15-calif	california	2002
-32	Sun, Mar 17, 2002	NCAA	N	Pittsburgh (9)	Big East	L	50	63		23	9	L 1		s/2002-03-17-calif	california	2002
+31	Fri, Mar 15, 2002	NCAA	N	Pennsylvania	Ivy	W	82	75		23	8	W 1	Mellon Arena	pennsylvania	california	2002
+32	Sun, Mar 17, 2002	NCAA	N	Pittsburgh (9)	Big East	L	50	63		23	9	L 1		pittsburgh	california	2002
 1	Fri, Nov 16, 2001	REG		Saint Mary's (CA)	WCC	W	71	64		1	0	W 1	Bren Events Center	saint-marys-ca	california-irvine	2002
 2	Tue, Nov 20, 2001	REG		Pepperdine	WCC	W	96	93	2OT	2	0	W 2	Bren Events Center	pepperdine	california-irvine	2002
 3	Fri, Nov 23, 2001	REG	N	Illinois State	MVC	L	52	58		2	1	L 1	Charles L. Sewall Center	illinois-state	california-irvine	2002
@@ -1225,7 +1225,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 7, 2002	CTOURN	N	Cal Poly	Big West	W	74	65		18	10	W 3	Honda Center	cal-poly	california-santa-barbara	2002
 29	Fri, Mar 8, 2002	CTOURN	N	UC-Irvine	Big West	W	66	61		19	10	W 4	Honda Center	california-irvine	california-santa-barbara	2002
 30	Sat, Mar 9, 2002	CTOURN	N	Utah State	Big West	W	60	56		20	10	W 5	Honda Center	utah-state	california-santa-barbara	2002
-31	Thu, Mar 14, 2002	NCAA	N	Arizona (7)	Pac-10	L	81	86		20	11	L 1	The Pit/Bob King Court	s/2002-03-14-ar	california-santa-barbara	2002
+31	Thu, Mar 14, 2002	NCAA	N	Arizona (7)	Pac-10	L	81	86		20	11	L 1	The Pit/Bob King Court	arizona	california-santa-barbara	2002
 1	Sat, Nov 17, 2001	REG	@	Louisiana State	SEC	L	59	83		0	1	L 1	Maravich Assembly Center	louisiana-state	campbell	2002
 2	Tue, Nov 20, 2001	REG		North Carolina-Pembroke		W	93	77		1	1	W 1	Carter Gymnasium	NA	campbell	2002
 3	Sat, Nov 24, 2001	REG		North Carolina-Asheville	Big South	W	77	72		2	1	W 2	Carter Gymnasium	north-carolina-asheville	campbell	2002
@@ -1341,7 +1341,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Fri, Mar 1, 2002	CTOURN	N	Sacred Heart	NEC	W	65	54		25	4	W 17	Spiro Sports Center	sacred-heart	central-connecticut-state	2002
 30	Sat, Mar 2, 2002	CTOURN	N	St. Francis (NY)	NEC	W	58	54		26	4	W 18	Spiro Sports Center	st-francis-ny	central-connecticut-state	2002
 31	Wed, Mar 6, 2002	CTOURN		Quinnipiac	NEC	W	78	71		27	4	W 19	Detrick Gymnasium	quinnipiac	central-connecticut-state	2002
-32	Fri, Mar 15, 2002	NCAA	N	Pittsburgh (9)	Big East	L	54	71		27	5	L 1		s/2002-03-15-central-connecticut-	central-connecticut-state	2002
+32	Fri, Mar 15, 2002	NCAA	N	Pittsburgh (9)	Big East	L	54	71		27	5	L 1		pittsburgh	central-connecticut-state	2002
 1	Fri, Nov 16, 2001	REG		Puerto Rico-Mayaguez		W	92	58		1	0	W 1	UCF Arena	NA	central-florida	2002
 2	Mon, Nov 19, 2001	REG	@	Hampton	MEAC	L	72	73		1	1	L 1	Convocation Center	hampton	central-florida	2002
 3	Sat, Nov 24, 2001	REG	@	East Carolina	CUSA	W	82	72		2	1	W 1	Williams Arena at Minges Coliseum	east-carolina	central-florida	2002
@@ -1457,7 +1457,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 2, 2002	REG	@	Louisville	CUSA	L	88	90	OT	17	10	L 1	Freedom Hall	louisville	charlotte	2002
 28	Thu, Mar 7, 2002	CTOURN	N	Tulane	CUSA	W	78	69		18	10	W 1	Riverfront Coliseum	tulane	charlotte	2002
 29	Fri, Mar 8, 2002	CTOURN	@	Cincinnati (5)	CUSA	L	55	71		18	11	L 1	Riverfront Coliseum	cincinnati	charlotte	2002
-30	Thu, Mar 14, 2002	NCAA	N	Notre Dame	Big East	L	63	82		18	12	L 2		s/2002-03-14-char	charlotte	2002
+30	Thu, Mar 14, 2002	NCAA	N	Notre Dame	Big East	L	63	82		18	12	L 2		notre-dame	charlotte	2002
 1	Sat, Nov 17, 2001	REG		Tennessee Wesleyan		W	89	59		1	0	W 1	The McKenzie Arena	NA	chattanooga	2002
 2	Fri, Nov 23, 2001	REG	N	Liberty	Big South	W	82	57		2	0	W 2	Neal S. Blaisdell Center	liberty	chattanooga	2002
 3	Sat, Nov 24, 2001	REG	N	Notre Dame	Big East	L	84	97		2	1	L 1	Neal S. Blaisdell Center	notre-dame	chattanooga	2002
@@ -1549,8 +1549,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 7, 2002	CTOURN		South Florida	CUSA	W	79	57		28	3	W 2	Riverfront Coliseum	south-florida	cincinnati	2002
 32	Fri, Mar 8, 2002	CTOURN		Charlotte	CUSA	W	71	55		29	3	W 3	Riverfront Coliseum	charlotte	cincinnati	2002
 33	Sat, Mar 9, 2002	CTOURN		Marquette (13)	CUSA	W	77	63		30	3	W 4	Riverfront Coliseum	marquette	cincinnati	2002
-34	Fri, Mar 15, 2002	NCAA	N	Boston University	AEC	W	90	52		31	3	W 5		s/2002-03-15-boston-unive	cincinnati	2002
-35	Sun, Mar 17, 2002	NCAA	N	UCLA	Pac-10	L	101	105	2OT	31	4	L 1	Mellon Arena	s/2002-03-17-cinci	cincinnati	2002
+34	Fri, Mar 15, 2002	NCAA	N	Boston University	AEC	W	90	52		31	3	W 5		boston-university	cincinnati	2002
+35	Sun, Mar 17, 2002	NCAA	N	UCLA	Pac-10	L	101	105	2OT	31	4	L 1	Mellon Arena	ucla	cincinnati	2002
 1	Mon, Nov 19, 2001	REG		Flagler		W	69	62		1	0	W 1	McAlister Field House	NA	citadel	2002
 2	Fri, Nov 23, 2001	REG	@	North Carolina State	ACC	L	53	63		1	1	L 1	RBC Center	north-carolina-state	citadel	2002
 3	Mon, Nov 26, 2001	REG		William & Mary	CAA	W	67	62		2	1	W 1	McAlister Field House	william-mary	citadel	2002
@@ -1841,10 +1841,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 7, 2002	CTOURN	N	Villanova	Big East	W	72	70		22	6	W 7	Madison Square Garden (IV)	villanova	connecticut	2002
 29	Fri, Mar 8, 2002	CTOURN	N	Notre Dame	Big East	W	82	77		23	6	W 8	Madison Square Garden (IV)	notre-dame	connecticut	2002
 30	Sat, Mar 9, 2002	CTOURN	N	Pittsburgh (7)	Big East	W	74	65	2OT	24	6	W 9	Madison Square Garden (IV)	pittsburgh	connecticut	2002
-31	Fri, Mar 15, 2002	NCAA	N	Hampton	MEAC	W	78	67		25	6	W 10	Verizon Center	s/2002-03-15-connec	connecticut	2002
-32	Sun, Mar 17, 2002	NCAA	N	North Carolina State	ACC	W	77	74		26	6	W 11	Verizon Center	s/2002-03-17-connec	connecticut	2002
-33	Fri, Mar 22, 2002	NCAA	N	Southern Illinois	MVC	W	71	59		27	6	W 12	Carrier Dome	s/2002-03-22-connec	connecticut	2002
-34	Sun, Mar 24, 2002	NCAA	N	Maryland (4)	ACC	L	82	90		27	7	L 1		s/2002-03-24-connec	connecticut	2002
+31	Fri, Mar 15, 2002	NCAA	N	Hampton	MEAC	W	78	67		25	6	W 10	Verizon Center	hampton	connecticut	2002
+32	Sun, Mar 17, 2002	NCAA	N	North Carolina State	ACC	W	77	74		26	6	W 11	Verizon Center	north-carolina-state	connecticut	2002
+33	Fri, Mar 22, 2002	NCAA	N	Southern Illinois	MVC	W	71	59		27	6	W 12	Carrier Dome	southern-illinois	connecticut	2002
+34	Sun, Mar 24, 2002	NCAA	N	Maryland (4)	ACC	L	82	90		27	7	L 1		maryland	connecticut	2002
 1	Sat, Nov 17, 2001	REG	N	Towson	CAA	L	51	53		0	1	L 1	Reitz Arena	towson	coppin-state	2002
 2	Mon, Nov 19, 2001	REG	@	Loyola (MD)	MAAC	W	76	68	2OT	1	1	W 1	Reitz Arena	loyola-md	coppin-state	2002
 3	Sat, Nov 24, 2001	REG		Morgan State	MEAC	W	68	66		2	1	W 2	Coppin Center	morgan-state	coppin-state	2002
@@ -1933,8 +1933,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 2, 2002	CTOURN	N	Northern Iowa	MVC	W	80	65		20	8	W 1	Scottrade Center	northern-iowa	creighton	2002
 29	Sun, Mar 3, 2002	CTOURN	N	Illinois State	MVC	W	90	63		21	8	W 2	Scottrade Center	illinois-state	creighton	2002
 30	Mon, Mar 4, 2002	CTOURN	N	Southern Illinois	MVC	W	84	76		22	8	W 3	Scottrade Center	southern-illinois	creighton	2002
-31	Fri, Mar 15, 2002	NCAA	N	Florida (15)	SEC	W	83	82	2OT	23	8	W 4		s/2002-03-15-crei	creighton	2002
-32	Sun, Mar 17, 2002	NCAA	N	Illinois (13)	Big Ten	L	60	72		23	9	L 1		s/2002-03-17-crei	creighton	2002
+31	Fri, Mar 15, 2002	NCAA	N	Florida (15)	SEC	W	83	82	2OT	23	8	W 4		florida	creighton	2002
+32	Sun, Mar 17, 2002	NCAA	N	Illinois (13)	Big Ten	L	60	72		23	9	L 1		illinois	creighton	2002
 1	Fri, Nov 16, 2001	REG	N	Binghamton	AEC	L	46	49		0	1	L 1	William H. Pitt Center	binghamton	dartmouth	2002
 2	Tue, Nov 20, 2001	REG		Vermont	AEC	L	54	73		0	2	L 2	Leede Arena	vermont	dartmouth	2002
 3	Sat, Nov 24, 2001	REG	@	New Hampshire	AEC	W	72	70		1	2	W 1	Lundholm Gymnasium	new-hampshire	dartmouth	2002
@@ -1992,7 +1992,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 1, 2002	CTOURN	N	Citadel	Southern	W	71	58		19	9	W 1	North Charleston Coliseum	citadel	davidson	2002
 29	Sat, Mar 2, 2002	CTOURN	N	North Carolina-Greensboro	Southern	W	68	58		20	9	W 2	North Charleston Coliseum	north-carolina-greensboro	davidson	2002
 30	Sun, Mar 3, 2002	CTOURN	N	Furman	Southern	W	62	57		21	9	W 3	North Charleston Coliseum	furman	davidson	2002
-31	Thu, Mar 14, 2002	NCAA	N	Ohio State (14)	Big Ten	L	64	69		21	10	L 1		s/2002-03-14-dav	davidson	2002
+31	Thu, Mar 14, 2002	NCAA	N	Ohio State (14)	Big Ten	L	64	69		21	10	L 1		ohio-state	davidson	2002
 1	Sun, Nov 18, 2001	REG		Toledo	MAC	W	69	50		1	0	W 1	University of Dayton Arena	toledo	dayton	2002
 2	Wed, Nov 21, 2001	REG		Central Michigan	MAC	W	81	65		2	0	W 2	University of Dayton Arena	central-michigan	dayton	2002
 3	Sat, Nov 24, 2001	REG	@	Villanova	Big East	L	57	59		2	1	L 1	Wells Fargo Center	villanova	dayton	2002
@@ -2260,9 +2260,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Fri, Mar 8, 2002	CTOURN	N	North Carolina	ACC	W	60	48		27	3	W 2	Bojangles Coliseum	north-carolina	duke	2002
 31	Sat, Mar 9, 2002	CTOURN	N	Wake Forest	ACC	W	79	64		28	3	W 3	Bojangles Coliseum	wake-forest	duke	2002
 32	Sun, Mar 10, 2002	CTOURN	N	North Carolina State	ACC	W	91	61		29	3	W 4	Bojangles Coliseum	north-carolina-state	duke	2002
-33	Thu, Mar 14, 2002	NCAA	N	Winthrop	Big South	W	84	37		30	3	W 5	BI-LO Center	s/2002-03-14	duke	2002
-34	Sat, Mar 16, 2002	NCAA	N	Notre Dame	Big East	W	84	77		31	3	W 6	BI-LO Center	s/2002-03-16	duke	2002
-35	Thu, Mar 21, 2002	NCAA	N	Indiana	Big Ten	L	73	74		31	4	L 1	Rupp Arena	s/2002-03-21	duke	2002
+33	Thu, Mar 14, 2002	NCAA	N	Winthrop	Big South	W	84	37		30	3	W 5	BI-LO Center	winthrop	duke	2002
+34	Sat, Mar 16, 2002	NCAA	N	Notre Dame	Big East	W	84	77		31	3	W 6	BI-LO Center	notre-dame	duke	2002
+35	Thu, Mar 21, 2002	NCAA	N	Indiana	Big Ten	L	73	74		31	4	L 1	Rupp Arena	indiana	duke	2002
 1	Sun, Nov 18, 2001	REG		Maryland-Eastern Shore	MEAC	W	76	52		1	0	W 1	A.J. Palumbo Center	maryland-eastern-shore	duquesne	2002
 2	Mon, Nov 26, 2001	REG		Vermont	AEC	W	82	77	OT	2	0	W 2	A.J. Palumbo Center	vermont	duquesne	2002
 3	Thu, Nov 29, 2001	REG	@	Ohio	MAC	L	60	73		2	1	L 1	Athens YMCA	ohio	duquesne	2002
@@ -2612,7 +2612,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 2, 2002	REG	@	Kentucky (11)	SEC	L	67	70		21	7	L 1	Rupp Arena	kentucky	florida	2002
 29	Thu, Mar 7, 2002	CTOURN	N	Auburn	SEC	W	81	63		22	7	W 1	Georgia Dome	auburn	florida	2002
 30	Fri, Mar 8, 2002	CTOURN	N	Mississippi State	SEC	L	52	62		22	8	L 1	Georgia Dome	mississippi-state	florida	2002
-31	Fri, Mar 15, 2002	NCAA	N	Creighton	MVC	L	82	83	2OT	22	9	L 2		s/2002-03-15-crei	florida	2002
+31	Fri, Mar 15, 2002	NCAA	N	Creighton	MVC	L	82	83	2OT	22	9	L 2		creighton	florida	2002
 1	Fri, Nov 16, 2001	REG	@	Georgia Tech	ACC	L	62	97		0	1	L 1	Alexander Memorial Coliseum	georgia-tech	florida-am	2002
 2	Mon, Nov 19, 2001	REG	@	Mississippi State	SEC	L	55	92		0	2	L 2	Humphrey Coliseum	mississippi-state	florida-am	2002
 3	Sat, Nov 24, 2001	REG	@	Bethune-Cookman	MEAC	W	98	77		1	2	W 1	Moore Gymnasium	bethune-cookman	florida-am	2002
@@ -2671,7 +2671,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Feb 28, 2002	CTOURN	N	Jacksonville	A-Sun	W	59	50		17	11	W 3	UCF Arena	jacksonville	florida-atlantic	2002
 29	Fri, Mar 1, 2002	CTOURN	N	Jacksonville State	A-Sun	W	55	47		18	11	W 4	UCF Arena	jacksonville-state	florida-atlantic	2002
 30	Sat, Mar 2, 2002	CTOURN	N	Georgia State	A-Sun	W	76	75		19	11	W 5	UCF Arena	georgia-state	florida-atlantic	2002
-31	Thu, Mar 14, 2002	NCAA	N	Alabama (8)	SEC	L	78	86		19	12	L 1	BI-LO Center	s/2002-03-14-al	florida-atlantic	2002
+31	Thu, Mar 14, 2002	NCAA	N	Alabama (8)	SEC	L	78	86		19	12	L 1	BI-LO Center	alabama	florida-atlantic	2002
 1	Fri, Nov 16, 2001	REG		Saint Peter's	MAAC	W	70	59		1	0	W 1	US Century Bank Arena	saint-peters	florida-international	2002
 2	Sat, Nov 17, 2001	REG		Texas-San Antonio	Southland	L	65	71		1	1	L 1	US Century Bank Arena	texas-san-antonio	florida-international	2002
 3	Tue, Nov 20, 2001	REG		Florida Tech		W	85	68		2	1	W 1	US Century Bank Arena	NA	florida-international	2002
@@ -2941,8 +2941,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Wed, Feb 27, 2002	REG		South Carolina	SEC	W	82	75	OT	21	7	W 3	Stegeman Coliseum	south-carolina	georgia	2002
 29	Sat, Mar 2, 2002	REG	@	Tennessee	SEC	L	63	71	OT	21	8	L 1	Thompson-Boling Arena	tennessee	georgia	2002
 30	Fri, Mar 8, 2002	CTOURN	N	Louisiana State	SEC	L	76	78		21	9	L 2	Georgia Dome	louisiana-state	georgia	2002
-31	Fri, Mar 15, 2002	NCAA	N	Murray State	OVC	W	85	68		22	9	W 1	United Center	s/2002-03-15-ge	georgia	2002
-32	Sun, Mar 17, 2002	NCAA	N	Southern Illinois	MVC	L	75	77		22	10	L 1	United Center	s/2002-03-17-ge	georgia	2002
+31	Fri, Mar 15, 2002	NCAA	N	Murray State	OVC	W	85	68		22	9	W 1	United Center	murray-state	georgia	2002
+32	Sun, Mar 17, 2002	NCAA	N	Southern Illinois	MVC	L	75	77		22	10	L 1	United Center	southern-illinois	georgia	2002
 1	Fri, Nov 16, 2001	REG		Northern Georgia		W	85	51		1	0	W 1	Hanner Fieldhouse	NA	georgia-southern	2002
 2	Mon, Nov 19, 2001	REG		Gardner-Webb		W	88	77		2	0	W 2	Hanner Fieldhouse	NA	georgia-southern	2002
 3	Wed, Nov 21, 2001	REG	@	Georgia	SEC	L	73	94		2	1	L 1	Stegeman Coliseum	georgia	georgia-southern	2002
@@ -3065,7 +3065,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 2, 2002	CTOURN	N	Loyola Marymount	WCC	W	82	64		27	3	W 12	Jenny Craig Pavillion	loyola-marymount	gonzaga	2002
 31	Sun, Mar 3, 2002	CTOURN	@	San Diego	WCC	W	87	79		28	3	W 13	Jenny Craig Pavillion	san-diego	gonzaga	2002
 32	Mon, Mar 4, 2002	CTOURN	N	Pepperdine	WCC	W	96	90		29	3	W 14	Jenny Craig Pavillion	pepperdine	gonzaga	2002
-33	Thu, Mar 14, 2002	NCAA	N	Wyoming	MWC	L	66	73		29	4	L 1	The Pit/Bob King Court	s/2002-03-14-go	gonzaga	2002
+33	Thu, Mar 14, 2002	NCAA	N	Wyoming	MWC	L	66	73		29	4	L 1	The Pit/Bob King Court	wyoming	gonzaga	2002
 1	Sat, Nov 17, 2001	REG		Wiley		W	81	54		1	0	W 1	Tiger Memorial Gym	NA	grambling	2002
 2	Mon, Nov 19, 2001	REG	@	Tulsa	WAC	L	61	104		1	1	L 1	Donald W. Reynolds Center	tulsa	grambling	2002
 3	Wed, Nov 21, 2001	REG	@	Villanova	Big East	L	68	82		1	2	L 2	Wells Fargo Center	villanova	grambling	2002
@@ -3156,7 +3156,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Wed, Mar 6, 2002	CTOURN	N	Morgan State	MEAC	W	93	70		24	6	W 2	Arthur Ashe Athletic Center	morgan-state	hampton	2002
 31	Fri, Mar 8, 2002	CTOURN	N	South Carolina State	MEAC	W	80	70		25	6	W 3	Arthur Ashe Athletic Center	south-carolina-state	hampton	2002
 32	Sat, Mar 9, 2002	CTOURN	N	Howard	MEAC	W	80	62		26	6	W 4	Arthur Ashe Athletic Center	howard	hampton	2002
-33	Fri, Mar 15, 2002	NCAA	N	Connecticut (10)	Big East	L	67	78		26	7	L 1	Verizon Center	s/2002-03-15-connec	hampton	2002
+33	Fri, Mar 15, 2002	NCAA	N	Connecticut (10)	Big East	L	67	78		26	7	L 1	Verizon Center	connecticut	hampton	2002
 1	Fri, Nov 16, 2001	REG	@	Delaware State	MEAC	L	57	69		0	1	L 1	Memorial Hall	delaware-state	hartford	2002
 2	Mon, Nov 19, 2001	REG	@	Iowa State	Big 12	L	54	83		0	2	L 2	James H. Hilton Coliseum 	iowa-state	hartford	2002
 3	Thu, Nov 22, 2001	REG	N	Saint Louis	CUSA	L	52	85		0	3	L 3	Valley High School	saint-louis	hartford	2002
@@ -3247,7 +3247,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 7, 2002	CTOURN	N	San Jose State	WAC	W	71	56		25	5	W 2	Donald W. Reynolds Center	san-jose-state	hawaii	2002
 31	Fri, Mar 8, 2002	CTOURN	N	Nevada	WAC	W	90	68		26	5	W 3	Donald W. Reynolds Center	nevada	hawaii	2002
 32	Sat, Mar 9, 2002	CTOURN	@	Tulsa	WAC	W	73	59		27	5	W 4	Donald W. Reynolds Center	tulsa	hawaii	2002
-33	Fri, Mar 15, 2002	NCAA	N	Xavier (22)	A-10	L	58	70		27	6	L 1		s/2002-03-15-h	hawaii	2002
+33	Fri, Mar 15, 2002	NCAA	N	Xavier (22)	A-10	L	58	70		27	6	L 1		xavier	hawaii	2002
 1	Fri, Nov 16, 2001	REG	@	Auburn	SEC	L	59	63		0	1	L 1	Beard-Eaves-Memorial	auburn	high-point	2002
 2	Tue, Nov 20, 2001	REG		William & Mary	CAA	W	63	57		1	1	W 1	Millis Center	william-mary	high-point	2002
 3	Sat, Nov 24, 2001	REG		North Carolina-Wilmington	CAA	L	66	74		1	2	L 1	Millis Center	north-carolina-wilmington	high-point	2002
@@ -3342,7 +3342,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 2, 2002	CTOURN	N	Navy	Patriot	W	59	41		16	14	W 2	The Show Place Arena	navy	holy-cross	2002
 31	Sun, Mar 3, 2002	CTOURN	N	Bucknell	Patriot	W	64	57		17	14	W 3	The Show Place Arena	bucknell	holy-cross	2002
 32	Fri, Mar 8, 2002	CTOURN	@	American	Patriot	W	58	54		18	14	W 4	Bender Arena	american	holy-cross	2002
-33	Thu, Mar 14, 2002	NCAA	N	Kansas (2)	Big 12	L	59	70		18	15	L 1		s/2002-03-14-holy-	holy-cross	2002
+33	Thu, Mar 14, 2002	NCAA	N	Kansas (2)	Big 12	L	59	70		18	15	L 1		kansas	holy-cross	2002
 1	Mon, Nov 19, 2001	REG	N	UCLA (5)	Pac-10	L	60	71		0	1	L 1	Lahaina Civic Center	ucla	houston	2002
 2	Tue, Nov 20, 2001	REG	N	Kansas (4)	Big 12	L	78	95		0	2	L 2	Lahaina Civic Center	kansas	houston	2002
 3	Wed, Nov 21, 2001	REG	N	Chaminade		W	76	73		1	2	W 1	Lahaina Civic Center	NA	houston	2002
@@ -3494,9 +3494,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sun, Mar 3, 2002	REG	@	Minnesota	Big Ten	W	67	66		23	7	W 8	Williams Arena	minnesota	illinois	2002
 31	Fri, Mar 8, 2002	CTOURN	N	Minnesota	Big Ten	W	92	76		24	7	W 9	Conseco Fieldhouse	minnesota	illinois	2002
 32	Sat, Mar 9, 2002	CTOURN	N	Ohio State (21)	Big Ten	L	88	94		24	8	L 1	Conseco Fieldhouse	ohio-state	illinois	2002
-33	Fri, Mar 15, 2002	NCAA	N	San Diego State	MWC	W	93	64		25	8	W 1	United Center	s/2002-03-15-ill	illinois	2002
-34	Sun, Mar 17, 2002	NCAA	N	Creighton	MVC	W	72	60		26	8	W 2		s/2002-03-17-crei	illinois	2002
-35	Fri, Mar 22, 2002	NCAA	N	Kansas (2)	Big 12	L	69	73		26	9	L 1		s/2002-03-22-ill	illinois	2002
+33	Fri, Mar 15, 2002	NCAA	N	San Diego State	MWC	W	93	64		25	8	W 1	United Center	san-diego-state	illinois	2002
+34	Sun, Mar 17, 2002	NCAA	N	Creighton	MVC	W	72	60		26	8	W 2		creighton	illinois	2002
+35	Fri, Mar 22, 2002	NCAA	N	Kansas (2)	Big 12	L	69	73		26	9	L 1		kansas	illinois	2002
 1	Sun, Nov 18, 2001	REG		Indiana State	MVC	W	70	54		1	0	W 1	UIC Pavilion	indiana-state	illinois-chicago	2002
 2	Wed, Nov 21, 2001	REG		Saint Joseph's (IN)		W	96	53		2	0	W 2	UIC Pavilion	NA	illinois-chicago	2002
 3	Tue, Nov 27, 2001	REG		Evansville	MVC	W	64	61		3	0	W 3	UIC Pavilion	evansville	illinois-chicago	2002
@@ -3530,7 +3530,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 2, 2002	CTOURN	N	Milwaukee	Horizon	W	75	63		18	13	W 1	Henry J. Goodman Arena	milwaukee	illinois-chicago	2002
 32	Sun, Mar 3, 2002	CTOURN	N	Detroit Mercy	Horizon	W	79	68		19	13	W 2	Henry J. Goodman Arena	detroit-mercy	illinois-chicago	2002
 33	Tue, Mar 5, 2002	CTOURN	N	Loyola (IL)	Horizon	W	76	75	OT	20	13	W 3	Henry J. Goodman Arena	loyola-il	illinois-chicago	2002
-34	Fri, Mar 15, 2002	NCAA	N	Oklahoma (3)	Big 12	L	63	71		20	14	L 1		s/2002-03-15-illinois-ch	illinois-chicago	2002
+34	Fri, Mar 15, 2002	NCAA	N	Oklahoma (3)	Big 12	L	63	71		20	14	L 1		oklahoma	illinois-chicago	2002
 1	Fri, Nov 16, 2001	REG		Weber State	Big Sky	W	74	70		1	0	W 1	Redbird Arena	weber-state	illinois-state	2002
 2	Fri, Nov 23, 2001	REG	N	UC-Irvine	Big West	W	58	52		2	0	W 2	Charles L. Sewall Center	california-irvine	illinois-state	2002
 3	Sat, Nov 24, 2001	REG	N	Pittsburgh	Big East	L	46	65		2	1	L 1	Charles L. Sewall Center	pittsburgh	illinois-state	2002
@@ -3593,12 +3593,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 2, 2002	REG		Northwestern	Big Ten	W	79	67		19	10	W 1	Assembly Hall	northwestern	indiana	2002
 30	Fri, Mar 8, 2002	CTOURN	N	Michigan State	Big Ten	W	67	56		20	10	W 2	Conseco Fieldhouse	michigan-state	indiana	2002
 31	Sat, Mar 9, 2002	CTOURN	N	Iowa	Big Ten	L	60	62		20	11	L 1	Conseco Fieldhouse	iowa	indiana	2002
-32	Thu, Mar 14, 2002	NCAA	N	Utah	MWC	W	75	56		21	11	W 1	ARCO Arena	s/2002-03-14-in	indiana	2002
-33	Sat, Mar 16, 2002	NCAA	N	North Carolina-Wilmington	CAA	W	76	67		22	11	W 2	ARCO Arena	s/2002-03-16-in	indiana	2002
-34	Thu, Mar 21, 2002	NCAA	N	Duke (1)	ACC	W	74	73		23	11	W 3	Rupp Arena	s/2002-03-21	indiana	2002
-35	Sat, Mar 23, 2002	NCAA	N	Kent State	MAC	W	81	69		24	11	W 4	Rupp Arena	s/2002-03-23-in	indiana	2002
-36	Sat, Mar 30, 2002	NCAA	N	Oklahoma (3)	Big 12	W	73	64		25	11	W 5		s/2002-03-30-in	indiana	2002
-37	Mon, Apr 1, 2002	NCAA	N	Maryland (4)	ACC	L	52	64		25	12	L 1		s/2002-04-01-in	indiana	2002
+32	Thu, Mar 14, 2002	NCAA	N	Utah	MWC	W	75	56		21	11	W 1	ARCO Arena	utah	indiana	2002
+33	Sat, Mar 16, 2002	NCAA	N	North Carolina-Wilmington	CAA	W	76	67		22	11	W 2	ARCO Arena	north-carolina-wilmington	indiana	2002
+34	Thu, Mar 21, 2002	NCAA	N	Duke (1)	ACC	W	74	73		23	11	W 3	Rupp Arena	duke	indiana	2002
+35	Sat, Mar 23, 2002	NCAA	N	Kent State	MAC	W	81	69		24	11	W 4	Rupp Arena	kent-state	indiana	2002
+36	Sat, Mar 30, 2002	NCAA	N	Oklahoma (3)	Big 12	W	73	64		25	11	W 5		oklahoma	indiana	2002
+37	Mon, Apr 1, 2002	NCAA	N	Maryland (4)	ACC	L	52	64		25	12	L 1		maryland	indiana	2002
 1	Sun, Nov 18, 2001	REG	@	Illinois-Chicago	Horizon	L	54	70		0	1	L 1	UIC Pavilion	illinois-chicago	indiana-state	2002
 2	Wed, Nov 21, 2001	REG		Valparaiso	Mid-Cont	L	54	71		0	2	L 2	Hulman Center	valparaiso	indiana-state	2002
 3	Sun, Nov 25, 2001	REG	@	Butler	Horizon	L	49	69		0	3	L 3	Hinkle Fieldhouse	butler	indiana-state	2002
@@ -3901,11 +3901,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Fri, Mar 8, 2002	CTOURN	N	Colorado	Big 12	W	102	73		28	2	W 15	Kemper Arena	colorado	kansas	2002
 31	Sat, Mar 9, 2002	CTOURN	N	Texas Tech	Big 12	W	90	50		29	2	W 16	Kemper Arena	texas-tech	kansas	2002
 32	Sun, Mar 10, 2002	CTOURN	N	Oklahoma (4)	Big 12	L	55	64		29	3	L 1	Kemper Arena	oklahoma	kansas	2002
-33	Thu, Mar 14, 2002	NCAA	N	Holy Cross	Patriot	W	70	59		30	3	W 1		s/2002-03-14-holy-	kansas	2002
-34	Sat, Mar 16, 2002	NCAA	N	Stanford (24)	Pac-10	W	86	63		31	3	W 2	Edward Jones Dome	s/2002-03-16-k	kansas	2002
-35	Fri, Mar 22, 2002	NCAA	N	Illinois (13)	Big Ten	W	73	69		32	3	W 3		s/2002-03-22-ill	kansas	2002
-36	Sun, Mar 24, 2002	NCAA	N	Oregon (11)	Pac-10	W	104	86		33	3	W 4	Kohl Center	s/2002-03-24-k	kansas	2002
-37	Sat, Mar 30, 2002	NCAA	N	Maryland (4)	ACC	L	88	97		33	4	L 1	Georgia Dome	s/2002-03-30-k	kansas	2002
+33	Thu, Mar 14, 2002	NCAA	N	Holy Cross	Patriot	W	70	59		30	3	W 1		holy-cross	kansas	2002
+34	Sat, Mar 16, 2002	NCAA	N	Stanford (24)	Pac-10	W	86	63		31	3	W 2	Edward Jones Dome	stanford	kansas	2002
+35	Fri, Mar 22, 2002	NCAA	N	Illinois (13)	Big Ten	W	73	69		32	3	W 3		illinois	kansas	2002
+36	Sun, Mar 24, 2002	NCAA	N	Oregon (11)	Pac-10	W	104	86		33	3	W 4	Kohl Center	oregon	kansas	2002
+37	Sat, Mar 30, 2002	NCAA	N	Maryland (4)	ACC	L	88	97		33	4	L 1	Georgia Dome	maryland	kansas	2002
 1	Fri, Nov 16, 2001	REG		Troy	A-Sun	W	64	60		1	0	W 1	Bramlage Coliseum	troy	kansas-state	2002
 2	Tue, Nov 20, 2001	REG		Green Bay	Horizon	W	68	55		2	0	W 2	Bramlage Coliseum	green-bay	kansas-state	2002
 3	Sat, Nov 24, 2001	REG		Mississippi	SEC	L	65	67		2	1	L 1	Bramlage Coliseum	mississippi	kansas-state	2002
@@ -3967,10 +3967,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 7, 2002	CTOURN	N	Marshall	MAC	W	82	70		25	5	W 16	Quicken Loans Arena	marshall	kent-state	2002
 31	Fri, Mar 8, 2002	CTOURN	N	Toledo	MAC	W	86	61		26	5	W 17	Quicken Loans Arena	toledo	kent-state	2002
 32	Sat, Mar 9, 2002	CTOURN	N	Bowling Green State	MAC	W	70	59		27	5	W 18	Quicken Loans Arena	bowling-green-state	kent-state	2002
-33	Thu, Mar 14, 2002	NCAA	N	Oklahoma State (20)	Big 12	W	69	61		28	5	W 19		s/2002-03-14-kent-	kent-state	2002
-34	Sat, Mar 16, 2002	NCAA	N	Alabama (8)	SEC	W	71	58		29	5	W 20	BI-LO Center	s/2002-03-16-al	kent-state	2002
-35	Thu, Mar 21, 2002	NCAA	N	Pittsburgh (9)	Big East	W	78	73	OT	30	5	W 21		s/2002-03-21-kent-	kent-state	2002
-36	Sat, Mar 23, 2002	NCAA	N	Indiana	Big Ten	L	69	81		30	6	L 1	Rupp Arena	s/2002-03-23-in	kent-state	2002
+33	Thu, Mar 14, 2002	NCAA	N	Oklahoma State (20)	Big 12	W	69	61		28	5	W 19		oklahoma-state	kent-state	2002
+34	Sat, Mar 16, 2002	NCAA	N	Alabama (8)	SEC	W	71	58		29	5	W 20	BI-LO Center	alabama	kent-state	2002
+35	Thu, Mar 21, 2002	NCAA	N	Pittsburgh (9)	Big East	W	78	73	OT	30	5	W 21		pittsburgh	kent-state	2002
+36	Sat, Mar 23, 2002	NCAA	N	Indiana	Big Ten	L	69	81		30	6	L 1	Rupp Arena	indiana	kent-state	2002
 1	Thu, Nov 15, 2001	REG		Western Kentucky	Sun Belt	L	52	64		0	1	L 1	Rupp Arena	western-kentucky	kentucky	2002
 2	Fri, Nov 16, 2001	REG		Marshall	MAC	W	90	73		1	1	W 1	Rupp Arena	marshall	kentucky	2002
 3	Sat, Nov 24, 2001	REG		Morehead State	OVC	W	94	75		2	1	W 2	Rupp Arena	morehead-state	kentucky	2002
@@ -4000,9 +4000,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Wed, Feb 27, 2002	REG	@	Vanderbilt	SEC	L	73	86		19	8	L 1	Memorial Gymnasium	vanderbilt	kentucky	2002
 28	Sat, Mar 2, 2002	REG		Florida (8)	SEC	W	70	67		20	8	W 1	Rupp Arena	florida	kentucky	2002
 29	Fri, Mar 8, 2002	CTOURN	N	South Carolina	SEC	L	57	70		20	9	L 1	Georgia Dome	south-carolina	kentucky	2002
-30	Thu, Mar 14, 2002	NCAA	N	Valparaiso	Mid-Cont	W	83	68		21	9	W 1	Edward Jones Dome	s/2002-03-14-ken	kentucky	2002
-31	Sat, Mar 16, 2002	NCAA	N	Tulsa	WAC	W	87	82		22	9	W 2	Edward Jones Dome	s/2002-03-16-ken	kentucky	2002
-32	Fri, Mar 22, 2002	NCAA	N	Maryland (4)	ACC	L	68	78		22	10	L 1		s/2002-03-22-ken	kentucky	2002
+30	Thu, Mar 14, 2002	NCAA	N	Valparaiso	Mid-Cont	W	83	68		21	9	W 1	Edward Jones Dome	valparaiso	kentucky	2002
+31	Sat, Mar 16, 2002	NCAA	N	Tulsa	WAC	W	87	82		22	9	W 2	Edward Jones Dome	tulsa	kentucky	2002
+32	Fri, Mar 22, 2002	NCAA	N	Maryland (4)	ACC	L	68	78		22	10	L 1		maryland	kentucky	2002
 1	Sun, Nov 18, 2001	REG	N	Morris Brown	Ind	W	63	49		1	0	W 1	Virgin Islands Sport & Fitness Center 	morris-brown	la-salle	2002
 2	Mon, Nov 19, 2001	REG	N	Clemson	ACC	L	69	81		1	1	L 1	Virgin Islands Sport & Fitness Center 	clemson	la-salle	2002
 3	Tue, Nov 20, 2001	REG	N	Alabama-Birmingham	CUSA	W	63	58		2	1	W 1	Virgin Islands Sport & Fitness Center 	alabama-birmingham	la-salle	2002
@@ -4575,7 +4575,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 7, 2002	CTOURN	N	Louisville	CUSA	W	84	76		25	5	W 2	Riverfront Coliseum	louisville	marquette	2002
 31	Fri, Mar 8, 2002	CTOURN	N	Houston	CUSA	W	85	73		26	5	W 3	Riverfront Coliseum	houston	marquette	2002
 32	Sat, Mar 9, 2002	CTOURN	@	Cincinnati (5)	CUSA	L	63	77		26	6	L 1	Riverfront Coliseum	cincinnati	marquette	2002
-33	Thu, Mar 14, 2002	NCAA	N	Tulsa	WAC	L	69	71		26	7	L 2	Edward Jones Dome	s/2002-03-14-marq	marquette	2002
+33	Thu, Mar 14, 2002	NCAA	N	Tulsa	WAC	L	69	71		26	7	L 2	Edward Jones Dome	tulsa	marquette	2002
 1	Thu, Nov 15, 2001	REG	N	George Washington	A-10	L	64	69		0	1	L 1	Rupp Arena	george-washington	marshall	2002
 2	Fri, Nov 16, 2001	REG	@	Kentucky (4)	SEC	L	73	90		0	2	L 2	Rupp Arena	kentucky	marshall	2002
 3	Fri, Nov 23, 2001	REG		Troy	A-Sun	L	72	77		0	3	L 3	Henderson Center	troy	marshall	2002
@@ -4636,12 +4636,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sun, Mar 3, 2002	REG		Virginia	ACC	W	112	92		25	3	W 12	Cole Fieldhouse	virginia	maryland	2002
 29	Fri, Mar 8, 2002	CTOURN	N	Florida State	ACC	W	85	59		26	3	W 13	Bojangles Coliseum	florida-state	maryland	2002
 30	Sat, Mar 9, 2002	CTOURN	N	North Carolina State	ACC	L	82	86		26	4	L 1	Bojangles Coliseum	north-carolina-state	maryland	2002
-31	Fri, Mar 15, 2002	NCAA	N	Siena	MAAC	W	85	70		27	4	W 1	Verizon Center	s/2002-03-15-mar	maryland	2002
-32	Sun, Mar 17, 2002	NCAA	N	Wisconsin	Big Ten	W	87	57		28	4	W 2	Verizon Center	s/2002-03-17-mar	maryland	2002
-33	Fri, Mar 22, 2002	NCAA	N	Kentucky (16)	SEC	W	78	68		29	4	W 3		s/2002-03-22-ken	maryland	2002
-34	Sun, Mar 24, 2002	NCAA	N	Connecticut (10)	Big East	W	90	82		30	4	W 4		s/2002-03-24-connec	maryland	2002
-35	Sat, Mar 30, 2002	NCAA	N	Kansas (2)	Big 12	W	97	88		31	4	W 5	Georgia Dome	s/2002-03-30-k	maryland	2002
-36	Mon, Apr 1, 2002	NCAA	N	Indiana	Big Ten	W	64	52		32	4	W 6		s/2002-04-01-in	maryland	2002
+31	Fri, Mar 15, 2002	NCAA	N	Siena	MAAC	W	85	70		27	4	W 1	Verizon Center	siena	maryland	2002
+32	Sun, Mar 17, 2002	NCAA	N	Wisconsin	Big Ten	W	87	57		28	4	W 2	Verizon Center	wisconsin	maryland	2002
+33	Fri, Mar 22, 2002	NCAA	N	Kentucky (16)	SEC	W	78	68		29	4	W 3		kentucky	maryland	2002
+34	Sun, Mar 24, 2002	NCAA	N	Connecticut (10)	Big East	W	90	82		30	4	W 4		connecticut	maryland	2002
+35	Sat, Mar 30, 2002	NCAA	N	Kansas (2)	Big 12	W	97	88		31	4	W 5	Georgia Dome	kansas	maryland	2002
+36	Mon, Apr 1, 2002	NCAA	N	Indiana	Big Ten	W	64	52		32	4	W 6		indiana	maryland	2002
 1	Sat, Nov 17, 2001	REG	@	Loyola (MD)	MAAC	W	76	66		1	0	W 1	Reitz Arena	loyola-md	maryland-baltimore-county	2002
 2	Mon, Nov 19, 2001	REG	N	Towson	CAA	W	73	54		2	0	W 2	Reitz Arena	towson	maryland-baltimore-county	2002
 3	Thu, Nov 29, 2001	REG	@	Saint Francis (PA)	NEC	W	77	75		3	0	W 3	Maurice Stokes Athletic Center	saint-francis-pa	maryland-baltimore-county	2002
@@ -4758,7 +4758,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 2, 2002	REG		Stephen F. Austin	Southland	W	62	37		19	8	W 12	Burton Coliseum	stephen-f-austin	mcneese-state	2002
 28	Wed, Mar 6, 2002	CTOURN		Lamar	Southland	W	71	57		20	8	W 13	Burton Coliseum	lamar	mcneese-state	2002
 29	Sat, Mar 9, 2002	CTOURN		Louisiana-Monroe	Southland	W	65	43		21	8	W 14	Burton Coliseum	louisiana-monroe	mcneese-state	2002
-30	Fri, Mar 15, 2002	NCAA	N	Mississippi State (17)	SEC	L	58	70		21	9	L 1		s/2002-03-15-mcneese-	mcneese-state	2002
+30	Fri, Mar 15, 2002	NCAA	N	Mississippi State (17)	SEC	L	58	70		21	9	L 1		mississippi-state	mcneese-state	2002
 1	Tue, Nov 13, 2001	REG		Wofford	Southern	W	88	61		1	0	W 1	The Pyramid	wofford	memphis	2002
 2	Wed, Nov 14, 2001	REG		Old Dominion	CAA	W	91	66		2	0	W 2	The Pyramid	old-dominion	memphis	2002
 3	Sun, Nov 18, 2001	REG		Northwestern State	Southland	W	97	69		3	0	W 3	The Pyramid	northwestern-state	memphis	2002
@@ -4855,7 +4855,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 2, 2002	REG		Virginia Tech	Big East	W	83	77		23	6	W 2	Miami Arena	virginia-tech	miami-fl	2002
 30	Thu, Mar 7, 2002	CTOURN	N	Georgetown	Big East	W	84	76	OT	24	6	W 3	Madison Square Garden (IV)	georgetown	miami-fl	2002
 31	Fri, Mar 8, 2002	CTOURN	N	Pittsburgh (7)	Big East	L	71	76		24	7	L 1	Madison Square Garden (IV)	pittsburgh	miami-fl	2002
-32	Thu, Mar 14, 2002	NCAA	N	Missouri	Big 12	L	80	93		24	8	L 2	The Pit/Bob King Court	s/2002-03-14-mia	miami-fl	2002
+32	Thu, Mar 14, 2002	NCAA	N	Missouri	Big 12	L	80	93		24	8	L 2	The Pit/Bob King Court	missouri	miami-fl	2002
 1	Sat, Nov 17, 2001	REG	@	North Carolina-Wilmington	CAA	L	42	50		0	1	L 1	Trask Coliseum	north-carolina-wilmington	miami-oh	2002
 2	Mon, Nov 19, 2001	REG		George Mason	CAA	W	70	65		1	1	W 1	Millett Hall	george-mason	miami-oh	2002
 3	Wed, Nov 28, 2001	REG		Xavier	A-10	L	58	87		1	2	L 1	Millett Hall	xavier	miami-oh	2002
@@ -4946,7 +4946,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Feb 26, 2002	REG	@	Ohio State (18)	Big Ten	W	81	76		18	10	W 4	Value City Arena	ohio-state	michigan-state	2002
 29	Sat, Mar 2, 2002	REG		Iowa	Big Ten	W	93	79		19	10	W 5	Breslin Events Center	iowa	michigan-state	2002
 30	Fri, Mar 8, 2002	CTOURN	N	Indiana (23)	Big Ten	L	56	67		19	11	L 1	Conseco Fieldhouse	indiana	michigan-state	2002
-31	Fri, Mar 15, 2002	NCAA	N	North Carolina State	ACC	L	58	69		19	12	L 2		s/2002-03-15-michigan-	michigan-state	2002
+31	Fri, Mar 15, 2002	NCAA	N	North Carolina State	ACC	L	58	69		19	12	L 2		north-carolina-state	michigan-state	2002
 1	Sat, Nov 17, 2001	REG		Bryan		W	115	59		1	0	W 1	Murphy Athletic Center	NA	middle-tennessee	2002
 2	Wed, Nov 21, 2001	REG		IUPUI	Mid-Cont	W	76	72		2	0	W 2	Murphy Athletic Center	iupui	middle-tennessee	2002
 3	Sat, Nov 24, 2001	REG		North Carolina-Greensboro	Southern	W	74	58		3	0	W 3	Murphy Athletic Center	north-carolina-greensboro	middle-tennessee	2002
@@ -5066,7 +5066,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Wed, Feb 27, 2002	REG	@	Louisiana State	SEC	L	56	59		19	9	L 2	Maravich Assembly Center	louisiana-state	mississippi	2002
 29	Sun, Mar 3, 2002	REG		Alabama (6)	SEC	W	84	56		20	9	W 1	C.M. Tad Smith Coliseum	alabama	mississippi	2002
 30	Thu, Mar 7, 2002	CTOURN	N	South Carolina	SEC	L	67	69		20	10	L 1	Georgia Dome	south-carolina	mississippi	2002
-31	Fri, Mar 15, 2002	NCAA	N	UCLA	Pac-10	L	58	80		20	11	L 2		s/2002-03-15-missis	mississippi	2002
+31	Fri, Mar 15, 2002	NCAA	N	UCLA	Pac-10	L	58	80		20	11	L 2		ucla	mississippi	2002
 1	Sat, Nov 17, 2001	REG		Nicholls State	Southland	W	95	59		1	0	W 1	Humphrey Coliseum	nicholls-state	mississippi-state	2002
 2	Mon, Nov 19, 2001	REG		Florida A&M	MEAC	W	92	55		2	0	W 2	Humphrey Coliseum	florida-am	mississippi-state	2002
 3	Wed, Nov 21, 2001	REG		Arkansas-Little Rock	Sun Belt	W	93	81		3	0	W 3	Humphrey Coliseum	arkansas-little-rock	mississippi-state	2002
@@ -5100,8 +5100,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 8, 2002	CTOURN	N	Florida (11)	SEC	W	62	52		24	7	W 6	Georgia Dome	florida	mississippi-state	2002
 32	Sat, Mar 9, 2002	CTOURN	N	Louisiana State	SEC	W	57	51		25	7	W 7	Georgia Dome	louisiana-state	mississippi-state	2002
 33	Sun, Mar 10, 2002	CTOURN	N	Alabama (8)	SEC	W	61	58		26	7	W 8	Georgia Dome	alabama	mississippi-state	2002
-34	Fri, Mar 15, 2002	NCAA	N	McNeese State	Southland	W	70	58		27	7	W 9		s/2002-03-15-mcneese-	mississippi-state	2002
-35	Sun, Mar 17, 2002	NCAA	N	Texas	Big 12	L	64	68		27	8	L 1	American Airlines Center	s/2002-03-17-mississippi-	mississippi-state	2002
+34	Fri, Mar 15, 2002	NCAA	N	McNeese State	Southland	W	70	58		27	7	W 9		mcneese-state	mississippi-state	2002
+35	Sun, Mar 17, 2002	NCAA	N	Texas	Big 12	L	64	68		27	8	L 1	American Airlines Center	texas	mississippi-state	2002
 1	Tue, Nov 13, 2001	REG	@	Alabama (24)	SEC	L	67	107		0	1	L 1	Coleman Coliseum 	alabama	mississippi-valley-state	2002
 2	Wed, Nov 14, 2001	REG	N	Loyola Marymount	WCC	L	65	74		0	2	L 2	Coleman Coliseum 	loyola-marymount	mississippi-valley-state	2002
 3	Wed, Nov 28, 2001	REG		Arkansas State	Sun Belt	W	79	77		1	2	W 1	Harrison HPER Complex	arkansas-state	mississippi-valley-state	2002
@@ -5163,10 +5163,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sun, Mar 3, 2002	REG		Kansas (1)	Big 12	L	92	95		20	10	L 1	Hearnes Center	kansas	missouri	2002
 31	Thu, Mar 7, 2002	CTOURN	N	Iowa State	Big 12	W	79	59		21	10	W 1	Kemper Arena	iowa-state	missouri	2002
 32	Fri, Mar 8, 2002	CTOURN	N	Texas	Big 12	L	85	89		21	11	L 1	Kemper Arena	texas	missouri	2002
-33	Thu, Mar 14, 2002	NCAA	N	Miami (FL) (21)	Big East	W	93	80		22	11	W 1	The Pit/Bob King Court	s/2002-03-14-mia	missouri	2002
-34	Sat, Mar 16, 2002	NCAA	N	Ohio State (14)	Big Ten	W	83	67		23	11	W 2		s/2002-03-16-mis	missouri	2002
-35	Thu, Mar 21, 2002	NCAA	N	UCLA	Pac-10	W	82	73		24	11	W 3		s/2002-03-21-mis	missouri	2002
-36	Sat, Mar 23, 2002	NCAA	N	Oklahoma (3)	Big 12	L	75	81		24	12	L 1		s/2002-03-23-mis	missouri	2002
+33	Thu, Mar 14, 2002	NCAA	N	Miami (FL) (21)	Big East	W	93	80		22	11	W 1	The Pit/Bob King Court	miami-fl	missouri	2002
+34	Sat, Mar 16, 2002	NCAA	N	Ohio State (14)	Big Ten	W	83	67		23	11	W 2		ohio-state	missouri	2002
+35	Thu, Mar 21, 2002	NCAA	N	UCLA	Pac-10	W	82	73		24	11	W 3		ucla	missouri	2002
+36	Sat, Mar 23, 2002	NCAA	N	Oklahoma (3)	Big 12	L	75	81		24	12	L 1		oklahoma	missouri	2002
 1	Sat, Nov 17, 2001	REG	@	Green Bay	Horizon	W	48	47		1	0	W 1	Brown County Arena	green-bay	missouri-kansas-city	2002
 2	Sat, Nov 24, 2001	REG		Maryland-Eastern Shore	MEAC	W	58	55		2	0	W 2	Municipal Auditorium	maryland-eastern-shore	missouri-kansas-city	2002
 3	Tue, Nov 27, 2001	REG		Missouri State	MVC	W	69	63	OT	3	0	W 3	Municipal Auditorium	missouri-state	missouri-kansas-city	2002
@@ -5288,7 +5288,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 7, 2002	CTOURN	N	Northern Arizona	Big Sky	W	82	64		14	14	W 1	Worthington Arena	northern-arizona	montana	2002
 29	Fri, Mar 8, 2002	CTOURN	@	Montana State	Big Sky	W	70	68		15	14	W 2	Worthington Arena	montana-state	montana	2002
 30	Sat, Mar 9, 2002	CTOURN	N	Eastern Washington	Big Sky	W	70	66		16	14	W 3	Worthington Arena	eastern-washington	montana	2002
-31	Thu, Mar 14, 2002	NCAA	N	Oregon (11)	Pac-10	L	62	81		16	15	L 1		s/2002-03-14-mo	montana	2002
+31	Thu, Mar 14, 2002	NCAA	N	Oregon (11)	Pac-10	L	62	81		16	15	L 1		oregon	montana	2002
 1	Tue, Nov 13, 2001	REG	@	Fresno State	WAC	L	70	92		0	1	L 1	Selland Arena 	fresno-state	montana-state	2002
 2	Sat, Nov 17, 2001	REG		Utah State	Big West	L	51	66		0	2	L 2	Worthington Arena	utah-state	montana-state	2002
 3	Mon, Nov 26, 2001	REG		Jamestown		W	73	58		1	2	W 1	Worthington Arena	NA	montana-state	2002
@@ -5463,7 +5463,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Tue, Feb 26, 2002	CTOURN		Eastern Illinois	OVC	W	103	56		17	12	W 1	Regional Special Events Center	eastern-illinois	murray-state	2002
 30	Fri, Mar 1, 2002	CTOURN	N	Morehead State	OVC	W	89	75		18	12	W 2	Kentucky International Convention Center	morehead-state	murray-state	2002
 31	Sat, Mar 2, 2002	CTOURN	N	Tennessee Tech	OVC	W	70	69		19	12	W 3	Kentucky International Convention Center	tennessee-tech	murray-state	2002
-32	Fri, Mar 15, 2002	NCAA	N	Georgia (23)	SEC	L	68	85		19	13	L 1	United Center	s/2002-03-15-ge	murray-state	2002
+32	Fri, Mar 15, 2002	NCAA	N	Georgia (23)	SEC	L	68	85		19	13	L 1	United Center	georgia	murray-state	2002
 1	Fri, Nov 16, 2001	REG	@	Rice	WAC	L	72	75		0	1	L 1	Tudor Fieldhouse	rice	navy	2002
 2	Sun, Nov 18, 2001	REG	@	Southern Methodist	WAC	L	64	81		0	2	L 2	Moody Coliseum	southern-methodist	navy	2002
 3	Sat, Nov 24, 2001	REG		Air Force	MWC	W	71	53		1	2	W 1	Alumni Hall	air-force	navy	2002
@@ -5938,8 +5938,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Fri, Mar 8, 2002	CTOURN	N	Virginia	ACC	W	92	72		21	9	W 1	Bojangles Coliseum	virginia	north-carolina-state	2002
 31	Sat, Mar 9, 2002	CTOURN	N	Maryland (2)	ACC	W	86	82		22	9	W 2	Bojangles Coliseum	maryland	north-carolina-state	2002
 32	Sun, Mar 10, 2002	CTOURN	N	Duke (3)	ACC	L	61	91		22	10	L 1	Bojangles Coliseum	duke	north-carolina-state	2002
-33	Fri, Mar 15, 2002	NCAA	N	Michigan State	Big Ten	W	69	58		23	10	W 1		s/2002-03-15-michigan-	north-carolina-state	2002
-34	Sun, Mar 17, 2002	NCAA	N	Connecticut (10)	Big East	L	74	77		23	11	L 1	Verizon Center	s/2002-03-17-connec	north-carolina-state	2002
+33	Fri, Mar 15, 2002	NCAA	N	Michigan State	Big Ten	W	69	58		23	10	W 1		michigan-state	north-carolina-state	2002
+34	Sun, Mar 17, 2002	NCAA	N	Connecticut (10)	Big East	L	74	77		23	11	L 1	Verizon Center	connecticut	north-carolina-state	2002
 1	Mon, Nov 12, 2001	REG	@	Wake Forest	ACC	L	78	79		0	1	L 1	Lawrence Joel Coliseum	wake-forest	north-carolina-wilmington	2002
 2	Sat, Nov 17, 2001	REG		Miami (OH)	MAC	W	50	42		1	1	W 1	Trask Coliseum	miami-oh	north-carolina-wilmington	2002
 3	Sat, Nov 24, 2001	REG	@	High Point	Big South	W	74	66		2	1	W 2	Millis Center	high-point	north-carolina-wilmington	2002
@@ -5971,8 +5971,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 2, 2002	CTOURN	N	James Madison	CAA	W	78	62		20	9	W 2	Richmond Coliseum	james-madison	north-carolina-wilmington	2002
 30	Sun, Mar 3, 2002	CTOURN	N	Delaware	CAA	W	69	54		21	9	W 3	Richmond Coliseum	delaware	north-carolina-wilmington	2002
 31	Mon, Mar 4, 2002	CTOURN	@	Virginia Commonwealth	CAA	W	66	51		22	9	W 4	Richmond Coliseum	virginia-commonwealth	north-carolina-wilmington	2002
-32	Thu, Mar 14, 2002	NCAA	N	Southern California (18)	Pac-10	W	93	89	OT	23	9	W 5		s/2002-03-14-north-carolina-wilmi	north-carolina-wilmington	2002
-33	Sat, Mar 16, 2002	NCAA	N	Indiana	Big Ten	L	67	76		23	10	L 1	ARCO Arena	s/2002-03-16-in	north-carolina-wilmington	2002
+32	Thu, Mar 14, 2002	NCAA	N	Southern California (18)	Pac-10	W	93	89	OT	23	9	W 5		southern-california	north-carolina-wilmington	2002
+33	Sat, Mar 16, 2002	NCAA	N	Indiana	Big Ten	L	67	76		23	10	L 1	ARCO Arena	indiana	north-carolina-wilmington	2002
 1	Fri, Nov 16, 2001	REG		Missouri State	MVC	W	79	77		1	0	W 1	Super Pit	missouri-state	north-texas	2002
 2	Sat, Nov 24, 2001	REG	@	Oklahoma State (15)	Big 12	L	58	77		1	1	L 1	Gallagher-Iba Arena	oklahoma-state	north-texas	2002
 3	Tue, Nov 27, 2001	REG	@	Lipscomb		L	74	75		1	2	L 2	Allen Arena	NA	north-texas	2002
@@ -6206,8 +6206,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 2, 2002	REG		Providence	Big East	W	76	68		20	9	W 1	Purcell Pavilion at the Joyce Center	providence	notre-dame	2002
 30	Thu, Mar 7, 2002	CTOURN	N	St. John's (NY)	Big East	W	83	63		21	9	W 2	Madison Square Garden (IV)	st-johns-ny	notre-dame	2002
 31	Fri, Mar 8, 2002	CTOURN	N	Connecticut (19)	Big East	L	77	82		21	10	L 1	Madison Square Garden (IV)	connecticut	notre-dame	2002
-32	Thu, Mar 14, 2002	NCAA	N	Charlotte	CUSA	W	82	63		22	10	W 1		s/2002-03-14-char	notre-dame	2002
-33	Sat, Mar 16, 2002	NCAA	N	Duke (1)	ACC	L	77	84		22	11	L 1	BI-LO Center	s/2002-03-16	notre-dame	2002
+32	Thu, Mar 14, 2002	NCAA	N	Charlotte	CUSA	W	82	63		22	10	W 1		charlotte	notre-dame	2002
+33	Sat, Mar 16, 2002	NCAA	N	Duke (1)	ACC	L	77	84		22	11	L 1	BI-LO Center	duke	notre-dame	2002
 1	Fri, Nov 16, 2001	REG	@	Michigan	Big Ten	L	73	81		0	1	L 1	Crisler Arena	michigan	oakland	2002
 2	Tue, Nov 20, 2001	REG		St. Mary's (MI)		W	94	73		1	1	W 1	Athletics Center O'rena	NA	oakland	2002
 3	Fri, Nov 23, 2001	REG	N	Pittsburgh	Big East	L	53	70		1	2	L 1	Charles L. Sewall Center	pittsburgh	oakland	2002
@@ -6296,8 +6296,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 8, 2002	CTOURN	N	Michigan	Big Ten	W	75	68		21	7	W 2	Conseco Fieldhouse	michigan	ohio-state	2002
 29	Sat, Mar 9, 2002	CTOURN	N	Illinois (10)	Big Ten	W	94	88		22	7	W 3	Conseco Fieldhouse	illinois	ohio-state	2002
 30	Sun, Mar 10, 2002	CTOURN	N	Iowa	Big Ten	W	81	64		23	7	W 4	Conseco Fieldhouse	iowa	ohio-state	2002
-31	Thu, Mar 14, 2002	NCAA	N	Davidson	Southern	W	69	64		24	7	W 5		s/2002-03-14-dav	ohio-state	2002
-32	Sat, Mar 16, 2002	NCAA	N	Missouri	Big 12	L	67	83		24	8	L 1		s/2002-03-16-mis	ohio-state	2002
+31	Thu, Mar 14, 2002	NCAA	N	Davidson	Southern	W	69	64		24	7	W 5		davidson	ohio-state	2002
+32	Sat, Mar 16, 2002	NCAA	N	Missouri	Big 12	L	67	83		24	8	L 1		missouri	ohio-state	2002
 1	Mon, Nov 12, 2001	REG		Central Connecticut State	NEC	W	66	44		1	0	W 1	Lloyd Noble Center	central-connecticut-state	oklahoma	2002
 2	Wed, Nov 14, 2001	REG	@	Michigan State (15)	Big Ten	L	55	67		1	1	L 1	Breslin Events Center	michigan-state	oklahoma	2002
 3	Wed, Nov 28, 2001	REG		Central Michigan	MAC	W	81	64		2	1	W 1	Lloyd Noble Center	central-michigan	oklahoma	2002
@@ -6329,11 +6329,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Fri, Mar 8, 2002	CTOURN	N	Kansas State	Big 12	W	63	52		25	4	W 6	Kemper Arena	kansas-state	oklahoma	2002
 30	Sat, Mar 9, 2002	CTOURN	N	Texas	Big 12	W	67	51		26	4	W 7	Kemper Arena	texas	oklahoma	2002
 31	Sun, Mar 10, 2002	CTOURN	N	Kansas (1)	Big 12	W	64	55		27	4	W 8	Kemper Arena	kansas	oklahoma	2002
-32	Fri, Mar 15, 2002	NCAA	N	Illinois-Chicago	Horizon	W	71	63		28	4	W 9		s/2002-03-15-illinois-ch	oklahoma	2002
-33	Sun, Mar 17, 2002	NCAA	N	Xavier (22)	A-10	W	78	65		29	4	W 10	American Airlines Center	s/2002-03-17-okl	oklahoma	2002
-34	Thu, Mar 21, 2002	NCAA	N	Arizona (7)	Pac-10	W	88	67		30	4	W 11		s/2002-03-21-ar	oklahoma	2002
-35	Sat, Mar 23, 2002	NCAA	N	Missouri	Big 12	W	81	75		31	4	W 12		s/2002-03-23-mis	oklahoma	2002
-36	Sat, Mar 30, 2002	NCAA	N	Indiana	Big Ten	L	64	73		31	5	L 1		s/2002-03-30-in	oklahoma	2002
+32	Fri, Mar 15, 2002	NCAA	N	Illinois-Chicago	Horizon	W	71	63		28	4	W 9		illinois-chicago	oklahoma	2002
+33	Sun, Mar 17, 2002	NCAA	N	Xavier (22)	A-10	W	78	65		29	4	W 10	American Airlines Center	xavier	oklahoma	2002
+34	Thu, Mar 21, 2002	NCAA	N	Arizona (7)	Pac-10	W	88	67		30	4	W 11		arizona	oklahoma	2002
+35	Sat, Mar 23, 2002	NCAA	N	Missouri	Big 12	W	81	75		31	4	W 12		missouri	oklahoma	2002
+36	Sat, Mar 30, 2002	NCAA	N	Indiana	Big Ten	L	64	73		31	5	L 1		indiana	oklahoma	2002
 1	Fri, Nov 16, 2001	REG		Cincinnati	CUSA	W	69	62		1	0	W 1	Gallagher-Iba Arena	cincinnati	oklahoma-state	2002
 2	Sat, Nov 17, 2001	REG		Austin Peay	OVC	W	81	58		2	0	W 2	Gallagher-Iba Arena	austin-peay	oklahoma-state	2002
 3	Mon, Nov 19, 2001	REG	N	Providence	Big East	W	83	65		3	0	W 3	Valley High School	providence	oklahoma-state	2002
@@ -6365,7 +6365,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Mon, Feb 25, 2002	REG	@	Missouri	Big 12	L	69	72		22	7	L 1	Hearnes Center	missouri	oklahoma-state	2002
 30	Sat, Mar 2, 2002	REG		Texas A&M	Big 12	W	66	51		23	7	W 1	Gallagher-Iba Arena	texas-am	oklahoma-state	2002
 31	Fri, Mar 8, 2002	CTOURN	N	Texas Tech	Big 12	L	51	73		23	8	L 1	Kemper Arena	texas-tech	oklahoma-state	2002
-32	Thu, Mar 14, 2002	NCAA	N	Kent State	MAC	L	61	69		23	9	L 2		s/2002-03-14-kent-	oklahoma-state	2002
+32	Thu, Mar 14, 2002	NCAA	N	Kent State	MAC	L	61	69		23	9	L 2		kent-state	oklahoma-state	2002
 1	Tue, Nov 13, 2001	REG	N	Sacramento State	Big Sky	W	69	52		1	0	W 1	The Pyramid	sacramento-state	old-dominion	2002
 2	Wed, Nov 14, 2001	REG	@	Memphis (12)	CUSA	L	66	91		1	1	L 1	The Pyramid	memphis	old-dominion	2002
 3	Sat, Nov 24, 2001	REG		Virginia Tech	Big East	W	55	46		2	1	W 1	ODU Fieldhouse	virginia-tech	old-dominion	2002
@@ -6457,10 +6457,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 2, 2002	REG	@	UCLA	Pac-10	W	65	62		22	7	W 5	Pauley Pavilion	ucla	oregon	2002
 30	Thu, Mar 7, 2002	CTOURN		Washington	Pac-10	W	86	64		23	7	W 6	McArthur Court	washington	oregon	2002
 31	Fri, Mar 8, 2002	CTOURN	@	Southern California (22)	Pac-10	L	78	89		23	8	L 1	L. A. Sports Arena	southern-california	oregon	2002
-32	Thu, Mar 14, 2002	NCAA	N	Montana	Big Sky	W	81	62		24	8	W 1		s/2002-03-14-mo	oregon	2002
-33	Sat, Mar 16, 2002	NCAA	N	Wake Forest	ACC	W	92	87		25	8	W 2	ARCO Arena	s/2002-03-16-o	oregon	2002
-34	Fri, Mar 22, 2002	NCAA	N	Texas	Big 12	W	72	70		26	8	W 3	Kohl Center	s/2002-03-22-o	oregon	2002
-35	Sun, Mar 24, 2002	NCAA	N	Kansas (2)	Big 12	L	86	104		26	9	L 1	Kohl Center	s/2002-03-24-k	oregon	2002
+32	Thu, Mar 14, 2002	NCAA	N	Montana	Big Sky	W	81	62		24	8	W 1		montana	oregon	2002
+33	Sat, Mar 16, 2002	NCAA	N	Wake Forest	ACC	W	92	87		25	8	W 2	ARCO Arena	wake-forest	oregon	2002
+34	Fri, Mar 22, 2002	NCAA	N	Texas	Big 12	W	72	70		26	8	W 3	Kohl Center	texas	oregon	2002
+35	Sun, Mar 24, 2002	NCAA	N	Kansas (2)	Big 12	L	86	104		26	9	L 1	Kohl Center	kansas	oregon	2002
 1	Sat, Nov 17, 2001	REG		Northern Colorado		W	64	59		1	0	W 1	Gill Coliseum	NA	oregon-state	2002
 2	Thu, Nov 22, 2001	REG	N	Texas	Big 12	L	68	78		1	1	L 1	Sullivan Arena	texas	oregon-state	2002
 3	Fri, Nov 23, 2001	REG	N	St. John's (NY)	Big East	L	63	66		1	2	L 2	Sullivan Arena	st-johns-ny	oregon-state	2002
@@ -6579,7 +6579,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 2, 2002	REG	@	Cornell	Ivy	W	78	53		23	6	W 8	Newman Arena	cornell	pennsylvania	2002
 30	Tue, Mar 5, 2002	REG		Princeton	Ivy	W	64	48		24	6	W 9	The Palestra	princeton	pennsylvania	2002
 31	Sat, Mar 9, 2002	REG		Yale	Ivy	W	77	58		25	6	W 10	The Palestra	yale	pennsylvania	2002
-32	Fri, Mar 15, 2002	NCAA	N	University of California	Pac-10	L	75	82		25	7	L 1	Mellon Arena	s/2002-03-15-calif	pennsylvania	2002
+32	Fri, Mar 15, 2002	NCAA	N	University of California	Pac-10	L	75	82		25	7	L 1	Mellon Arena	california	pennsylvania	2002
 1	Sat, Nov 17, 2001	REG		Cal State Fullerton	Big West	W	75	58		1	0	W 1	Firestone Fieldhouse	cal-state-fullerton	pepperdine	2002
 2	Tue, Nov 20, 2001	REG	@	UC-Irvine	Big West	L	93	96	2OT	1	1	L 1	Bren Events Center	california-irvine	pepperdine	2002
 3	Wed, Nov 28, 2001	REG	@	UCLA (10)	Pac-10	W	85	78		2	1	W 1	Pauley Pavilion	ucla	pepperdine	2002
@@ -6610,7 +6610,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 2, 2002	CTOURN	N	Portland	WCC	W	77	64		21	7	W 3	Jenny Craig Pavillion	portland	pepperdine	2002
 29	Sun, Mar 3, 2002	CTOURN	N	Saint Mary's (CA)	WCC	W	68	47		22	7	W 4	Jenny Craig Pavillion	saint-marys-ca	pepperdine	2002
 30	Mon, Mar 4, 2002	CTOURN	N	Gonzaga (7)	WCC	L	90	96		22	8	L 1	Jenny Craig Pavillion	gonzaga	pepperdine	2002
-31	Thu, Mar 14, 2002	NCAA	N	Wake Forest	ACC	L	74	83		22	9	L 2		s/2002-03-14-peppe	pepperdine	2002
+31	Thu, Mar 14, 2002	NCAA	N	Wake Forest	ACC	L	74	83		22	9	L 2		wake-forest	pepperdine	2002
 1	Fri, Nov 16, 2001	REG		Morgan State	MEAC	W	76	55		1	0	W 1	Fitzgerald Fieldhouse	morgan-state	pittsburgh	2002
 2	Sun, Nov 18, 2001	REG		Northern Arizona	Big Sky	W	58	47		2	0	W 2	Fitzgerald Fieldhouse	northern-arizona	pittsburgh	2002
 3	Tue, Nov 20, 2001	REG		Robert Morris	NEC	W	86	62		3	0	W 3	Fitzgerald Fieldhouse	robert-morris	pittsburgh	2002
@@ -6643,9 +6643,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 7, 2002	CTOURN	N	Boston College	Big East	W	76	62		26	4	W 8	Madison Square Garden (IV)	boston-college	pittsburgh	2002
 31	Fri, Mar 8, 2002	CTOURN	N	Miami (FL) (20)	Big East	W	76	71		27	4	W 9	Madison Square Garden (IV)	miami-fl	pittsburgh	2002
 32	Sat, Mar 9, 2002	CTOURN	N	Connecticut (19)	Big East	L	65	74	2OT	27	5	L 1	Madison Square Garden (IV)	connecticut	pittsburgh	2002
-33	Fri, Mar 15, 2002	NCAA	N	Central Connecticut State	NEC	W	71	54		28	5	W 1		s/2002-03-15-central-connecticut-	pittsburgh	2002
-34	Sun, Mar 17, 2002	NCAA	N	University of California	Pac-10	W	63	50		29	5	W 2		s/2002-03-17-calif	pittsburgh	2002
-35	Thu, Mar 21, 2002	NCAA	N	Kent State	MAC	L	73	78	OT	29	6	L 1		s/2002-03-21-kent-	pittsburgh	2002
+33	Fri, Mar 15, 2002	NCAA	N	Central Connecticut State	NEC	W	71	54		28	5	W 1		central-connecticut-state	pittsburgh	2002
+34	Sun, Mar 17, 2002	NCAA	N	University of California	Pac-10	W	63	50		29	5	W 2		california	pittsburgh	2002
+35	Thu, Mar 21, 2002	NCAA	N	Kent State	MAC	L	73	78	OT	29	6	L 1		kent-state	pittsburgh	2002
 1	Sat, Nov 17, 2001	REG		UC-Riverside	Big West	W	75	67		1	0	W 1	Chiles Center	california-riverside	portland	2002
 2	Wed, Nov 21, 2001	REG		Idaho State	Big Sky	L	90	96	OT	1	1	L 1	Chiles Center	idaho-state	portland	2002
 3	Sun, Nov 25, 2001	REG	@	Duke (1)	ACC	L	62	104		1	2	L 2	Cameron Indoor Stadium	duke	portland	2002
@@ -7387,7 +7387,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 7, 2002	CTOURN	N	Brigham Young	MWC	W	62	51		19	11	W 3	Thomas & Mack Center	brigham-young	san-diego-state	2002
 31	Fri, Mar 8, 2002	CTOURN	N	Wyoming	MWC	W	70	69		20	11	W 4	Thomas & Mack Center	wyoming	san-diego-state	2002
 32	Sat, Mar 9, 2002	CTOURN	@	Nevada-Las Vegas	MWC	W	78	75		21	11	W 5	Thomas & Mack Center	nevada-las-vegas	san-diego-state	2002
-33	Fri, Mar 15, 2002	NCAA	N	Illinois (13)	Big Ten	L	64	93		21	12	L 1	United Center	s/2002-03-15-ill	san-diego-state	2002
+33	Fri, Mar 15, 2002	NCAA	N	Illinois (13)	Big Ten	L	64	93		21	12	L 1	United Center	illinois	san-diego-state	2002
 1	Fri, Nov 16, 2001	REG		Seton Hall	Big East	L	79	87		0	1	L 1	War Memorial Gymnasium	seton-hall	san-francisco	2002
 2	Mon, Nov 19, 2001	REG	@	Cal State Fullerton	Big West	W	70	43		1	1	W 1	Titan Gym	cal-state-fullerton	san-francisco	2002
 3	Sat, Nov 24, 2001	REG		UC-Santa Barbara	Big West	L	49	69		1	2	L 1	War Memorial Gymnasium	california-santa-barbara	san-francisco	2002
@@ -7540,8 +7540,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 32	Sat, Mar 2, 2002	CTOURN		Marist	MAAC	W	82	76		14	18	W 2	Times Union Center 	marist	siena	2002
 33	Sun, Mar 3, 2002	CTOURN		Fairfield	MAAC	W	83	63		15	18	W 3	Times Union Center 	fairfield	siena	2002
 34	Mon, Mar 4, 2002	CTOURN		Niagara	MAAC	W	92	77		16	18	W 4	Times Union Center 	niagara	siena	2002
-35	Tue, Mar 12, 2002	NCAA	N	Alcorn State	SWAC	W	81	77		17	18	W 5	University of Dayton Arena	s/2002-03-12-alcorn-	siena	2002
-36	Fri, Mar 15, 2002	NCAA	N	Maryland (4)	ACC	L	70	85		17	19	L 1	Verizon Center	s/2002-03-15-mar	siena	2002
+35	Tue, Mar 12, 2002	NCAA	N	Alcorn State	SWAC	W	81	77		17	18	W 5	University of Dayton Arena	alcorn-state	siena	2002
+36	Fri, Mar 15, 2002	NCAA	N	Maryland (4)	ACC	L	70	85		17	19	L 1	Verizon Center	maryland	siena	2002
 1	Sun, Nov 18, 2001	REG	@	Louisville	CUSA	L	38	92		0	1	L 1	Freedom Hall	louisville	south-alabama	2002
 2	Wed, Nov 21, 2001	REG	@	Marist	MAAC	L	70	80		0	2	L 2	McCann Recreation Center	marist	south-alabama	2002
 3	Sat, Nov 24, 2001	REG		Valdosta State		W	64	56		1	2	W 1	Mitchell Center	NA	south-alabama	2002
@@ -7783,7 +7783,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 7, 2002	CTOURN		Stanford (16)	Pac-10	W	103	78		21	8	W 2	L. A. Sports Arena	stanford	southern-california	2002
 30	Fri, Mar 8, 2002	CTOURN		Oregon (9)	Pac-10	W	89	78		22	8	W 3	L. A. Sports Arena	oregon	southern-california	2002
 31	Sat, Mar 9, 2002	CTOURN	@	Arizona (15)	Pac-10	L	71	81		22	9	L 1	McKale Center	arizona	southern-california	2002
-32	Thu, Mar 14, 2002	NCAA	N	North Carolina-Wilmington	CAA	L	89	93	OT	22	10	L 2		s/2002-03-14-north-carolina-wilmi	southern-california	2002
+32	Thu, Mar 14, 2002	NCAA	N	North Carolina-Wilmington	CAA	L	89	93	OT	22	10	L 2		north-carolina-wilmington	southern-california	2002
 1	Fri, Nov 16, 2001	REG		Belmont	A-Sun	W	82	71		1	0	W 1	The SIU Arena	belmont	southern-illinois	2002
 2	Mon, Nov 19, 2001	REG	@	Saint Louis	CUSA	W	69	64		2	0	W 2	Scottrade Center	saint-louis	southern-illinois	2002
 3	Thu, Nov 22, 2001	REG	N	Iowa State	Big 12	W	66	57		3	0	W 3	Valley High School	iowa-state	southern-illinois	2002
@@ -7817,9 +7817,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 2, 2002	CTOURN	N	Bradley	MVC	W	66	44		25	6	W 4	Scottrade Center	bradley	southern-illinois	2002
 32	Sun, Mar 3, 2002	CTOURN	N	Missouri State	MVC	W	86	63		26	6	W 5	Scottrade Center	missouri-state	southern-illinois	2002
 33	Mon, Mar 4, 2002	CTOURN	N	Creighton	MVC	L	76	84		26	7	L 1	Scottrade Center	creighton	southern-illinois	2002
-34	Fri, Mar 15, 2002	NCAA	N	Texas Tech	Big 12	W	76	68		27	7	W 1		s/2002-03-15-southern-ill	southern-illinois	2002
-35	Sun, Mar 17, 2002	NCAA	N	Georgia (23)	SEC	W	77	75		28	7	W 2	United Center	s/2002-03-17-ge	southern-illinois	2002
-36	Fri, Mar 22, 2002	NCAA	N	Connecticut (10)	Big East	L	59	71		28	8	L 1	Carrier Dome	s/2002-03-22-connec	southern-illinois	2002
+34	Fri, Mar 15, 2002	NCAA	N	Texas Tech	Big 12	W	76	68		27	7	W 1		texas-tech	southern-illinois	2002
+35	Sun, Mar 17, 2002	NCAA	N	Georgia (23)	SEC	W	77	75		28	7	W 2	United Center	georgia	southern-illinois	2002
+36	Fri, Mar 22, 2002	NCAA	N	Connecticut (10)	Big East	L	59	71		28	8	L 1	Carrier Dome	connecticut	southern-illinois	2002
 1	Fri, Nov 16, 2001	REG		Savannah State		W	74	54		1	0	W 1	Moody Coliseum	NA	southern-methodist	2002
 2	Sun, Nov 18, 2001	REG		Navy	Patriot	W	81	64		2	0	W 2	Moody Coliseum	navy	southern-methodist	2002
 3	Tue, Nov 20, 2001	REG		Texas Tech	Big 12	L	75	78		2	1	L 1	Moody Coliseum	texas-tech	southern-methodist	2002
@@ -7993,7 +7993,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sun, Mar 3, 2002	REG	@	Villanova	Big East	L	62	77		19	10	L 1	Wells Fargo Center	villanova	st-johns-ny	2002
 30	Wed, Mar 6, 2002	CTOURN	N	Seton Hall	Big East	W	64	58		20	10	W 1	Madison Square Garden (IV)	seton-hall	st-johns-ny	2002
 31	Thu, Mar 7, 2002	CTOURN	N	Notre Dame	Big East	L	63	83		20	11	L 1	Madison Square Garden (IV)	notre-dame	st-johns-ny	2002
-32	Fri, Mar 15, 2002	NCAA	N	Wisconsin	Big Ten	L	70	80		20	12	L 2		s/2002-03-15-st-joh	st-johns-ny	2002
+32	Fri, Mar 15, 2002	NCAA	N	Wisconsin	Big Ten	L	70	80		20	12	L 2		wisconsin	st-johns-ny	2002
 1	Sat, Nov 17, 2001	REG	@	New Mexico	MWC	W	81	66		1	0	W 1	The Pit/Bob King Court	new-mexico	stanford	2002
 2	Tue, Nov 20, 2001	REG		Southern Utah	Mid-Cont	W	81	63		2	0	W 2	Maples Pavilion	southern-utah	stanford	2002
 3	Sat, Nov 24, 2001	REG	N	Purdue	Big Ten	W	78	62		3	0	W 3	Conseco Fieldhouse	purdue	stanford	2002
@@ -8022,8 +8022,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Thu, Feb 28, 2002	REG	@	Arizona (14)	Pac-10	W	76	71		18	8	W 1	McKale Center	arizona	stanford	2002
 27	Sat, Mar 2, 2002	REG	@	Arizona State	Pac-10	W	81	76		19	8	W 2	Wells Fargo Arena	arizona-state	stanford	2002
 28	Thu, Mar 7, 2002	CTOURN	@	Southern California (22)	Pac-10	L	78	103		19	9	L 1	L. A. Sports Arena	southern-california	stanford	2002
-29	Thu, Mar 14, 2002	NCAA	N	Western Kentucky (19)	Sun Belt	W	84	68		20	9	W 1	Edward Jones Dome	s/2002-03-14-sta	stanford	2002
-30	Sat, Mar 16, 2002	NCAA	N	Kansas (2)	Big 12	L	63	86		20	10	L 1	Edward Jones Dome	s/2002-03-16-k	stanford	2002
+29	Thu, Mar 14, 2002	NCAA	N	Western Kentucky (19)	Sun Belt	W	84	68		20	9	W 1	Edward Jones Dome	western-kentucky	stanford	2002
+30	Sat, Mar 16, 2002	NCAA	N	Kansas (2)	Big 12	L	63	86		20	10	L 1	Edward Jones Dome	kansas	stanford	2002
 1	Sat, Nov 17, 2001	REG	@	Arizona State	Pac-10	L	61	92		0	1	L 1	Wells Fargo Arena	arizona-state	stephen-f-austin	2002
 2	Wed, Nov 21, 2001	REG	@	Jackson State	SWAC	L	59	68		0	2	L 2	Lee E. Williams Athletics and Assembly Center	jackson-state	stephen-f-austin	2002
 3	Sat, Nov 24, 2001	REG		Texas Lutheran		W	71	52		1	2	W 1	William Johnson Coliseum	NA	stephen-f-austin	2002
@@ -8329,9 +8329,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 2, 2002	REG	@	Iowa State	Big 12	W	79	76		19	10	W 2	James H. Hilton Coliseum 	iowa-state	texas	2002
 30	Fri, Mar 8, 2002	CTOURN	N	Missouri	Big 12	W	89	85		20	10	W 3	Kemper Arena	missouri	texas	2002
 31	Sat, Mar 9, 2002	CTOURN	N	Oklahoma (4)	Big 12	L	51	67		20	11	L 1	Kemper Arena	oklahoma	texas	2002
-32	Fri, Mar 15, 2002	NCAA	N	Boston College	Big East	W	70	57		21	11	W 1		s/2002-03-15-boston-co	texas	2002
-33	Sun, Mar 17, 2002	NCAA	N	Mississippi State (17)	SEC	W	68	64		22	11	W 2	American Airlines Center	s/2002-03-17-mississippi-	texas	2002
-34	Fri, Mar 22, 2002	NCAA	N	Oregon (11)	Pac-10	L	70	72		22	12	L 1	Kohl Center	s/2002-03-22-o	texas	2002
+32	Fri, Mar 15, 2002	NCAA	N	Boston College	Big East	W	70	57		21	11	W 1		boston-college	texas	2002
+33	Sun, Mar 17, 2002	NCAA	N	Mississippi State (17)	SEC	W	68	64		22	11	W 2	American Airlines Center	mississippi-state	texas	2002
+34	Fri, Mar 22, 2002	NCAA	N	Oregon (11)	Pac-10	L	70	72		22	12	L 1	Kohl Center	oregon	texas	2002
 1	Mon, Nov 19, 2001	REG		George Washington	A-10	W	87	63		1	0	W 1	Reed Arena	george-washington	texas-am	2002
 2	Sat, Nov 24, 2001	REG	@	Lamar	Southland	W	77	74		2	0	W 2	Montagne Center	lamar	texas-am	2002
 3	Mon, Nov 26, 2001	REG		Texas A&M-Kingsville		W	91	70		3	0	W 3	Reed Arena	NA	texas-am	2002
@@ -8599,7 +8599,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 7, 2002	CTOURN	N	Texas A&M	Big 12	W	80	71		22	7	W 2	Kemper Arena	texas-am	texas-tech	2002
 30	Fri, Mar 8, 2002	CTOURN	N	Oklahoma State (14)	Big 12	W	73	51		23	7	W 3	Kemper Arena	oklahoma-state	texas-tech	2002
 31	Sat, Mar 9, 2002	CTOURN	N	Kansas (1)	Big 12	L	50	90		23	8	L 1	Kemper Arena	kansas	texas-tech	2002
-32	Fri, Mar 15, 2002	NCAA	N	Southern Illinois	MVC	L	68	76		23	9	L 2		s/2002-03-15-southern-ill	texas-tech	2002
+32	Fri, Mar 15, 2002	NCAA	N	Southern Illinois	MVC	L	68	76		23	9	L 2		southern-illinois	texas-tech	2002
 1	Sun, Nov 18, 2001	REG	@	Dayton	A-10	L	50	69		0	1	L 1	University of Dayton Arena	dayton	toledo	2002
 2	Wed, Nov 21, 2001	REG		IPFW		W	69	60		1	1	W 1	John F. Savage Hall	NA	toledo	2002
 3	Sat, Nov 24, 2001	REG	@	George Mason	CAA	L	64	67		1	2	L 1	Patriot Center	george-mason	toledo	2002
@@ -8748,8 +8748,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 7, 2002	CTOURN		Boise State	WAC	W	72	53		25	5	W 3	Donald W. Reynolds Center	boise-state	tulsa	2002
 31	Fri, Mar 8, 2002	CTOURN		Fresno State	WAC	W	81	65		26	5	W 4	Donald W. Reynolds Center	fresno-state	tulsa	2002
 32	Sat, Mar 9, 2002	CTOURN		Hawaii	WAC	L	59	73		26	6	L 1	Donald W. Reynolds Center	hawaii	tulsa	2002
-33	Thu, Mar 14, 2002	NCAA	N	Marquette (12)	CUSA	W	71	69		27	6	W 1	Edward Jones Dome	s/2002-03-14-marq	tulsa	2002
-34	Sat, Mar 16, 2002	NCAA	N	Kentucky (16)	SEC	L	82	87		27	7	L 1	Edward Jones Dome	s/2002-03-16-ken	tulsa	2002
+33	Thu, Mar 14, 2002	NCAA	N	Marquette (12)	CUSA	W	71	69		27	6	W 1	Edward Jones Dome	marquette	tulsa	2002
+34	Sat, Mar 16, 2002	NCAA	N	Kentucky (16)	SEC	L	82	87		27	7	L 1	Edward Jones Dome	kentucky	tulsa	2002
 1	Mon, Nov 19, 2001	REG	N	Houston	CUSA	W	71	60		1	0	W 1	Lahaina Civic Center	houston	ucla	2002
 2	Tue, Nov 20, 2001	REG	N	Ball State	MAC	L	73	91		1	1	L 1	Lahaina Civic Center	ball-state	ucla	2002
 3	Wed, Nov 21, 2001	REG	N	South Carolina	SEC	W	89	77		2	1	W 1	Lahaina Civic Center	south-carolina	ucla	2002
@@ -8780,9 +8780,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Feb 28, 2002	REG		Oregon State	Pac-10	W	65	57		19	9	W 2	Pauley Pavilion	oregon-state	ucla	2002
 29	Sat, Mar 2, 2002	REG		Oregon (13)	Pac-10	L	62	65		19	10	L 1	Pauley Pavilion	oregon	ucla	2002
 30	Thu, Mar 7, 2002	CTOURN	@	University of California (25)	Pac-10	L	61	67		19	11	L 2	Haas Pavilion	california	ucla	2002
-31	Fri, Mar 15, 2002	NCAA	N	Mississippi	SEC	W	80	58		20	11	W 1		s/2002-03-15-missis	ucla	2002
-32	Sun, Mar 17, 2002	NCAA	N	Cincinnati (5)	CUSA	W	105	101	2OT	21	11	W 2	Mellon Arena	s/2002-03-17-cinci	ucla	2002
-33	Thu, Mar 21, 2002	NCAA	N	Missouri	Big 12	L	73	82		21	12	L 1		s/2002-03-21-mis	ucla	2002
+31	Fri, Mar 15, 2002	NCAA	N	Mississippi	SEC	W	80	58		20	11	W 1		mississippi	ucla	2002
+32	Sun, Mar 17, 2002	NCAA	N	Cincinnati (5)	CUSA	W	105	101	2OT	21	11	W 2	Mellon Arena	cincinnati	ucla	2002
+33	Thu, Mar 21, 2002	NCAA	N	Missouri	Big 12	L	73	82		21	12	L 1		missouri	ucla	2002
 1	Fri, Nov 16, 2001	REG		St. Francis (IL)		W	74	55		1	0	W 1	Jon M. Huntsman Center	NA	utah	2002
 2	Tue, Nov 20, 2001	REG		Boise State	WAC	W	64	49		2	0	W 2	Jon M. Huntsman Center	boise-state	utah	2002
 3	Fri, Nov 23, 2001	REG		Utah State	Big West	L	65	78		2	1	L 1	Jon M. Huntsman Center	utah-state	utah	2002
@@ -8812,7 +8812,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 2, 2002	REG	@	Wyoming	MWC	L	56	57		20	7	L 1	Arena-Auditorium	wyoming	utah	2002
 28	Thu, Mar 7, 2002	CTOURN	N	Colorado State	MWC	W	69	66		21	7	W 1	Thomas & Mack Center	colorado-state	utah	2002
 29	Fri, Mar 8, 2002	CTOURN	@	Nevada-Las Vegas	MWC	L	70	76		21	8	L 1	Thomas & Mack Center	nevada-las-vegas	utah	2002
-30	Thu, Mar 14, 2002	NCAA	N	Indiana	Big Ten	L	56	75		21	9	L 2	ARCO Arena	s/2002-03-14-in	utah	2002
+30	Thu, Mar 14, 2002	NCAA	N	Indiana	Big Ten	L	56	75		21	9	L 2	ARCO Arena	indiana	utah	2002
 1	Sat, Nov 17, 2001	REG	@	Montana State	Big Sky	W	66	51		1	0	W 1	Worthington Arena	montana-state	utah-state	2002
 2	Fri, Nov 23, 2001	REG	@	Utah	MWC	W	78	65		2	0	W 2	Jon M. Huntsman Center	utah	utah-state	2002
 3	Wed, Nov 28, 2001	REG		Idaho State	Big Sky	W	64	59		3	0	W 3	Dee Glen Smith Spectrum	idaho-state	utah-state	2002
@@ -8876,7 +8876,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sun, Mar 3, 2002	CTOURN	N	Chicago State	Mid-Cont	W	81	50		23	7	W 3	Allen County War Memorial Coliseum	chicago-state	valparaiso	2002
 31	Mon, Mar 4, 2002	CTOURN	N	Missouri-Kansas City	Mid-Cont	W	71	58		24	7	W 4	Allen County War Memorial Coliseum	missouri-kansas-city	valparaiso	2002
 32	Tue, Mar 5, 2002	CTOURN	N	IUPUI	Mid-Cont	W	88	55		25	7	W 5	Allen County War Memorial Coliseum	iupui	valparaiso	2002
-33	Thu, Mar 14, 2002	NCAA	N	Kentucky (16)	SEC	L	68	83		25	8	L 1	Edward Jones Dome	s/2002-03-14-ken	valparaiso	2002
+33	Thu, Mar 14, 2002	NCAA	N	Kentucky (16)	SEC	L	68	83		25	8	L 1	Edward Jones Dome	kentucky	valparaiso	2002
 1	Fri, Nov 16, 2001	REG		Liberty	Big South	W	96	61		1	0	W 1	Memorial Gymnasium	liberty	vanderbilt	2002
 2	Mon, Nov 19, 2001	REG	@	Connecticut	Big East	L	71	84		1	1	L 1	XL Center	connecticut	vanderbilt	2002
 3	Fri, Nov 23, 2001	REG	N	Hampton	MEAC	W	100	85		2	1	W 1	Neal S. Blaisdell Center	hampton	vanderbilt	2002
@@ -9148,8 +9148,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 2, 2002	REG		North Carolina State	ACC	W	83	71		19	11	W 1	Lawrence Joel Coliseum	north-carolina-state	wake-forest	2002
 31	Fri, Mar 8, 2002	CTOURN	N	Georgia Tech	ACC	W	92	83		20	11	W 2	Bojangles Coliseum	georgia-tech	wake-forest	2002
 32	Sat, Mar 9, 2002	CTOURN	N	Duke (3)	ACC	L	64	79		20	12	L 1	Bojangles Coliseum	duke	wake-forest	2002
-33	Thu, Mar 14, 2002	NCAA	N	Pepperdine	WCC	W	83	74		21	12	W 1		s/2002-03-14-peppe	wake-forest	2002
-34	Sat, Mar 16, 2002	NCAA	N	Oregon (11)	Pac-10	L	87	92		21	13	L 1	ARCO Arena	s/2002-03-16-o	wake-forest	2002
+33	Thu, Mar 14, 2002	NCAA	N	Pepperdine	WCC	W	83	74		21	12	W 1		pepperdine	wake-forest	2002
+34	Sat, Mar 16, 2002	NCAA	N	Oregon (11)	Pac-10	L	87	92		21	13	L 1	ARCO Arena	oregon	wake-forest	2002
 1	Thu, Nov 15, 2001	REG	@	Alaska-Fairbanks		W	82	70		1	0	W 1	Carlson Center	NA	washington	2002
 2	Sat, Nov 17, 2001	REG	N	Bowling Green State	MAC	W	81	74		2	0	W 2	Carlson Center	bowling-green-state	washington	2002
 3	Sun, Nov 18, 2001	REG	N	Butler	Horizon	L	64	67		2	1	L 1	Carlson Center	butler	washington	2002
@@ -9350,7 +9350,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 2, 2002	CTOURN	N	North Texas	Sun Belt	W	82	68		26	3	W 16	Kiefer Lakefront Arena	north-texas	western-kentucky	2002
 30	Mon, Mar 4, 2002	CTOURN	N	New Mexico State	Sun Belt	W	73	72		27	3	W 17	Kiefer Lakefront Arena	new-mexico-state	western-kentucky	2002
 31	Tue, Mar 5, 2002	CTOURN	N	Louisiana-Lafayette	Sun Belt	W	76	70		28	3	W 18	Kiefer Lakefront Arena	louisiana-lafayette	western-kentucky	2002
-32	Thu, Mar 14, 2002	NCAA	N	Stanford (24)	Pac-10	L	68	84		28	4	L 1	Edward Jones Dome	s/2002-03-14-sta	western-kentucky	2002
+32	Thu, Mar 14, 2002	NCAA	N	Stanford (24)	Pac-10	L	68	84		28	4	L 1	Edward Jones Dome	stanford	western-kentucky	2002
 1	Thu, Nov 15, 2001	REG	N	Long Beach State	Big West	L	64	71		0	1	L 1	McArthur Court	long-beach-state	western-michigan	2002
 2	Fri, Nov 16, 2001	REG	@	Oregon	Pac-10	L	48	91		0	2	L 2	McArthur Court	oregon	western-michigan	2002
 3	Sat, Nov 17, 2001	REG		Alabama State	SWAC	W	63	43		1	2	W 1	University Arena	alabama-state	western-michigan	2002
@@ -9470,7 +9470,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Feb 28, 2002	CTOURN	N	Liberty	Big South	W	66	59		17	11	W 5	Roanoke Civic Center	liberty	winthrop	2002
 29	Fri, Mar 1, 2002	CTOURN	N	Elon	Big South	W	77	66		18	11	W 6	Roanoke Civic Center	elon	winthrop	2002
 30	Sat, Mar 2, 2002	CTOURN	N	High Point	Big South	W	70	48		19	11	W 7	Roanoke Civic Center	high-point	winthrop	2002
-31	Thu, Mar 14, 2002	NCAA	N	Duke (1)	ACC	L	37	84		19	12	L 1	BI-LO Center	s/2002-03-14	winthrop	2002
+31	Thu, Mar 14, 2002	NCAA	N	Duke (1)	ACC	L	37	84		19	12	L 1	BI-LO Center	duke	winthrop	2002
 1	Sat, Nov 17, 2001	REG	@	Nevada-Las Vegas	MWC	L	69	74		0	1	L 1	Thomas & Mack Center	nevada-las-vegas	wisconsin	2002
 2	Fri, Nov 23, 2001	REG	@	Hawaii-Hilo		W	78	62		1	1	W 1	Afook-Chinen Civic Auditorium	NA	wisconsin	2002
 3	Sat, Nov 24, 2001	REG	N	Weber State	Big Sky	L	69	73		1	2	L 1	Afook-Chinen Civic Auditorium	weber-state	wisconsin	2002
@@ -9501,8 +9501,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Feb 19, 2002	REG		Iowa	Big Ten	W	64	56		17	11	W 5	Kohl Center	iowa	wisconsin	2002
 29	Wed, Feb 27, 2002	REG		Michigan	Big Ten	W	74	54		18	11	W 6	Kohl Center	michigan	wisconsin	2002
 30	Fri, Mar 8, 2002	CTOURN	N	Iowa	Big Ten	L	56	58		18	12	L 1	Conseco Fieldhouse	iowa	wisconsin	2002
-31	Fri, Mar 15, 2002	NCAA	N	St. John's (NY)	Big East	W	80	70		19	12	W 1		s/2002-03-15-st-joh	wisconsin	2002
-32	Sun, Mar 17, 2002	NCAA	N	Maryland (4)	ACC	L	57	87		19	13	L 1	Verizon Center	s/2002-03-17-mar	wisconsin	2002
+31	Fri, Mar 15, 2002	NCAA	N	St. John's (NY)	Big East	W	80	70		19	12	W 1		st-johns-ny	wisconsin	2002
+32	Sun, Mar 17, 2002	NCAA	N	Maryland (4)	ACC	L	57	87		19	13	L 1	Verizon Center	maryland	wisconsin	2002
 1	Tue, Nov 13, 2001	REG	@	Memphis (12)	CUSA	L	61	88		0	1	L 1	The Pyramid	memphis	wofford	2002
 2	Wed, Nov 14, 2001	REG	N	Sacramento State	Big Sky	W	56	46		1	1	W 1	The Pyramid	sacramento-state	wofford	2002
 3	Sat, Nov 17, 2001	REG		Toccoa Falls		W	94	42		2	1	W 2	Benjamin Johnson Arena	NA	wofford	2002
@@ -9589,8 +9589,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 2, 2002	REG		Utah	MWC	W	57	56		20	7	W 2	Arena-Auditorium	utah	wyoming	2002
 28	Thu, Mar 7, 2002	CTOURN	N	Air Force	MWC	W	69	67	OT	21	7	W 3	Thomas & Mack Center	air-force	wyoming	2002
 29	Fri, Mar 8, 2002	CTOURN	N	San Diego State	MWC	L	69	70		21	8	L 1	Thomas & Mack Center	san-diego-state	wyoming	2002
-30	Thu, Mar 14, 2002	NCAA	N	Gonzaga (6)	WCC	W	73	66		22	8	W 1	The Pit/Bob King Court	s/2002-03-14-go	wyoming	2002
-31	Sat, Mar 16, 2002	NCAA	N	Arizona (7)	Pac-10	L	60	68		22	9	L 1	The Pit/Bob King Court	s/2002-03-16-ar	wyoming	2002
+30	Thu, Mar 14, 2002	NCAA	N	Gonzaga (6)	WCC	W	73	66		22	8	W 1	The Pit/Bob King Court	gonzaga	wyoming	2002
+31	Sat, Mar 16, 2002	NCAA	N	Arizona (7)	Pac-10	L	60	68		22	9	L 1	The Pit/Bob King Court	arizona	wyoming	2002
 1	Sat, Nov 17, 2001	REG		Coastal Carolina	Big South	W	72	41		1	0	W 1	Cintas Center	coastal-carolina	xavier	2002
 2	Sat, Nov 24, 2001	REG	@	Missouri (5)	Big 12	L	60	72		1	1	L 1	Hearnes Center	missouri	xavier	2002
 3	Wed, Nov 28, 2001	REG	@	Miami (OH)	MAC	W	87	58		2	1	W 1	Millett Hall	miami-oh	xavier	2002
@@ -9621,8 +9621,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 7, 2002	CTOURN	N	Massachusetts	A-10	W	65	59	OT	23	5	W 4	The Spectrum	massachusetts	xavier	2002
 29	Fri, Mar 8, 2002	CTOURN	N	Dayton	A-10	W	66	59		24	5	W 5	The Spectrum	dayton	xavier	2002
 30	Sat, Mar 9, 2002	CTOURN	N	Richmond	A-10	W	73	60		25	5	W 6	The Spectrum	richmond	xavier	2002
-31	Fri, Mar 15, 2002	NCAA	N	Hawaii (25)	WAC	W	70	58		26	5	W 7		s/2002-03-15-h	xavier	2002
-32	Sun, Mar 17, 2002	NCAA	N	Oklahoma (3)	Big 12	L	65	78		26	6	L 1	American Airlines Center	s/2002-03-17-okl	xavier	2002
+31	Fri, Mar 15, 2002	NCAA	N	Hawaii (25)	WAC	W	70	58		26	5	W 7		hawaii	xavier	2002
+32	Sun, Mar 17, 2002	NCAA	N	Oklahoma (3)	Big 12	L	65	78		26	6	L 1	American Airlines Center	oklahoma	xavier	2002
 1	Tue, Nov 13, 2001	REG	N	Air Force	MWC	L	62	68		0	1	L 1	Hearnes Center	air-force	yale	2002
 2	Wed, Nov 14, 2001	REG	N	Tennessee-Martin	OVC	L	87	99		0	2	L 2	Hearnes Center	tennessee-martin	yale	2002
 3	Sun, Nov 18, 2001	REG	@	Penn State	Big Ten	W	87	74		1	2	W 1	Bryce Jordan Center	penn-state	yale	2002

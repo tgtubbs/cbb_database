@@ -285,7 +285,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Fri, Mar 3, 2000	CTOURN	N	Chattanooga	Southern	W	88	66		21	8	W 3	Timmons Arena	chattanooga	appalachian-state	2000
 30	Sat, Mar 4, 2000	CTOURN	@	Furman	Southern	W	60	56		22	8	W 4	Timmons Arena	furman	appalachian-state	2000
 31	Sun, Mar 5, 2000	CTOURN	N	College of Charleston	Southern	W	68	56		23	8	W 5	Timmons Arena	college-of-charleston	appalachian-state	2000
-32	Fri, Mar 17, 2000	NCAA	N	Ohio State (8)	Big Ten	L	61	87		23	9	L 1		s/2000-03-17-appalachian-	appalachian-state	2000
+32	Fri, Mar 17, 2000	NCAA	N	Ohio State (8)	Big Ten	L	61	87		23	9	L 1		ohio-state	appalachian-state	2000
 1	Tue, Nov 16, 1999	REG		Kansas State	Big 12	W	88	69		1	0	W 1	McKale Center	kansas-state	arizona	2000
 2	Fri, Nov 19, 1999	REG		New Mexico State	Big West	W	84	60		2	0	W 2	McKale Center	new-mexico-state	arizona	2000
 3	Wed, Nov 24, 1999	REG	N	Notre Dame	Big East	W	76	60		3	0	W 3	Madison Square Garden (IV)	notre-dame	arizona	2000
@@ -318,8 +318,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 4, 2000	REG	@	Oregon	Pac-10	L	81	86		24	6	L 2	McArthur Court	oregon	arizona	2000
 31	Thu, Mar 9, 2000	REG		Stanford (2)	Pac-10	W	86	81		25	6	W 1	McKale Center	stanford	arizona	2000
 32	Sat, Mar 11, 2000	REG		University of California	Pac-10	W	70	61		26	6	W 2	McKale Center	california	arizona	2000
-33	Thu, Mar 16, 2000	NCAA	N	Jackson State	SWAC	W	71	47		27	6	W 3	McKale Center	s/2000-03-16-ar	arizona	2000
-34	Sat, Mar 18, 2000	NCAA	N	Wisconsin	Big Ten	L	59	66		27	7	L 1	Jon M. Huntsman Center	s/2000-03-18-ar	arizona	2000
+33	Thu, Mar 16, 2000	NCAA	N	Jackson State	SWAC	W	71	47		27	6	W 3	McKale Center	jackson-state	arizona	2000
+34	Sat, Mar 18, 2000	NCAA	N	Wisconsin	Big Ten	L	59	66		27	7	L 1	Jon M. Huntsman Center	wisconsin	arizona	2000
 1	Sat, Nov 20, 1999	REG		Portland State	Big Sky	W	79	57		1	0	W 1	Wells Fargo Arena	portland-state	arizona-state	2000
 2	Thu, Nov 25, 1999	REG	N	Texas (20)	Big 12	L	71	88		1	1	L 1	Eugene Guerra Sports Complex	texas	arizona-state	2000
 3	Fri, Nov 26, 1999	REG	@	American-Puerto Rico		W	103	63		2	1	W 1	Eugene Guerra Sports Complex	NA	arizona-state	2000
@@ -385,7 +385,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 10, 2000	CTOURN	N	Kentucky (16)	SEC	W	86	72		17	14	W 3	Georgia Dome	kentucky	arkansas	2000
 32	Sat, Mar 11, 2000	CTOURN	N	Louisiana State (10)	SEC	W	69	67		18	14	W 4	Georgia Dome	louisiana-state	arkansas	2000
 33	Sun, Mar 12, 2000	CTOURN	N	Auburn	SEC	W	75	67		19	14	W 5	Georgia Dome	auburn	arkansas	2000
-34	Fri, Mar 17, 2000	NCAA	N	Miami (FL) (23)	Big East	L	71	75		19	15	L 1		s/2000-03-17-ark	arkansas	2000
+34	Fri, Mar 17, 2000	NCAA	N	Miami (FL) (23)	Big East	L	71	75		19	15	L 1		miami-fl	arkansas	2000
 1	Tue, Nov 23, 1999	REG		Oklahoma State (21)	Big 12	L	64	93		0	1	L 1	Alltel Arena	oklahoma-state	arkansas-little-rock	2000
 2	Sat, Nov 27, 1999	REG	@	Bowling Green State	MAC	L	84	91		0	2	L 2	Anderson Arena	bowling-green-state	arkansas-little-rock	2000
 3	Tue, Nov 30, 1999	REG		Alcorn State	SWAC	W	75	68		1	2	W 1	Alltel Arena	alcorn-state	arkansas-little-rock	2000
@@ -529,8 +529,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Fri, Mar 10, 2000	CTOURN	N	Florida (11)	SEC	W	78	70		22	8	W 1	Georgia Dome	florida	auburn	2000
 31	Sat, Mar 11, 2000	CTOURN	N	South Carolina	SEC	W	77	72	OT	23	8	W 2	Georgia Dome	south-carolina	auburn	2000
 32	Sun, Mar 12, 2000	CTOURN	N	Arkansas	SEC	L	67	75		23	9	L 1	Georgia Dome	arkansas	auburn	2000
-33	Thu, Mar 16, 2000	NCAA	N	Creighton	MVC	W	72	69		24	9	W 1	Hubert H. Humphrey Metrodome	s/2000-03-16-a	auburn	2000
-34	Sat, Mar 18, 2000	NCAA	N	Iowa State (6)	Big 12	L	60	79		24	10	L 1		s/2000-03-18-a	auburn	2000
+33	Thu, Mar 16, 2000	NCAA	N	Creighton	MVC	W	72	69		24	9	W 1	Hubert H. Humphrey Metrodome	creighton	auburn	2000
+34	Sat, Mar 18, 2000	NCAA	N	Iowa State (6)	Big 12	L	60	79		24	10	L 1		iowa-state	auburn	2000
 1	Mon, Nov 22, 1999	REG	@	Arkansas State	Sun Belt	W	78	64		1	0	W 1	Convocation Center	arkansas-state	austin-peay	2000
 2	Sat, Nov 27, 1999	REG		Belmont	Ind	L	70	71	OT	1	1	L 1	Winfield Dunn Center	belmont	austin-peay	2000
 3	Thu, Dec 2, 1999	REG		Murray State	OVC	L	58	68		1	2	L 2	Winfield Dunn Center	murray-state	austin-peay	2000
@@ -588,7 +588,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sun, Mar 5, 2000	CTOURN	N	Toledo	MAC	W	64	63	OT	19	8	W 4	Quicken Loans Arena	toledo	ball-state	2000
 28	Mon, Mar 6, 2000	CTOURN	N	Ohio	MAC	W	70	67		20	8	W 5	Quicken Loans Arena	ohio	ball-state	2000
 29	Wed, Mar 8, 2000	CTOURN	N	Miami (OH)	MAC	W	61	58		21	8	W 6	Quicken Loans Arena	miami-oh	ball-state	2000
-30	Thu, Mar 16, 2000	NCAA	N	UCLA	Pac-10	L	57	65		21	9	L 1		s/2000-03-16-ball-	ball-state	2000
+30	Thu, Mar 16, 2000	NCAA	N	UCLA	Pac-10	L	57	65		21	9	L 1		ucla	ball-state	2000
 1	Sat, Nov 20, 1999	REG		Eastern Washington	Big Sky	W	68	61		1	0	W 1	Ferrell Center	eastern-washington	baylor	2000
 2	Wed, Nov 24, 1999	REG		North Carolina A&T	MEAC	W	92	70		2	0	W 2	Ferrell Center	north-carolina-at	baylor	2000
 3	Sat, Nov 27, 1999	REG		McNeese State	Southland	W	78	55		3	0	W 3	Ferrell Center	mcneese-state	baylor	2000
@@ -967,7 +967,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 4, 2000	CTOURN	N	Loyola (IL)	MW Coll	W	61	57		21	7	W 13	UIC Pavilion	loyola-il	butler	2000
 29	Sun, Mar 5, 2000	CTOURN	N	Milwaukee	MW Coll	W	65	51		22	7	W 14	UIC Pavilion	milwaukee	butler	2000
 30	Mon, Mar 6, 2000	CTOURN	N	Detroit Mercy	MW Coll	W	62	43		23	7	W 15	UIC Pavilion	detroit-mercy	butler	2000
-31	Fri, Mar 17, 2000	NCAA	N	Florida (13)	SEC	L	68	69	OT	23	8	L 1		s/2000-03-17-b	butler	2000
+31	Fri, Mar 17, 2000	NCAA	N	Florida (13)	SEC	L	68	69	OT	23	8	L 1		florida	butler	2000
 1	Sun, Nov 21, 1999	REG		Simon Fraser University		W	91	78		1	0	W 1	Robert A. Mott Gymnasium	NA	cal-poly	2000
 2	Tue, Nov 23, 1999	REG		Northern Arizona	Big Sky	L	72	76		1	1	L 1	Robert A. Mott Gymnasium	northern-arizona	cal-poly	2000
 3	Sat, Nov 27, 1999	REG		Portland State	Big Sky	L	69	81		1	2	L 2	Robert A. Mott Gymnasium	portland-state	cal-poly	2000
@@ -1258,7 +1258,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 3, 2000	CTOURN	N	Maryland-Baltimore County	NEC	W	63	55		23	5	W 2	Sun National Bank Center	maryland-baltimore-county	central-connecticut-state	2000
 29	Sat, Mar 4, 2000	CTOURN	N	St. Francis (NY)	NEC	W	83	73		24	5	W 3	Sun National Bank Center	st-francis-ny	central-connecticut-state	2000
 30	Sun, Mar 5, 2000	CTOURN	N	Robert Morris	NEC	W	63	46		25	5	W 4	Sun National Bank Center	robert-morris	central-connecticut-state	2000
-31	Thu, Mar 16, 2000	NCAA	N	Iowa State (6)	Big 12	L	78	88		25	6	L 1		s/2000-03-16-central-connecticut-	central-connecticut-state	2000
+31	Thu, Mar 16, 2000	NCAA	N	Iowa State (6)	Big 12	L	78	88		25	6	L 1		iowa-state	central-connecticut-state	2000
 1	Fri, Nov 19, 1999	REG		Miami (FL)	Big East	L	54	81		0	1	L 1	UCF Arena	miami-fl	central-florida	2000
 2	Tue, Nov 23, 1999	REG	@	Winthrop	Big South	L	54	78		0	2	L 2	Winthrop Coliseum	winthrop	central-florida	2000
 3	Fri, Nov 26, 1999	REG	N	Clemson	ACC	L	48	54		0	3	L 3	BI-LO Center	clemson	central-florida	2000
@@ -1470,8 +1470,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 2, 2000	REG	@	DePaul	CUSA	W	64	62		27	2	W 3	Allstate Arena	depaul	cincinnati	2000
 30	Sat, Mar 4, 2000	REG		Saint Louis	CUSA	W	84	41		28	2	W 4	Fifth Third Arena	saint-louis	cincinnati	2000
 31	Thu, Mar 9, 2000	CTOURN	N	Saint Louis	CUSA	L	58	68		28	3	L 1	The Pyramid	saint-louis	cincinnati	2000
-32	Fri, Mar 17, 2000	NCAA	N	North Carolina-Wilmington	CAA	W	64	47		29	3	W 1	Bridgestone Arena	s/2000-03-17-cinci	cincinnati	2000
-33	Sun, Mar 19, 2000	NCAA	N	Tulsa (18)	WAC	L	61	69		29	4	L 1	Bridgestone Arena	s/2000-03-19-cinci	cincinnati	2000
+32	Fri, Mar 17, 2000	NCAA	N	North Carolina-Wilmington	CAA	W	64	47		29	3	W 1	Bridgestone Arena	north-carolina-wilmington	cincinnati	2000
+33	Sun, Mar 19, 2000	NCAA	N	Tulsa (18)	WAC	L	61	69		29	4	L 1	Bridgestone Arena	tulsa	cincinnati	2000
 1	Fri, Nov 19, 1999	REG		Limestone		W	68	66		1	0	W 1	McAlister Field House	NA	citadel	2000
 2	Sun, Nov 21, 1999	REG	@	South Carolina	SEC	L	51	68		1	1	L 1	Carolina Coliseum	south-carolina	citadel	2000
 3	Tue, Nov 23, 1999	REG		Coastal Carolina	Big South	L	60	68		1	2	L 2	McAlister Field House	coastal-carolina	citadel	2000
@@ -1770,8 +1770,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 9, 2000	CTOURN	N	Seton Hall	Big East	W	79	64		23	8	W 5	Madison Square Garden (IV)	seton-hall	connecticut	2000
 32	Fri, Mar 10, 2000	CTOURN	N	Georgetown	Big East	W	70	55		24	8	W 6	Madison Square Garden (IV)	georgetown	connecticut	2000
 33	Sat, Mar 11, 2000	CTOURN	@	St. John's (NY) (19)	Big East	L	70	80		24	9	L 1	Madison Square Garden (IV)	st-johns-ny	connecticut	2000
-34	Fri, Mar 17, 2000	NCAA	N	Utah State	Big West	W	75	67		25	9	W 1	Birmingham-Jefferson Civic Center	s/2000-03-17-connec	connecticut	2000
-35	Sun, Mar 19, 2000	NCAA	N	Tennessee (11)	SEC	L	51	65		25	10	L 1		s/2000-03-19-connec	connecticut	2000
+34	Fri, Mar 17, 2000	NCAA	N	Utah State	Big West	W	75	67		25	9	W 1	Birmingham-Jefferson Civic Center	utah-state	connecticut	2000
+35	Sun, Mar 19, 2000	NCAA	N	Tennessee (11)	SEC	L	51	65		25	10	L 1		tennessee	connecticut	2000
 1	Fri, Nov 19, 1999	REG		Maryland-Baltimore County	NEC	L	58	72		0	1	L 1	Coppin Center	maryland-baltimore-county	coppin-state	2000
 2	Sat, Nov 20, 1999	REG		Towson	AEC	L	57	61		0	2	L 2	Coppin Center	towson	coppin-state	2000
 3	Tue, Nov 23, 1999	REG	@	Iona	MAAC	L	61	89		0	3	L 3	Hynes Athletics Center	iona	coppin-state	2000
@@ -1861,7 +1861,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 4, 2000	CTOURN	N	Bradley	MVC	W	71	62		21	9	W 3	Scottrade Center	bradley	creighton	2000
 31	Sun, Mar 5, 2000	CTOURN	N	Indiana State	MVC	W	71	69		22	9	W 4	Scottrade Center	indiana-state	creighton	2000
 32	Mon, Mar 6, 2000	CTOURN	N	Missouri State	MVC	W	57	45		23	9	W 5	Scottrade Center	missouri-state	creighton	2000
-33	Thu, Mar 16, 2000	NCAA	N	Auburn (24)	SEC	L	69	72		23	10	L 1	Hubert H. Humphrey Metrodome	s/2000-03-16-a	creighton	2000
+33	Thu, Mar 16, 2000	NCAA	N	Auburn (24)	SEC	L	69	72		23	10	L 1	Hubert H. Humphrey Metrodome	auburn	creighton	2000
 1	Fri, Nov 19, 1999	REG	N	Colgate	Patriot	W	68	65		1	0	W 1	Detrick Gymnasium	colgate	dartmouth	2000
 2	Sat, Nov 20, 1999	REG	@	Central Connecticut State	NEC	L	61	63		1	1	L 1	Detrick Gymnasium	central-connecticut-state	dartmouth	2000
 3	Tue, Nov 23, 1999	REG		Keene State		W	112	97		2	1	W 1	Leede Arena	NA	dartmouth	2000
@@ -1947,7 +1947,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 4, 2000	REG	@	Virginia Tech	A-10	L	52	64		21	7	L 1	Cassell Coliseum	virginia-tech	dayton	2000
 29	Thu, Mar 9, 2000	CTOURN	@	Saint Joseph's	A-10	W	67	64		22	7	W 1	The Spectrum	saint-josephs	dayton	2000
 30	Fri, Mar 10, 2000	CTOURN	N	St. Bonaventure	A-10	L	50	56		22	8	L 1	The Spectrum	st-bonaventure	dayton	2000
-31	Thu, Mar 16, 2000	NCAA	N	Purdue (25)	Big Ten	L	61	62		22	9	L 2		s/2000-03-16-d	dayton	2000
+31	Thu, Mar 16, 2000	NCAA	N	Purdue (25)	Big Ten	L	61	62		22	9	L 2		purdue	dayton	2000
 1	Sat, Nov 20, 1999	REG	N	Duquesne	A-10	W	86	81		1	0	W 1	Broome County Veterans Memorial Arena	duquesne	delaware	2000
 2	Sun, Nov 21, 1999	REG	N	Canisius	MAAC	W	81	74		2	0	W 2	Broome County Veterans Memorial Arena	canisius	delaware	2000
 3	Tue, Nov 23, 1999	REG		George Mason	CAA	W	80	78		3	0	W 3	Bob Carpenter Center	george-mason	delaware	2000
@@ -2068,7 +2068,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 9, 2000	CTOURN	@	Memphis	CUSA	W	80	76		20	10	W 2	The Pyramid	memphis	depaul	2000
 31	Fri, Mar 10, 2000	CTOURN	N	Charlotte	CUSA	W	56	49		21	10	W 3	The Pyramid	charlotte	depaul	2000
 32	Sat, Mar 11, 2000	CTOURN	N	Saint Louis	CUSA	L	49	56		21	11	L 1	The Pyramid	saint-louis	depaul	2000
-33	Fri, Mar 17, 2000	NCAA	N	Kansas	Big 12	L	77	81	OT	21	12	L 2		s/2000-03-17-d	depaul	2000
+33	Fri, Mar 17, 2000	NCAA	N	Kansas	Big 12	L	77	81	OT	21	12	L 2		kansas	depaul	2000
 1	Sat, Nov 20, 1999	REG		Western Michigan	MAC	W	80	66		1	0	W 1	Calihan Hall	western-michigan	detroit-mercy	2000
 2	Tue, Nov 23, 1999	REG	@	Michigan	Big Ten	L	62	66		1	1	L 1	Crisler Arena	michigan	detroit-mercy	2000
 3	Sat, Nov 27, 1999	REG		Georgia State	A-Sun	W	79	65		2	1	W 1	Calihan Hall	georgia-state	detroit-mercy	2000
@@ -2191,9 +2191,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 9, 2000	CTOURN	N	Clemson	ACC	W	94	63		25	4	W 3	Bojangles Coliseum	clemson	duke	2000
 30	Sat, Mar 11, 2000	CTOURN	N	Wake Forest	ACC	W	82	73		26	4	W 4	Bojangles Coliseum	wake-forest	duke	2000
 31	Sun, Mar 12, 2000	CTOURN	N	Maryland (20)	ACC	W	81	68		27	4	W 5	Bojangles Coliseum	maryland	duke	2000
-32	Fri, Mar 17, 2000	NCAA	N	Lamar	Southland	W	82	55		28	4	W 6	Lawrence Joel Coliseum	s/2000-03-17	duke	2000
-33	Sun, Mar 19, 2000	NCAA	N	Kansas	Big 12	W	69	64		29	4	W 7	Lawrence Joel Coliseum	s/2000-03-19	duke	2000
-34	Fri, Mar 24, 2000	NCAA	N	Florida (13)	SEC	L	78	87		29	5	L 1	Carrier Dome	s/2000-03-24	duke	2000
+32	Fri, Mar 17, 2000	NCAA	N	Lamar	Southland	W	82	55		28	4	W 6	Lawrence Joel Coliseum	lamar	duke	2000
+33	Sun, Mar 19, 2000	NCAA	N	Kansas	Big 12	W	69	64		29	4	W 7	Lawrence Joel Coliseum	kansas	duke	2000
+34	Fri, Mar 24, 2000	NCAA	N	Florida (13)	SEC	L	78	87		29	5	L 1	Carrier Dome	florida	duke	2000
 1	Sat, Nov 20, 1999	REG	N	Delaware	AEC	L	81	86		0	1	L 1	Broome County Veterans Memorial Arena	delaware	duquesne	2000
 2	Sun, Nov 21, 1999	REG	N	St. Francis (NY)	NEC	L	63	64		0	2	L 2	Broome County Veterans Memorial Arena	st-francis-ny	duquesne	2000
 3	Tue, Nov 23, 1999	REG		Northeastern	AEC	W	87	77		1	2	W 1	A.J. Palumbo Center	northeastern	duquesne	2000
@@ -2534,12 +2534,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 4, 2000	REG	@	Kentucky (22)	SEC	L	70	85		23	6	L 1	Rupp Arena	kentucky	florida	2000
 30	Thu, Mar 9, 2000	CTOURN	N	Mississippi	SEC	W	89	67		24	6	W 1	Georgia Dome	mississippi	florida	2000
 31	Fri, Mar 10, 2000	CTOURN	N	Auburn	SEC	L	70	78		24	7	L 1	Georgia Dome	auburn	florida	2000
-32	Fri, Mar 17, 2000	NCAA	N	Butler	MW Coll	W	69	68	OT	25	7	W 1		s/2000-03-17-b	florida	2000
-33	Sun, Mar 19, 2000	NCAA	N	Illinois (21)	Big Ten	W	93	76		26	7	W 2		s/2000-03-19-fl	florida	2000
-34	Fri, Mar 24, 2000	NCAA	N	Duke (1)	ACC	W	87	78		27	7	W 3	Carrier Dome	s/2000-03-24	florida	2000
-35	Sun, Mar 26, 2000	NCAA	N	Oklahoma State (14)	Big 12	W	77	65		28	7	W 4		s/2000-03-26-fl	florida	2000
-36	Sat, Apr 1, 2000	NCAA	N	North Carolina	ACC	W	71	59		29	7	W 5	RCA Dome	s/2000-04-01-fl	florida	2000
-37	Mon, Apr 3, 2000	NCAA	N	Michigan State (2)	Big Ten	L	76	89		29	8	L 1		s/2000-04-03-fl	florida	2000
+32	Fri, Mar 17, 2000	NCAA	N	Butler	MW Coll	W	69	68	OT	25	7	W 1		butler	florida	2000
+33	Sun, Mar 19, 2000	NCAA	N	Illinois (21)	Big Ten	W	93	76		26	7	W 2		illinois	florida	2000
+34	Fri, Mar 24, 2000	NCAA	N	Duke (1)	ACC	W	87	78		27	7	W 3	Carrier Dome	duke	florida	2000
+35	Sun, Mar 26, 2000	NCAA	N	Oklahoma State (14)	Big 12	W	77	65		28	7	W 4		oklahoma-state	florida	2000
+36	Sat, Apr 1, 2000	NCAA	N	North Carolina	ACC	W	71	59		29	7	W 5	RCA Dome	north-carolina	florida	2000
+37	Mon, Apr 3, 2000	NCAA	N	Michigan State (2)	Big Ten	L	76	89		29	8	L 1		michigan-state	florida	2000
 1	Sat, Nov 20, 1999	REG	N	Bethune-Cookman	MEAC	L	73	86		0	1	L 1	Valencia Community College	bethune-cookman	florida-am	2000
 2	Tue, Nov 23, 1999	REG		Troy	A-Sun	W	87	86		1	1	W 1	Gaither Athletic Center	troy	florida-am	2000
 3	Sat, Nov 27, 1999	REG	@	Jacksonville State	A-Sun	L	58	66		1	2	L 1	Pete Mathews Coliseum	jacksonville-state	florida-am	2000
@@ -2722,7 +2722,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 9, 2000	CTOURN		Texas-El Paso	WAC	W	79	70		22	9	W 6	Selland Arena 	texas-el-paso	fresno-state	2000
 32	Fri, Mar 10, 2000	CTOURN		Hawaii	WAC	W	103	100	2OT	23	9	W 7	Selland Arena 	hawaii	fresno-state	2000
 33	Sat, Mar 11, 2000	CTOURN		Tulsa (14)	WAC	W	75	72		24	9	W 8	Selland Arena 	tulsa	fresno-state	2000
-34	Thu, Mar 16, 2000	NCAA	N	Wisconsin	Big Ten	L	56	66		24	10	L 1		s/2000-03-16-fresno-	fresno-state	2000
+34	Thu, Mar 16, 2000	NCAA	N	Wisconsin	Big Ten	L	56	66		24	10	L 1		wisconsin	fresno-state	2000
 1	Sat, Nov 20, 1999	REG		Southeastern		W	125	53		1	0	W 1	Timmons Arena	NA	furman	2000
 2	Mon, Nov 22, 1999	REG	@	Stetson	A-Sun	L	60	63		1	1	L 1	Edmunds Center	stetson	furman	2000
 3	Wed, Nov 24, 1999	REG		Oglethorpe		W	76	59		2	1	W 1	Timmons Arena	NA	furman	2000
@@ -2998,9 +2998,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 4, 2000	CTOURN	N	Saint Mary's (CA)	WCC	W	76	49		22	8	W 2	Leavey Center	saint-marys-ca	gonzaga	2000
 31	Sun, Mar 5, 2000	CTOURN	N	San Diego	WCC	W	80	70		23	8	W 3	Leavey Center	san-diego	gonzaga	2000
 32	Mon, Mar 6, 2000	CTOURN	N	Pepperdine	WCC	W	69	65	OT	24	8	W 4	Leavey Center	pepperdine	gonzaga	2000
-33	Thu, Mar 16, 2000	NCAA	N	Louisville	CUSA	W	77	66		25	8	W 5		s/2000-03-16-go	gonzaga	2000
-34	Sat, Mar 18, 2000	NCAA	N	St. John's (NY) (9)	Big East	W	82	76		26	8	W 6		s/2000-03-18-go	gonzaga	2000
-35	Thu, Mar 23, 2000	NCAA	N	Purdue (25)	Big Ten	L	66	75		26	9	L 1		s/2000-03-23-go	gonzaga	2000
+33	Thu, Mar 16, 2000	NCAA	N	Louisville	CUSA	W	77	66		25	8	W 5		louisville	gonzaga	2000
+34	Sat, Mar 18, 2000	NCAA	N	St. John's (NY) (9)	Big East	W	82	76		26	8	W 6		st-johns-ny	gonzaga	2000
+35	Thu, Mar 23, 2000	NCAA	N	Purdue (25)	Big Ten	L	66	75		26	9	L 1		purdue	gonzaga	2000
 1	Sat, Nov 20, 1999	REG	@	Louisiana State	SEC	L	37	112		0	1	L 1	Maravich Assembly Center	louisiana-state	grambling	2000
 2	Mon, Nov 22, 1999	REG	@	Washington State	Pac-10	L	55	83		0	2	L 2	Friel Court	washington-state	grambling	2000
 3	Wed, Nov 24, 1999	REG	N	Georgia Tech	ACC	L	88	100		0	3	L 3	Sullivan Arena	georgia-tech	grambling	2000
@@ -3234,7 +3234,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 4, 2000	CTOURN	N	Boston University	AEC	W	80	62		22	6	W 5	Bob Carpenter Center	boston-university	hofstra	2000
 29	Sun, Mar 5, 2000	CTOURN	N	Drexel	AEC	W	69	51		23	6	W 6	Bob Carpenter Center	drexel	hofstra	2000
 30	Sat, Mar 11, 2000	CTOURN		Delaware	AEC	W	76	69		24	6	W 7	Mack Sports Complex	delaware	hofstra	2000
-31	Fri, Mar 17, 2000	NCAA	N	Oklahoma State (14)	Big 12	L	66	86		24	7	L 1		s/2000-03-17-ho	hofstra	2000
+31	Fri, Mar 17, 2000	NCAA	N	Oklahoma State (14)	Big 12	L	66	86		24	7	L 1		oklahoma-state	hofstra	2000
 1	Sat, Nov 20, 1999	REG	@	Providence	Big East	W	54	43		1	0	W 1	Dunkin' Donuts Center	providence	holy-cross	2000
 2	Tue, Nov 23, 1999	REG		Harvard	Ivy	L	69	80		1	1	L 1	Hart Recreation Center	harvard	holy-cross	2000
 3	Sat, Nov 27, 1999	REG		Fordham	A-10	L	73	87		1	2	L 2	Hart Recreation Center	fordham	holy-cross	2000
@@ -3408,8 +3408,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 10, 2000	CTOURN	N	Indiana (18)	Big Ten	W	72	69		20	8	W 2	United Center	indiana	illinois	2000
 29	Sat, Mar 11, 2000	CTOURN	N	Penn State	Big Ten	W	94	84		21	8	W 3	United Center	penn-state	illinois	2000
 30	Sun, Mar 12, 2000	CTOURN	N	Michigan State (5)	Big Ten	L	61	76		21	9	L 1	United Center	michigan-state	illinois	2000
-31	Fri, Mar 17, 2000	NCAA	N	Pennsylvania	Ivy	W	68	58		22	9	W 1	Lawrence Joel Coliseum	s/2000-03-17-ill	illinois	2000
-32	Sun, Mar 19, 2000	NCAA	N	Florida (13)	SEC	L	76	93		22	10	L 1		s/2000-03-19-fl	illinois	2000
+31	Fri, Mar 17, 2000	NCAA	N	Pennsylvania	Ivy	W	68	58		22	9	W 1	Lawrence Joel Coliseum	pennsylvania	illinois	2000
+32	Sun, Mar 19, 2000	NCAA	N	Florida (13)	SEC	L	76	93		22	10	L 1		florida	illinois	2000
 1	Fri, Nov 19, 1999	REG		Norfolk State	MEAC	W	89	69		1	0	W 1	UIC Pavilion	norfolk-state	illinois-chicago	2000
 2	Tue, Nov 23, 1999	REG		Oregon	Pac-10	L	58	65		1	1	L 1	UIC Pavilion	oregon	illinois-chicago	2000
 3	Sat, Nov 27, 1999	REG		Central Michigan	MAC	L	75	78		1	2	L 2	UIC Pavilion	central-michigan	illinois-chicago	2000
@@ -3499,7 +3499,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Tue, Feb 29, 2000	REG		Purdue (20)	Big Ten	W	79	65		20	6	W 2	Assembly Hall	purdue	indiana	2000
 27	Sun, Mar 5, 2000	REG	@	Wisconsin	Big Ten	L	53	56		20	7	L 1	Kohl Center	wisconsin	indiana	2000
 28	Fri, Mar 10, 2000	CTOURN	N	Illinois (25)	Big Ten	L	69	72		20	8	L 2	United Center	illinois	indiana	2000
-29	Fri, Mar 17, 2000	NCAA	N	Pepperdine	WCC	L	57	77		20	9	L 3	HSBC Arena	s/2000-03-17-in	indiana	2000
+29	Fri, Mar 17, 2000	NCAA	N	Pepperdine	WCC	L	57	77		20	9	L 3	HSBC Arena	pepperdine	indiana	2000
 1	Fri, Nov 19, 1999	REG	N	George Washington	A-10	L	74	80		0	1	L 1	Carlson Center	george-washington	indiana-state	2000
 2	Sat, Nov 20, 1999	REG	N	Montana State	Big Sky	W	81	64		1	1	W 1	Carlson Center	montana-state	indiana-state	2000
 3	Sun, Nov 21, 1999	REG	N	Texas Christian	WAC	W	89	77		2	1	W 2	Carlson Center	texas-christian	indiana-state	2000
@@ -3531,7 +3531,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Mon, Feb 28, 2000	REG		Bradley	MVC	W	56	54		21	8	W 2	Hulman Center	bradley	indiana-state	2000
 30	Sat, Mar 4, 2000	CTOURN	N	Wichita State	MVC	W	57	50		22	8	W 3	Scottrade Center	wichita-state	indiana-state	2000
 31	Sun, Mar 5, 2000	CTOURN	N	Creighton	MVC	L	69	71		22	9	L 1	Scottrade Center	creighton	indiana-state	2000
-32	Thu, Mar 16, 2000	NCAA	N	Texas (15)	Big 12	L	61	77		22	10	L 2		s/2000-03-16-indiana-	indiana-state	2000
+32	Thu, Mar 16, 2000	NCAA	N	Texas (15)	Big 12	L	61	77		22	10	L 2		texas	indiana-state	2000
 1	Sat, Nov 20, 1999	REG		Massachusetts	A-10	L	77	85		0	1	L 1	Hynes Athletics Center	massachusetts	iona	2000
 2	Tue, Nov 23, 1999	REG		Coppin State	MEAC	W	89	61		1	1	W 1	Hynes Athletics Center	coppin-state	iona	2000
 3	Sat, Nov 27, 1999	REG	@	UCLA (13)	Pac-10	L	73	105		1	2	L 1	Pauley Pavilion	ucla	iona	2000
@@ -3562,7 +3562,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 4, 2000	CTOURN	N	Rider	MAAC	W	64	59		18	10	W 3	Times Union Center 	rider	iona	2000
 29	Sun, Mar 5, 2000	CTOURN	N	Fairfield	MAAC	W	76	72		19	10	W 4	Times Union Center 	fairfield	iona	2000
 30	Mon, Mar 6, 2000	CTOURN	@	Siena	MAAC	W	84	80		20	10	W 5	Times Union Center 	siena	iona	2000
-31	Thu, Mar 16, 2000	NCAA	N	Maryland (17)	ACC	L	59	74		20	11	L 1		s/2000-03-16	iona	2000
+31	Thu, Mar 16, 2000	NCAA	N	Maryland (17)	ACC	L	59	74		20	11	L 1		maryland	iona	2000
 1	Thu, Nov 11, 1999	REG	N	Connecticut (1)	Big East	W	70	68		1	0	W 1	Madison Square Garden (IV)	connecticut	iowa	2000
 2	Fri, Nov 12, 1999	REG	N	Stanford (13)	Pac-10	L	58	72		1	1	L 1	Madison Square Garden (IV)	stanford	iowa	2000
 3	Sun, Nov 21, 1999	REG		Eastern Illinois	OVC	W	95	79		2	1	W 1	Carver-Hawkeye Arena	eastern-illinois	iowa	2000
@@ -3626,10 +3626,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 10, 2000	CTOURN	N	Baylor	Big 12	W	76	64		27	4	W 5	Kemper Arena	baylor	iowa-state	2000
 32	Sat, Mar 11, 2000	CTOURN	N	Oklahoma State (17)	Big 12	W	68	64		28	4	W 6	Kemper Arena	oklahoma-state	iowa-state	2000
 33	Sun, Mar 12, 2000	CTOURN	N	Oklahoma (15)	Big 12	W	70	58		29	4	W 7	Kemper Arena	oklahoma	iowa-state	2000
-34	Thu, Mar 16, 2000	NCAA	N	Central Connecticut State	NEC	W	88	78		30	4	W 8		s/2000-03-16-central-connecticut-	iowa-state	2000
-35	Sat, Mar 18, 2000	NCAA	N	Auburn (24)	SEC	W	79	60		31	4	W 9		s/2000-03-18-a	iowa-state	2000
-36	Thu, Mar 23, 2000	NCAA	N	UCLA	Pac-10	W	80	56		32	4	W 10	Palace of Auburn Hills	s/2000-03-23-iowa-	iowa-state	2000
-37	Sat, Mar 25, 2000	NCAA	N	Michigan State (2)	Big Ten	L	64	75		32	5	L 1		s/2000-03-25-iowa-	iowa-state	2000
+34	Thu, Mar 16, 2000	NCAA	N	Central Connecticut State	NEC	W	88	78		30	4	W 8		central-connecticut-state	iowa-state	2000
+35	Sat, Mar 18, 2000	NCAA	N	Auburn (24)	SEC	W	79	60		31	4	W 9		auburn	iowa-state	2000
+36	Thu, Mar 23, 2000	NCAA	N	UCLA	Pac-10	W	80	56		32	4	W 10	Palace of Auburn Hills	ucla	iowa-state	2000
+37	Sat, Mar 25, 2000	NCAA	N	Michigan State (2)	Big Ten	L	64	75		32	5	L 1		michigan-state	iowa-state	2000
 1	Sat, Nov 20, 1999	REG	@	Evansville	MVC	L	61	74		0	1	L 1	Roberts Stadium	evansville	iupui	2000
 2	Wed, Nov 24, 1999	REG		Miami (OH)	MAC	L	59	75		0	2	L 2	The Jungle	miami-oh	iupui	2000
 3	Sat, Nov 27, 1999	REG	@	Pittsburgh	Big East	L	49	68		0	3	L 3	Fitzgerald Fieldhouse	pittsburgh	iupui	2000
@@ -3690,7 +3690,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 9, 2000	CTOURN	N	Alabama State	SWAC	W	56	50		15	15	W 1	Mississippi Coast Coliseum	alabama-state	jackson-state	2000
 31	Fri, Mar 10, 2000	CTOURN	N	Alcorn State	SWAC	W	64	60		16	15	W 2	Mississippi Coast Coliseum	alcorn-state	jackson-state	2000
 32	Sat, Mar 11, 2000	CTOURN	N	Southern	SWAC	W	76	61		17	15	W 3	Mississippi Coast Coliseum	southern	jackson-state	2000
-33	Thu, Mar 16, 2000	NCAA	N	Arizona (4)	Pac-10	L	47	71		17	16	L 1	McKale Center	s/2000-03-16-ar	jackson-state	2000
+33	Thu, Mar 16, 2000	NCAA	N	Arizona (4)	Pac-10	L	47	71		17	16	L 1	McKale Center	arizona	jackson-state	2000
 1	Sat, Nov 20, 1999	REG	@	Coastal Carolina	Big South	W	88	84		1	0	W 1	Kimbel Arena	coastal-carolina	jacksonville	2000
 2	Tue, Nov 23, 1999	REG		Georgia Southern	Southern	L	85	93		1	1	L 1	Jacksonville Memorial Coliseum	georgia-southern	jacksonville	2000
 3	Sat, Nov 27, 1999	REG	@	Florida State	ACC	L	59	83		1	2	L 2	Donald L. Tucker Center	florida-state	jacksonville	2000
@@ -3807,8 +3807,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sun, Mar 5, 2000	REG		Missouri	Big 12	W	83	82		22	8	W 1	Allen Fieldhouse	missouri	kansas	2000
 31	Thu, Mar 9, 2000	CTOURN	N	Kansas State	Big 12	W	84	60		23	8	W 2	Kemper Arena	kansas-state	kansas	2000
 32	Fri, Mar 10, 2000	CTOURN	N	Oklahoma State (17)	Big 12	L	58	77		23	9	L 1	Kemper Arena	oklahoma-state	kansas	2000
-33	Fri, Mar 17, 2000	NCAA	N	DePaul	CUSA	W	81	77	OT	24	9	W 1		s/2000-03-17-d	kansas	2000
-34	Sun, Mar 19, 2000	NCAA	N	Duke (1)	ACC	L	64	69		24	10	L 1	Lawrence Joel Coliseum	s/2000-03-19	kansas	2000
+33	Fri, Mar 17, 2000	NCAA	N	DePaul	CUSA	W	81	77	OT	24	9	W 1		depaul	kansas	2000
+34	Sun, Mar 19, 2000	NCAA	N	Duke (1)	ACC	L	64	69		24	10	L 1	Lawrence Joel Coliseum	duke	kansas	2000
 1	Tue, Nov 16, 1999	REG	@	Arizona (10)	Pac-10	L	69	88		0	1	L 1	McKale Center	arizona	kansas-state	2000
 2	Sun, Nov 21, 1999	REG		Northwestern State	Southland	W	76	71		1	1	W 1	Bramlage Coliseum	northwestern-state	kansas-state	2000
 3	Mon, Nov 29, 1999	REG		Texas-San Antonio	Southland	W	86	75		2	1	W 2	Bramlage Coliseum	texas-san-antonio	kansas-state	2000
@@ -3899,8 +3899,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Tue, Feb 29, 2000	REG	@	Mississippi State	SEC	W	73	61		21	8	W 2	Humphrey Coliseum	mississippi-state	kentucky	2000
 30	Sat, Mar 4, 2000	REG		Florida (8)	SEC	W	85	70		22	8	W 3	Rupp Arena	florida	kentucky	2000
 31	Fri, Mar 10, 2000	CTOURN	N	Arkansas	SEC	L	72	86		22	9	L 1	Georgia Dome	arkansas	kentucky	2000
-32	Thu, Mar 16, 2000	NCAA	N	St. Bonaventure	A-10	W	85	80	2OT	23	9	W 1	Henry J. Goodman Arena	s/2000-03-16-ken	kentucky	2000
-33	Sat, Mar 18, 2000	NCAA	N	Syracuse (16)	Big East	L	50	52		23	10	L 1		s/2000-03-18-ken	kentucky	2000
+32	Thu, Mar 16, 2000	NCAA	N	St. Bonaventure	A-10	W	85	80	2OT	23	9	W 1	Henry J. Goodman Arena	st-bonaventure	kentucky	2000
+33	Sat, Mar 18, 2000	NCAA	N	Syracuse (16)	Big East	L	50	52		23	10	L 1		syracuse	kentucky	2000
 1	Sat, Nov 20, 1999	REG		Mount St. Mary's	NEC	W	73	64		1	0	W 1	Tom Gola Arena	mount-st-marys	la-salle	2000
 2	Tue, Nov 23, 1999	REG		Central Connecticut State	NEC	W	70	60		2	0	W 2	Tom Gola Arena	central-connecticut-state	la-salle	2000
 3	Fri, Nov 26, 1999	REG	N	High Point	Big South	W	85	62		3	0	W 3	Coleman Coliseum 	high-point	la-salle	2000
@@ -3959,7 +3959,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 4, 2000	CTOURN		Army	Patriot	W	71	45		22	6	W 7	Kirby Sports Center	army	lafayette	2000
 29	Sun, Mar 5, 2000	CTOURN		Lehigh	Patriot	W	66	60		23	6	W 8	Kirby Sports Center	lehigh	lafayette	2000
 30	Fri, Mar 10, 2000	CTOURN		Navy	Patriot	W	87	61		24	6	W 9	Kirby Sports Center	navy	lafayette	2000
-31	Fri, Mar 17, 2000	NCAA	N	Temple (5)	A-10	L	47	73		24	7	L 1		s/2000-03-17-lafa	lafayette	2000
+31	Fri, Mar 17, 2000	NCAA	N	Temple (5)	A-10	L	47	73		24	7	L 1		temple	lafayette	2000
 1	Sat, Nov 20, 1999	REG		Texas Southern	SWAC	W	78	62		1	0	W 1	Montagne Center	texas-southern	lamar	2000
 2	Tue, Nov 23, 1999	REG	@	Southern Methodist	WAC	L	56	67		1	1	L 1	Moody Coliseum	southern-methodist	lamar	2000
 3	Sat, Nov 27, 1999	REG		Drake	MVC	W	62	44		2	1	W 1	Montagne Center	drake	lamar	2000
@@ -3990,7 +3990,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Mar 7, 2000	CTOURN	@	Louisiana-Monroe	Southland	W	66	62		13	15	W 1	Fant-Ewing Coliseum	louisiana-monroe	lamar	2000
 29	Thu, Mar 9, 2000	CTOURN	N	Texas State	Southland	W	53	50		14	15	W 2	Hirsch Memorial Coliseum	texas-state	lamar	2000
 30	Sat, Mar 11, 2000	CTOURN	N	Northwestern State	Southland	W	62	55		15	15	W 3	Hirsch Memorial Coliseum	northwestern-state	lamar	2000
-31	Fri, Mar 17, 2000	NCAA	N	Duke (1)	ACC	L	55	82		15	16	L 1	Lawrence Joel Coliseum	s/2000-03-17	lamar	2000
+31	Fri, Mar 17, 2000	NCAA	N	Duke (1)	ACC	L	55	82		15	16	L 1	Lawrence Joel Coliseum	duke	lamar	2000
 1	Fri, Nov 19, 1999	REG		Yale	Ivy	W	69	56		1	0	W 1	Stabler Arena	yale	lehigh	2000
 2	Mon, Nov 22, 1999	REG	@	Penn State	Big Ten	L	56	69		1	1	L 1	Bryce Jordan Center	penn-state	lehigh	2000
 3	Sat, Nov 27, 1999	REG		Harvard	Ivy	L	62	72		1	2	L 2	Stabler Arena	harvard	lehigh	2000
@@ -4138,7 +4138,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sun, Mar 5, 2000	CTOURN	N	New Orleans	Sun Belt	W	55	35		23	8	W 2	Alltel Arena	new-orleans	louisiana-lafayette	2000
 32	Mon, Mar 6, 2000	CTOURN	N	Louisiana Tech	Sun Belt	W	73	58		24	8	W 3	Alltel Arena	louisiana-tech	louisiana-lafayette	2000
 33	Tue, Mar 7, 2000	CTOURN	N	South Alabama	Sun Belt	W	51	50		25	8	W 4	Alltel Arena	south-alabama	louisiana-lafayette	2000
-34	Fri, Mar 17, 2000	NCAA	N	Tennessee (11)	SEC	L	58	63		25	9	L 1		s/2000-03-17-louisiana-lafa	louisiana-lafayette	2000
+34	Fri, Mar 17, 2000	NCAA	N	Tennessee (11)	SEC	L	58	63		25	9	L 1		tennessee	louisiana-lafayette	2000
 1	Tue, Nov 23, 1999	REG	@	Samford	A-Sun	W	67	60		1	0	W 1	Seibert Hall	samford	louisiana-monroe	2000
 2	Sat, Nov 27, 1999	REG	@	Texas Christian	WAC	L	78	98		1	1	L 1	Daniel-Meyer Coliseum	texas-christian	louisiana-monroe	2000
 3	Thu, Dec 2, 1999	REG		Louisiana College		W	83	67		2	1	W 1	Fant-Ewing Coliseum	NA	louisiana-monroe	2000
@@ -4198,9 +4198,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 4, 2000	REG		Mississippi	SEC	W	64	60		25	4	W 9	Maravich Assembly Center	mississippi	louisiana-state	2000
 30	Fri, Mar 10, 2000	CTOURN	N	Vanderbilt	SEC	W	71	60		26	4	W 10	Georgia Dome	vanderbilt	louisiana-state	2000
 31	Sat, Mar 11, 2000	CTOURN	N	Arkansas	SEC	L	67	69		26	5	L 1	Georgia Dome	arkansas	louisiana-state	2000
-32	Thu, Mar 16, 2000	NCAA	N	Southeast Missouri State	OVC	W	64	61		27	5	W 1	Jon M. Huntsman Center	s/2000-03-16-louisiana-	louisiana-state	2000
-33	Sat, Mar 18, 2000	NCAA	N	Texas (15)	Big 12	W	72	67		28	5	W 2	Jon M. Huntsman Center	s/2000-03-18-louisiana-	louisiana-state	2000
-34	Thu, Mar 23, 2000	NCAA	N	Wisconsin	Big Ten	L	48	61		28	6	L 1	The Pit/Bob King Court	s/2000-03-23-louisiana-	louisiana-state	2000
+32	Thu, Mar 16, 2000	NCAA	N	Southeast Missouri State	OVC	W	64	61		27	5	W 1	Jon M. Huntsman Center	southeast-missouri-state	louisiana-state	2000
+33	Sat, Mar 18, 2000	NCAA	N	Texas (15)	Big 12	W	72	67		28	5	W 2	Jon M. Huntsman Center	texas	louisiana-state	2000
+34	Thu, Mar 23, 2000	NCAA	N	Wisconsin	Big Ten	L	48	61		28	6	L 1	The Pit/Bob King Court	wisconsin	louisiana-state	2000
 1	Sat, Nov 20, 1999	REG	@	North Texas	Big West	W	86	68		1	0	W 1	Super Pit	north-texas	louisiana-tech	2000
 2	Tue, Nov 23, 1999	REG	@	Texas-El Paso	WAC	L	53	72		1	1	L 1	Don Haskins Center	texas-el-paso	louisiana-tech	2000
 3	Sat, Nov 27, 1999	REG	@	Saint Louis	CUSA	W	68	60		2	1	W 1	Scottrade Center	saint-louis	louisiana-tech	2000
@@ -4260,7 +4260,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Feb 29, 2000	REG		South Florida	CUSA	W	76	66		18	10	W 1	Freedom Hall	south-florida	louisville	2000
 29	Sat, Mar 4, 2000	REG	@	Houston	CUSA	W	88	74		19	10	W 2	Hofheinz Pavilion	houston	louisville	2000
 30	Thu, Mar 9, 2000	CTOURN	N	Charlotte	CUSA	L	52	57		19	11	L 1	The Pyramid	charlotte	louisville	2000
-31	Thu, Mar 16, 2000	NCAA	N	Gonzaga	WCC	L	66	77		19	12	L 2		s/2000-03-16-go	louisville	2000
+31	Thu, Mar 16, 2000	NCAA	N	Gonzaga	WCC	L	66	77		19	12	L 2		gonzaga	louisville	2000
 1	Sun, Nov 21, 1999	REG		Stephen F. Austin	Southland	W	78	58		1	0	W 1	Joseph J. Gentile Center	stephen-f-austin	loyola-il	2000
 2	Tue, Nov 23, 1999	REG	@	Western Michigan	MAC	W	70	69		2	0	W 2	University Arena	western-michigan	loyola-il	2000
 3	Sat, Nov 27, 1999	REG		Bradley	MVC	W	52	45		3	0	W 3	Joseph J. Gentile Center	bradley	loyola-il	2000
@@ -4523,8 +4523,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 10, 2000	CTOURN	N	Florida State	ACC	W	82	61		23	8	W 1	Bojangles Coliseum	florida-state	maryland	2000
 32	Sat, Mar 11, 2000	CTOURN	N	North Carolina State	ACC	W	64	61		24	8	W 2	Bojangles Coliseum	north-carolina-state	maryland	2000
 33	Sun, Mar 12, 2000	CTOURN	N	Duke (3)	ACC	L	68	81		24	9	L 1	Bojangles Coliseum	duke	maryland	2000
-34	Thu, Mar 16, 2000	NCAA	N	Iona	MAAC	W	74	59		25	9	W 1		s/2000-03-16	maryland	2000
-35	Sat, Mar 18, 2000	NCAA	N	UCLA	Pac-10	L	70	105		25	10	L 1	Hubert H. Humphrey Metrodome	s/2000-03-18-mar	maryland	2000
+34	Thu, Mar 16, 2000	NCAA	N	Iona	MAAC	W	74	59		25	9	W 1		iona	maryland	2000
+35	Sat, Mar 18, 2000	NCAA	N	UCLA	Pac-10	L	70	105		25	10	L 1	Hubert H. Humphrey Metrodome	ucla	maryland	2000
 1	Fri, Nov 19, 1999	REG	@	Coppin State	MEAC	W	72	58		1	0	W 1	Coppin Center	coppin-state	maryland-baltimore-county	2000
 2	Sat, Nov 20, 1999	REG	N	Loyola (MD)	MAAC	L	71	77		1	1	L 1	Coppin Center	loyola-md	maryland-baltimore-county	2000
 3	Wed, Dec 1, 1999	REG	@	Dayton	A-10	L	60	83		1	2	L 2	University of Dayton Arena	dayton	maryland-baltimore-county	2000
@@ -4738,9 +4738,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sun, Mar 5, 2000	REG		St. John's (NY) (18)	Big East	W	74	70	OT	20	9	W 5	Miami Arena	st-johns-ny	miami-fl	2000
 30	Thu, Mar 9, 2000	CTOURN	N	Notre Dame	Big East	W	61	58		21	9	W 6	Madison Square Garden (IV)	notre-dame	miami-fl	2000
 31	Fri, Mar 10, 2000	CTOURN	@	St. John's (NY) (19)	Big East	L	57	58		21	10	L 1	Madison Square Garden (IV)	st-johns-ny	miami-fl	2000
-32	Fri, Mar 17, 2000	NCAA	N	Arkansas	SEC	W	75	71		22	10	W 1		s/2000-03-17-ark	miami-fl	2000
-33	Sun, Mar 19, 2000	NCAA	N	Ohio State (8)	Big Ten	W	75	62		23	10	W 2		s/2000-03-19-mia	miami-fl	2000
-34	Fri, Mar 24, 2000	NCAA	N	Tulsa (18)	WAC	L	71	80		23	11	L 1	Frank Erwin Center	s/2000-03-24-mia	miami-fl	2000
+32	Fri, Mar 17, 2000	NCAA	N	Arkansas	SEC	W	75	71		22	10	W 1		arkansas	miami-fl	2000
+33	Sun, Mar 19, 2000	NCAA	N	Ohio State (8)	Big Ten	W	75	62		23	10	W 2		ohio-state	miami-fl	2000
+34	Fri, Mar 24, 2000	NCAA	N	Tulsa (18)	WAC	L	71	80		23	11	L 1	Frank Erwin Center	tulsa	miami-fl	2000
 1	Sun, Nov 21, 1999	REG	@	Temple (6)	A-10	L	47	60		0	1	L 1	Liacouras Center	temple	miami-oh	2000
 2	Wed, Nov 24, 1999	REG	@	IUPUI	Mid-Cont	W	75	59		1	1	W 1	The Jungle	iupui	miami-oh	2000
 3	Wed, Dec 1, 1999	REG	@	Tennessee (18)	SEC	L	59	78		1	2	L 1	Thompson-Boling Arena	tennessee	miami-oh	2000
@@ -4833,12 +4833,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Fri, Mar 10, 2000	CTOURN	N	Iowa	Big Ten	W	75	65		24	7	W 3	United Center	iowa	michigan-state	2000
 32	Sat, Mar 11, 2000	CTOURN	N	Wisconsin	Big Ten	W	55	46		25	7	W 4	United Center	wisconsin	michigan-state	2000
 33	Sun, Mar 12, 2000	CTOURN	N	Illinois (25)	Big Ten	W	76	61		26	7	W 5	United Center	illinois	michigan-state	2000
-34	Thu, Mar 16, 2000	NCAA	N	Valparaiso	Mid-Cont	W	65	38		27	7	W 6	Henry J. Goodman Arena	s/2000-03-16-michigan-	michigan-state	2000
-35	Sat, Mar 18, 2000	NCAA	N	Utah	MWC	W	73	61		28	7	W 7	Henry J. Goodman Arena	s/2000-03-18-michigan-	michigan-state	2000
-36	Thu, Mar 23, 2000	NCAA	N	Syracuse (16)	Big East	W	75	58		29	7	W 8	Palace of Auburn Hills	s/2000-03-23-michigan-	michigan-state	2000
-37	Sat, Mar 25, 2000	NCAA	N	Iowa State (6)	Big 12	W	75	64		30	7	W 9		s/2000-03-25-iowa-	michigan-state	2000
-38	Sat, Apr 1, 2000	NCAA	N	Wisconsin	Big Ten	W	53	41		31	7	W 10	RCA Dome	s/2000-04-01-michigan-	michigan-state	2000
-39	Mon, Apr 3, 2000	NCAA	N	Florida (13)	SEC	W	89	76		32	7	W 11		s/2000-04-03-fl	michigan-state	2000
+34	Thu, Mar 16, 2000	NCAA	N	Valparaiso	Mid-Cont	W	65	38		27	7	W 6	Henry J. Goodman Arena	valparaiso	michigan-state	2000
+35	Sat, Mar 18, 2000	NCAA	N	Utah	MWC	W	73	61		28	7	W 7	Henry J. Goodman Arena	utah	michigan-state	2000
+36	Thu, Mar 23, 2000	NCAA	N	Syracuse (16)	Big East	W	75	58		29	7	W 8	Palace of Auburn Hills	syracuse	michigan-state	2000
+37	Sat, Mar 25, 2000	NCAA	N	Iowa State (6)	Big 12	W	75	64		30	7	W 9		iowa-state	michigan-state	2000
+38	Sat, Apr 1, 2000	NCAA	N	Wisconsin	Big Ten	W	53	41		31	7	W 10	RCA Dome	wisconsin	michigan-state	2000
+39	Mon, Apr 3, 2000	NCAA	N	Florida (13)	SEC	W	89	76		32	7	W 11		florida	michigan-state	2000
 1	Mon, Nov 22, 1999	REG		Tennessee Temple		W	69	55		1	0	W 1	Murphy Athletic Center	NA	middle-tennessee	2000
 2	Sat, Nov 27, 1999	REG		Marist	MAAC	W	76	55		2	0	W 2	Murphy Athletic Center	marist	middle-tennessee	2000
 3	Thu, Dec 2, 1999	REG		Eastern Illinois	OVC	L	72	76		2	1	L 1	Murphy Athletic Center	eastern-illinois	middle-tennessee	2000
@@ -5045,7 +5045,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sun, Mar 5, 2000	REG	@	Kansas (23)	Big 12	L	82	83		17	11	L 1	Allen Fieldhouse	kansas	missouri	2000
 29	Thu, Mar 9, 2000	CTOURN	N	Texas Tech	Big 12	W	80	47		18	11	W 1	Kemper Arena	texas-tech	missouri	2000
 30	Fri, Mar 10, 2000	CTOURN	N	Oklahoma (15)	Big 12	L	80	84	OT	18	12	L 1	Kemper Arena	oklahoma	missouri	2000
-31	Fri, Mar 17, 2000	NCAA	N	North Carolina	ACC	L	70	84		18	13	L 2		s/2000-03-17-mis	missouri	2000
+31	Fri, Mar 17, 2000	NCAA	N	North Carolina	ACC	L	70	84		18	13	L 2		north-carolina	missouri	2000
 1	Sun, Nov 21, 1999	REG		William Penn		W	84	29		1	0	W 1	Municipal Auditorium	NA	missouri-kansas-city	2000
 2	Tue, Nov 23, 1999	REG	@	Northern Iowa	MVC	L	65	70		1	1	L 1	UNI-Dome	northern-iowa	missouri-kansas-city	2000
 3	Sat, Nov 27, 1999	REG		Milwaukee	MW Coll	L	68	70		1	2	L 2	Municipal Auditorium	milwaukee	missouri-kansas-city	2000
@@ -5429,7 +5429,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 9, 2000	CTOURN		San Diego State	MWC	W	77	72		21	7	W 5	Thomas & Mack Center	san-diego-state	nevada-las-vegas	2000
 29	Fri, Mar 10, 2000	CTOURN		Wyoming	MWC	W	97	92		22	7	W 6	Thomas & Mack Center	wyoming	nevada-las-vegas	2000
 30	Sat, Mar 11, 2000	CTOURN		Brigham Young	MWC	W	79	56		23	7	W 7	Thomas & Mack Center	brigham-young	nevada-las-vegas	2000
-31	Fri, Mar 17, 2000	NCAA	N	Tulsa (18)	WAC	L	62	89		23	8	L 1		s/2000-03-17-nevada-las-	nevada-las-vegas	2000
+31	Fri, Mar 17, 2000	NCAA	N	Tulsa (18)	WAC	L	62	89		23	8	L 1		tulsa	nevada-las-vegas	2000
 1	Sat, Nov 20, 1999	REG	@	Boston College	Big East	L	65	89		0	1	L 1	Silvio O. Conte Forum	boston-college	new-hampshire	2000
 2	Tue, Nov 23, 1999	REG		Buffalo	MAC	L	78	81		0	2	L 2	Lundholm Gymnasium	buffalo	new-hampshire	2000
 3	Fri, Nov 26, 1999	REG		Dartmouth	Ivy	W	75	57		1	2	W 1	Lundholm Gymnasium	dartmouth	new-hampshire	2000
@@ -5667,11 +5667,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Wed, Mar 1, 2000	REG		Georgia Tech	ACC	W	74	72	OT	18	11	W 1	Smith Center	georgia-tech	north-carolina	2000
 30	Sat, Mar 4, 2000	REG	@	Duke (4)	ACC	L	76	90		18	12	L 1	Cameron Indoor Stadium	duke	north-carolina	2000
 31	Fri, Mar 10, 2000	CTOURN	N	Wake Forest	ACC	L	52	58		18	13	L 2	Bojangles Coliseum	wake-forest	north-carolina	2000
-32	Fri, Mar 17, 2000	NCAA	N	Missouri	Big 12	W	84	70		19	13	W 1		s/2000-03-17-mis	north-carolina	2000
-33	Sun, Mar 19, 2000	NCAA	N	Stanford (3)	Pac-10	W	60	53		20	13	W 2		s/2000-03-19-north-car	north-carolina	2000
-34	Fri, Mar 24, 2000	NCAA	N	Tennessee (11)	SEC	W	74	69		21	13	W 3		s/2000-03-24-north-car	north-carolina	2000
-35	Sun, Mar 26, 2000	NCAA	N	Tulsa (18)	WAC	W	59	55		22	13	W 4		s/2000-03-26-north-car	north-carolina	2000
-36	Sat, Apr 1, 2000	NCAA	N	Florida (13)	SEC	L	59	71		22	14	L 1	RCA Dome	s/2000-04-01-fl	north-carolina	2000
+32	Fri, Mar 17, 2000	NCAA	N	Missouri	Big 12	W	84	70		19	13	W 1		missouri	north-carolina	2000
+33	Sun, Mar 19, 2000	NCAA	N	Stanford (3)	Pac-10	W	60	53		20	13	W 2		stanford	north-carolina	2000
+34	Fri, Mar 24, 2000	NCAA	N	Tennessee (11)	SEC	W	74	69		21	13	W 3		tennessee	north-carolina	2000
+35	Sun, Mar 26, 2000	NCAA	N	Tulsa (18)	WAC	W	59	55		22	13	W 4		tulsa	north-carolina	2000
+36	Sat, Apr 1, 2000	NCAA	N	Florida (13)	SEC	L	59	71		22	14	L 1	RCA Dome	florida	north-carolina	2000
 1	Fri, Nov 19, 1999	REG	@	Missouri	Big 12	L	69	75		0	1	L 1	Hearnes Center	missouri	north-carolina-asheville	2000
 2	Sun, Nov 21, 1999	REG	@	Saint Louis	CUSA	L	72	84		0	2	L 2	Scottrade Center	saint-louis	north-carolina-asheville	2000
 3	Wed, Nov 24, 1999	REG	@	Tennessee (17)	SEC	L	63	79		0	3	L 3	Thompson-Boling Arena	tennessee	north-carolina-asheville	2000
@@ -5823,7 +5823,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 4, 2000	CTOURN	@	Virginia Commonwealth	CAA	W	66	57		16	12	W 1	Richmond Coliseum	virginia-commonwealth	north-carolina-wilmington	2000
 29	Sun, Mar 5, 2000	CTOURN	N	George Mason	CAA	W	67	56		17	12	W 2	Richmond Coliseum	george-mason	north-carolina-wilmington	2000
 30	Mon, Mar 6, 2000	CTOURN	N	Richmond	CAA	W	57	47		18	12	W 3	Richmond Coliseum	richmond	north-carolina-wilmington	2000
-31	Fri, Mar 17, 2000	NCAA	N	Cincinnati (7)	CUSA	L	47	64		18	13	L 1	Bridgestone Arena	s/2000-03-17-cinci	north-carolina-wilmington	2000
+31	Fri, Mar 17, 2000	NCAA	N	Cincinnati (7)	CUSA	L	47	64		18	13	L 1	Bridgestone Arena	cincinnati	north-carolina-wilmington	2000
 1	Sat, Nov 20, 1999	REG		Louisiana Tech	Sun Belt	L	68	86		0	1	L 1	Super Pit	louisiana-tech	north-texas	2000
 2	Sat, Nov 27, 1999	REG	@	Oklahoma State (21)	Big 12	L	65	103		0	2	L 2	Gallagher-Iba Arena	oklahoma-state	north-texas	2000
 3	Mon, Nov 29, 1999	REG		Texas A&M	Big 12	W	91	88		1	2	W 1	Super Pit	texas-am	north-texas	2000
@@ -5909,7 +5909,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Wed, Mar 8, 2000	CTOURN	N	Portland State	Big Sky	W	77	75		18	10	W 1	Adams Center/Dahlberg Arena	portland-state	northern-arizona	2000
 29	Fri, Mar 10, 2000	CTOURN	N	Eastern Washington	Big Sky	W	82	65		19	10	W 2	Adams Center/Dahlberg Arena	eastern-washington	northern-arizona	2000
 30	Sat, Mar 11, 2000	CTOURN	N	Cal State Northridge	Big Sky	W	85	81	OT	20	10	W 3	Adams Center/Dahlberg Arena	cal-state-northridge	northern-arizona	2000
-31	Thu, Mar 16, 2000	NCAA	N	St. John's (NY) (9)	Big East	L	56	61		20	11	L 1		s/2000-03-16-northern-ar	northern-arizona	2000
+31	Thu, Mar 16, 2000	NCAA	N	St. John's (NY) (9)	Big East	L	56	61		20	11	L 1		st-johns-ny	northern-arizona	2000
 1	Fri, Nov 19, 1999	REG	N	Boston University	AEC	W	78	65		1	0	W 1	US Century Bank Arena	boston-university	northern-illinois	2000
 2	Sat, Nov 20, 1999	REG	@	Florida International	Sun Belt	W	98	92	OT	2	0	W 2	US Century Bank Arena	florida-international	northern-illinois	2000
 3	Wed, Nov 24, 1999	REG	@	New Orleans	Sun Belt	L	55	61		2	1	L 1	Kiefer Lakefront Arena	new-orleans	northern-illinois	2000
@@ -6155,8 +6155,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Wed, Mar 1, 2000	REG	@	Penn State	Big Ten	W	79	73		21	5	W 4	Bryce Jordan Center	penn-state	ohio-state	2000
 27	Sat, Mar 4, 2000	REG	@	Minnesota	Big Ten	W	82	72		22	5	W 5	Williams Arena	minnesota	ohio-state	2000
 28	Fri, Mar 10, 2000	CTOURN	N	Penn State	Big Ten	L	66	71		22	6	L 1	United Center	penn-state	ohio-state	2000
-29	Fri, Mar 17, 2000	NCAA	N	Appalachian State	Southern	W	87	61		23	6	W 1		s/2000-03-17-appalachian-	ohio-state	2000
-30	Sun, Mar 19, 2000	NCAA	N	Miami (FL) (23)	Big East	L	62	75		23	7	L 1		s/2000-03-19-mia	ohio-state	2000
+29	Fri, Mar 17, 2000	NCAA	N	Appalachian State	Southern	W	87	61		23	6	W 1		appalachian-state	ohio-state	2000
+30	Sun, Mar 19, 2000	NCAA	N	Miami (FL) (23)	Big East	L	62	75		23	7	L 1		miami-fl	ohio-state	2000
 1	Fri, Nov 19, 1999	REG	N	Montana State	Big Sky	W	91	76		1	0	W 1	Carlson Center	montana-state	oklahoma	2000
 2	Sat, Nov 20, 1999	REG	N	George Washington	A-10	W	73	54		2	0	W 2	Carlson Center	george-washington	oklahoma	2000
 3	Sun, Nov 21, 1999	REG	N	University of California	Pac-10	W	75	58		3	0	W 3	Carlson Center	california	oklahoma	2000
@@ -6189,8 +6189,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Fri, Mar 10, 2000	CTOURN	N	Missouri	Big 12	W	84	80	OT	25	5	W 5	Kemper Arena	missouri	oklahoma	2000
 31	Sat, Mar 11, 2000	CTOURN	N	Texas (13)	Big 12	W	81	65		26	5	W 6	Kemper Arena	texas	oklahoma	2000
 32	Sun, Mar 12, 2000	CTOURN	N	Iowa State (7)	Big 12	L	58	70		26	6	L 1	Kemper Arena	iowa-state	oklahoma	2000
-33	Thu, Mar 16, 2000	NCAA	N	Winthrop	Big South	W	74	50		27	6	W 1	McKale Center	s/2000-03-16-okl	oklahoma	2000
-34	Sat, Mar 18, 2000	NCAA	N	Purdue (25)	Big Ten	L	62	66		27	7	L 1	McKale Center	s/2000-03-18-okl	oklahoma	2000
+33	Thu, Mar 16, 2000	NCAA	N	Winthrop	Big South	W	74	50		27	6	W 1	McKale Center	winthrop	oklahoma	2000
+34	Sat, Mar 18, 2000	NCAA	N	Purdue (25)	Big Ten	L	62	66		27	7	L 1	McKale Center	purdue	oklahoma	2000
 1	Fri, Nov 19, 1999	REG		Appalachian State	Southern	W	87	75		1	0	W 1	Gallagher-Iba Arena	appalachian-state	oklahoma-state	2000
 2	Sat, Nov 20, 1999	REG		Idaho	Big West	W	81	50		2	0	W 2	Gallagher-Iba Arena	idaho	oklahoma-state	2000
 3	Tue, Nov 23, 1999	REG	@	Arkansas-Little Rock	Sun Belt	W	93	64		3	0	W 3	Alltel Arena	arkansas-little-rock	oklahoma-state	2000
@@ -6220,10 +6220,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 4, 2000	REG		Oklahoma (21)	Big 12	L	56	59		22	5	L 1	Gallagher-Iba Arena	oklahoma	oklahoma-state	2000
 28	Fri, Mar 10, 2000	CTOURN	N	Kansas (24)	Big 12	W	77	58		23	5	W 1	Kemper Arena	kansas	oklahoma-state	2000
 29	Sat, Mar 11, 2000	CTOURN	N	Iowa State (7)	Big 12	L	64	68		23	6	L 1	Kemper Arena	iowa-state	oklahoma-state	2000
-30	Fri, Mar 17, 2000	NCAA	N	Hofstra	AEC	W	86	66		24	6	W 1		s/2000-03-17-ho	oklahoma-state	2000
-31	Sun, Mar 19, 2000	NCAA	N	Pepperdine	WCC	W	75	67		25	6	W 2	HSBC Arena	s/2000-03-19-oklahoma-	oklahoma-state	2000
-32	Fri, Mar 24, 2000	NCAA	N	Seton Hall	Big East	W	68	66		26	6	W 3	Carrier Dome	s/2000-03-24-oklahoma-	oklahoma-state	2000
-33	Sun, Mar 26, 2000	NCAA	N	Florida (13)	SEC	L	65	77		26	7	L 1		s/2000-03-26-fl	oklahoma-state	2000
+30	Fri, Mar 17, 2000	NCAA	N	Hofstra	AEC	W	86	66		24	6	W 1		hofstra	oklahoma-state	2000
+31	Sun, Mar 19, 2000	NCAA	N	Pepperdine	WCC	W	75	67		25	6	W 2	HSBC Arena	pepperdine	oklahoma-state	2000
+32	Fri, Mar 24, 2000	NCAA	N	Seton Hall	Big East	W	68	66		26	6	W 3	Carrier Dome	seton-hall	oklahoma-state	2000
+33	Sun, Mar 26, 2000	NCAA	N	Florida (13)	SEC	L	65	77		26	7	L 1		florida	oklahoma-state	2000
 1	Sat, Nov 20, 1999	REG		Chattanooga	Southern	W	77	64		1	0	W 1	Norfolk Scope	chattanooga	old-dominion	2000
 2	Tue, Nov 23, 1999	REG	@	North Carolina State	ACC	L	61	75		1	1	L 1	RBC Center	north-carolina-state	old-dominion	2000
 3	Fri, Nov 26, 1999	REG	N	Green Bay	MW Coll	L	64	76		1	2	L 2	BI-LO Center	green-bay	old-dominion	2000
@@ -6313,7 +6313,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Thu, Mar 2, 2000	REG		Arizona State	Pac-10	W	76	74		20	7	W 2	McArthur Court	arizona-state	oregon	2000
 28	Sat, Mar 4, 2000	REG		Arizona (3)	Pac-10	W	86	81		21	7	W 3	McArthur Court	arizona	oregon	2000
 29	Sat, Mar 11, 2000	REG		Oregon State	Pac-10	W	83	65		22	7	W 4	McArthur Court	oregon-state	oregon	2000
-30	Fri, Mar 17, 2000	NCAA	N	Seton Hall	Big East	L	71	72	OT	22	8	L 1	HSBC Arena	s/2000-03-17-o	oregon	2000
+30	Fri, Mar 17, 2000	NCAA	N	Seton Hall	Big East	L	71	72	OT	22	8	L 1	HSBC Arena	seton-hall	oregon	2000
 1	Tue, Nov 23, 1999	REG		Cal State Chico		W	92	48		1	0	W 1	Gill Coliseum	NA	oregon-state	2000
 2	Fri, Nov 26, 1999	REG	N	South Carolina State	MEAC	W	92	57		2	0	W 2	BI-LO Center	south-carolina-state	oregon-state	2000
 3	Sat, Nov 27, 1999	REG	N	Mississippi	SEC	L	58	77		2	1	L 1	BI-LO Center	mississippi	oregon-state	2000
@@ -6435,7 +6435,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Fri, Mar 3, 2000	REG		Brown	Ivy	W	85	62		19	7	W 14	The Palestra	brown	pennsylvania	2000
 27	Sat, Mar 4, 2000	REG		Yale	Ivy	W	69	52		20	7	W 15	The Palestra	yale	pennsylvania	2000
 28	Tue, Mar 7, 2000	REG		Princeton	Ivy	W	73	52		21	7	W 16	The Palestra	princeton	pennsylvania	2000
-29	Fri, Mar 17, 2000	NCAA	N	Illinois (21)	Big Ten	L	58	68		21	8	L 1	Lawrence Joel Coliseum	s/2000-03-17-ill	pennsylvania	2000
+29	Fri, Mar 17, 2000	NCAA	N	Illinois (21)	Big Ten	L	58	68		21	8	L 1	Lawrence Joel Coliseum	illinois	pennsylvania	2000
 1	Sat, Nov 20, 1999	REG		Long Beach State	Big West	W	76	74		1	0	W 1	Firestone Fieldhouse	long-beach-state	pepperdine	2000
 2	Tue, Nov 23, 1999	REG	@	Fresno State	WAC	W	70	68		2	0	W 2	Selland Arena 	fresno-state	pepperdine	2000
 3	Sat, Nov 27, 1999	REG		Charlotte	CUSA	L	74	80		2	1	L 1	Firestone Fieldhouse	charlotte	pepperdine	2000
@@ -6468,8 +6468,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 4, 2000	CTOURN	N	Loyola Marymount	WCC	W	83	49		23	7	W 2	Leavey Center	loyola-marymount	pepperdine	2000
 31	Sun, Mar 5, 2000	CTOURN	@	Santa Clara	WCC	W	58	55		24	7	W 3	Leavey Center	santa-clara	pepperdine	2000
 32	Mon, Mar 6, 2000	CTOURN	N	Gonzaga	WCC	L	65	69	OT	24	8	L 1	Leavey Center	gonzaga	pepperdine	2000
-33	Fri, Mar 17, 2000	NCAA	N	Indiana (22)	Big Ten	W	77	57		25	8	W 1	HSBC Arena	s/2000-03-17-in	pepperdine	2000
-34	Sun, Mar 19, 2000	NCAA	N	Oklahoma State (14)	Big 12	L	67	75		25	9	L 1	HSBC Arena	s/2000-03-19-oklahoma-	pepperdine	2000
+33	Fri, Mar 17, 2000	NCAA	N	Indiana (22)	Big Ten	W	77	57		25	8	W 1	HSBC Arena	indiana	pepperdine	2000
+34	Sun, Mar 19, 2000	NCAA	N	Oklahoma State (14)	Big 12	L	67	75		25	9	L 1	HSBC Arena	oklahoma-state	pepperdine	2000
 1	Fri, Nov 19, 1999	REG		Wright State	MW Coll	W	69	52		1	0	W 1	Fitzgerald Fieldhouse	wright-state	pittsburgh	2000
 2	Wed, Nov 24, 1999	REG		Saint Francis (PA)	NEC	W	84	56		2	0	W 2	Fitzgerald Fieldhouse	saint-francis-pa	pittsburgh	2000
 3	Sat, Nov 27, 1999	REG		IUPUI	Mid-Cont	W	68	49		3	0	W 3	Fitzgerald Fieldhouse	iupui	pittsburgh	2000
@@ -6673,10 +6673,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sun, Feb 27, 2000	REG		Penn State	Big Ten	W	88	71		21	7	W 8	Mackey Arena	penn-state	purdue	2000
 29	Tue, Feb 29, 2000	REG	@	Indiana (14)	Big Ten	L	65	79		21	8	L 1	Assembly Hall	indiana	purdue	2000
 30	Fri, Mar 10, 2000	CTOURN	N	Wisconsin	Big Ten	L	66	78		21	9	L 2	United Center	wisconsin	purdue	2000
-31	Thu, Mar 16, 2000	NCAA	N	Dayton	A-10	W	62	61		22	9	W 1		s/2000-03-16-d	purdue	2000
-32	Sat, Mar 18, 2000	NCAA	N	Oklahoma (12)	Big 12	W	66	62		23	9	W 2	McKale Center	s/2000-03-18-okl	purdue	2000
-33	Thu, Mar 23, 2000	NCAA	N	Gonzaga	WCC	W	75	66		24	9	W 3		s/2000-03-23-go	purdue	2000
-34	Sat, Mar 25, 2000	NCAA	N	Wisconsin	Big Ten	L	60	64		24	10	L 1	The Pit/Bob King Court	s/2000-03-25-p	purdue	2000
+31	Thu, Mar 16, 2000	NCAA	N	Dayton	A-10	W	62	61		22	9	W 1		dayton	purdue	2000
+32	Sat, Mar 18, 2000	NCAA	N	Oklahoma (12)	Big 12	W	66	62		23	9	W 2	McKale Center	oklahoma	purdue	2000
+33	Thu, Mar 23, 2000	NCAA	N	Gonzaga	WCC	W	75	66		24	9	W 3		gonzaga	purdue	2000
+34	Sat, Mar 25, 2000	NCAA	N	Wisconsin	Big Ten	L	60	64		24	10	L 1	The Pit/Bob King Court	wisconsin	purdue	2000
 1	Fri, Nov 19, 1999	REG	@	Seton Hall	Big East	L	55	91		0	1	L 1	Izod Center	seton-hall	quinnipiac	2000
 2	Tue, Nov 23, 1999	REG		Westfield State		W	82	67		1	1	W 1	Burt Kahn Court-Athletic Center	NA	quinnipiac	2000
 3	Mon, Nov 29, 1999	REG		Columbia	Ivy	W	49	38		2	1	W 2	Burt Kahn Court-Athletic Center	columbia	quinnipiac	2000
@@ -7055,7 +7055,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 9, 2000	CTOURN	N	Cincinnati (1)	CUSA	W	68	58		17	13	W 2	The Pyramid	cincinnati	saint-louis	2000
 31	Fri, Mar 10, 2000	CTOURN	N	Tulane	CUSA	W	64	46		18	13	W 3	The Pyramid	tulane	saint-louis	2000
 32	Sat, Mar 11, 2000	CTOURN	N	DePaul	CUSA	W	56	49		19	13	W 4	The Pyramid	depaul	saint-louis	2000
-33	Thu, Mar 16, 2000	NCAA	N	Utah	MWC	L	45	48		19	14	L 1		s/2000-03-16-saint-	saint-louis	2000
+33	Thu, Mar 16, 2000	NCAA	N	Utah	MWC	L	45	48		19	14	L 1		utah	saint-louis	2000
 1	Fri, Nov 19, 1999	REG	@	Colorado	Big 12	L	56	67		0	1	L 1	Coors Events/Conference Center	colorado	saint-marys-ca	2000
 2	Mon, Nov 22, 1999	REG		Washington	Pac-10	L	60	73		0	2	L 2	McKeon Pavilion	washington	saint-marys-ca	2000
 3	Wed, Nov 24, 1999	REG		Holy Names		W	66	48		1	2	W 1	McKeon Pavilion	NA	saint-marys-ca	2000
@@ -7172,7 +7172,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 2, 2000	CTOURN	N	Campbell	A-Sun	W	80	61		19	10	W 3	Pete Mathews Coliseum	campbell	samford	2000
 30	Fri, Mar 3, 2000	CTOURN	N	Georgia State	A-Sun	W	83	80		20	10	W 4	Jacksonville Memorial Coliseum	georgia-state	samford	2000
 31	Sat, Mar 4, 2000	CTOURN	N	Central Florida	A-Sun	W	78	69		21	10	W 5	Jacksonville Memorial Coliseum	central-florida	samford	2000
-32	Thu, Mar 16, 2000	NCAA	N	Syracuse (16)	Big East	L	65	79		21	11	L 1		s/2000-03-16-sa	samford	2000
+32	Thu, Mar 16, 2000	NCAA	N	Syracuse (16)	Big East	L	65	79		21	11	L 1		syracuse	samford	2000
 1	Fri, Nov 19, 1999	REG	@	UC-Irvine	Big West	W	75	62		1	0	W 1	Bren Events Center	california-irvine	san-diego	2000
 2	Tue, Nov 23, 1999	REG	@	Cal State Fullerton	Big West	W	81	77		2	0	W 2	Titan Gym	cal-state-fullerton	san-diego	2000
 3	Fri, Nov 26, 1999	REG	@	Oklahoma	Big 12	L	61	68		2	1	L 1	Lloyd Noble Center	oklahoma	san-diego	2000
@@ -7348,9 +7348,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Tue, Feb 29, 2000	REG	@	St. John's (NY) (18)	Big East	L	60	66		19	8	L 2	Madison Square Garden (IV)	st-johns-ny	seton-hall	2000
 28	Wed, Mar 8, 2000	CTOURN	N	Providence	Big East	W	85	65		20	8	W 1	Madison Square Garden (IV)	providence	seton-hall	2000
 29	Thu, Mar 9, 2000	CTOURN	N	Connecticut (21)	Big East	L	64	79		20	9	L 1	Madison Square Garden (IV)	connecticut	seton-hall	2000
-30	Fri, Mar 17, 2000	NCAA	N	Oregon	Pac-10	W	72	71	OT	21	9	W 1	HSBC Arena	s/2000-03-17-o	seton-hall	2000
-31	Sun, Mar 19, 2000	NCAA	N	Temple (5)	A-10	W	67	65	OT	22	9	W 2		s/2000-03-19-seton	seton-hall	2000
-32	Fri, Mar 24, 2000	NCAA	N	Oklahoma State (14)	Big 12	L	66	68		22	10	L 1	Carrier Dome	s/2000-03-24-oklahoma-	seton-hall	2000
+30	Fri, Mar 17, 2000	NCAA	N	Oregon	Pac-10	W	72	71	OT	21	9	W 1	HSBC Arena	oregon	seton-hall	2000
+31	Sun, Mar 19, 2000	NCAA	N	Temple (5)	A-10	W	67	65	OT	22	9	W 2		temple	seton-hall	2000
+32	Fri, Mar 24, 2000	NCAA	N	Oklahoma State (14)	Big 12	L	66	68		22	10	L 1	Carrier Dome	oklahoma-state	seton-hall	2000
 1	Tue, Nov 16, 1999	REG		Davidson	Southern	W	89	79		1	0	W 1	Times Union Center 	davidson	siena	2000
 2	Thu, Nov 18, 1999	REG	@	Notre Dame	Big East	L	96	107		1	1	L 1	Purcell Pavilion at the Joyce Center	notre-dame	siena	2000
 3	Mon, Nov 22, 1999	REG		Hartford	AEC	W	82	75		2	1	W 1	Times Union Center 	hartford	siena	2000
@@ -7479,7 +7479,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Wed, Mar 8, 2000	CTOURN	N	Florida A&M	MEAC	W	61	51		18	13	W 4	Arthur Ashe Athletic Center	florida-am	south-carolina-state	2000
 32	Fri, Mar 10, 2000	CTOURN	N	Bethune-Cookman	MEAC	W	88	66		19	13	W 5	Arthur Ashe Athletic Center	bethune-cookman	south-carolina-state	2000
 33	Sat, Mar 11, 2000	CTOURN	N	Coppin State	MEAC	W	70	53		20	13	W 6	Arthur Ashe Athletic Center	coppin-state	south-carolina-state	2000
-34	Fri, Mar 17, 2000	NCAA	N	Stanford (3)	Pac-10	L	65	84		20	14	L 1		s/2000-03-17-south-carolina-	south-carolina-state	2000
+34	Fri, Mar 17, 2000	NCAA	N	Stanford (3)	Pac-10	L	65	84		20	14	L 1		stanford	south-carolina-state	2000
 1	Fri, Nov 26, 1999	REG	@	George Washington	A-10	L	76	88		0	1	L 1	Charles E. Smith Center	george-washington	south-florida	2000
 2	Mon, Nov 29, 1999	REG	@	Tennessee (17)	SEC	L	90	102		0	2	L 2	Thompson-Boling Arena	tennessee	south-florida	2000
 3	Fri, Dec 3, 1999	REG	@	Central Florida	A-Sun	W	79	55		1	2	W 1	UCF Arena	central-florida	south-florida	2000
@@ -7541,7 +7541,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Feb 29, 2000	CTOURN		Tennessee-Martin	OVC	W	76	74		22	6	W 4	Show Me Center	tennessee-martin	southeast-missouri-state	2000
 29	Sat, Mar 4, 2000	CTOURN	N	Middle Tennessee	OVC	W	78	60		23	6	W 5	Bridgestone Arena	middle-tennessee	southeast-missouri-state	2000
 30	Sun, Mar 5, 2000	CTOURN	N	Murray State	OVC	W	67	56		24	6	W 6	Bridgestone Arena	murray-state	southeast-missouri-state	2000
-31	Thu, Mar 16, 2000	NCAA	N	Louisiana State (10)	SEC	L	61	64		24	7	L 1	Jon M. Huntsman Center	s/2000-03-16-louisiana-	southeast-missouri-state	2000
+31	Thu, Mar 16, 2000	NCAA	N	Louisiana State (10)	SEC	L	61	64		24	7	L 1	Jon M. Huntsman Center	louisiana-state	southeast-missouri-state	2000
 1	Sat, Nov 20, 1999	REG		Southern	SWAC	W	71	70		1	0	W 1	University Center	southern	southeastern-louisiana	2000
 2	Mon, Nov 22, 1999	REG	@	Louisiana State	SEC	L	36	75		1	1	L 1	Maravich Assembly Center	louisiana-state	southeastern-louisiana	2000
 3	Mon, Nov 29, 1999	REG		Florida A&M	MEAC	W	61	50		2	1	W 1	University Center	florida-am	southeastern-louisiana	2000
@@ -7777,7 +7777,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 9, 2000	CTOURN	N	Xavier	A-10	W	72	69		20	8	W 4	The Spectrum	xavier	st-bonaventure	2000
 29	Fri, Mar 10, 2000	CTOURN	N	Dayton	A-10	W	56	50		21	8	W 5	The Spectrum	dayton	st-bonaventure	2000
 30	Sat, Mar 11, 2000	CTOURN	@	Temple (6)	A-10	L	44	65		21	9	L 1	The Spectrum	temple	st-bonaventure	2000
-31	Thu, Mar 16, 2000	NCAA	N	Kentucky (19)	SEC	L	80	85	2OT	21	10	L 2	Henry J. Goodman Arena	s/2000-03-16-ken	st-bonaventure	2000
+31	Thu, Mar 16, 2000	NCAA	N	Kentucky (19)	SEC	L	80	85	2OT	21	10	L 2	Henry J. Goodman Arena	kentucky	st-bonaventure	2000
 1	Sat, Nov 20, 1999	REG	N	Stony Brook	Ind	W	90	73		1	0	W 1	Broome County Veterans Memorial Arena	stony-brook	st-francis-ny	2000
 2	Sun, Nov 21, 1999	REG	N	Duquesne	A-10	W	64	63		2	0	W 2	Broome County Veterans Memorial Arena	duquesne	st-francis-ny	2000
 3	Sat, Nov 27, 1999	REG		Queens (NC)		W	95	73		3	0	W 3	Pope Physical Education Center	NA	st-francis-ny	2000
@@ -7839,8 +7839,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 9, 2000	CTOURN		Villanova	Big East	W	75	70		22	7	W 1	Madison Square Garden (IV)	villanova	st-johns-ny	2000
 30	Fri, Mar 10, 2000	CTOURN		Miami (FL) (23)	Big East	W	58	57		23	7	W 2	Madison Square Garden (IV)	miami-fl	st-johns-ny	2000
 31	Sat, Mar 11, 2000	CTOURN		Connecticut (21)	Big East	W	80	70		24	7	W 3	Madison Square Garden (IV)	connecticut	st-johns-ny	2000
-32	Thu, Mar 16, 2000	NCAA	N	Northern Arizona	Big Sky	W	61	56		25	7	W 4		s/2000-03-16-northern-ar	st-johns-ny	2000
-33	Sat, Mar 18, 2000	NCAA	N	Gonzaga	WCC	L	76	82		25	8	L 1		s/2000-03-18-go	st-johns-ny	2000
+32	Thu, Mar 16, 2000	NCAA	N	Northern Arizona	Big Sky	W	61	56		25	7	W 4		northern-arizona	st-johns-ny	2000
+33	Sat, Mar 18, 2000	NCAA	N	Gonzaga	WCC	L	76	82		25	8	L 1		gonzaga	st-johns-ny	2000
 1	Thu, Nov 11, 1999	REG	N	Duke (10)	ACC	W	80	79	OT	1	0	W 1	Madison Square Garden (IV)	duke	stanford	2000
 2	Fri, Nov 12, 1999	REG	N	Iowa	Big Ten	W	72	58		2	0	W 2	Madison Square Garden (IV)	iowa	stanford	2000
 3	Sat, Nov 20, 1999	REG	@	UC-Santa Barbara	Big West	W	62	49		3	0	W 3	The Thunderdome	california-santa-barbara	stanford	2000
@@ -7870,8 +7870,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 4, 2000	REG		UCLA	Pac-10	L	93	94	OT	25	2	L 1	Maples Pavilion	ucla	stanford	2000
 28	Thu, Mar 9, 2000	REG	@	Arizona (9)	Pac-10	L	81	86		25	3	L 2	McKale Center	arizona	stanford	2000
 29	Sat, Mar 11, 2000	REG	@	Arizona State	Pac-10	W	65	57		26	3	W 1	Wells Fargo Arena	arizona-state	stanford	2000
-30	Fri, Mar 17, 2000	NCAA	N	South Carolina State	MEAC	W	84	65		27	3	W 2		s/2000-03-17-south-carolina-	stanford	2000
-31	Sun, Mar 19, 2000	NCAA	N	North Carolina	ACC	L	53	60		27	4	L 1		s/2000-03-19-north-car	stanford	2000
+30	Fri, Mar 17, 2000	NCAA	N	South Carolina State	MEAC	W	84	65		27	3	W 2		south-carolina-state	stanford	2000
+31	Sun, Mar 19, 2000	NCAA	N	North Carolina	ACC	L	53	60		27	4	L 1		north-carolina	stanford	2000
 1	Fri, Nov 19, 1999	REG		LeTourneau		W	81	65		1	0	W 1	William Johnson Coliseum	NA	stephen-f-austin	2000
 2	Sun, Nov 21, 1999	REG	@	Loyola (IL)	MW Coll	L	58	78		1	1	L 1	Joseph J. Gentile Center	loyola-il	stephen-f-austin	2000
 3	Tue, Nov 23, 1999	REG	@	New Mexico	MWC	L	61	98		1	2	L 2	The Pit/Bob King Court	new-mexico	stephen-f-austin	2000
@@ -7985,9 +7985,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Wed, Mar 1, 2000	REG	@	Notre Dame	Big East	W	73	71		24	3	W 3	Purcell Pavilion at the Joyce Center	notre-dame	syracuse	2000
 28	Sat, Mar 4, 2000	REG	@	Connecticut (24)	Big East	L	54	69		24	4	L 1	Harry A. Gampel Pavilion	connecticut	syracuse	2000
 29	Thu, Mar 9, 2000	CTOURN	N	Georgetown	Big East	L	72	76		24	5	L 2	Madison Square Garden (IV)	georgetown	syracuse	2000
-30	Thu, Mar 16, 2000	NCAA	N	Samford	A-Sun	W	79	65		25	5	W 1		s/2000-03-16-sa	syracuse	2000
-31	Sat, Mar 18, 2000	NCAA	N	Kentucky (19)	SEC	W	52	50		26	5	W 2		s/2000-03-18-ken	syracuse	2000
-32	Thu, Mar 23, 2000	NCAA	N	Michigan State (2)	Big Ten	L	58	75		26	6	L 1	Palace of Auburn Hills	s/2000-03-23-michigan-	syracuse	2000
+30	Thu, Mar 16, 2000	NCAA	N	Samford	A-Sun	W	79	65		25	5	W 1		samford	syracuse	2000
+31	Sat, Mar 18, 2000	NCAA	N	Kentucky (19)	SEC	W	52	50		26	5	W 2		kentucky	syracuse	2000
+32	Thu, Mar 23, 2000	NCAA	N	Michigan State (2)	Big Ten	L	58	75		26	6	L 1	Palace of Auburn Hills	michigan-state	syracuse	2000
 1	Sun, Nov 21, 1999	REG		Miami (OH)	MAC	W	60	47		1	0	W 1	Liacouras Center	miami-oh	temple	2000
 2	Fri, Nov 26, 1999	REG	N	Indiana	Big Ten	L	59	67		1	1	L 1	MassMutual Center	indiana	temple	2000
 3	Mon, Nov 29, 1999	REG	@	Florida State	ACC	W	69	58		2	1	W 1	Donald L. Tucker Center	florida-state	temple	2000
@@ -8019,8 +8019,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 9, 2000	CTOURN		Virginia Tech	A-10	W	71	52		24	5	W 2	The Spectrum	virginia-tech	temple	2000
 30	Fri, Mar 10, 2000	CTOURN		Massachusetts	A-10	W	54	47		25	5	W 3	The Spectrum	massachusetts	temple	2000
 31	Sat, Mar 11, 2000	CTOURN		St. Bonaventure	A-10	W	65	44		26	5	W 4	The Spectrum	st-bonaventure	temple	2000
-32	Fri, Mar 17, 2000	NCAA	N	Lafayette	Patriot	W	73	47		27	5	W 5		s/2000-03-17-lafa	temple	2000
-33	Sun, Mar 19, 2000	NCAA	N	Seton Hall	Big East	L	65	67	OT	27	6	L 1		s/2000-03-19-seton	temple	2000
+32	Fri, Mar 17, 2000	NCAA	N	Lafayette	Patriot	W	73	47		27	5	W 5		lafayette	temple	2000
+33	Sun, Mar 19, 2000	NCAA	N	Seton Hall	Big East	L	65	67	OT	27	6	L 1		seton-hall	temple	2000
 1	Mon, Nov 22, 1999	REG		Elon	Big South	W	95	56		1	0	W 1	Thompson-Boling Arena	elon	tennessee	2000
 2	Wed, Nov 24, 1999	REG		North Carolina-Asheville	Big South	W	79	63		2	0	W 2	Thompson-Boling Arena	north-carolina-asheville	tennessee	2000
 3	Fri, Nov 26, 1999	REG		Long Island University	NEC	W	86	47		3	0	W 3	Thompson-Boling Arena	long-island-university	tennessee	2000
@@ -8051,9 +8051,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Wed, Mar 1, 2000	REG	@	Arkansas	SEC	W	73	66		23	5	W 1	Bud Walton Arena	arkansas	tennessee	2000
 29	Sat, Mar 4, 2000	REG	@	Georgia	SEC	W	83	66		24	5	W 2	Stegeman Coliseum	georgia	tennessee	2000
 30	Fri, Mar 10, 2000	CTOURN	N	South Carolina	SEC	L	68	75		24	6	L 1	Georgia Dome	south-carolina	tennessee	2000
-31	Fri, Mar 17, 2000	NCAA	N	Louisiana-Lafayette	Sun Belt	W	63	58		25	6	W 1		s/2000-03-17-louisiana-lafa	tennessee	2000
-32	Sun, Mar 19, 2000	NCAA	N	Connecticut (20)	Big East	W	65	51		26	6	W 2		s/2000-03-19-connec	tennessee	2000
-33	Fri, Mar 24, 2000	NCAA	N	North Carolina	ACC	L	69	74		26	7	L 1		s/2000-03-24-north-car	tennessee	2000
+31	Fri, Mar 17, 2000	NCAA	N	Louisiana-Lafayette	Sun Belt	W	63	58		25	6	W 1		louisiana-lafayette	tennessee	2000
+32	Sun, Mar 19, 2000	NCAA	N	Connecticut (20)	Big East	W	65	51		26	6	W 2		connecticut	tennessee	2000
+33	Fri, Mar 24, 2000	NCAA	N	North Carolina	ACC	L	69	74		26	7	L 1		north-carolina	tennessee	2000
 1	Fri, Nov 19, 1999	REG	@	Hawaii	WAC	L	68	84		0	1	L 1	Stan Sheriff Center	hawaii	tennessee-martin	2000
 2	Sun, Nov 21, 1999	REG		Jackson State	SWAC	L	48	63		0	2	L 2	Skyhawk Arena	jackson-state	tennessee-martin	2000
 3	Sat, Nov 27, 1999	REG	@	Vanderbilt	SEC	L	64	87		0	3	L 3	Memorial Gymnasium	vanderbilt	tennessee-martin	2000
@@ -8171,8 +8171,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 4, 2000	REG	@	Kansas State	Big 12	W	99	70		22	7	W 3	Bramlage Coliseum	kansas-state	texas	2000
 30	Fri, Mar 10, 2000	CTOURN	N	Colorado	Big 12	W	78	35		23	7	W 4	Kemper Arena	colorado	texas	2000
 31	Sat, Mar 11, 2000	CTOURN	N	Oklahoma (15)	Big 12	L	65	81		23	8	L 1	Kemper Arena	oklahoma	texas	2000
-32	Thu, Mar 16, 2000	NCAA	N	Indiana State	MVC	W	77	61		24	8	W 1		s/2000-03-16-indiana-	texas	2000
-33	Sat, Mar 18, 2000	NCAA	N	Louisiana State (10)	SEC	L	67	72		24	9	L 1	Jon M. Huntsman Center	s/2000-03-18-louisiana-	texas	2000
+32	Thu, Mar 16, 2000	NCAA	N	Indiana State	MVC	W	77	61		24	8	W 1		indiana-state	texas	2000
+33	Sat, Mar 18, 2000	NCAA	N	Louisiana State (10)	SEC	L	67	72		24	9	L 1	Jon M. Huntsman Center	louisiana-state	texas	2000
 1	Sat, Nov 27, 1999	REG		North Carolina A&T	MEAC	L	77	94		0	1	L 1	Reed Arena	north-carolina-at	texas-am	2000
 2	Mon, Nov 29, 1999	REG	@	North Texas	Big West	L	88	91		0	2	L 2	Super Pit	north-texas	texas-am	2000
 3	Wed, Dec 1, 1999	REG		Stephen F. Austin	Southland	W	70	65		1	2	W 1	Reed Arena	stephen-f-austin	texas-am	2000
@@ -8580,10 +8580,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 9, 2000	CTOURN	N	Rice	WAC	W	71	51		28	3	W 3	Selland Arena 	rice	tulsa	2000
 32	Fri, Mar 10, 2000	CTOURN	N	Texas Christian	WAC	W	93	71		29	3	W 4	Selland Arena 	texas-christian	tulsa	2000
 33	Sat, Mar 11, 2000	CTOURN	@	Fresno State	WAC	L	72	75		29	4	L 1	Selland Arena 	fresno-state	tulsa	2000
-34	Fri, Mar 17, 2000	NCAA	N	Nevada-Las Vegas	MWC	W	89	62		30	4	W 1		s/2000-03-17-nevada-las-	tulsa	2000
-35	Sun, Mar 19, 2000	NCAA	N	Cincinnati (7)	CUSA	W	69	61		31	4	W 2	Bridgestone Arena	s/2000-03-19-cinci	tulsa	2000
-36	Fri, Mar 24, 2000	NCAA	N	Miami (FL) (23)	Big East	W	80	71		32	4	W 3	Frank Erwin Center	s/2000-03-24-mia	tulsa	2000
-37	Sun, Mar 26, 2000	NCAA	N	North Carolina	ACC	L	55	59		32	5	L 1		s/2000-03-26-north-car	tulsa	2000
+34	Fri, Mar 17, 2000	NCAA	N	Nevada-Las Vegas	MWC	W	89	62		30	4	W 1		nevada-las-vegas	tulsa	2000
+35	Sun, Mar 19, 2000	NCAA	N	Cincinnati (7)	CUSA	W	69	61		31	4	W 2	Bridgestone Arena	cincinnati	tulsa	2000
+36	Fri, Mar 24, 2000	NCAA	N	Miami (FL) (23)	Big East	W	80	71		32	4	W 3	Frank Erwin Center	miami-fl	tulsa	2000
+37	Sun, Mar 26, 2000	NCAA	N	North Carolina	ACC	L	55	59		32	5	L 1		north-carolina	tulsa	2000
 1	Tue, Nov 23, 1999	REG		Fairfield	MAAC	W	76	57		1	0	W 1	Pauley Pavilion	fairfield	ucla	2000
 2	Sat, Nov 27, 1999	REG		Iona	MAAC	W	105	73		2	0	W 2	Pauley Pavilion	iona	ucla	2000
 3	Wed, Dec 1, 1999	REG		Morgan State	MEAC	W	100	39		3	0	W 3	Pauley Pavilion	morgan-state	ucla	2000
@@ -8614,9 +8614,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 4, 2000	REG	@	Stanford (1)	Pac-10	W	94	93	OT	17	11	W 4	Maples Pavilion	stanford	ucla	2000
 29	Thu, Mar 9, 2000	REG		Washington State	Pac-10	W	65	58		18	11	W 5	Pauley Pavilion	washington-state	ucla	2000
 30	Sat, Mar 11, 2000	REG		Washington	Pac-10	W	90	64		19	11	W 6	Pauley Pavilion	washington	ucla	2000
-31	Thu, Mar 16, 2000	NCAA	N	Ball State	MAC	W	65	57		20	11	W 7		s/2000-03-16-ball-	ucla	2000
-32	Sat, Mar 18, 2000	NCAA	N	Maryland (17)	ACC	W	105	70		21	11	W 8	Hubert H. Humphrey Metrodome	s/2000-03-18-mar	ucla	2000
-33	Thu, Mar 23, 2000	NCAA	N	Iowa State (6)	Big 12	L	56	80		21	12	L 1	Palace of Auburn Hills	s/2000-03-23-iowa-	ucla	2000
+31	Thu, Mar 16, 2000	NCAA	N	Ball State	MAC	W	65	57		20	11	W 7		ball-state	ucla	2000
+32	Sat, Mar 18, 2000	NCAA	N	Maryland (17)	ACC	W	105	70		21	11	W 8	Hubert H. Humphrey Metrodome	maryland	ucla	2000
+33	Thu, Mar 23, 2000	NCAA	N	Iowa State (6)	Big 12	L	56	80		21	12	L 1	Palace of Auburn Hills	iowa-state	ucla	2000
 1	Tue, Nov 16, 1999	REG		Arkansas State	Sun Belt	W	76	43		1	0	W 1	Jon M. Huntsman Center	arkansas-state	utah	2000
 2	Fri, Nov 19, 1999	REG	@	Kentucky (14)	SEC	L	48	56		1	1	L 1	Rupp Arena	kentucky	utah	2000
 3	Mon, Nov 29, 1999	REG		Stony Brook	Ind	W	74	45		2	1	W 1	Jon M. Huntsman Center	stony-brook	utah	2000
@@ -8647,8 +8647,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 4, 2000	REG		Air Force	MWC	W	86	63		21	7	W 1	Jon M. Huntsman Center	air-force	utah	2000
 29	Thu, Mar 9, 2000	CTOURN	N	Air Force	MWC	W	74	65		22	7	W 2	Thomas & Mack Center	air-force	utah	2000
 30	Fri, Mar 10, 2000	CTOURN	N	Brigham Young	MWC	L	54	58		22	8	L 1	Thomas & Mack Center	brigham-young	utah	2000
-31	Thu, Mar 16, 2000	NCAA	N	Saint Louis	CUSA	W	48	45		23	8	W 1		s/2000-03-16-saint-	utah	2000
-32	Sat, Mar 18, 2000	NCAA	N	Michigan State (2)	Big Ten	L	61	73		23	9	L 1	Henry J. Goodman Arena	s/2000-03-18-michigan-	utah	2000
+31	Thu, Mar 16, 2000	NCAA	N	Saint Louis	CUSA	W	48	45		23	8	W 1		saint-louis	utah	2000
+32	Sat, Mar 18, 2000	NCAA	N	Michigan State (2)	Big Ten	L	61	73		23	9	L 1	Henry J. Goodman Arena	michigan-state	utah	2000
 1	Sat, Nov 13, 1999	REG		Simon Fraser University		W	78	57		1	0	W 1	Dee Glen Smith Spectrum	NA	utah-state	2000
 2	Mon, Nov 22, 1999	REG	N	Florida (7)	SEC	L	58	60		1	1	L 1	Lahaina Civic Center	florida	utah-state	2000
 3	Tue, Nov 23, 1999	REG	@	Chaminade		W	70	48		2	1	W 1	Lahaina Civic Center	NA	utah-state	2000
@@ -8682,7 +8682,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 9, 2000	CTOURN	N	Pacific	Big West	W	64	41		26	5	W 17	Lawlor Events Center	pacific	utah-state	2000
 32	Fri, Mar 10, 2000	CTOURN	@	Nevada	Big West	W	69	64		27	5	W 18	Lawlor Events Center	nevada	utah-state	2000
 33	Sat, Mar 11, 2000	CTOURN	N	New Mexico State	Big West	W	71	66		28	5	W 19	Lawlor Events Center	new-mexico-state	utah-state	2000
-34	Fri, Mar 17, 2000	NCAA	N	Connecticut (20)	Big East	L	67	75		28	6	L 1	Birmingham-Jefferson Civic Center	s/2000-03-17-connec	utah-state	2000
+34	Fri, Mar 17, 2000	NCAA	N	Connecticut (20)	Big East	L	67	75		28	6	L 1	Birmingham-Jefferson Civic Center	connecticut	utah-state	2000
 1	Sun, Nov 21, 1999	REG		Trinity International (IL)		W	100	49		1	0	W 1	Athletics-Recreation Center	NA	valparaiso	2000
 2	Fri, Nov 26, 1999	REG	N	Mississippi State	SEC	W	68	59		2	0	W 2	Family Arena	mississippi-state	valparaiso	2000
 3	Sat, Nov 27, 1999	REG	N	Murray State	OVC	L	58	78		2	1	L 1	Family Arena	murray-state	valparaiso	2000
@@ -8714,7 +8714,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Feb 26, 2000	REG		IUPUI	Mid-Cont	W	68	41		17	12	W 1	Athletics-Recreation Center	iupui	valparaiso	2000
 30	Mon, Mar 6, 2000	CTOURN	N	Oral Roberts	Mid-Cont	W	71	56		18	12	W 2	Allen County War Memorial Coliseum	oral-roberts	valparaiso	2000
 31	Tue, Mar 7, 2000	CTOURN	N	Southern Utah	Mid-Cont	W	71	62		19	12	W 3	Allen County War Memorial Coliseum	southern-utah	valparaiso	2000
-32	Thu, Mar 16, 2000	NCAA	N	Michigan State (2)	Big Ten	L	38	65		19	13	L 1	Henry J. Goodman Arena	s/2000-03-16-michigan-	valparaiso	2000
+32	Thu, Mar 16, 2000	NCAA	N	Michigan State (2)	Big Ten	L	38	65		19	13	L 1	Henry J. Goodman Arena	michigan-state	valparaiso	2000
 1	Tue, Nov 23, 1999	REG		Belmont	Ind	W	72	55		1	0	W 1	Memorial Gymnasium	belmont	vanderbilt	2000
 2	Sat, Nov 27, 1999	REG		Tennessee-Martin	OVC	W	87	64		2	0	W 2	Memorial Gymnasium	tennessee-martin	vanderbilt	2000
 3	Mon, Nov 29, 1999	REG		East Tennessee State	Southern	W	70	55		3	0	W 3	Memorial Gymnasium	east-tennessee-state	vanderbilt	2000
@@ -9303,7 +9303,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Feb 26, 2000	REG		North Carolina-Asheville	Big South	W	90	50		19	8	W 1	Winthrop Coliseum	north-carolina-asheville	winthrop	2000
 28	Fri, Mar 3, 2000	CTOURN	N	Charleston Southern	Big South	W	90	65		20	8	W 2	Asheville Civic Center	charleston-southern	winthrop	2000
 29	Sat, Mar 4, 2000	CTOURN	@	North Carolina-Asheville	Big South	W	75	62		21	8	W 3	Asheville Civic Center	north-carolina-asheville	winthrop	2000
-30	Thu, Mar 16, 2000	NCAA	N	Oklahoma (12)	Big 12	L	50	74		21	9	L 1	McKale Center	s/2000-03-16-okl	winthrop	2000
+30	Thu, Mar 16, 2000	NCAA	N	Oklahoma (12)	Big 12	L	50	74		21	9	L 1	McKale Center	oklahoma	winthrop	2000
 1	Fri, Nov 12, 1999	REG	N	Missouri	Big 12	W	66	55		1	0	W 1	Carrier Dome	missouri	wisconsin	2000
 2	Sat, Nov 13, 1999	REG	@	Syracuse (17)	Big East	L	49	68		1	1	L 1	Carrier Dome	syracuse	wisconsin	2000
 3	Sat, Nov 20, 1999	REG		Ball State	MAC	W	60	50		2	1	W 1	Kohl Center	ball-state	wisconsin	2000
@@ -9335,11 +9335,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 9, 2000	CTOURN	@	Northwestern	Big Ten	W	51	41		17	12	W 4	United Center	northwestern	wisconsin	2000
 30	Fri, Mar 10, 2000	CTOURN	N	Purdue (22)	Big Ten	W	78	66		18	12	W 5	United Center	purdue	wisconsin	2000
 31	Sat, Mar 11, 2000	CTOURN	N	Michigan State (5)	Big Ten	L	46	55		18	13	L 1	United Center	michigan-state	wisconsin	2000
-32	Thu, Mar 16, 2000	NCAA	N	Fresno State	WAC	W	66	56		19	13	W 1		s/2000-03-16-fresno-	wisconsin	2000
-33	Sat, Mar 18, 2000	NCAA	N	Arizona (4)	Pac-10	W	66	59		20	13	W 2	Jon M. Huntsman Center	s/2000-03-18-ar	wisconsin	2000
-34	Thu, Mar 23, 2000	NCAA	N	Louisiana State (10)	SEC	W	61	48		21	13	W 3	The Pit/Bob King Court	s/2000-03-23-louisiana-	wisconsin	2000
-35	Sat, Mar 25, 2000	NCAA	N	Purdue (25)	Big Ten	W	64	60		22	13	W 4	The Pit/Bob King Court	s/2000-03-25-p	wisconsin	2000
-36	Sat, Apr 1, 2000	NCAA	N	Michigan State (2)	Big Ten	L	41	53		22	14	L 1	RCA Dome	s/2000-04-01-michigan-	wisconsin	2000
+32	Thu, Mar 16, 2000	NCAA	N	Fresno State	WAC	W	66	56		19	13	W 1		fresno-state	wisconsin	2000
+33	Sat, Mar 18, 2000	NCAA	N	Arizona (4)	Pac-10	W	66	59		20	13	W 2	Jon M. Huntsman Center	arizona	wisconsin	2000
+34	Thu, Mar 23, 2000	NCAA	N	Louisiana State (10)	SEC	W	61	48		21	13	W 3	The Pit/Bob King Court	louisiana-state	wisconsin	2000
+35	Sat, Mar 25, 2000	NCAA	N	Purdue (25)	Big Ten	W	64	60		22	13	W 4	The Pit/Bob King Court	purdue	wisconsin	2000
+36	Sat, Apr 1, 2000	NCAA	N	Michigan State (2)	Big Ten	L	41	53		22	14	L 1	RCA Dome	michigan-state	wisconsin	2000
 1	Fri, Nov 19, 1999	REG	@	South Carolina	SEC	L	62	76		0	1	L 1	Carolina Coliseum	south-carolina	wofford	2000
 2	Sun, Nov 21, 1999	REG	@	Clemson	ACC	W	79	74		1	1	W 1	Littlejohn Coliseum	clemson	wofford	2000
 3	Tue, Nov 23, 1999	REG	@	West Virginia	Big East	L	54	72		1	2	L 1	Charleston Civic Center	west-virginia	wofford	2000

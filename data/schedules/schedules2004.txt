@@ -27,7 +27,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Mon, Mar 1, 2004	REG		San Diego State	MWC	W	61	49		21	5	W 2	Clune Arena 	san-diego-state	air-force	2004
 27	Sat, Mar 6, 2004	REG	@	Wyoming	MWC	W	52	47		22	5	W 3	Arena-Auditorium	wyoming	air-force	2004
 28	Thu, Mar 11, 2004	CTOURN	N	Colorado State	MWC	L	48	60		22	6	L 1	The Pepsi Center	colorado-state	air-force	2004
-29	Thu, Mar 18, 2004	NCAA	N	North Carolina (18)	ACC	L	52	63		22	7	L 2		s/2004-03-18-air-	air-force	2004
+29	Thu, Mar 18, 2004	NCAA	N	North Carolina (18)	ACC	L	52	63		22	7	L 2		north-carolina	air-force	2004
 1	Sat, Nov 22, 2003	REG	@	Cincinnati (18)	CUSA	L	66	88		0	1	L 1	Fifth Third Arena	cincinnati	akron	2004
 2	Sat, Nov 29, 2003	REG	@	Radford	Big South	W	73	63		1	1	W 1	Donald N. Dedmon Center	radford	akron	2004
 3	Mon, Dec 1, 2003	REG	@	Hampton	MEAC	W	96	82		2	1	W 2	Convocation Center	hampton	akron	2004
@@ -85,10 +85,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 6, 2004	REG		Mississippi State (5)	SEC	L	81	82	OT	16	11	L 1	Coleman Coliseum 	mississippi-state	alabama	2004
 28	Thu, Mar 11, 2004	CTOURN	N	Tennessee	SEC	W	84	49		17	11	W 1	Georgia Dome	tennessee	alabama	2004
 29	Fri, Mar 12, 2004	CTOURN	N	Florida	SEC	L	73	75	OT	17	12	L 1	Georgia Dome	florida	alabama	2004
-30	Thu, Mar 18, 2004	NCAA	N	Southern Illinois	MVC	W	65	64		18	12	W 1	KeyArena at Seattle Center 	s/2004-03-18-al	alabama	2004
-31	Sat, Mar 20, 2004	NCAA	N	Stanford (1)	Pac-10	W	70	67		19	12	W 2		s/2004-03-20-al	alabama	2004
-32	Thu, Mar 25, 2004	NCAA	N	Syracuse (20)	Big East	W	80	71		20	12	W 3		s/2004-03-25-al	alabama	2004
-33	Sat, Mar 27, 2004	NCAA	N	Connecticut (7)	Big East	L	71	87		20	13	L 1		s/2004-03-27-al	alabama	2004
+30	Thu, Mar 18, 2004	NCAA	N	Southern Illinois	MVC	W	65	64		18	12	W 1	KeyArena at Seattle Center 	southern-illinois	alabama	2004
+31	Sat, Mar 20, 2004	NCAA	N	Stanford (1)	Pac-10	W	70	67		19	12	W 2		stanford	alabama	2004
+32	Thu, Mar 25, 2004	NCAA	N	Syracuse (20)	Big East	W	80	71		20	12	W 3		syracuse	alabama	2004
+33	Sat, Mar 27, 2004	NCAA	N	Connecticut (7)	Big East	L	71	87		20	13	L 1		connecticut	alabama	2004
 1	Fri, Nov 21, 2003	REG	@	Jacksonville State	OVC	L	68	74		0	1	L 1	Pete Mathews Coliseum	jacksonville-state	alabama-am	2004
 2	Wed, Nov 26, 2003	REG	@	Texas A&M	Big 12	L	65	100		0	2	L 2	Reed Arena	texas-am	alabama-am	2004
 3	Sat, Nov 29, 2003	REG		Eastern Kentucky	OVC	W	71	65		1	2	W 1	Elmore Health Science Building 	eastern-kentucky	alabama-am	2004
@@ -148,9 +148,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 6, 2004	REG		Texas Christian	CUSA	W	87	62		19	8	W 3	Bartow Arena	texas-christian	alabama-birmingham	2004
 28	Thu, Mar 11, 2004	CTOURN	N	Charlotte	CUSA	W	77	66		20	8	W 4	Riverfront Coliseum	charlotte	alabama-birmingham	2004
 29	Fri, Mar 12, 2004	CTOURN	N	DePaul	CUSA	L	74	75	OT	20	9	L 1	Riverfront Coliseum	depaul	alabama-birmingham	2004
-30	Fri, Mar 19, 2004	NCAA	N	Washington	Pac-10	W	102	100		21	9	W 1		s/2004-03-19-alabama-birmi	alabama-birmingham	2004
-31	Sun, Mar 21, 2004	NCAA	N	Kentucky (2)	SEC	W	76	75		22	9	W 2		s/2004-03-21-alabama-birmi	alabama-birmingham	2004
-32	Fri, Mar 26, 2004	NCAA	N	Kansas (16)	Big 12	L	74	100		22	10	L 1		s/2004-03-26-alabama-birmi	alabama-birmingham	2004
+30	Fri, Mar 19, 2004	NCAA	N	Washington	Pac-10	W	102	100		21	9	W 1		washington	alabama-birmingham	2004
+31	Sun, Mar 21, 2004	NCAA	N	Kentucky (2)	SEC	W	76	75		22	9	W 2		kentucky	alabama-birmingham	2004
+32	Fri, Mar 26, 2004	NCAA	N	Kansas (16)	Big 12	L	74	100		22	10	L 1		kansas	alabama-birmingham	2004
 1	Sat, Nov 22, 2003	REG	N	North Carolina A&T	MEAC	W	76	43		1	0	W 1	Philips Arena	north-carolina-at	alabama-state	2004
 2	Mon, Nov 24, 2003	REG	@	Birmingham-Southern	Big South	L	57	67		1	1	L 1	Bill Battle Coliseum	birmingham-southern	alabama-state	2004
 3	Sun, Nov 30, 2003	REG	@	South Alabama	Sun Belt	L	49	66		1	2	L 2	Mitchell Center	south-alabama	alabama-state	2004
@@ -181,7 +181,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 11, 2004	CTOURN	N	Southern	SWAC	W	63	62		14	14	W 4	Fair Park Arena	southern	alabama-state	2004
 29	Fri, Mar 12, 2004	CTOURN	N	Jackson State	SWAC	W	59	56	2OT	15	14	W 5	Fair Park Arena	jackson-state	alabama-state	2004
 30	Sat, Mar 13, 2004	CTOURN	N	Alabama A&M	SWAC	W	63	58		16	14	W 6	Fair Park Arena	alabama-am	alabama-state	2004
-31	Thu, Mar 18, 2004	NCAA	N	Duke (6)	ACC	L	61	96		16	15	L 1		s/2004-03-18-alabama-	alabama-state	2004
+31	Thu, Mar 18, 2004	NCAA	N	Duke (6)	ACC	L	61	96		16	15	L 1		duke	alabama-state	2004
 1	Fri, Nov 21, 2003	REG	@	Siena	MAAC	L	50	71		0	1	L 1	Times Union Center 	siena	albany-ny	2004
 2	Fri, Nov 28, 2003	REG	@	Pittsburgh (22)	Big East	L	54	83		0	2	L 2	Petersen Events Center	pittsburgh	albany-ny	2004
 3	Tue, Dec 2, 2003	REG	@	Colgate	Patriot	L	65	68		0	3	L 3	Cotterell Court	colgate	albany-ny	2004
@@ -329,7 +329,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sun, Mar 7, 2004	REG		Arizona State	Pac-10	W	106	81		19	8	W 2	McKale Center	arizona-state	arizona	2004
 28	Thu, Mar 11, 2004	CTOURN	N	Southern California	Pac-10	W	79	76		20	8	W 3	Staples Center	southern-california	arizona	2004
 29	Fri, Mar 12, 2004	CTOURN	N	Washington	Pac-10	L	85	90		20	9	L 1	Staples Center	washington	arizona	2004
-30	Thu, Mar 18, 2004	NCAA	N	Seton Hall	Big East	L	76	80		20	10	L 2		s/2004-03-18-ar	arizona	2004
+30	Thu, Mar 18, 2004	NCAA	N	Seton Hall	Big East	L	76	80		20	10	L 2		seton-hall	arizona	2004
 1	Sat, Nov 22, 2003	REG		Arkansas-Little Rock	Sun Belt	W	89	72		1	0	W 1	Wells Fargo Arena	arkansas-little-rock	arizona-state	2004
 2	Mon, Nov 24, 2003	REG		Cal State Fullerton	Big West	W	83	76		2	0	W 2	Wells Fargo Arena	cal-state-fullerton	arizona-state	2004
 3	Sat, Nov 29, 2003	REG		UC-Riverside	Big West	W	77	68		3	0	W 3	Wells Fargo Arena	california-riverside	arizona-state	2004
@@ -795,8 +795,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Wed, Mar 10, 2004	CTOURN	N	Georgetown	Big East	W	68	57		22	8	W 6	Madison Square Garden (IV)	georgetown	boston-college	2004
 31	Thu, Mar 11, 2004	CTOURN	N	Syracuse (19)	Big East	W	57	54		23	8	W 7	Madison Square Garden (IV)	syracuse	boston-college	2004
 32	Fri, Mar 12, 2004	CTOURN	N	Pittsburgh (6)	Big East	L	53	62		23	9	L 1	Madison Square Garden (IV)	pittsburgh	boston-college	2004
-33	Fri, Mar 19, 2004	NCAA	N	Utah	MWC	W	58	51		24	9	W 1	Bradley Center	s/2004-03-19-boston-co	boston-college	2004
-34	Sun, Mar 21, 2004	NCAA	N	Georgia Tech (14)	ACC	L	54	57		24	10	L 1		s/2004-03-21-boston-co	boston-college	2004
+33	Fri, Mar 19, 2004	NCAA	N	Utah	MWC	W	58	51		24	9	W 1	Bradley Center	utah	boston-college	2004
+34	Sun, Mar 21, 2004	NCAA	N	Georgia Tech (14)	ACC	L	54	57		24	10	L 1		georgia-tech	boston-college	2004
 1	Sat, Nov 22, 2003	REG	@	Holy Cross	Patriot	L	57	59		0	1	L 1	Hart Recreation Center	holy-cross	boston-university	2004
 2	Tue, Nov 25, 2003	REG		Saint Joseph's (13)	A-10	L	56	71		0	2	L 2	Case Gym	saint-josephs	boston-university	2004
 3	Sat, Nov 29, 2003	REG	@	Boston College	Big East	L	44	67		0	3	L 3	Silvio O. Conte Forum	boston-college	boston-university	2004
@@ -917,7 +917,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 6, 2004	REG	@	Nevada-Las Vegas	MWC	W	89	88		20	7	W 8	Thomas & Mack Center	nevada-las-vegas	brigham-young	2004
 28	Thu, Mar 11, 2004	CTOURN	N	Wyoming	MWC	W	79	74		21	7	W 9	The Pepsi Center	wyoming	brigham-young	2004
 29	Fri, Mar 12, 2004	CTOURN	N	Utah	MWC	L	51	54		21	8	L 1	The Pepsi Center	utah	brigham-young	2004
-30	Thu, Mar 18, 2004	NCAA	N	Syracuse (20)	Big East	L	75	80		21	9	L 2		s/2004-03-18-brigham-	brigham-young	2004
+30	Thu, Mar 18, 2004	NCAA	N	Syracuse (20)	Big East	L	75	80		21	9	L 2		syracuse	brigham-young	2004
 1	Mon, Nov 17, 2003	REG	@	Texas (12)	Big 12	L	51	89		0	1	L 1	Frank Erwin Center	texas	brown	2004
 2	Fri, Nov 21, 2003	REG	@	Rider	MAAC	L	53	69		0	2	L 2	Alumni Gymnasium	rider	brown	2004
 3	Tue, Nov 25, 2003	REG		Wagner	NEC	W	63	57		1	2	W 1	Pizzitola Sports Center	wagner	brown	2004
@@ -1373,7 +1373,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 4, 2004	CTOURN	N	Jacksonville	A-Sun	W	71	63		23	5	W 3	Curb Event Center	jacksonville	central-florida	2004
 29	Fri, Mar 5, 2004	CTOURN	@	Belmont	A-Sun	W	64	62		24	5	W 4	Curb Event Center	belmont	central-florida	2004
 30	Sat, Mar 6, 2004	CTOURN	N	Troy	A-Sun	W	60	55		25	5	W 5	Curb Event Center	troy	central-florida	2004
-31	Fri, Mar 19, 2004	NCAA	N	Pittsburgh (9)	Big East	L	44	53		25	6	L 1		s/2004-03-19-central-fl	central-florida	2004
+31	Fri, Mar 19, 2004	NCAA	N	Pittsburgh (9)	Big East	L	44	53		25	6	L 1		pittsburgh	central-florida	2004
 1	Mon, Nov 24, 2003	REG	N	Dayton	A-10	L	63	82		0	1	L 1	Lahaina Civic Center	dayton	central-michigan	2004
 2	Tue, Nov 25, 2003	REG	N	Ohio State	Big Ten	L	71	77		0	2	L 2	Lahaina Civic Center	ohio-state	central-michigan	2004
 3	Wed, Nov 26, 2003	REG	N	Santa Clara	WCC	L	62	76		0	3	L 3	Lahaina Civic Center	santa-clara	central-michigan	2004
@@ -1461,7 +1461,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 6, 2004	REG		Tulane	CUSA	W	79	65		20	7	W 2	Dale F. Halton Arena	tulane	charlotte	2004
 28	Wed, Mar 10, 2004	CTOURN	N	Tulane	CUSA	W	78	48		21	7	W 3	Riverfront Coliseum	tulane	charlotte	2004
 29	Thu, Mar 11, 2004	CTOURN	N	Alabama-Birmingham	CUSA	L	66	77		21	8	L 1	Riverfront Coliseum	alabama-birmingham	charlotte	2004
-30	Thu, Mar 18, 2004	NCAA	N	Texas Tech	Big 12	L	73	76		21	9	L 2		s/2004-03-18-char	charlotte	2004
+30	Thu, Mar 18, 2004	NCAA	N	Texas Tech	Big 12	L	73	76		21	9	L 2		texas-tech	charlotte	2004
 1	Fri, Nov 21, 2003	REG	@	Kansas (6)	Big 12	L	76	90		0	1	L 1	Allen Fieldhouse	kansas	chattanooga	2004
 2	Mon, Nov 24, 2003	REG	@	Oral Roberts	Mid-Cont	W	81	79		1	1	W 1	Mabee Center	oral-roberts	chattanooga	2004
 3	Wed, Nov 26, 2003	REG		Tennessee Wesleyan		W	124	58		2	1	W 2	The McKenzie Arena	NA	chattanooga	2004
@@ -1554,8 +1554,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 11, 2004	CTOURN		Louisville	CUSA	W	64	62		22	6	W 2	Riverfront Coliseum	louisville	cincinnati	2004
 29	Fri, Mar 12, 2004	CTOURN		Saint Louis	CUSA	W	66	46		23	6	W 3	Riverfront Coliseum	saint-louis	cincinnati	2004
 30	Sat, Mar 13, 2004	CTOURN		DePaul	CUSA	W	55	50		24	6	W 4	Riverfront Coliseum	depaul	cincinnati	2004
-31	Fri, Mar 19, 2004	NCAA	N	East Tennessee State	Southern	W	80	77		25	6	W 5	Nationwide Arena	s/2004-03-19-cinci	cincinnati	2004
-32	Sun, Mar 21, 2004	NCAA	N	Illinois (13)	Big Ten	L	68	92		25	7	L 1	Nationwide Arena	s/2004-03-21-cinci	cincinnati	2004
+31	Fri, Mar 19, 2004	NCAA	N	East Tennessee State	Southern	W	80	77		25	6	W 5	Nationwide Arena	east-tennessee-state	cincinnati	2004
+32	Sun, Mar 21, 2004	NCAA	N	Illinois (13)	Big Ten	L	68	92		25	7	L 1	Nationwide Arena	illinois	cincinnati	2004
 1	Sat, Nov 22, 2003	REG		Webber		W	79	75		1	0	W 1	McAlister Field House	NA	citadel	2004
 2	Tue, Nov 25, 2003	REG		Washington & Lee		W	62	44		2	0	W 2	McAlister Field House	NA	citadel	2004
 3	Fri, Nov 28, 2003	REG		Central Florida	A-Sun	L	60	74		2	1	L 1	McAlister Field House	central-florida	citadel	2004
@@ -1846,12 +1846,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 11, 2004	CTOURN	N	Notre Dame	Big East	W	66	58		25	6	W 1	Madison Square Garden (IV)	notre-dame	connecticut	2004
 32	Fri, Mar 12, 2004	CTOURN	N	Villanova	Big East	W	84	67		26	6	W 2	Madison Square Garden (IV)	villanova	connecticut	2004
 33	Sat, Mar 13, 2004	CTOURN	N	Pittsburgh (6)	Big East	W	61	58		27	6	W 3	Madison Square Garden (IV)	pittsburgh	connecticut	2004
-34	Thu, Mar 18, 2004	NCAA	N	Vermont	AEC	W	70	53		28	6	W 4	HSBC Arena	s/2004-03-18-connec	connecticut	2004
-35	Sat, Mar 20, 2004	NCAA	N	DePaul	CUSA	W	72	55		29	6	W 5	HSBC Arena	s/2004-03-20-connec	connecticut	2004
-36	Thu, Mar 25, 2004	NCAA	N	Vanderbilt	SEC	W	73	53		30	6	W 6	US Airways Center	s/2004-03-25-connec	connecticut	2004
-37	Sat, Mar 27, 2004	NCAA	N	Alabama	SEC	W	87	71		31	6	W 7		s/2004-03-27-al	connecticut	2004
-38	Sat, Apr 3, 2004	NCAA	N	Duke (6)	ACC	W	79	78		32	6	W 8		s/2004-04-03-connec	connecticut	2004
-39	Mon, Apr 5, 2004	NCAA	N	Georgia Tech (14)	ACC	W	82	73		33	6	W 9	Alamodome	s/2004-04-05-connec	connecticut	2004
+34	Thu, Mar 18, 2004	NCAA	N	Vermont	AEC	W	70	53		28	6	W 4	HSBC Arena	vermont	connecticut	2004
+35	Sat, Mar 20, 2004	NCAA	N	DePaul	CUSA	W	72	55		29	6	W 5	HSBC Arena	depaul	connecticut	2004
+36	Thu, Mar 25, 2004	NCAA	N	Vanderbilt	SEC	W	73	53		30	6	W 6	US Airways Center	vanderbilt	connecticut	2004
+37	Sat, Mar 27, 2004	NCAA	N	Alabama	SEC	W	87	71		31	6	W 7		alabama	connecticut	2004
+38	Sat, Apr 3, 2004	NCAA	N	Duke (6)	ACC	W	79	78		32	6	W 8		duke	connecticut	2004
+39	Mon, Apr 5, 2004	NCAA	N	Georgia Tech (14)	ACC	W	82	73		33	6	W 9	Alamodome	georgia-tech	connecticut	2004
 1	Sat, Nov 15, 2003	REG	@	Xavier	A-10	L	37	62		0	1	L 1	Cintas Center	xavier	coppin-state	2004
 2	Sun, Nov 16, 2003	REG	N	Ohio	MAC	L	47	51		0	2	L 2	Cintas Center	ohio	coppin-state	2004
 3	Mon, Nov 17, 2003	REG		San Diego	WCC	W	76	62		1	2	W 1	Coppin Center	san-diego	coppin-state	2004
@@ -2029,7 +2029,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 11, 2004	CTOURN		Duquesne	A-10	W	69	56		23	7	W 2	University of Dayton Arena	duquesne	dayton	2004
 31	Fri, Mar 12, 2004	CTOURN		Richmond	A-10	W	58	56		24	7	W 3	University of Dayton Arena	richmond	dayton	2004
 32	Sat, Mar 13, 2004	CTOURN	N	Xavier	A-10	L	49	58		24	8	L 1	University of Dayton Arena	xavier	dayton	2004
-33	Thu, Mar 18, 2004	NCAA	N	DePaul	CUSA	L	69	76	2OT	24	9	L 2		s/2004-03-18-d	dayton	2004
+33	Thu, Mar 18, 2004	NCAA	N	DePaul	CUSA	L	69	76	2OT	24	9	L 2		depaul	dayton	2004
 1	Fri, Nov 21, 2003	REG	@	Mount St. Mary's	NEC	W	75	72	OT	1	0	W 1	Knott Arena	mount-st-marys	delaware	2004
 2	Tue, Nov 25, 2003	REG	@	American	Patriot	W	72	63		2	0	W 2	Bender Arena	american	delaware	2004
 3	Sun, Nov 30, 2003	REG		San Francisco	WCC	L	72	74		2	1	L 1	Bob Carpenter Center	san-francisco	delaware	2004
@@ -2143,8 +2143,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 11, 2004	CTOURN	N	Texas Christian	CUSA	W	89	65		20	8	W 5	Riverfront Coliseum	texas-christian	depaul	2004
 29	Fri, Mar 12, 2004	CTOURN	N	Alabama-Birmingham	CUSA	W	75	74	OT	21	8	W 6	Riverfront Coliseum	alabama-birmingham	depaul	2004
 30	Sat, Mar 13, 2004	CTOURN	@	Cincinnati (13)	CUSA	L	50	55		21	9	L 1	Riverfront Coliseum	cincinnati	depaul	2004
-31	Thu, Mar 18, 2004	NCAA	N	Dayton	A-10	W	76	69	2OT	22	9	W 1		s/2004-03-18-d	depaul	2004
-32	Sat, Mar 20, 2004	NCAA	N	Connecticut (7)	Big East	L	55	72		22	10	L 1	HSBC Arena	s/2004-03-20-connec	depaul	2004
+31	Thu, Mar 18, 2004	NCAA	N	Dayton	A-10	W	76	69	2OT	22	9	W 1		dayton	depaul	2004
+32	Sat, Mar 20, 2004	NCAA	N	Connecticut (7)	Big East	L	55	72		22	10	L 1	HSBC Arena	connecticut	depaul	2004
 1	Sat, Nov 22, 2003	REG	@	Duke (2)	ACC	L	56	67		0	1	L 1	Cameron Indoor Stadium	duke	detroit-mercy	2004
 2	Mon, Nov 24, 2003	REG		Western Michigan	MAC	W	64	43		1	1	W 1	Calihan Hall	western-michigan	detroit-mercy	2004
 3	Wed, Dec 3, 2003	REG		Oakland	Mid-Cont	W	76	60		2	1	W 2	Calihan Hall	oakland	detroit-mercy	2004
@@ -2264,11 +2264,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Fri, Mar 12, 2004	CTOURN	N	Virginia	ACC	W	84	74		26	4	W 2	Greensboro Coliseum	virginia	duke	2004
 31	Sat, Mar 13, 2004	CTOURN	N	Georgia Tech (14)	ACC	W	85	71		27	4	W 3	Greensboro Coliseum	georgia-tech	duke	2004
 32	Sun, Mar 14, 2004	CTOURN	N	Maryland	ACC	L	87	95	OT	27	5	L 1	Greensboro Coliseum	maryland	duke	2004
-33	Thu, Mar 18, 2004	NCAA	N	Alabama State	SWAC	W	96	61		28	5	W 1		s/2004-03-18-alabama-	duke	2004
-34	Sat, Mar 20, 2004	NCAA	N	Seton Hall	Big East	W	90	62		29	5	W 2	RBC Center	s/2004-03-20	duke	2004
-35	Fri, Mar 26, 2004	NCAA	N	Illinois (13)	Big Ten	W	72	62		30	5	W 3	Georgia Dome	s/2004-03-26	duke	2004
-36	Sun, Mar 28, 2004	NCAA	N	Xavier	A-10	W	66	63		31	5	W 4	Georgia Dome	s/2004-03-28	duke	2004
-37	Sat, Apr 3, 2004	NCAA	N	Connecticut (7)	Big East	L	78	79		31	6	L 1		s/2004-04-03-connec	duke	2004
+33	Thu, Mar 18, 2004	NCAA	N	Alabama State	SWAC	W	96	61		28	5	W 1		alabama-state	duke	2004
+34	Sat, Mar 20, 2004	NCAA	N	Seton Hall	Big East	W	90	62		29	5	W 2	RBC Center	seton-hall	duke	2004
+35	Fri, Mar 26, 2004	NCAA	N	Illinois (13)	Big Ten	W	72	62		30	5	W 3	Georgia Dome	illinois	duke	2004
+36	Sun, Mar 28, 2004	NCAA	N	Xavier	A-10	W	66	63		31	5	W 4	Georgia Dome	xavier	duke	2004
+37	Sat, Apr 3, 2004	NCAA	N	Connecticut (7)	Big East	L	78	79		31	6	L 1		connecticut	duke	2004
 1	Tue, Nov 25, 2003	REG		Prairie View	SWAC	W	77	57		1	0	W 1	A.J. Palumbo Center	prairie-view	duquesne	2004
 2	Sat, Nov 29, 2003	REG		Siena	MAAC	L	68	78		1	1	L 1	A.J. Palumbo Center	siena	duquesne	2004
 3	Wed, Dec 3, 2003	REG		Pittsburgh (22)	Big East	L	45	59		1	2	L 2	A.J. Palumbo Center	pittsburgh	duquesne	2004
@@ -2357,7 +2357,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 4, 2004	CTOURN	N	Furman	Southern	W	94	84		25	5	W 1	North Charleston Coliseum	furman	east-tennessee-state	2004
 31	Fri, Mar 5, 2004	CTOURN	N	Davidson	Southern	W	96	84		26	5	W 2	North Charleston Coliseum	davidson	east-tennessee-state	2004
 32	Sat, Mar 6, 2004	CTOURN	N	Chattanooga	Southern	W	78	62		27	5	W 3	North Charleston Coliseum	chattanooga	east-tennessee-state	2004
-33	Fri, Mar 19, 2004	NCAA	N	Cincinnati (11)	CUSA	L	77	80		27	6	L 1	Nationwide Arena	s/2004-03-19-cinci	east-tennessee-state	2004
+33	Fri, Mar 19, 2004	NCAA	N	Cincinnati (11)	CUSA	L	77	80		27	6	L 1	Nationwide Arena	cincinnati	east-tennessee-state	2004
 1	Sat, Nov 22, 2003	REG	@	Northern Illinois	MAC	L	76	83		0	1	L 1	Convocation Center	northern-illinois	eastern-illinois	2004
 2	Tue, Nov 25, 2003	REG	@	Wisconsin (15)	Big Ten	L	47	81		0	2	L 2	Kohl Center	wisconsin	eastern-illinois	2004
 3	Tue, Dec 2, 2003	REG		Illinois-Chicago	Horizon	L	60	77		0	3	L 3	Lantz Arena	illinois-chicago	eastern-illinois	2004
@@ -2471,7 +2471,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Feb 28, 2004	REG	@	Idaho State	Big Sky	L	90	91	2OT	15	12	L 2	Holt Arena	idaho-state	eastern-washington	2004
 28	Tue, Mar 9, 2004	CTOURN		Weber State	Big Sky	W	72	53		16	12	W 1	Reese Court	weber-state	eastern-washington	2004
 29	Wed, Mar 10, 2004	CTOURN		Northern Arizona	Big Sky	W	71	59		17	12	W 2	Reese Court	northern-arizona	eastern-washington	2004
-30	Fri, Mar 19, 2004	NCAA	N	Oklahoma State (4)	Big 12	L	56	75		17	13	L 1		s/2004-03-19-eastern-washi	eastern-washington	2004
+30	Fri, Mar 19, 2004	NCAA	N	Oklahoma State (4)	Big 12	L	56	75		17	13	L 1		oklahoma-state	eastern-washington	2004
 1	Mon, Nov 17, 2003	REG	N	Idaho	Big West	L	60	84		0	1	L 1	Carolina Coliseum	idaho	elon	2004
 2	Tue, Nov 18, 2003	REG	N	Gardner-Webb	A-Sun	L	65	68		0	2	L 2	Carolina Coliseum	gardner-webb	elon	2004
 3	Sat, Nov 22, 2003	REG	@	Wake Forest (20)	ACC	L	55	97		0	3	L 3	Lawrence Joel Coliseum	wake-forest	elon	2004
@@ -2620,7 +2620,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 12, 2004	CTOURN	N	Alabama	SEC	W	75	73	OT	19	9	W 1	Georgia Dome	alabama	florida	2004
 29	Sat, Mar 13, 2004	CTOURN	N	Vanderbilt	SEC	W	91	69		20	9	W 2	Georgia Dome	vanderbilt	florida	2004
 30	Sun, Mar 14, 2004	CTOURN	N	Kentucky (8)	SEC	L	73	89		20	10	L 1	Georgia Dome	kentucky	florida	2004
-31	Thu, Mar 18, 2004	NCAA	N	Manhattan	MAAC	L	60	75		20	11	L 2	RBC Center	s/2004-03-18-fl	florida	2004
+31	Thu, Mar 18, 2004	NCAA	N	Manhattan	MAAC	L	60	75		20	11	L 2	RBC Center	manhattan	florida	2004
 1	Sun, Nov 23, 2003	REG	@	Illinois State	MVC	L	70	87		0	1	L 1	Redbird Arena	illinois-state	florida-am	2004
 2	Tue, Nov 25, 2003	REG		Cleveland State	Horizon	L	88	97		0	2	L 2	Gaither Athletic Center	cleveland-state	florida-am	2004
 3	Fri, Nov 28, 2003	REG	@	North Carolina State (25)	ACC	L	62	92		0	3	L 3	RBC Center	north-carolina-state	florida-am	2004
@@ -2651,8 +2651,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 11, 2004	CTOURN	N	Hampton	MEAC	W	72	71		12	16	W 1	Arthur Ashe Athletic Center	hampton	florida-am	2004
 29	Fri, Mar 12, 2004	CTOURN	N	South Carolina State	MEAC	W	65	53		13	16	W 2	Arthur Ashe Athletic Center	south-carolina-state	florida-am	2004
 30	Sat, Mar 13, 2004	CTOURN	N	Coppin State	MEAC	W	58	51		14	16	W 3	Arthur Ashe Athletic Center	coppin-state	florida-am	2004
-31	Tue, Mar 16, 2004	NCAA	N	Lehigh	Patriot	W	72	57		15	16	W 4	University of Dayton Arena	s/2004-03-16-flori	florida-am	2004
-32	Fri, Mar 19, 2004	NCAA	N	Kentucky (2)	SEC	L	76	96		15	17	L 1		s/2004-03-19-flori	florida-am	2004
+31	Tue, Mar 16, 2004	NCAA	N	Lehigh	Patriot	W	72	57		15	16	W 4	University of Dayton Arena	lehigh	florida-am	2004
+32	Fri, Mar 19, 2004	NCAA	N	Kentucky (2)	SEC	L	76	96		15	17	L 1		kentucky	florida-am	2004
 1	Fri, Nov 21, 2003	REG	@	South Florida	CUSA	L	66	79		0	1	L 1	Sun Dome	south-florida	florida-atlantic	2004
 2	Tue, Nov 25, 2003	REG	@	Georgia	SEC	L	84	99		0	2	L 2	Stegeman Coliseum	georgia	florida-atlantic	2004
 3	Mon, Dec 1, 2003	REG		Florida International	Sun Belt	W	89	87		1	2	W 1	FAU Arena	florida-international	florida-atlantic	2004
@@ -3067,12 +3067,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 6, 2004	REG		Florida State	ACC	W	63	60		22	8	W 3	Alexander Memorial Coliseum	florida-state	georgia-tech	2004
 31	Fri, Mar 12, 2004	CTOURN	@	North Carolina (16)	ACC	W	83	82		23	8	W 4	Greensboro Coliseum	north-carolina	georgia-tech	2004
 32	Sat, Mar 13, 2004	CTOURN	N	Duke (5)	ACC	L	71	85		23	9	L 1	Greensboro Coliseum	duke	georgia-tech	2004
-33	Fri, Mar 19, 2004	NCAA	N	Northern Iowa	MVC	W	65	60		24	9	W 1	Bradley Center	s/2004-03-19-georgia	georgia-tech	2004
-34	Sun, Mar 21, 2004	NCAA	N	Boston College (25)	Big East	W	57	54		25	9	W 2		s/2004-03-21-boston-co	georgia-tech	2004
-35	Fri, Mar 26, 2004	NCAA	N	Nevada	WAC	W	72	67		26	9	W 3	Edward Jones Dome	s/2004-03-26-georgia	georgia-tech	2004
-36	Sun, Mar 28, 2004	NCAA	N	Kansas (16)	Big 12	W	79	71	OT	27	9	W 4	Edward Jones Dome	s/2004-03-28-georgia	georgia-tech	2004
-37	Sat, Apr 3, 2004	NCAA	N	Oklahoma State (4)	Big 12	W	67	65		28	9	W 5		s/2004-04-03-georgia	georgia-tech	2004
-38	Mon, Apr 5, 2004	NCAA	N	Connecticut (7)	Big East	L	73	82		28	10	L 1	Alamodome	s/2004-04-05-connec	georgia-tech	2004
+33	Fri, Mar 19, 2004	NCAA	N	Northern Iowa	MVC	W	65	60		24	9	W 1	Bradley Center	northern-iowa	georgia-tech	2004
+34	Sun, Mar 21, 2004	NCAA	N	Boston College (25)	Big East	W	57	54		25	9	W 2		boston-college	georgia-tech	2004
+35	Fri, Mar 26, 2004	NCAA	N	Nevada	WAC	W	72	67		26	9	W 3	Edward Jones Dome	nevada	georgia-tech	2004
+36	Sun, Mar 28, 2004	NCAA	N	Kansas (16)	Big 12	W	79	71	OT	27	9	W 4	Edward Jones Dome	kansas	georgia-tech	2004
+37	Sat, Apr 3, 2004	NCAA	N	Oklahoma State (4)	Big 12	W	67	65		28	9	W 5		oklahoma-state	georgia-tech	2004
+38	Mon, Apr 5, 2004	NCAA	N	Connecticut (7)	Big East	L	73	82		28	10	L 1	Alamodome	connecticut	georgia-tech	2004
 1	Fri, Nov 14, 2003	REG	N	Saint Joseph's (17)	A-10	L	66	73		0	1	L 1	Madison Square Garden (IV)	saint-josephs	gonzaga	2004
 2	Fri, Nov 21, 2003	REG		Idaho	Big West	W	84	63		1	1	W 1	The Kennel	idaho	gonzaga	2004
 3	Mon, Nov 24, 2003	REG		Denver	Sun Belt	W	90	58		2	1	W 2	The Kennel	denver	gonzaga	2004
@@ -3102,8 +3102,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Feb 28, 2004	REG		Santa Clara	WCC	W	80	64		25	2	W 18	The Kennel	santa-clara	gonzaga	2004
 28	Sun, Mar 7, 2004	CTOURN	@	Santa Clara	WCC	W	63	62		26	2	W 19	Leavey Center	santa-clara	gonzaga	2004
 29	Mon, Mar 8, 2004	CTOURN	N	Saint Mary's (CA)	WCC	W	84	71		27	2	W 20	Leavey Center	saint-marys-ca	gonzaga	2004
-30	Thu, Mar 18, 2004	NCAA	N	Valparaiso	Mid-Cont	W	76	49		28	2	W 21	KeyArena at Seattle Center 	s/2004-03-18-go	gonzaga	2004
-31	Sat, Mar 20, 2004	NCAA	N	Nevada	WAC	L	72	91		28	3	L 1	KeyArena at Seattle Center 	s/2004-03-20-go	gonzaga	2004
+30	Thu, Mar 18, 2004	NCAA	N	Valparaiso	Mid-Cont	W	76	49		28	2	W 21	KeyArena at Seattle Center 	valparaiso	gonzaga	2004
+31	Sat, Mar 20, 2004	NCAA	N	Nevada	WAC	L	72	91		28	3	L 1	KeyArena at Seattle Center 	nevada	gonzaga	2004
 1	Fri, Nov 21, 2003	REG	@	Georgetown	Big East	L	36	83		0	1	L 1	Verizon Center	georgetown	grambling	2004
 2	Tue, Nov 25, 2003	REG	@	Arkansas	SEC	L	46	64		0	2	L 2	Bud Walton Arena	arkansas	grambling	2004
 3	Sat, Nov 29, 2003	REG	N	Auburn	SEC	L	56	105		0	3	L 3	Von Braun Center	auburn	grambling	2004
@@ -3513,9 +3513,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 12, 2004	CTOURN	N	Indiana	Big Ten	W	71	59		23	5	W 11	Conseco Fieldhouse	indiana	illinois	2004
 29	Sat, Mar 13, 2004	CTOURN	N	Michigan	Big Ten	W	74	60		24	5	W 12	Conseco Fieldhouse	michigan	illinois	2004
 30	Sun, Mar 14, 2004	CTOURN	N	Wisconsin (10)	Big Ten	L	53	70		24	6	L 1	Conseco Fieldhouse	wisconsin	illinois	2004
-31	Fri, Mar 19, 2004	NCAA	N	Murray State	OVC	W	72	53		25	6	W 1	Nationwide Arena	s/2004-03-19-ill	illinois	2004
-32	Sun, Mar 21, 2004	NCAA	N	Cincinnati (11)	CUSA	W	92	68		26	6	W 2	Nationwide Arena	s/2004-03-21-cinci	illinois	2004
-33	Fri, Mar 26, 2004	NCAA	N	Duke (6)	ACC	L	62	72		26	7	L 1	Georgia Dome	s/2004-03-26	illinois	2004
+31	Fri, Mar 19, 2004	NCAA	N	Murray State	OVC	W	72	53		25	6	W 1	Nationwide Arena	murray-state	illinois	2004
+32	Sun, Mar 21, 2004	NCAA	N	Cincinnati (11)	CUSA	W	92	68		26	6	W 2	Nationwide Arena	cincinnati	illinois	2004
+33	Fri, Mar 26, 2004	NCAA	N	Duke (6)	ACC	L	62	72		26	7	L 1	Georgia Dome	duke	illinois	2004
 1	Sat, Nov 15, 2003	REG	N	UC-Irvine	Big West	W	77	65		1	0	W 1	Cintas Center	california-irvine	illinois-chicago	2004
 2	Sun, Nov 16, 2003	REG	N	Oakland	Mid-Cont	L	66	79		1	1	L 1	Cintas Center	oakland	illinois-chicago	2004
 3	Mon, Nov 17, 2003	REG	N	Mercer	A-Sun	W	75	64		2	1	W 1	Cintas Center	mercer	illinois-chicago	2004
@@ -3547,7 +3547,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Feb 28, 2004	REG		Butler	Horizon	W	64	54		22	7	W 10	UIC Pavilion	butler	illinois-chicago	2004
 30	Sat, Mar 6, 2004	CTOURN	N	Butler	Horizon	W	65	56		23	7	W 11	Hinkle Fieldhouse	butler	illinois-chicago	2004
 31	Tue, Mar 9, 2004	CTOURN	@	Milwaukee	Horizon	W	65	62		24	7	W 12	U.S. Cellular Arena	milwaukee	illinois-chicago	2004
-32	Fri, Mar 19, 2004	NCAA	N	Kansas (16)	Big 12	L	53	78		24	8	L 1		s/2004-03-19-illinois-ch	illinois-chicago	2004
+32	Fri, Mar 19, 2004	NCAA	N	Kansas (16)	Big 12	L	53	78		24	8	L 1		kansas	illinois-chicago	2004
 1	Sun, Nov 23, 2003	REG		Florida A&M	MEAC	W	87	70		1	0	W 1	Redbird Arena	florida-am	illinois-state	2004
 2	Wed, Nov 26, 2003	REG	@	Northern Illinois	MAC	L	55	66		1	1	L 1	Convocation Center	northern-illinois	illinois-state	2004
 3	Sat, Nov 29, 2003	REG	@	Utah State	Big West	L	84	89		1	2	L 2	Dee Glen Smith Spectrum	utah-state	illinois-state	2004
@@ -3927,10 +3927,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sun, Mar 7, 2004	REG	@	Missouri	Big 12	W	84	82		20	7	W 3	Hearnes Center	missouri	kansas	2004
 28	Fri, Mar 12, 2004	CTOURN	N	Missouri	Big 12	W	94	69		21	7	W 4	American Airlines Center	missouri	kansas	2004
 29	Sat, Mar 13, 2004	CTOURN	N	Texas (11)	Big 12	L	60	64		21	8	L 1	American Airlines Center	texas	kansas	2004
-30	Fri, Mar 19, 2004	NCAA	N	Illinois-Chicago	Horizon	W	78	53		22	8	W 1		s/2004-03-19-illinois-ch	kansas	2004
-31	Sun, Mar 21, 2004	NCAA	N	Pacific	Big West	W	78	63		23	8	W 2	Kemper Arena	s/2004-03-21-k	kansas	2004
-32	Fri, Mar 26, 2004	NCAA	N	Alabama-Birmingham	CUSA	W	100	74		24	8	W 3		s/2004-03-26-alabama-birmi	kansas	2004
-33	Sun, Mar 28, 2004	NCAA	N	Georgia Tech (14)	ACC	L	71	79	OT	24	9	L 1	Edward Jones Dome	s/2004-03-28-georgia	kansas	2004
+30	Fri, Mar 19, 2004	NCAA	N	Illinois-Chicago	Horizon	W	78	53		22	8	W 1		illinois-chicago	kansas	2004
+31	Sun, Mar 21, 2004	NCAA	N	Pacific	Big West	W	78	63		23	8	W 2	Kemper Arena	pacific	kansas	2004
+32	Fri, Mar 26, 2004	NCAA	N	Alabama-Birmingham	CUSA	W	100	74		24	8	W 3		alabama-birmingham	kansas	2004
+33	Sun, Mar 28, 2004	NCAA	N	Georgia Tech (14)	ACC	L	71	79	OT	24	9	L 1	Edward Jones Dome	georgia-tech	kansas	2004
 1	Fri, Nov 21, 2003	REG		Birmingham-Southern	Big South	W	70	50		1	0	W 1	Bramlage Coliseum	birmingham-southern	kansas-state	2004
 2	Tue, Nov 25, 2003	REG		Lipscomb	A-Sun	W	92	57		2	0	W 2	Bramlage Coliseum	lipscomb	kansas-state	2004
 3	Sat, Nov 29, 2003	REG		Gardner-Webb	A-Sun	W	68	65		3	0	W 3	Bramlage Coliseum	gardner-webb	kansas-state	2004
@@ -4020,8 +4020,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 12, 2004	CTOURN	N	Georgia	SEC	W	69	60		24	4	W 7	Georgia Dome	georgia	kentucky	2004
 29	Sat, Mar 13, 2004	CTOURN	N	South Carolina	SEC	W	78	63		25	4	W 8	Georgia Dome	south-carolina	kentucky	2004
 30	Sun, Mar 14, 2004	CTOURN	N	Florida	SEC	W	89	73		26	4	W 9	Georgia Dome	florida	kentucky	2004
-31	Fri, Mar 19, 2004	NCAA	N	Florida A&M	MEAC	W	96	76		27	4	W 10		s/2004-03-19-flori	kentucky	2004
-32	Sun, Mar 21, 2004	NCAA	N	Alabama-Birmingham	CUSA	L	75	76		27	5	L 1		s/2004-03-21-alabama-birmi	kentucky	2004
+31	Fri, Mar 19, 2004	NCAA	N	Florida A&M	MEAC	W	96	76		27	4	W 10		florida-am	kentucky	2004
+32	Sun, Mar 21, 2004	NCAA	N	Alabama-Birmingham	CUSA	L	75	76		27	5	L 1		alabama-birmingham	kentucky	2004
 1	Fri, Nov 21, 2003	REG	N	Wichita State	MVC	L	71	74		0	1	L 1	Virgin Islands Sport & Fitness Center 	wichita-state	la-salle	2004
 2	Sat, Nov 22, 2003	REG	N	Hampton	MEAC	L	64	68		0	2	L 2	Virgin Islands Sport & Fitness Center 	hampton	la-salle	2004
 3	Mon, Nov 24, 2003	REG	N	Appalachian State	Southern	L	48	59		0	3	L 3	Virgin Islands Sport & Fitness Center 	appalachian-state	la-salle	2004
@@ -4139,7 +4139,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 6, 2004	CTOURN	N	Navy	Patriot	W	62	60	OT	18	10	W 1	The Show Place Arena	navy	lehigh	2004
 29	Sun, Mar 7, 2004	CTOURN	N	Bucknell	Patriot	W	60	45		19	10	W 2	The Show Place Arena	bucknell	lehigh	2004
 30	Sun, Mar 14, 2004	CTOURN		American	Patriot	W	59	57		20	10	W 3	Stabler Arena	american	lehigh	2004
-31	Tue, Mar 16, 2004	NCAA	N	Florida A&M	MEAC	L	57	72		20	11	L 1	University of Dayton Arena	s/2004-03-16-flori	lehigh	2004
+31	Tue, Mar 16, 2004	NCAA	N	Florida A&M	MEAC	L	57	72		20	11	L 1	University of Dayton Arena	florida-am	lehigh	2004
 1	Fri, Nov 21, 2003	REG		Miami (OH)	MAC	L	55	71		0	1	L 1	Vines Center	miami-oh	liberty	2004
 2	Sun, Nov 23, 2003	REG	@	William & Mary	CAA	L	64	91		0	2	L 2	Kaplan Arena at William and Mary Hall	william-mary	liberty	2004
 3	Thu, Nov 27, 2003	REG	N	Canisius	MAAC	W	65	48		1	2	W 1	Sullivan Arena	canisius	liberty	2004
@@ -4172,7 +4172,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Tue, Mar 2, 2004	CTOURN		Charleston Southern	Big South	W	60	54		16	14	W 2	Vines Center	charleston-southern	liberty	2004
 31	Thu, Mar 4, 2004	CTOURN		Coastal Carolina	Big South	W	88	73		17	14	W 3	Vines Center	coastal-carolina	liberty	2004
 32	Sat, Mar 6, 2004	CTOURN		High Point	Big South	W	89	44		18	14	W 4	Vines Center	high-point	liberty	2004
-33	Thu, Mar 18, 2004	NCAA	N	Saint Joseph's (5)	A-10	L	63	82		18	15	L 1		s/2004-03-18-li	liberty	2004
+33	Thu, Mar 18, 2004	NCAA	N	Saint Joseph's (5)	A-10	L	63	82		18	15	L 1		saint-josephs	liberty	2004
 1	Tue, Nov 25, 2003	REG	@	Kansas State	Big 12	L	57	92		0	1	L 1	Bramlage Coliseum	kansas-state	lipscomb	2004
 2	Sat, Nov 29, 2003	REG		Fisk		W	77	66		1	1	W 1	Allen Arena	NA	lipscomb	2004
 3	Mon, Dec 1, 2003	REG		IUPUI	Mid-Cont	L	84	94	OT	1	2	L 1	Allen Arena	iupui	lipscomb	2004
@@ -4283,7 +4283,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Sat, Mar 6, 2004	CTOURN	N	South Alabama	Sun Belt	W	84	58		18	8	W 3	E.A. Diddle Arena	south-alabama	louisiana-lafayette	2004
 27	Mon, Mar 8, 2004	CTOURN	N	Middle Tennessee	Sun Belt	W	70	66		19	8	W 4	E.A. Diddle Arena	middle-tennessee	louisiana-lafayette	2004
 28	Tue, Mar 9, 2004	CTOURN	N	New Orleans	Sun Belt	W	67	58		20	8	W 5	E.A. Diddle Arena	new-orleans	louisiana-lafayette	2004
-29	Fri, Mar 19, 2004	NCAA	N	North Carolina State (15)	ACC	L	52	61		20	9	L 1		s/2004-03-19-louisiana-lafa	louisiana-lafayette	2004
+29	Fri, Mar 19, 2004	NCAA	N	North Carolina State (15)	ACC	L	52	61		20	9	L 1		north-carolina-state	louisiana-lafayette	2004
 1	Fri, Nov 21, 2003	REG	@	Bradley	MVC	L	65	73	OT	0	1	L 1	Carver Arena	bradley	louisiana-monroe	2004
 2	Sun, Nov 23, 2003	REG	@	Miami (FL)	Big East	L	60	78		0	2	L 2	BankUnited Center	miami-fl	louisiana-monroe	2004
 3	Tue, Nov 25, 2003	REG	N	Northeastern	AEC	L	65	81		0	3	L 3	Valley High School	northeastern	louisiana-monroe	2004
@@ -4403,7 +4403,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 6, 2004	REG	@	Marquette	CUSA	L	80	81		19	8	L 1	Bradley Center	marquette	louisville	2004
 28	Wed, Mar 10, 2004	CTOURN	N	East Carolina	CUSA	W	61	54		20	8	W 1	Riverfront Coliseum	east-carolina	louisville	2004
 29	Thu, Mar 11, 2004	CTOURN	@	Cincinnati (13)	CUSA	L	62	64		20	9	L 1	Riverfront Coliseum	cincinnati	louisville	2004
-30	Fri, Mar 19, 2004	NCAA	N	Xavier	A-10	L	70	80		20	10	L 2		s/2004-03-19-louis	louisville	2004
+30	Fri, Mar 19, 2004	NCAA	N	Xavier	A-10	L	70	80		20	10	L 2		xavier	louisville	2004
 1	Fri, Nov 21, 2003	REG	@	DePaul	CUSA	L	61	73		0	1	L 1	Allstate Arena	depaul	loyola-il	2004
 2	Tue, Dec 2, 2003	REG	@	Missouri-Kansas City	Mid-Cont	W	83	75	OT	1	1	W 1	Municipal Auditorium	missouri-kansas-city	loyola-il	2004
 3	Sat, Dec 13, 2003	REG	@	Valparaiso	Mid-Cont	W	76	69		2	1	W 2	Athletics-Recreation Center	valparaiso	loyola-il	2004
@@ -4549,8 +4549,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sun, Feb 29, 2004	REG		Marist	MAAC	W	92	67		22	5	W 1	Draddy Gymnasium	marist	manhattan	2004
 28	Sun, Mar 7, 2004	CTOURN	N	Saint Peter's	MAAC	W	83	72		23	5	W 2	Times Union Center 	saint-peters	manhattan	2004
 29	Mon, Mar 8, 2004	CTOURN	N	Niagara	MAAC	W	62	61		24	5	W 3	Times Union Center 	niagara	manhattan	2004
-30	Thu, Mar 18, 2004	NCAA	N	Florida	SEC	W	75	60		25	5	W 4	RBC Center	s/2004-03-18-fl	manhattan	2004
-31	Sat, Mar 20, 2004	NCAA	N	Wake Forest (17)	ACC	L	80	84		25	6	L 1		s/2004-03-20-manh	manhattan	2004
+30	Thu, Mar 18, 2004	NCAA	N	Florida	SEC	W	75	60		25	5	W 4	RBC Center	florida	manhattan	2004
+31	Sat, Mar 20, 2004	NCAA	N	Wake Forest (17)	ACC	L	80	84		25	6	L 1		wake-forest	manhattan	2004
 1	Tue, Nov 18, 2003	REG		Hofstra	CAA	L	74	79		0	1	L 1	McCann Recreation Center	hofstra	marist	2004
 2	Sat, Nov 22, 2003	REG		Coastal Carolina	Big South	L	70	74		0	2	L 2	McCann Recreation Center	coastal-carolina	marist	2004
 3	Sun, Nov 23, 2003	REG		Eastern Michigan	MAC	L	62	82		0	3	L 3	McCann Recreation Center	eastern-michigan	marist	2004
@@ -4669,8 +4669,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 12, 2004	CTOURN	@	Wake Forest (15)	ACC	W	87	86		17	11	W 3	Greensboro Coliseum	wake-forest	maryland	2004
 29	Sat, Mar 13, 2004	CTOURN	@	North Carolina State (17)	ACC	W	85	82		18	11	W 4	Greensboro Coliseum	north-carolina-state	maryland	2004
 30	Sun, Mar 14, 2004	CTOURN	N	Duke (5)	ACC	W	95	87	OT	19	11	W 5	Greensboro Coliseum	duke	maryland	2004
-31	Thu, Mar 18, 2004	NCAA	N	Texas-El Paso	WAC	W	86	83		20	11	W 6	The Pepsi Center	s/2004-03-18-mar	maryland	2004
-32	Sat, Mar 20, 2004	NCAA	N	Syracuse (20)	Big East	L	70	72		20	12	L 1	The Pepsi Center	s/2004-03-20-mar	maryland	2004
+31	Thu, Mar 18, 2004	NCAA	N	Texas-El Paso	WAC	W	86	83		20	11	W 6	The Pepsi Center	texas-el-paso	maryland	2004
+32	Sat, Mar 20, 2004	NCAA	N	Syracuse (20)	Big East	L	70	72		20	12	L 1	The Pepsi Center	syracuse	maryland	2004
 1	Fri, Nov 21, 2003	REG	N	Loyola (MD)	MAAC	W	72	50		1	0	W 1	Towson Center	loyola-md	maryland-baltimore-county	2004
 2	Sat, Nov 22, 2003	REG	@	Towson	CAA	W	59	53		2	0	W 2	Towson Center	towson	maryland-baltimore-county	2004
 3	Tue, Dec 2, 2003	REG		Princeton	Ivy	L	56	68		2	1	L 1	RAC Arena	princeton	maryland-baltimore-county	2004
@@ -4812,8 +4812,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Wed, Mar 3, 2004	REG		Texas Christian	CUSA	W	83	56		21	5	W 1	The Pyramid	texas-christian	memphis	2004
 27	Sat, Mar 6, 2004	REG	@	Cincinnati (13)	CUSA	L	79	83		21	6	L 1	Fifth Third Arena	cincinnati	memphis	2004
 28	Thu, Mar 11, 2004	CTOURN	N	Saint Louis	CUSA	L	61	72		21	7	L 2	Riverfront Coliseum	saint-louis	memphis	2004
-29	Fri, Mar 19, 2004	NCAA	N	South Carolina (23)	SEC	W	59	43		22	7	W 1	Kemper Arena	s/2004-03-19-me	memphis	2004
-30	Sun, Mar 21, 2004	NCAA	N	Oklahoma State (4)	Big 12	L	53	70		22	8	L 1		s/2004-03-21-me	memphis	2004
+29	Fri, Mar 19, 2004	NCAA	N	South Carolina (23)	SEC	W	59	43		22	7	W 1	Kemper Arena	south-carolina	memphis	2004
+30	Sun, Mar 21, 2004	NCAA	N	Oklahoma State (4)	Big 12	L	53	70		22	8	L 1		oklahoma-state	memphis	2004
 1	Sat, Nov 15, 2003	REG	N	Ohio	MAC	W	67	64		1	0	W 1	Cintas Center	ohio	mercer	2004
 2	Sun, Nov 16, 2003	REG	@	Xavier	A-10	L	58	72		1	1	L 1	Cintas Center	xavier	mercer	2004
 3	Mon, Nov 17, 2003	REG	N	Illinois-Chicago	Horizon	L	64	75		1	2	L 2	Cintas Center	illinois-chicago	mercer	2004
@@ -4966,7 +4966,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Tue, Mar 2, 2004	REG		Wisconsin (17)	Big Ten	L	64	68	OT	17	10	L 1	Breslin Events Center	wisconsin	michigan-state	2004
 28	Fri, Mar 12, 2004	CTOURN	N	Northwestern	Big Ten	W	68	55		18	10	W 1	Conseco Fieldhouse	northwestern	michigan-state	2004
 29	Sat, Mar 13, 2004	CTOURN	N	Wisconsin (10)	Big Ten	L	66	68		18	11	L 1	Conseco Fieldhouse	wisconsin	michigan-state	2004
-30	Thu, Mar 18, 2004	NCAA	N	Nevada	WAC	L	66	72		18	12	L 2	KeyArena at Seattle Center 	s/2004-03-18-michigan-	michigan-state	2004
+30	Thu, Mar 18, 2004	NCAA	N	Nevada	WAC	L	66	72		18	12	L 2	KeyArena at Seattle Center 	nevada	michigan-state	2004
 1	Mon, Nov 24, 2003	REG		Covenant		W	86	53		1	0	W 1	Murphy Athletic Center	NA	middle-tennessee	2004
 2	Sat, Nov 29, 2003	REG	@	Wyoming	MWC	L	63	84		1	1	L 1	Arena-Auditorium	wyoming	middle-tennessee	2004
 3	Thu, Dec 4, 2003	REG		Alabama State	SWAC	W	71	48		2	1	W 1	Murphy Athletic Center	alabama-state	middle-tennessee	2004
@@ -5113,8 +5113,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Tue, Mar 2, 2004	REG		Auburn	SEC	W	105	91		24	2	W 3	Humphrey Coliseum	auburn	mississippi-state	2004
 27	Sat, Mar 6, 2004	REG	@	Alabama	SEC	W	82	81	OT	25	2	W 4	Coleman Coliseum 	alabama	mississippi-state	2004
 28	Fri, Mar 12, 2004	CTOURN	N	Vanderbilt	SEC	L	70	74	OT	25	3	L 1	Georgia Dome	vanderbilt	mississippi-state	2004
-29	Fri, Mar 19, 2004	NCAA	N	Monmouth	NEC	W	85	52		26	3	W 1	Amway Arena	s/2004-03-19-mississippi-	mississippi-state	2004
-30	Sun, Mar 21, 2004	NCAA	N	Xavier	A-10	L	74	89		26	4	L 1	Amway Arena	s/2004-03-21-mississippi-	mississippi-state	2004
+29	Fri, Mar 19, 2004	NCAA	N	Monmouth	NEC	W	85	52		26	3	W 1	Amway Arena	monmouth	mississippi-state	2004
+30	Sun, Mar 21, 2004	NCAA	N	Xavier	A-10	L	74	89		26	4	L 1	Amway Arena	xavier	mississippi-state	2004
 1	Mon, Nov 17, 2003	REG	@	Richmond	A-10	L	46	62		0	1	L 1	Robins Center	richmond	mississippi-valley-state	2004
 2	Tue, Nov 18, 2003	REG		Mount St. Mary's	NEC	W	72	71	OT	1	1	W 1	Harrison HPER Complex	mount-st-marys	mississippi-valley-state	2004
 3	Sat, Nov 29, 2003	REG		Jacksonville State	OVC	W	84	59		2	1	W 2	Harrison HPER Complex	jacksonville-state	mississippi-valley-state	2004
@@ -5268,7 +5268,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 6, 2004	CTOURN	N	Mount St. Mary's	NEC	W	64	52		19	11	W 1	Spiro Sports Center	mount-st-marys	monmouth	2004
 31	Sun, Mar 7, 2004	CTOURN	N	Robert Morris	NEC	W	62	45		20	11	W 2	Spiro Sports Center	robert-morris	monmouth	2004
 32	Wed, Mar 10, 2004	CTOURN		Central Connecticut State	NEC	W	67	55		21	11	W 3	Boylan Gymnasium	central-connecticut-state	monmouth	2004
-33	Fri, Mar 19, 2004	NCAA	N	Mississippi State (8)	SEC	L	52	85		21	12	L 1	Amway Arena	s/2004-03-19-mississippi-	monmouth	2004
+33	Fri, Mar 19, 2004	NCAA	N	Mississippi State (8)	SEC	L	52	85		21	12	L 1	Amway Arena	mississippi-state	monmouth	2004
 1	Sat, Nov 22, 2003	REG	@	Milwaukee	Horizon	L	83	95		0	1	L 1	U.S. Cellular Arena	milwaukee	montana	2004
 2	Wed, Nov 26, 2003	REG		Montana Tech		W	85	40		1	1	W 1	Adams Center/Dahlberg Arena	NA	montana	2004
 3	Sat, Nov 29, 2003	REG		Southeast Missouri State	OVC	W	61	50		2	1	W 2	Adams Center/Dahlberg Arena	southeast-missouri-state	montana	2004
@@ -5442,7 +5442,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Tue, Mar 2, 2004	CTOURN		Tennessee Tech	OVC	W	92	75		26	5	W 6	Regional Special Events Center	tennessee-tech	murray-state	2004
 32	Fri, Mar 5, 2004	CTOURN	N	Morehead State	OVC	W	94	72		27	5	W 7	Nashville Municipal Auditorium	morehead-state	murray-state	2004
 33	Sat, Mar 6, 2004	CTOURN	N	Austin Peay	OVC	W	66	60		28	5	W 8	Nashville Municipal Auditorium	austin-peay	murray-state	2004
-34	Fri, Mar 19, 2004	NCAA	N	Illinois (13)	Big Ten	L	53	72		28	6	L 1	Nationwide Arena	s/2004-03-19-ill	murray-state	2004
+34	Fri, Mar 19, 2004	NCAA	N	Illinois (13)	Big Ten	L	53	72		28	6	L 1	Nationwide Arena	illinois	murray-state	2004
 1	Fri, Nov 21, 2003	REG	@	South Carolina	SEC	L	40	73		0	1	L 1	The Colonial Life Arena	south-carolina	navy	2004
 2	Mon, Nov 24, 2003	REG		Belmont	A-Sun	L	71	88		0	2	L 2	Alumni Hall	belmont	navy	2004
 3	Fri, Nov 28, 2003	REG		Air Force	MWC	L	46	86		0	3	L 3	Alumni Hall	air-force	navy	2004
@@ -5533,9 +5533,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 11, 2004	CTOURN	N	Southern Methodist	WAC	W	75	60		21	8	W 5	Save Mart Center	southern-methodist	nevada	2004
 30	Fri, Mar 12, 2004	CTOURN	N	Rice	WAC	W	67	59		22	8	W 6	Save Mart Center	rice	nevada	2004
 31	Sat, Mar 13, 2004	CTOURN	N	Texas-El Paso	WAC	W	66	60		23	8	W 7	Save Mart Center	texas-el-paso	nevada	2004
-32	Thu, Mar 18, 2004	NCAA	N	Michigan State	Big Ten	W	72	66		24	8	W 8	KeyArena at Seattle Center 	s/2004-03-18-michigan-	nevada	2004
-33	Sat, Mar 20, 2004	NCAA	N	Gonzaga (3)	WCC	W	91	72		25	8	W 9	KeyArena at Seattle Center 	s/2004-03-20-go	nevada	2004
-34	Fri, Mar 26, 2004	NCAA	N	Georgia Tech (14)	ACC	L	67	72		25	9	L 1	Edward Jones Dome	s/2004-03-26-georgia	nevada	2004
+32	Thu, Mar 18, 2004	NCAA	N	Michigan State	Big Ten	W	72	66		24	8	W 8	KeyArena at Seattle Center 	michigan-state	nevada	2004
+33	Sat, Mar 20, 2004	NCAA	N	Gonzaga (3)	WCC	W	91	72		25	8	W 9	KeyArena at Seattle Center 	gonzaga	nevada	2004
+34	Fri, Mar 26, 2004	NCAA	N	Georgia Tech (14)	ACC	L	67	72		25	9	L 1	Edward Jones Dome	georgia-tech	nevada	2004
 1	Fri, Nov 21, 2003	REG		Delaware State	MEAC	W	65	59		1	0	W 1	Thomas & Mack Center	delaware-state	nevada-las-vegas	2004
 2	Mon, Nov 24, 2003	REG		Nevada	WAC	L	62	74		1	1	L 1	Thomas & Mack Center	nevada	nevada-las-vegas	2004
 3	Wed, Nov 26, 2003	REG		Western Illinois	Mid-Cont	W	75	55		2	1	W 1	Thomas & Mack Center	western-illinois	nevada-las-vegas	2004
@@ -5799,8 +5799,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Tue, Mar 2, 2004	REG		Clemson	ACC	W	69	53		18	8	W 2	Smith Center	clemson	north-carolina	2004
 27	Sat, Mar 6, 2004	REG	@	Duke (3)	ACC	L	65	70		18	9	L 1	Cameron Indoor Stadium	duke	north-carolina	2004
 28	Fri, Mar 12, 2004	CTOURN		Georgia Tech (14)	ACC	L	82	83		18	10	L 2	Greensboro Coliseum	georgia-tech	north-carolina	2004
-29	Thu, Mar 18, 2004	NCAA	N	Air Force	MWC	W	63	52		19	10	W 1		s/2004-03-18-air-	north-carolina	2004
-30	Sat, Mar 20, 2004	NCAA	N	Texas (12)	Big 12	L	75	78		19	11	L 1		s/2004-03-20-north-car	north-carolina	2004
+29	Thu, Mar 18, 2004	NCAA	N	Air Force	MWC	W	63	52		19	10	W 1		air-force	north-carolina	2004
+30	Sat, Mar 20, 2004	NCAA	N	Texas (12)	Big 12	L	75	78		19	11	L 1		texas	north-carolina	2004
 1	Fri, Nov 21, 2003	REG	@	North Carolina State (24)	ACC	L	46	71		0	1	L 1	RBC Center	north-carolina-state	north-carolina-asheville	2004
 2	Sun, Nov 23, 2003	REG	@	Iowa	Big Ten	L	80	107		0	2	L 2	Carver-Hawkeye Arena	iowa	north-carolina-asheville	2004
 3	Wed, Nov 26, 2003	REG		Brevard		W	79	51		1	2	W 1	Charlie Justice Center	NA	north-carolina-asheville	2004
@@ -5915,8 +5915,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 6, 2004	REG	@	Wake Forest (11)	ACC	W	81	70		19	8	W 1	Lawrence Joel Coliseum	wake-forest	north-carolina-state	2004
 28	Fri, Mar 12, 2004	CTOURN		Florida State	ACC	W	78	71		20	8	W 2	Greensboro Coliseum	florida-state	north-carolina-state	2004
 29	Sat, Mar 13, 2004	CTOURN		Maryland	ACC	L	82	85		20	9	L 1	Greensboro Coliseum	maryland	north-carolina-state	2004
-30	Fri, Mar 19, 2004	NCAA	N	Louisiana-Lafayette	Sun Belt	W	61	52		21	9	W 1		s/2004-03-19-louisiana-lafa	north-carolina-state	2004
-31	Sun, Mar 21, 2004	NCAA	N	Vanderbilt	SEC	L	73	75		21	10	L 1	The Pepsi Center	s/2004-03-21-north-carolina-	north-carolina-state	2004
+30	Fri, Mar 19, 2004	NCAA	N	Louisiana-Lafayette	Sun Belt	W	61	52		21	9	W 1		louisiana-lafayette	north-carolina-state	2004
+31	Sun, Mar 21, 2004	NCAA	N	Vanderbilt	SEC	L	73	75		21	10	L 1	The Pepsi Center	vanderbilt	north-carolina-state	2004
 1	Fri, Nov 21, 2003	REG	@	Marshall	MAC	W	65	56		1	0	W 1	Henderson Center	marshall	north-carolina-wilmington	2004
 2	Mon, Nov 24, 2003	REG		Jacksonville	A-Sun	W	71	53		2	0	W 2	Trask Coliseum	jacksonville	north-carolina-wilmington	2004
 3	Sat, Nov 29, 2003	REG	@	East Tennessee State	Southern	L	62	67		2	1	L 1	Memorial Center	east-tennessee-state	north-carolina-wilmington	2004
@@ -6094,7 +6094,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 6, 2004	CTOURN	N	Illinois State	MVC	W	68	54		19	9	W 6	Scottrade Center	illinois-state	northern-iowa	2004
 29	Sun, Mar 7, 2004	CTOURN	N	Wichita State	MVC	W	63	56		20	9	W 7	Scottrade Center	wichita-state	northern-iowa	2004
 30	Mon, Mar 8, 2004	CTOURN	N	Missouri State	MVC	W	79	74	2OT	21	9	W 8	Scottrade Center	missouri-state	northern-iowa	2004
-31	Fri, Mar 19, 2004	NCAA	N	Georgia Tech (14)	ACC	L	60	65		21	10	L 1	Bradley Center	s/2004-03-19-georgia	northern-iowa	2004
+31	Fri, Mar 19, 2004	NCAA	N	Georgia Tech (14)	ACC	L	60	65		21	10	L 1	Bradley Center	georgia-tech	northern-iowa	2004
 1	Fri, Nov 21, 2003	REG		Colorado	Big 12	L	56	67		0	1	L 1	Welsh-Ryan Arena	colorado	northwestern	2004
 2	Sun, Nov 23, 2003	REG		Chicago State	Mid-Cont	W	76	60		1	1	W 1	Welsh-Ryan Arena	chicago-state	northwestern	2004
 3	Tue, Nov 25, 2003	REG	@	DePaul	CUSA	L	53	65		1	2	L 1	Allstate Arena	depaul	northwestern	2004
@@ -6335,11 +6335,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 12, 2004	CTOURN	N	Iowa State	Big 12	W	83	75		25	3	W 4	American Airlines Center	iowa-state	oklahoma-state	2004
 29	Sat, Mar 13, 2004	CTOURN	N	Texas Tech	Big 12	W	82	77		26	3	W 5	American Airlines Center	texas-tech	oklahoma-state	2004
 30	Sun, Mar 14, 2004	CTOURN	N	Texas (11)	Big 12	W	65	49		27	3	W 6	American Airlines Center	texas	oklahoma-state	2004
-31	Fri, Mar 19, 2004	NCAA	N	Eastern Washington	Big Sky	W	75	56		28	3	W 7		s/2004-03-19-eastern-washi	oklahoma-state	2004
-32	Sun, Mar 21, 2004	NCAA	N	Memphis (24)	CUSA	W	70	53		29	3	W 8		s/2004-03-21-me	oklahoma-state	2004
-33	Thu, Mar 25, 2004	NCAA	N	Pittsburgh (9)	Big East	W	63	51		30	3	W 9	Izod Center	s/2004-03-25-oklahoma-	oklahoma-state	2004
-34	Sat, Mar 27, 2004	NCAA	N	Saint Joseph's (5)	A-10	W	64	62		31	3	W 10		s/2004-03-27-oklahoma-	oklahoma-state	2004
-35	Sat, Apr 3, 2004	NCAA	N	Georgia Tech (14)	ACC	L	65	67		31	4	L 1		s/2004-04-03-georgia	oklahoma-state	2004
+31	Fri, Mar 19, 2004	NCAA	N	Eastern Washington	Big Sky	W	75	56		28	3	W 7		eastern-washington	oklahoma-state	2004
+32	Sun, Mar 21, 2004	NCAA	N	Memphis (24)	CUSA	W	70	53		29	3	W 8		memphis	oklahoma-state	2004
+33	Thu, Mar 25, 2004	NCAA	N	Pittsburgh (9)	Big East	W	63	51		30	3	W 9	Izod Center	pittsburgh	oklahoma-state	2004
+34	Sat, Mar 27, 2004	NCAA	N	Saint Joseph's (5)	A-10	W	64	62		31	3	W 10		saint-josephs	oklahoma-state	2004
+35	Sat, Apr 3, 2004	NCAA	N	Georgia Tech (14)	ACC	L	65	67		31	4	L 1		georgia-tech	oklahoma-state	2004
 1	Sat, Nov 22, 2003	REG	@	North Carolina (9)	ACC	L	64	90		0	1	L 1	Smith Center	north-carolina	old-dominion	2004
 2	Sat, Nov 29, 2003	REG		Saint Joseph's (13)	A-10	L	72	75		0	2	L 2	Ted Constant Convocation Ctr.	saint-josephs	old-dominion	2004
 3	Thu, Dec 4, 2003	REG	@	Virginia Tech	Big East	W	94	92	OT	1	2	W 1	Cassell Coliseum	virginia-tech	old-dominion	2004
@@ -6487,8 +6487,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 6, 2004	REG		UC-Riverside	Big West	W	92	57		22	7	W 13	A.G. Spanos Center	california-riverside	pacific	2004
 30	Fri, Mar 12, 2004	CTOURN	N	Idaho	Big West	W	67	61		23	7	W 14	Honda Center	idaho	pacific	2004
 31	Sat, Mar 13, 2004	CTOURN	N	Cal State Northridge	Big West	W	75	73		24	7	W 15	Honda Center	cal-state-northridge	pacific	2004
-32	Fri, Mar 19, 2004	NCAA	N	Providence (21)	Big East	W	66	58		25	7	W 16		s/2004-03-19-pa	pacific	2004
-33	Sun, Mar 21, 2004	NCAA	N	Kansas (16)	Big 12	L	63	78		25	8	L 1	Kemper Arena	s/2004-03-21-k	pacific	2004
+32	Fri, Mar 19, 2004	NCAA	N	Providence (21)	Big East	W	66	58		25	7	W 16		providence	pacific	2004
+33	Sun, Mar 21, 2004	NCAA	N	Kansas (16)	Big 12	L	63	78		25	8	L 1	Kemper Arena	kansas	pacific	2004
 1	Sun, Nov 23, 2003	REG		Georgetown	Big East	L	78	79		0	1	L 1	Bryce Jordan Center	georgetown	penn-state	2004
 2	Wed, Nov 26, 2003	REG		Saint Francis (PA)	NEC	W	67	58		1	1	W 1	Bryce Jordan Center	saint-francis-pa	penn-state	2004
 3	Sat, Nov 29, 2003	REG	@	Buffalo	MAC	W	67	64		2	1	W 2	Alumni Arena	buffalo	penn-state	2004
@@ -6608,9 +6608,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 11, 2004	CTOURN	N	Virginia Tech	Big East	W	74	61		28	3	W 3	Madison Square Garden (IV)	virginia-tech	pittsburgh	2004
 32	Fri, Mar 12, 2004	CTOURN	N	Boston College	Big East	W	62	53		29	3	W 4	Madison Square Garden (IV)	boston-college	pittsburgh	2004
 33	Sat, Mar 13, 2004	CTOURN	N	Connecticut (9)	Big East	L	58	61		29	4	L 1	Madison Square Garden (IV)	connecticut	pittsburgh	2004
-34	Fri, Mar 19, 2004	NCAA	N	Central Florida	A-Sun	W	53	44		30	4	W 1		s/2004-03-19-central-fl	pittsburgh	2004
-35	Sun, Mar 21, 2004	NCAA	N	Wisconsin (10)	Big Ten	W	59	55		31	4	W 2	Bradley Center	s/2004-03-21-pitts	pittsburgh	2004
-36	Thu, Mar 25, 2004	NCAA	N	Oklahoma State (4)	Big 12	L	51	63		31	5	L 1	Izod Center	s/2004-03-25-oklahoma-	pittsburgh	2004
+34	Fri, Mar 19, 2004	NCAA	N	Central Florida	A-Sun	W	53	44		30	4	W 1		central-florida	pittsburgh	2004
+35	Sun, Mar 21, 2004	NCAA	N	Wisconsin (10)	Big Ten	W	59	55		31	4	W 2	Bradley Center	wisconsin	pittsburgh	2004
+36	Thu, Mar 25, 2004	NCAA	N	Oklahoma State (4)	Big 12	L	51	63		31	5	L 1	Izod Center	oklahoma-state	pittsburgh	2004
 1	Fri, Nov 21, 2003	REG		Boise State	WAC	L	66	76		0	1	L 1	Chiles Center	boise-state	portland	2004
 2	Tue, Nov 25, 2003	REG	@	Oregon State	Pac-10	W	97	89	2OT	1	1	W 1	Gill Coliseum	oregon-state	portland	2004
 3	Sat, Nov 29, 2003	REG		Long Beach State	Big West	W	65	59		2	1	W 2	Chiles Center	long-beach-state	portland	2004
@@ -6720,7 +6720,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 25	Fri, Mar 5, 2004	REG	@	Harvard	Ivy	W	60	51		18	7	W 7	Lavietes Pavilion	harvard	princeton	2004
 26	Sat, Mar 6, 2004	REG	@	Dartmouth	Ivy	W	64	59		19	7	W 8	Leede Arena	dartmouth	princeton	2004
 27	Tue, Mar 9, 2004	REG	@	Pennsylvania	Ivy	W	76	70	OT	20	7	W 9	The Palestra	pennsylvania	princeton	2004
-28	Thu, Mar 18, 2004	NCAA	N	Texas (12)	Big 12	L	49	66		20	8	L 1		s/2004-03-18-prin	princeton	2004
+28	Thu, Mar 18, 2004	NCAA	N	Texas (12)	Big 12	L	49	66		20	8	L 1		texas	princeton	2004
 1	Sat, Nov 22, 2003	REG		Hofstra	CAA	W	69	56		1	0	W 1	Dunkin' Donuts Center	hofstra	providence	2004
 2	Sat, Nov 29, 2003	REG		Alabama	SEC	W	76	71		2	0	W 2	Dunkin' Donuts Center	alabama	providence	2004
 3	Tue, Dec 2, 2003	REG		South Florida	CUSA	W	84	60		3	0	W 3	Dunkin' Donuts Center	south-florida	providence	2004
@@ -6749,7 +6749,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Tue, Mar 2, 2004	REG		Pittsburgh (6)	Big East	L	61	88		20	6	L 1	Dunkin' Donuts Center	pittsburgh	providence	2004
 27	Sat, Mar 6, 2004	REG		Boston College	Big East	L	54	63		20	7	L 2	Dunkin' Donuts Center	boston-college	providence	2004
 28	Thu, Mar 11, 2004	CTOURN	N	Villanova	Big East	L	66	69		20	8	L 3	Madison Square Garden (IV)	villanova	providence	2004
-29	Fri, Mar 19, 2004	NCAA	N	Pacific	Big West	L	58	66		20	9	L 4		s/2004-03-19-pa	providence	2004
+29	Fri, Mar 19, 2004	NCAA	N	Pacific	Big West	L	58	66		20	9	L 4		pacific	providence	2004
 1	Sun, Nov 23, 2003	REG		Samford	OVC	W	66	50		1	0	W 1	Mackey Arena	samford	purdue	2004
 2	Wed, Nov 26, 2003	REG	N	Texas State	Southland	W	61	50		2	0	W 2	Sullivan Arena	texas-state	purdue	2004
 3	Fri, Nov 28, 2003	REG	N	Seton Hall	Big East	W	75	63		3	0	W 3	Sullivan Arena	seton-hall	purdue	2004
@@ -6937,7 +6937,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Wed, Mar 10, 2004	CTOURN	N	Fordham	A-10	W	67	47		19	11	W 3	University of Dayton Arena	fordham	richmond	2004
 31	Thu, Mar 11, 2004	CTOURN	N	Temple	A-10	W	64	49		20	11	W 4	University of Dayton Arena	temple	richmond	2004
 32	Fri, Mar 12, 2004	CTOURN	@	Dayton	A-10	L	56	58		20	12	L 1	University of Dayton Arena	dayton	richmond	2004
-33	Fri, Mar 19, 2004	NCAA	N	Wisconsin (10)	Big Ten	L	64	76		20	13	L 2		s/2004-03-19-ric	richmond	2004
+33	Fri, Mar 19, 2004	NCAA	N	Wisconsin (10)	Big Ten	L	64	76		20	13	L 2		wisconsin	richmond	2004
 1	Fri, Nov 21, 2003	REG		Brown	Ivy	W	69	53		1	0	W 1	Alumni Gymnasium	brown	rider	2004
 2	Fri, Nov 28, 2003	REG	N	Quinnipiac	NEC	W	89	70		2	0	W 2	Afook-Chinen Civic Auditorium	quinnipiac	rider	2004
 3	Sat, Nov 29, 2003	REG	@	Hawaii-Hilo		L	56	58		2	1	L 1		NA	rider	2004
@@ -7142,10 +7142,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Sat, Feb 28, 2004	REG	@	Rhode Island	A-10	W	57	55		26	0	W 26	Thomas M. Ryan Center	rhode-island	saint-josephs	2004
 27	Tue, Mar 2, 2004	REG		St. Bonaventure	A-10	W	82	50		27	0	W 27	Hagan Arena	st-bonaventure	saint-josephs	2004
 28	Thu, Mar 11, 2004	CTOURN	N	Xavier	A-10	L	67	87		27	1	L 1	University of Dayton Arena	xavier	saint-josephs	2004
-29	Thu, Mar 18, 2004	NCAA	N	Liberty	Big South	W	82	63		28	1	W 1		s/2004-03-18-li	saint-josephs	2004
-30	Sat, Mar 20, 2004	NCAA	N	Texas Tech	Big 12	W	70	65		29	1	W 2	HSBC Arena	s/2004-03-20-saint-jo	saint-josephs	2004
-31	Thu, Mar 25, 2004	NCAA	N	Wake Forest (17)	ACC	W	84	80		30	1	W 3	Izod Center	s/2004-03-25-saint-jo	saint-josephs	2004
-32	Sat, Mar 27, 2004	NCAA	N	Oklahoma State (4)	Big 12	L	62	64		30	2	L 1		s/2004-03-27-oklahoma-	saint-josephs	2004
+29	Thu, Mar 18, 2004	NCAA	N	Liberty	Big South	W	82	63		28	1	W 1		liberty	saint-josephs	2004
+30	Sat, Mar 20, 2004	NCAA	N	Texas Tech	Big 12	W	70	65		29	1	W 2	HSBC Arena	texas-tech	saint-josephs	2004
+31	Thu, Mar 25, 2004	NCAA	N	Wake Forest (17)	ACC	W	84	80		30	1	W 3	Izod Center	wake-forest	saint-josephs	2004
+32	Sat, Mar 27, 2004	NCAA	N	Oklahoma State (4)	Big 12	L	62	64		30	2	L 1		oklahoma-state	saint-josephs	2004
 1	Fri, Nov 21, 2003	REG		Eastern Kentucky	OVC	W	64	58		1	0	W 1	Scottrade Center	eastern-kentucky	saint-louis	2004
 2	Mon, Nov 24, 2003	REG		Savannah State	Ind	W	73	33		2	0	W 2	Scottrade Center	savannah-state	saint-louis	2004
 3	Sat, Nov 29, 2003	REG		North Carolina A&T	MEAC	W	75	42		3	0	W 3	Scottrade Center	north-carolina-at	saint-louis	2004
@@ -7503,8 +7503,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Mon, Mar 1, 2004	REG	@	Connecticut (8)	Big East	L	67	89		19	8	L 1	Harry A. Gampel Pavilion	connecticut	seton-hall	2004
 28	Sun, Mar 7, 2004	REG	@	Rutgers	Big East	W	66	64		20	8	W 1	Louis Brown Athletic Center	rutgers	seton-hall	2004
 29	Wed, Mar 10, 2004	CTOURN	N	Villanova	Big East	L	60	61		20	9	L 1	Madison Square Garden (IV)	villanova	seton-hall	2004
-30	Thu, Mar 18, 2004	NCAA	N	Arizona (22)	Pac-10	W	80	76		21	9	W 1		s/2004-03-18-ar	seton-hall	2004
-31	Sat, Mar 20, 2004	NCAA	N	Duke (6)	ACC	L	62	90		21	10	L 1	RBC Center	s/2004-03-20	seton-hall	2004
+30	Thu, Mar 18, 2004	NCAA	N	Arizona (22)	Pac-10	W	80	76		21	9	W 1		arizona	seton-hall	2004
+31	Sat, Mar 20, 2004	NCAA	N	Duke (6)	ACC	L	62	90		21	10	L 1	RBC Center	duke	seton-hall	2004
 1	Fri, Nov 21, 2003	REG		Albany (NY)	AEC	W	71	50		1	0	W 1	Times Union Center 	albany-ny	siena	2004
 2	Tue, Nov 25, 2003	REG		Fordham	A-10	W	77	59		2	0	W 2	Times Union Center 	fordham	siena	2004
 3	Sat, Nov 29, 2003	REG	@	Duquesne	A-10	W	78	68		3	0	W 3	A.J. Palumbo Center	duquesne	siena	2004
@@ -7596,7 +7596,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 11, 2004	CTOURN	N	Arkansas	SEC	W	91	81		22	9	W 1	Georgia Dome	arkansas	south-carolina	2004
 32	Fri, Mar 12, 2004	CTOURN	N	Louisiana State	SEC	W	85	64		23	9	W 2	Georgia Dome	louisiana-state	south-carolina	2004
 33	Sat, Mar 13, 2004	CTOURN	N	Kentucky (8)	SEC	L	63	78		23	10	L 1	Georgia Dome	kentucky	south-carolina	2004
-34	Fri, Mar 19, 2004	NCAA	N	Memphis (24)	CUSA	L	43	59		23	11	L 2	Kemper Arena	s/2004-03-19-me	south-carolina	2004
+34	Fri, Mar 19, 2004	NCAA	N	Memphis (24)	CUSA	L	43	59		23	11	L 2	Kemper Arena	memphis	south-carolina	2004
 1	Fri, Nov 21, 2003	REG	N	Oral Roberts	Mid-Cont	L	60	63		0	1	L 1	Lloyd Noble Center	oral-roberts	south-carolina-state	2004
 2	Sat, Nov 22, 2003	REG	N	Eastern Washington	Big Sky	W	71	51		1	1	W 1	Lloyd Noble Center	eastern-washington	south-carolina-state	2004
 3	Fri, Nov 28, 2003	REG	@	Florida State	ACC	L	46	81		1	2	L 1	Donald L. Tucker Center	florida-state	south-carolina-state	2004
@@ -7794,7 +7794,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Mon, Mar 1, 2004	REG	@	Northern Iowa	MVC	L	52	68		24	3	L 1	UNI-Dome	northern-iowa	southern-illinois	2004
 28	Sat, Mar 6, 2004	CTOURN	N	Evansville	MVC	W	93	67		25	3	W 1	Scottrade Center	evansville	southern-illinois	2004
 29	Sun, Mar 7, 2004	CTOURN	N	Missouri State	MVC	L	74	80		25	4	L 1	Scottrade Center	missouri-state	southern-illinois	2004
-30	Thu, Mar 18, 2004	NCAA	N	Alabama	SEC	L	64	65		25	5	L 2	KeyArena at Seattle Center 	s/2004-03-18-al	southern-illinois	2004
+30	Thu, Mar 18, 2004	NCAA	N	Alabama	SEC	L	64	65		25	5	L 2	KeyArena at Seattle Center 	alabama	southern-illinois	2004
 1	Sat, Nov 22, 2003	REG	N	Texas-Rio Grande Valley	Ind	W	69	59		1	0	W 1	South Padre Island Convention Centre	texas-pan-american	southern-methodist	2004
 2	Fri, Nov 28, 2003	REG	@	San Diego	WCC	L	65	68		1	1	L 1	Jenny Craig Pavillion	san-diego	southern-methodist	2004
 3	Mon, Dec 1, 2003	REG		Texas Tech	Big 12	W	62	59		2	1	W 1	Moody Coliseum	texas-tech	southern-methodist	2004
@@ -7994,8 +7994,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 11, 2004	CTOURN	N	Washington State	Pac-10	W	68	47		27	1	W 1	Staples Center	washington-state	stanford	2004
 29	Fri, Mar 12, 2004	CTOURN	N	Oregon	Pac-10	W	70	63		28	1	W 2	Staples Center	oregon	stanford	2004
 30	Sat, Mar 13, 2004	CTOURN	N	Washington	Pac-10	W	77	66		29	1	W 3	Staples Center	washington	stanford	2004
-31	Thu, Mar 18, 2004	NCAA	N	Texas-San Antonio	Southland	W	71	45		30	1	W 4	KeyArena at Seattle Center 	s/2004-03-18-sta	stanford	2004
-32	Sat, Mar 20, 2004	NCAA	N	Alabama	SEC	L	67	70		30	2	L 1		s/2004-03-20-al	stanford	2004
+31	Thu, Mar 18, 2004	NCAA	N	Texas-San Antonio	Southland	W	71	45		30	1	W 4	KeyArena at Seattle Center 	texas-san-antonio	stanford	2004
+32	Sat, Mar 20, 2004	NCAA	N	Alabama	SEC	L	67	70		30	2	L 1		alabama	stanford	2004
 1	Sat, Nov 22, 2003	REG		Houston Baptist		W	98	83		1	0	W 1	William Johnson Coliseum	NA	stephen-f-austin	2004
 2	Tue, Nov 25, 2003	REG	@	Baylor	Big 12	W	79	57		2	0	W 2	Ferrell Center	baylor	stephen-f-austin	2004
 3	Sat, Nov 29, 2003	REG	@	Alcorn State	SWAC	W	80	63		3	0	W 3	Davey L. Whitney Complex	alcorn-state	stephen-f-austin	2004
@@ -8111,9 +8111,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Tue, Mar 2, 2004	REG	@	West Virginia	Big East	W	65	52		20	6	W 4	WVU Coliseum	west-virginia	syracuse	2004
 27	Sun, Mar 7, 2004	REG		Connecticut (7)	Big East	W	67	56		21	6	W 5	Carrier Dome	connecticut	syracuse	2004
 28	Thu, Mar 11, 2004	CTOURN	N	Boston College	Big East	L	54	57		21	7	L 1	Madison Square Garden (IV)	boston-college	syracuse	2004
-29	Thu, Mar 18, 2004	NCAA	N	Brigham Young	MWC	W	80	75		22	7	W 1		s/2004-03-18-brigham-	syracuse	2004
-30	Sat, Mar 20, 2004	NCAA	N	Maryland (19)	ACC	W	72	70		23	7	W 2	The Pepsi Center	s/2004-03-20-mar	syracuse	2004
-31	Thu, Mar 25, 2004	NCAA	N	Alabama	SEC	L	71	80		23	8	L 1		s/2004-03-25-al	syracuse	2004
+29	Thu, Mar 18, 2004	NCAA	N	Brigham Young	MWC	W	80	75		22	7	W 1		brigham-young	syracuse	2004
+30	Sat, Mar 20, 2004	NCAA	N	Maryland (19)	ACC	W	72	70		23	7	W 2	The Pepsi Center	maryland	syracuse	2004
+31	Thu, Mar 25, 2004	NCAA	N	Alabama	SEC	L	71	80		23	8	L 1		alabama	syracuse	2004
 1	Fri, Nov 21, 2003	REG		Villanova	Big East	L	48	73		0	1	L 1	Liacouras Center	villanova	temple	2004
 2	Sat, Nov 29, 2003	REG		Illinois (12)	Big Ten	L	60	75		0	2	L 2	Liacouras Center	illinois	temple	2004
 3	Wed, Dec 3, 2003	REG	@	Rutgers	Big East	L	67	77		0	3	L 3	Louis Brown Athletic Center	rutgers	temple	2004
@@ -8286,9 +8286,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 12, 2004	CTOURN	N	Oklahoma	Big 12	W	66	63		22	6	W 1	American Airlines Center	oklahoma	texas	2004
 29	Sat, Mar 13, 2004	CTOURN	N	Kansas (18)	Big 12	W	64	60		23	6	W 2	American Airlines Center	kansas	texas	2004
 30	Sun, Mar 14, 2004	CTOURN	N	Oklahoma State (7)	Big 12	L	49	65		23	7	L 1	American Airlines Center	oklahoma-state	texas	2004
-31	Thu, Mar 18, 2004	NCAA	N	Princeton	Ivy	W	66	49		24	7	W 1		s/2004-03-18-prin	texas	2004
-32	Sat, Mar 20, 2004	NCAA	N	North Carolina (18)	ACC	W	78	75		25	7	W 2		s/2004-03-20-north-car	texas	2004
-33	Fri, Mar 26, 2004	NCAA	N	Xavier	A-10	L	71	79		25	8	L 1	Georgia Dome	s/2004-03-26-	texas	2004
+31	Thu, Mar 18, 2004	NCAA	N	Princeton	Ivy	W	66	49		24	7	W 1		princeton	texas	2004
+32	Sat, Mar 20, 2004	NCAA	N	North Carolina (18)	ACC	W	78	75		25	7	W 2		north-carolina	texas	2004
+33	Fri, Mar 26, 2004	NCAA	N	Xavier	A-10	L	71	79		25	8	L 1	Georgia Dome	xavier	texas	2004
 1	Mon, Nov 24, 2003	REG		Arkansas-Pine Bluff	SWAC	W	82	53		1	0	W 1	Reed Arena	arkansas-pine-bluff	texas-am	2004
 2	Wed, Nov 26, 2003	REG		Alabama A&M	SWAC	W	100	65		2	0	W 2	Reed Arena	alabama-am	texas-am	2004
 3	Sat, Nov 29, 2003	REG		Prairie View	SWAC	W	88	79		3	0	W 3	Reed Arena	prairie-view	texas-am	2004
@@ -8432,7 +8432,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 11, 2004	CTOURN	N	Louisiana Tech	WAC	W	62	55		23	6	W 1	Save Mart Center	louisiana-tech	texas-el-paso	2004
 30	Fri, Mar 12, 2004	CTOURN	N	Boise State	WAC	W	85	73		24	6	W 2	Save Mart Center	boise-state	texas-el-paso	2004
 31	Sat, Mar 13, 2004	CTOURN	N	Nevada	WAC	L	60	66		24	7	L 1	Save Mart Center	nevada	texas-el-paso	2004
-32	Thu, Mar 18, 2004	NCAA	N	Maryland (19)	ACC	L	83	86		24	8	L 2	The Pepsi Center	s/2004-03-18-mar	texas-el-paso	2004
+32	Thu, Mar 18, 2004	NCAA	N	Maryland (19)	ACC	L	83	86		24	8	L 2	The Pepsi Center	maryland	texas-el-paso	2004
 1	Sat, Nov 22, 2003	REG	N	Southern Methodist	WAC	L	59	69		0	1	L 1	South Padre Island Convention Centre	southern-methodist	texas-pan-american	2004
 2	Tue, Nov 25, 2003	REG		Texas A&M-International		W	90	50		1	1	W 1	UTPA Fieldhouse	NA	texas-pan-american	2004
 3	Sat, Nov 29, 2003	REG		Texas-Arlington	Southland	L	75	81		1	2	L 1	UTPA Fieldhouse	texas-arlington	texas-pan-american	2004
@@ -8493,7 +8493,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Mon, Mar 8, 2004	CTOURN		Texas State	Southland	W	78	73		17	13	W 5	Convocation Center	texas-state	texas-san-antonio	2004
 31	Wed, Mar 10, 2004	CTOURN	@	Southeastern Louisiana	Southland	W	87	85		18	13	W 6	University Center	southeastern-louisiana	texas-san-antonio	2004
 32	Fri, Mar 12, 2004	CTOURN		Stephen F. Austin	Southland	W	74	70		19	13	W 7	Convocation Center	stephen-f-austin	texas-san-antonio	2004
-33	Thu, Mar 18, 2004	NCAA	N	Stanford (1)	Pac-10	L	45	71		19	14	L 1	KeyArena at Seattle Center 	s/2004-03-18-sta	texas-san-antonio	2004
+33	Thu, Mar 18, 2004	NCAA	N	Stanford (1)	Pac-10	L	45	71		19	14	L 1	KeyArena at Seattle Center 	stanford	texas-san-antonio	2004
 1	Sat, Nov 22, 2003	REG	@	Baylor	Big 12	L	59	72		0	1	L 1	Ferrell Center	baylor	texas-southern	2004
 2	Tue, Nov 25, 2003	REG	@	Southern Mississippi	CUSA	L	63	77		0	2	L 2	Reed Green Coliseum	southern-mississippi	texas-southern	2004
 3	Mon, Dec 1, 2003	REG		Texas College		W	74	55		1	2	W 1	Health & Physical Education Arena	NA	texas-southern	2004
@@ -8583,8 +8583,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 6, 2004	REG		Iowa State	Big 12	W	72	58		21	9	W 2	United Spirit Arena	iowa-state	texas-tech	2004
 31	Fri, Mar 12, 2004	CTOURN	N	Colorado	Big 12	W	79	69		22	9	W 3	American Airlines Center	colorado	texas-tech	2004
 32	Sat, Mar 13, 2004	CTOURN	N	Oklahoma State (7)	Big 12	L	77	82		22	10	L 1	American Airlines Center	oklahoma-state	texas-tech	2004
-33	Thu, Mar 18, 2004	NCAA	N	Charlotte	CUSA	W	76	73		23	10	W 1		s/2004-03-18-char	texas-tech	2004
-34	Sat, Mar 20, 2004	NCAA	N	Saint Joseph's (5)	A-10	L	65	70		23	11	L 1	HSBC Arena	s/2004-03-20-saint-jo	texas-tech	2004
+33	Thu, Mar 18, 2004	NCAA	N	Charlotte	CUSA	W	76	73		23	10	W 1		charlotte	texas-tech	2004
+34	Sat, Mar 20, 2004	NCAA	N	Saint Joseph's (5)	A-10	L	65	70		23	11	L 1	HSBC Arena	saint-josephs	texas-tech	2004
 1	Fri, Nov 21, 2003	REG	@	IPFW	Ind	W	71	53		1	0	W 1	Allen County War Memorial Coliseum	ipfw	toledo	2004
 2	Wed, Nov 26, 2003	REG		Youngstown State	Horizon	W	78	74		2	0	W 2	John F. Savage Hall	youngstown-state	toledo	2004
 3	Sun, Nov 30, 2003	REG	@	Ohio	MAC	W	72	66		3	0	W 3	Convocation Center	ohio	toledo	2004
@@ -8793,7 +8793,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 11, 2004	CTOURN	N	San Diego State	MWC	W	75	69		22	8	W 2	The Pepsi Center	san-diego-state	utah	2004
 31	Fri, Mar 12, 2004	CTOURN	N	Brigham Young	MWC	W	54	51		23	8	W 3	The Pepsi Center	brigham-young	utah	2004
 32	Sat, Mar 13, 2004	CTOURN	N	Nevada-Las Vegas	MWC	W	73	70		24	8	W 4	The Pepsi Center	nevada-las-vegas	utah	2004
-33	Fri, Mar 19, 2004	NCAA	N	Boston College (25)	Big East	L	51	58		24	9	L 1	Bradley Center	s/2004-03-19-boston-co	utah	2004
+33	Fri, Mar 19, 2004	NCAA	N	Boston College (25)	Big East	L	51	58		24	9	L 1	Bradley Center	boston-college	utah	2004
 1	Fri, Nov 21, 2003	REG		Fort Lewis		W	86	54		1	0	W 1	Dee Glen Smith Spectrum	NA	utah-state	2004
 2	Tue, Nov 25, 2003	REG	@	Weber State	Big Sky	W	66	60		2	0	W 2	Dee Events Center	weber-state	utah-state	2004
 3	Sat, Nov 29, 2003	REG		Illinois State	MVC	W	89	84		3	0	W 3	Dee Glen Smith Spectrum	illinois-state	utah-state	2004
@@ -8853,7 +8853,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sun, Mar 7, 2004	CTOURN	N	Oakland	Mid-Cont	W	73	64		16	12	W 3	Kemper Arena	oakland	valparaiso	2004
 29	Mon, Mar 8, 2004	CTOURN	N	Missouri-Kansas City	Mid-Cont	W	90	78		17	12	W 4	Kemper Arena	missouri-kansas-city	valparaiso	2004
 30	Tue, Mar 9, 2004	CTOURN	N	IUPUI	Mid-Cont	W	75	70		18	12	W 5	Kemper Arena	iupui	valparaiso	2004
-31	Thu, Mar 18, 2004	NCAA	N	Gonzaga (3)	WCC	L	49	76		18	13	L 1	KeyArena at Seattle Center 	s/2004-03-18-go	valparaiso	2004
+31	Thu, Mar 18, 2004	NCAA	N	Gonzaga (3)	WCC	L	49	76		18	13	L 1	KeyArena at Seattle Center 	gonzaga	valparaiso	2004
 1	Fri, Nov 21, 2003	REG	@	Belmont	A-Sun	W	74	59		1	0	W 1	Curb Event Center	belmont	vanderbilt	2004
 2	Mon, Nov 24, 2003	REG		Indiana	Big Ten	W	73	60		2	0	W 2	Memorial Gymnasium	indiana	vanderbilt	2004
 3	Sat, Nov 29, 2003	REG		Tennessee-Martin	OVC	W	94	60		3	0	W 3	Memorial Gymnasium	tennessee-martin	vanderbilt	2004
@@ -8884,9 +8884,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 11, 2004	CTOURN	N	Mississippi	SEC	W	70	50		20	8	W 1	Georgia Dome	mississippi	vanderbilt	2004
 29	Fri, Mar 12, 2004	CTOURN	N	Mississippi State (4)	SEC	W	74	70	OT	21	8	W 2	Georgia Dome	mississippi-state	vanderbilt	2004
 30	Sat, Mar 13, 2004	CTOURN	N	Florida	SEC	L	69	91		21	9	L 1	Georgia Dome	florida	vanderbilt	2004
-31	Fri, Mar 19, 2004	NCAA	N	Western Michigan	MAC	W	71	58		22	9	W 1	The Pepsi Center	s/2004-03-19-vande	vanderbilt	2004
-32	Sun, Mar 21, 2004	NCAA	N	North Carolina State (15)	ACC	W	75	73		23	9	W 2	The Pepsi Center	s/2004-03-21-north-carolina-	vanderbilt	2004
-33	Thu, Mar 25, 2004	NCAA	N	Connecticut (7)	Big East	L	53	73		23	10	L 1	US Airways Center	s/2004-03-25-connec	vanderbilt	2004
+31	Fri, Mar 19, 2004	NCAA	N	Western Michigan	MAC	W	71	58		22	9	W 1	The Pepsi Center	western-michigan	vanderbilt	2004
+32	Sun, Mar 21, 2004	NCAA	N	North Carolina State (15)	ACC	W	75	73		23	9	W 2	The Pepsi Center	north-carolina-state	vanderbilt	2004
+33	Thu, Mar 25, 2004	NCAA	N	Connecticut (7)	Big East	L	53	73		23	10	L 1	US Airways Center	connecticut	vanderbilt	2004
 1	Mon, Nov 17, 2003	REG	@	Nevada	WAC	L	49	69		0	1	L 1	Lawlor Events Center	nevada	vermont	2004
 2	Mon, Nov 24, 2003	REG	N	Iona	MAAC	L	53	56		0	2	L 2	Westchester County Center	iona	vermont	2004
 3	Sat, Nov 29, 2003	REG	@	UCLA	Pac-10	L	67	68		0	3	L 3	Pauley Pavilion	ucla	vermont	2004
@@ -8917,7 +8917,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 6, 2004	CTOURN	N	New Hampshire	AEC	W	58	50		20	8	W 1	Walter Brown Arena	new-hampshire	vermont	2004
 29	Sun, Mar 7, 2004	CTOURN	N	Hartford	AEC	W	61	48		21	8	W 2	Walter Brown Arena	hartford	vermont	2004
 30	Sat, Mar 13, 2004	CTOURN		Maine	AEC	W	72	53		22	8	W 3	Roy L. Patrick Gymnasium	maine	vermont	2004
-31	Thu, Mar 18, 2004	NCAA	N	Connecticut (7)	Big East	L	53	70		22	9	L 1	HSBC Arena	s/2004-03-18-connec	vermont	2004
+31	Thu, Mar 18, 2004	NCAA	N	Connecticut (7)	Big East	L	53	70		22	9	L 1	HSBC Arena	connecticut	vermont	2004
 1	Fri, Nov 21, 2003	REG	@	Temple	A-10	W	73	48		1	0	W 1	Liacouras Center	temple	villanova	2004
 2	Sat, Nov 22, 2003	REG	@	Redlands		W	114	103		2	0	W 2		NA	villanova	2004
 3	Mon, Nov 24, 2003	REG	N	Chaminade		L	49	52		2	1	L 1	Lahaina Civic Center	NA	villanova	2004
@@ -9014,7 +9014,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 6, 2004	CTOURN		Towson	CAA	W	67	60		21	7	W 6	Richmond Coliseum	towson	virginia-commonwealth	2004
 29	Sun, Mar 7, 2004	CTOURN		Old Dominion	CAA	W	84	67		22	7	W 7	Richmond Coliseum	old-dominion	virginia-commonwealth	2004
 30	Mon, Mar 8, 2004	CTOURN		George Mason	CAA	W	55	54		23	7	W 8	Richmond Coliseum	george-mason	virginia-commonwealth	2004
-31	Thu, Mar 18, 2004	NCAA	N	Wake Forest (17)	ACC	L	78	79		23	8	L 1		s/2004-03-18-virginia-commonw	virginia-commonwealth	2004
+31	Thu, Mar 18, 2004	NCAA	N	Wake Forest (17)	ACC	L	78	79		23	8	L 1		wake-forest	virginia-commonwealth	2004
 1	Thu, Nov 20, 2003	REG	N	Washington State	Pac-10	L	46	66		0	1	L 1	Carlson Center	washington-state	virginia-military-institute	2004
 2	Sat, Nov 22, 2003	REG	N	Texas-San Antonio	Southland	L	52	68		0	2	L 2	Carlson Center	texas-san-antonio	virginia-military-institute	2004
 3	Sun, Nov 23, 2003	REG	N	Binghamton	AEC	L	63	72		0	3	L 3	Carlson Center	binghamton	virginia-military-institute	2004
@@ -9129,9 +9129,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Tue, Mar 2, 2004	REG	@	Virginia	ACC	L	82	84		19	7	L 1	University Hall	virginia	wake-forest	2004
 27	Sat, Mar 6, 2004	REG		North Carolina State (16)	ACC	L	70	81		19	8	L 2	Lawrence Joel Coliseum	north-carolina-state	wake-forest	2004
 28	Fri, Mar 12, 2004	CTOURN		Maryland	ACC	L	86	87		19	9	L 3	Greensboro Coliseum	maryland	wake-forest	2004
-29	Thu, Mar 18, 2004	NCAA	N	Virginia Commonwealth	CAA	W	79	78		20	9	W 1		s/2004-03-18-virginia-commonw	wake-forest	2004
-30	Sat, Mar 20, 2004	NCAA	N	Manhattan	MAAC	W	84	80		21	9	W 2		s/2004-03-20-manh	wake-forest	2004
-31	Thu, Mar 25, 2004	NCAA	N	Saint Joseph's (5)	A-10	L	80	84		21	10	L 1	Izod Center	s/2004-03-25-saint-jo	wake-forest	2004
+29	Thu, Mar 18, 2004	NCAA	N	Virginia Commonwealth	CAA	W	79	78		20	9	W 1		virginia-commonwealth	wake-forest	2004
+30	Sat, Mar 20, 2004	NCAA	N	Manhattan	MAAC	W	84	80		21	9	W 2		manhattan	wake-forest	2004
+31	Thu, Mar 25, 2004	NCAA	N	Saint Joseph's (5)	A-10	L	80	84		21	10	L 1	Izod Center	saint-josephs	wake-forest	2004
 1	Fri, Nov 21, 2003	REG		Portland State	Big Sky	W	73	65		1	0	W 1	Bank of America Arena	portland-state	washington	2004
 2	Mon, Nov 24, 2003	REG		UC-Riverside	Big West	W	91	78		2	0	W 2	Bank of America Arena	california-riverside	washington	2004
 3	Sat, Nov 29, 2003	REG		Eastern Washington	Big Sky	W	104	91		3	0	W 3	Bank of America Arena	eastern-washington	washington	2004
@@ -9162,7 +9162,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 11, 2004	CTOURN	N	UCLA	Pac-10	W	91	83		18	10	W 5	Staples Center	ucla	washington	2004
 29	Fri, Mar 12, 2004	CTOURN	N	Arizona (21)	Pac-10	W	90	85		19	10	W 6	Staples Center	arizona	washington	2004
 30	Sat, Mar 13, 2004	CTOURN	N	Stanford (2)	Pac-10	L	66	77		19	11	L 1	Staples Center	stanford	washington	2004
-31	Fri, Mar 19, 2004	NCAA	N	Alabama-Birmingham	CUSA	L	100	102		19	12	L 2		s/2004-03-19-alabama-birmi	washington	2004
+31	Fri, Mar 19, 2004	NCAA	N	Alabama-Birmingham	CUSA	L	100	102		19	12	L 2		alabama-birmingham	washington	2004
 1	Thu, Nov 20, 2003	REG	N	Virginia Military Institute	Big South	W	66	46		1	0	W 1	Carlson Center	virginia-military-institute	washington-state	2004
 2	Sat, Nov 22, 2003	REG	@	Alaska-Fairbanks		W	57	51		2	0	W 2	Carlson Center	NA	washington-state	2004
 3	Sun, Nov 23, 2003	REG	N	Rice	WAC	L	49	64		2	1	L 1	Carlson Center	rice	washington-state	2004
@@ -9366,7 +9366,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 11, 2004	CTOURN	N	Marshall	MAC	W	96	62		24	4	W 3	Quicken Loans Arena	marshall	western-michigan	2004
 29	Fri, Mar 12, 2004	CTOURN	N	Toledo	MAC	W	87	77		25	4	W 4	Quicken Loans Arena	toledo	western-michigan	2004
 30	Sat, Mar 13, 2004	CTOURN	N	Kent State	MAC	W	77	66		26	4	W 5	Quicken Loans Arena	kent-state	western-michigan	2004
-31	Fri, Mar 19, 2004	NCAA	N	Vanderbilt	SEC	L	58	71		26	5	L 1	The Pepsi Center	s/2004-03-19-vande	western-michigan	2004
+31	Fri, Mar 19, 2004	NCAA	N	Vanderbilt	SEC	L	58	71		26	5	L 1	The Pepsi Center	vanderbilt	western-michigan	2004
 1	Fri, Nov 21, 2003	REG	N	La Salle	A-10	W	74	71		1	0	W 1	Virgin Islands Sport & Fitness Center 	la-salle	wichita-state	2004
 2	Sun, Nov 23, 2003	REG	N	Hampton	MEAC	W	68	65		2	0	W 2	Virgin Islands Sport & Fitness Center 	hampton	wichita-state	2004
 3	Mon, Nov 24, 2003	REG	N	Boston College	Big East	L	81	84		2	1	L 1	Virgin Islands Sport & Fitness Center 	boston-college	wichita-state	2004
@@ -9485,8 +9485,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 12, 2004	CTOURN	N	Minnesota	Big Ten	W	66	52		22	6	W 5	Conseco Fieldhouse	minnesota	wisconsin	2004
 29	Sat, Mar 13, 2004	CTOURN	N	Michigan State	Big Ten	W	68	66		23	6	W 6	Conseco Fieldhouse	michigan-state	wisconsin	2004
 30	Sun, Mar 14, 2004	CTOURN	N	Illinois (12)	Big Ten	W	70	53		24	6	W 7	Conseco Fieldhouse	illinois	wisconsin	2004
-31	Fri, Mar 19, 2004	NCAA	N	Richmond	A-10	W	76	64		25	6	W 8		s/2004-03-19-ric	wisconsin	2004
-32	Sun, Mar 21, 2004	NCAA	N	Pittsburgh (9)	Big East	L	55	59		25	7	L 1	Bradley Center	s/2004-03-21-pitts	wisconsin	2004
+31	Fri, Mar 19, 2004	NCAA	N	Richmond	A-10	W	76	64		25	6	W 8		richmond	wisconsin	2004
+32	Sun, Mar 21, 2004	NCAA	N	Pittsburgh (9)	Big East	L	55	59		25	7	L 1	Bradley Center	pittsburgh	wisconsin	2004
 1	Fri, Nov 21, 2003	REG	@	Tennessee	SEC	L	70	81		0	1	L 1	Thompson-Boling Arena	tennessee	wofford	2004
 2	Mon, Nov 24, 2003	REG		Emmanuel (GA)		W	88	42		1	1	W 1	Benjamin Johnson Arena	NA	wofford	2004
 3	Sat, Nov 29, 2003	REG	@	Clemson	ACC	L	77	84		1	2	L 1	Littlejohn Coliseum	clemson	wofford	2004
@@ -9605,10 +9605,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Thu, Mar 11, 2004	CTOURN	N	Saint Joseph's (1)	A-10	W	87	67		21	10	W 4	University of Dayton Arena	saint-josephs	xavier	2004
 32	Fri, Mar 12, 2004	CTOURN	N	George Washington	A-10	W	70	47		22	10	W 5	University of Dayton Arena	george-washington	xavier	2004
 33	Sat, Mar 13, 2004	CTOURN	N	Dayton	A-10	W	58	49		23	10	W 6	University of Dayton Arena	dayton	xavier	2004
-34	Fri, Mar 19, 2004	NCAA	N	Louisville	CUSA	W	80	70		24	10	W 7		s/2004-03-19-louis	xavier	2004
-35	Sun, Mar 21, 2004	NCAA	N	Mississippi State (8)	SEC	W	89	74		25	10	W 8	Amway Arena	s/2004-03-21-mississippi-	xavier	2004
-36	Fri, Mar 26, 2004	NCAA	N	Texas (12)	Big 12	W	79	71		26	10	W 9	Georgia Dome	s/2004-03-26-	xavier	2004
-37	Sun, Mar 28, 2004	NCAA	N	Duke (6)	ACC	L	63	66		26	11	L 1	Georgia Dome	s/2004-03-28	xavier	2004
+34	Fri, Mar 19, 2004	NCAA	N	Louisville	CUSA	W	80	70		24	10	W 7		louisville	xavier	2004
+35	Sun, Mar 21, 2004	NCAA	N	Mississippi State (8)	SEC	W	89	74		25	10	W 8	Amway Arena	mississippi-state	xavier	2004
+36	Fri, Mar 26, 2004	NCAA	N	Texas (12)	Big 12	W	79	71		26	10	W 9	Georgia Dome	texas	xavier	2004
+37	Sun, Mar 28, 2004	NCAA	N	Duke (6)	ACC	L	63	66		26	11	L 1	Georgia Dome	duke	xavier	2004
 1	Mon, Nov 17, 2003	REG	@	Connecticut (1)	Big East	L	60	70		0	1	L 1	Harry A. Gampel Pavilion	connecticut	yale	2004
 2	Sat, Nov 22, 2003	REG	N	Eastern Michigan	MAC	W	75	60		1	1	W 1	McCann Recreation Center	eastern-michigan	yale	2004
 3	Sun, Nov 23, 2003	REG	N	Coastal Carolina	Big South	W	70	65		2	1	W 2	McCann Recreation Center	coastal-carolina	yale	2004

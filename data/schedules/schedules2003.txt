@@ -83,7 +83,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Wed, Mar 5, 2003	REG		South Carolina	SEC	W	82	59		17	9	W 2	Coleman Coliseum 	south-carolina	alabama	2003
 27	Sat, Mar 8, 2003	REG	@	Louisiana State	SEC	L	62	66		17	10	L 1	Maravich Assembly Center	louisiana-state	alabama	2003
 28	Thu, Mar 13, 2003	CTOURN	N	Vanderbilt	SEC	L	69	82		17	11	L 2	Louisiana Superdome	vanderbilt	alabama	2003
-29	Fri, Mar 21, 2003	NCAA	N	Indiana	Big Ten	L	62	67		17	12	L 3		s/2003-03-21-al	alabama	2003
+29	Fri, Mar 21, 2003	NCAA	N	Indiana	Big Ten	L	62	67		17	12	L 3		indiana	alabama	2003
 1	Fri, Nov 22, 2002	REG		Tuskegee		W	96	79		1	0	W 1	Elmore Health Science Building 	NA	alabama-am	2003
 2	Sun, Nov 24, 2002	REG	@	Vanderbilt	SEC	L	40	68		1	1	L 1	Memorial Gymnasium	vanderbilt	alabama-am	2003
 3	Mon, Dec 2, 2002	REG	@	Mississippi State (23)	SEC	L	58	100		1	2	L 2	Humphrey Coliseum	mississippi-state	alabama-am	2003
@@ -322,10 +322,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Thu, Mar 6, 2003	REG		Oregon State	Pac-10	W	72	60		24	2	W 9	McKale Center	oregon-state	arizona	2003
 27	Sat, Mar 8, 2003	REG		Oregon	Pac-10	W	88	80		25	2	W 10	McKale Center	oregon	arizona	2003
 28	Thu, Mar 13, 2003	CTOURN	N	UCLA	Pac-10	L	89	96	OT	25	3	L 1	Staples Center	ucla	arizona	2003
-29	Thu, Mar 20, 2003	NCAA	N	Vermont	AEC	W	80	51		26	3	W 1	Jon M. Huntsman Center	s/2003-03-20-ar	arizona	2003
-30	Sat, Mar 22, 2003	NCAA	N	Gonzaga	WCC	W	96	95	2OT	27	3	W 2	Jon M. Huntsman Center	s/2003-03-22-ar	arizona	2003
-31	Thu, Mar 27, 2003	NCAA	N	Notre Dame (22)	Big East	W	88	71		28	3	W 3	Honda Center	s/2003-03-27-ar	arizona	2003
-32	Sat, Mar 29, 2003	NCAA	N	Kansas (6)	Big 12	L	75	78		28	4	L 1	Honda Center	s/2003-03-29-ar	arizona	2003
+29	Thu, Mar 20, 2003	NCAA	N	Vermont	AEC	W	80	51		26	3	W 1	Jon M. Huntsman Center	vermont	arizona	2003
+30	Sat, Mar 22, 2003	NCAA	N	Gonzaga	WCC	W	96	95	2OT	27	3	W 2	Jon M. Huntsman Center	gonzaga	arizona	2003
+31	Thu, Mar 27, 2003	NCAA	N	Notre Dame (22)	Big East	W	88	71		28	3	W 3	Honda Center	notre-dame	arizona	2003
+32	Sat, Mar 29, 2003	NCAA	N	Kansas (6)	Big 12	L	75	78		28	4	L 1	Honda Center	kansas	arizona	2003
 1	Fri, Nov 22, 2002	REG		Morehead State	OVC	W	59	56		1	0	W 1	Wells Fargo Arena	morehead-state	arizona-state	2003
 2	Mon, Nov 25, 2002	REG	N	Kentucky (17)	SEC	L	65	82		1	1	L 1	Lahaina Civic Center	kentucky	arizona-state	2003
 3	Tue, Nov 26, 2002	REG	N	Chaminade		W	101	72		2	1	W 1	Lahaina Civic Center	NA	arizona-state	2003
@@ -356,8 +356,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 6, 2003	REG		Oregon	Pac-10	W	91	77		18	10	W 1	Wells Fargo Arena	oregon	arizona-state	2003
 29	Sat, Mar 8, 2003	REG		Oregon State	Pac-10	W	74	64		19	10	W 2	Wells Fargo Arena	oregon-state	arizona-state	2003
 30	Thu, Mar 13, 2003	CTOURN	N	Oregon	Pac-10	L	82	83		19	11	L 1	Staples Center	oregon	arizona-state	2003
-31	Thu, Mar 20, 2003	NCAA	N	Memphis (19)	CUSA	W	84	71		20	11	W 1		s/2003-03-20-arizona-	arizona-state	2003
-32	Sat, Mar 22, 2003	NCAA	N	Kansas (6)	Big 12	L	76	108		20	12	L 1		s/2003-03-22-arizona-	arizona-state	2003
+31	Thu, Mar 20, 2003	NCAA	N	Memphis (19)	CUSA	W	84	71		20	11	W 1		memphis	arizona-state	2003
+32	Sat, Mar 22, 2003	NCAA	N	Kansas (6)	Big 12	L	76	108		20	12	L 1		kansas	arizona-state	2003
 1	Fri, Nov 22, 2002	REG		Jackson State	SWAC	W	81	44		1	0	W 1	Bud Walton Arena	jackson-state	arkansas	2003
 2	Tue, Nov 26, 2002	REG	@	Oral Roberts	Mid-Cont	L	64	76		1	1	L 1	Mabee Center	oral-roberts	arkansas	2003
 3	Sat, Nov 30, 2002	REG		Tulsa (22)	WAC	L	60	61		1	2	L 2	Bud Walton Arena	tulsa	arkansas	2003
@@ -530,9 +530,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 8, 2003	REG	@	Mississippi State (23)	SEC	L	45	67		19	10	L 1	Humphrey Coliseum	mississippi-state	auburn	2003
 30	Fri, Mar 14, 2003	CTOURN	N	Tennessee	SEC	W	66	53		20	10	W 1	Louisiana Superdome	tennessee	auburn	2003
 31	Sat, Mar 15, 2003	CTOURN	N	Kentucky (2)	SEC	L	58	78		20	11	L 1	Louisiana Superdome	kentucky	auburn	2003
-32	Fri, Mar 21, 2003	NCAA	N	Saint Joseph's	A-10	W	65	63	OT	21	11	W 1		s/2003-03-21-a	auburn	2003
-33	Sun, Mar 23, 2003	NCAA	N	Wake Forest (8)	ACC	W	68	62		22	11	W 2		s/2003-03-23-a	auburn	2003
-34	Fri, Mar 28, 2003	NCAA	N	Syracuse (13)	Big East	L	78	79		22	12	L 1		s/2003-03-28-a	auburn	2003
+32	Fri, Mar 21, 2003	NCAA	N	Saint Joseph's	A-10	W	65	63	OT	21	11	W 1		saint-josephs	auburn	2003
+33	Sun, Mar 23, 2003	NCAA	N	Wake Forest (8)	ACC	W	68	62		22	11	W 2		wake-forest	auburn	2003
+34	Fri, Mar 28, 2003	NCAA	N	Syracuse (13)	Big East	L	78	79		22	12	L 1		syracuse	auburn	2003
 1	Fri, Nov 22, 2002	REG	@	Memphis	CUSA	W	81	80	OT	1	0	W 1	The Pyramid	memphis	austin-peay	2003
 2	Mon, Nov 25, 2002	REG		Bluefield College (VA)		W	90	66		2	0	W 2	Winfield Dunn Center	NA	austin-peay	2003
 3	Sat, Nov 30, 2002	REG	@	Missouri (18)	Big 12	L	46	81		2	1	L 1	Hearnes Center	missouri	austin-peay	2003
@@ -563,7 +563,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Mar 4, 2003	CTOURN		Eastern Kentucky	OVC	W	83	80		21	7	W 4	Winfield Dunn Center	eastern-kentucky	austin-peay	2003
 29	Fri, Mar 7, 2003	CTOURN	N	Murray State	OVC	W	59	56	OT	22	7	W 5	Bridgestone Arena	murray-state	austin-peay	2003
 30	Sat, Mar 8, 2003	CTOURN	N	Tennessee Tech	OVC	W	63	57		23	7	W 6	Bridgestone Arena	tennessee-tech	austin-peay	2003
-31	Fri, Mar 21, 2003	NCAA	N	Louisville (14)	CUSA	L	64	86		23	8	L 1		s/2003-03-21-austin	austin-peay	2003
+31	Fri, Mar 21, 2003	NCAA	N	Louisville (14)	CUSA	L	64	86		23	8	L 1		louisville	austin-peay	2003
 1	Fri, Nov 22, 2002	REG	N	Jacksonville State	A-Sun	W	72	64		1	0	W 1	Carlson Center	jacksonville-state	ball-state	2003
 2	Sat, Nov 23, 2002	REG	N	Weber State	Big Sky	L	67	72		1	1	L 1	Carlson Center	weber-state	ball-state	2003
 3	Sun, Nov 24, 2002	REG	N	Nebraska	Big 12	W	73	65		2	1	W 1	Carlson Center	nebraska	ball-state	2003
@@ -889,7 +889,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 8, 2003	REG		Colorado State	MWC	W	67	55		22	7	W 4	Marriott Center	colorado-state	brigham-young	2003
 30	Thu, Mar 13, 2003	CTOURN	N	New Mexico	MWC	W	71	56		23	7	W 5	Thomas & Mack Center	new-mexico	brigham-young	2003
 31	Fri, Mar 14, 2003	CTOURN	N	Colorado State	MWC	L	80	86	OT	23	8	L 1	Thomas & Mack Center	colorado-state	brigham-young	2003
-32	Thu, Mar 20, 2003	NCAA	N	Connecticut (23)	Big East	L	53	58		23	9	L 2		s/2003-03-20-brigham-	brigham-young	2003
+32	Thu, Mar 20, 2003	NCAA	N	Connecticut (23)	Big East	L	53	58		23	9	L 2		connecticut	brigham-young	2003
 1	Sun, Nov 17, 2002	REG	N	IUPUI	Mid-Cont	L	65	66		0	1	L 1	Purcell Pavilion at the Joyce Center	iupui	brown	2003
 2	Mon, Nov 18, 2002	REG	N	Belmont	A-Sun	L	77	83	OT	0	2	L 2	Purcell Pavilion at the Joyce Center	belmont	brown	2003
 3	Sat, Nov 23, 2002	REG	@	Providence	Big East	L	64	83		0	3	L 3	Dunkin' Donuts Center	providence	brown	2003
@@ -1006,9 +1006,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 1, 2003	REG		Milwaukee	Horizon	W	76	74		24	4	W 6	Hinkle Fieldhouse	milwaukee	butler	2003
 29	Sat, Mar 8, 2003	CTOURN		Detroit Mercy	Horizon	W	58	55		25	4	W 7	Hinkle Fieldhouse	detroit-mercy	butler	2003
 30	Tue, Mar 11, 2003	CTOURN	@	Milwaukee	Horizon	L	52	69		25	5	L 1	U.S. Cellular Arena	milwaukee	butler	2003
-31	Fri, Mar 21, 2003	NCAA	N	Mississippi State (20)	SEC	W	47	46		26	5	W 1		s/2003-03-21-b	butler	2003
-32	Sun, Mar 23, 2003	NCAA	N	Louisville (14)	CUSA	W	79	71		27	5	W 2		s/2003-03-23-b	butler	2003
-33	Fri, Mar 28, 2003	NCAA	N	Oklahoma (3)	Big 12	L	54	65		27	6	L 1		s/2003-03-28-b	butler	2003
+31	Fri, Mar 21, 2003	NCAA	N	Mississippi State (20)	SEC	W	47	46		26	5	W 1		mississippi-state	butler	2003
+32	Sun, Mar 23, 2003	NCAA	N	Louisville (14)	CUSA	W	79	71		27	5	W 2		louisville	butler	2003
+33	Fri, Mar 28, 2003	NCAA	N	Oklahoma (3)	Big 12	L	54	65		27	6	L 1		oklahoma	butler	2003
 1	Fri, Nov 22, 2002	REG	@	Colorado	Big 12	L	69	97		0	1	L 1	Coors Events/Conference Center	colorado	cal-poly	2003
 2	Wed, Nov 27, 2002	REG		Notre Dame de Namur		W	88	74		1	1	W 1	Robert A. Mott Gymnasium	NA	cal-poly	2003
 3	Sat, Nov 30, 2002	REG		San Diego State	MWC	L	62	65		1	2	L 1	Robert A. Mott Gymnasium	san-diego-state	cal-poly	2003
@@ -1126,8 +1126,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 8, 2003	REG	@	Stanford (17)	Pac-10	L	60	72		20	7	L 1	Maples Pavilion	stanford	california	2003
 28	Thu, Mar 13, 2003	CTOURN	N	Oregon State	Pac-10	W	69	46		21	7	W 1	Staples Center	oregon-state	california	2003
 29	Fri, Mar 14, 2003	CTOURN	N	Southern California	Pac-10	L	62	79		21	8	L 1	Staples Center	southern-california	california	2003
-30	Thu, Mar 20, 2003	NCAA	N	North Carolina State	ACC	W	76	74	OT	22	8	W 1	Ford Center	s/2003-03-20-calif	california	2003
-31	Sat, Mar 22, 2003	NCAA	N	Oklahoma (3)	Big 12	L	65	74		22	9	L 1		s/2003-03-22-calif	california	2003
+30	Thu, Mar 20, 2003	NCAA	N	North Carolina State	ACC	W	76	74	OT	22	8	W 1	Ford Center	north-carolina-state	california	2003
+31	Sat, Mar 22, 2003	NCAA	N	Oklahoma (3)	Big 12	L	65	74		22	9	L 1		oklahoma	california	2003
 1	Fri, Nov 22, 2002	REG	@	Oklahoma (7)	Big 12	L	65	87		0	1	L 1	Lloyd Noble Center	oklahoma	california-irvine	2003
 2	Sat, Nov 23, 2002	REG	N	Western Michigan	MAC	L	62	73		0	2	L 2	Lloyd Noble Center	western-michigan	california-irvine	2003
 3	Sat, Nov 30, 2002	REG	@	Pepperdine	WCC	W	74	69		1	2	W 1	Firestone Fieldhouse	pepperdine	california-irvine	2003
@@ -1386,8 +1386,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 13, 2003	CTOURN	N	Bowling Green State	MAC	W	87	70		22	6	W 4	Quicken Loans Arena	bowling-green-state	central-michigan	2003
 29	Fri, Mar 14, 2003	CTOURN	N	Northern Illinois	MAC	W	94	72		23	6	W 5	Quicken Loans Arena	northern-illinois	central-michigan	2003
 30	Sat, Mar 15, 2003	CTOURN	N	Kent State	MAC	W	77	67		24	6	W 6	Quicken Loans Arena	kent-state	central-michigan	2003
-31	Thu, Mar 20, 2003	NCAA	N	Creighton (15)	MVC	W	79	73		25	6	W 7		s/2003-03-20-central-mic	central-michigan	2003
-32	Sat, Mar 22, 2003	NCAA	N	Duke (7)	ACC	L	60	86		25	7	L 1		s/2003-03-22-central-mic	central-michigan	2003
+31	Thu, Mar 20, 2003	NCAA	N	Creighton (15)	MVC	W	79	73		25	6	W 7		creighton	central-michigan	2003
+32	Sat, Mar 22, 2003	NCAA	N	Duke (7)	ACC	L	60	86		25	7	L 1		duke	central-michigan	2003
 1	Fri, Nov 22, 2002	REG	N	College of Charleston	Southern	L	70	84		0	1	L 1	North Charleston Coliseum	college-of-charleston	charleston-southern	2003
 2	Tue, Nov 26, 2002	REG		Anderson (SC)		W	77	75		1	1	W 1	CSU Fieldhouse	NA	charleston-southern	2003
 3	Sat, Nov 30, 2002	REG	@	Stetson	A-Sun	W	68	62		2	1	W 2	Edmunds Center	stetson	charleston-southern	2003
@@ -1533,7 +1533,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Wed, Mar 5, 2003	REG		Alabama-Birmingham	CUSA	W	87	70		17	9	W 1	Fifth Third Arena	alabama-birmingham	cincinnati	2003
 27	Sat, Mar 8, 2003	REG	@	Marquette (8)	CUSA	L	61	70		17	10	L 1	Bradley Center	marquette	cincinnati	2003
 28	Wed, Mar 12, 2003	CTOURN	N	Southern Mississippi	CUSA	L	61	63		17	11	L 2	Freedom Hall	southern-mississippi	cincinnati	2003
-29	Thu, Mar 20, 2003	NCAA	N	Gonzaga	WCC	L	69	74		17	12	L 3	Jon M. Huntsman Center	s/2003-03-20-cinci	cincinnati	2003
+29	Thu, Mar 20, 2003	NCAA	N	Gonzaga	WCC	L	69	74		17	12	L 3	Jon M. Huntsman Center	gonzaga	cincinnati	2003
 1	Fri, Nov 22, 2002	REG		Webber		W	83	60		1	0	W 1	McAlister Field House	NA	citadel	2003
 2	Mon, Nov 25, 2002	REG	@	Navy	Patriot	L	51	57		1	1	L 1	Alumni Hall	navy	citadel	2003
 3	Wed, Nov 27, 2002	REG	@	Maryland (11)	ACC	L	49	97		1	2	L 2	Comcast Center	maryland	citadel	2003
@@ -1740,7 +1740,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 8, 2003	REG		Nebraska	Big 12	W	84	69		19	10	W 3	Coors Events/Conference Center	nebraska	colorado	2003
 30	Thu, Mar 13, 2003	CTOURN	N	Kansas State	Big 12	W	77	76		20	10	W 4	American Airlines Center	kansas-state	colorado	2003
 31	Fri, Mar 14, 2003	CTOURN	N	Oklahoma (6)	Big 12	L	59	74		20	11	L 1	American Airlines Center	oklahoma	colorado	2003
-32	Fri, Mar 21, 2003	NCAA	N	Michigan State	Big Ten	L	64	79		20	12	L 2		s/2003-03-21-col	colorado	2003
+32	Fri, Mar 21, 2003	NCAA	N	Michigan State	Big Ten	L	64	79		20	12	L 2		michigan-state	colorado	2003
 1	Sat, Nov 16, 2002	REG		IPFW	Ind	W	80	62		1	0	W 1	Moby Arena	ipfw	colorado-state	2003
 2	Mon, Nov 18, 2002	REG		Florida Atlantic	A-Sun	W	81	56		2	0	W 2	Moby Arena	florida-atlantic	colorado-state	2003
 3	Tue, Nov 19, 2002	REG		Cleveland State	Horizon	W	77	63		3	0	W 3	Moby Arena	cleveland-state	colorado-state	2003
@@ -1773,7 +1773,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 13, 2003	CTOURN	N	Wyoming	MWC	W	74	71		17	13	W 1	Thomas & Mack Center	wyoming	colorado-state	2003
 31	Fri, Mar 14, 2003	CTOURN	N	Brigham Young	MWC	W	86	80	OT	18	13	W 2	Thomas & Mack Center	brigham-young	colorado-state	2003
 32	Sat, Mar 15, 2003	CTOURN	@	Nevada-Las Vegas	MWC	W	62	61		19	13	W 3	Thomas & Mack Center	nevada-las-vegas	colorado-state	2003
-33	Thu, Mar 20, 2003	NCAA	N	Duke (7)	ACC	L	57	67		19	14	L 1		s/2003-03-20-colorado-	colorado-state	2003
+33	Thu, Mar 20, 2003	NCAA	N	Duke (7)	ACC	L	57	67		19	14	L 1		duke	colorado-state	2003
 1	Mon, Nov 18, 2002	REG	@	Rutgers	Big East	L	36	60		0	1	L 1	Louis Brown Athletic Center	rutgers	columbia	2003
 2	Sat, Nov 23, 2002	REG	@	Boston University	AEC	L	37	66		0	2	L 2	Case Gym	boston-university	columbia	2003
 3	Tue, Nov 26, 2002	REG	@	Binghamton	AEC	L	42	70		0	3	L 3	West Gym	binghamton	columbia	2003
@@ -1831,9 +1831,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 13, 2003	CTOURN	N	Seton Hall	Big East	W	83	70		20	8	W 2	Madison Square Garden (IV)	seton-hall	connecticut	2003
 29	Fri, Mar 14, 2003	CTOURN	N	Syracuse (11)	Big East	W	80	67		21	8	W 3	Madison Square Garden (IV)	syracuse	connecticut	2003
 30	Sat, Mar 15, 2003	CTOURN	N	Pittsburgh (5)	Big East	L	56	74		21	9	L 1	Madison Square Garden (IV)	pittsburgh	connecticut	2003
-31	Thu, Mar 20, 2003	NCAA	N	Brigham Young	MWC	W	58	53		22	9	W 1		s/2003-03-20-brigham-	connecticut	2003
-32	Sat, Mar 22, 2003	NCAA	N	Stanford (18)	Pac-10	W	85	74		23	9	W 2		s/2003-03-22-connec	connecticut	2003
-33	Fri, Mar 28, 2003	NCAA	N	Texas (5)	Big 12	L	78	82		23	10	L 1		s/2003-03-28-connec	connecticut	2003
+31	Thu, Mar 20, 2003	NCAA	N	Brigham Young	MWC	W	58	53		22	9	W 1		brigham-young	connecticut	2003
+32	Sat, Mar 22, 2003	NCAA	N	Stanford (18)	Pac-10	W	85	74		23	9	W 2		stanford	connecticut	2003
+33	Fri, Mar 28, 2003	NCAA	N	Texas (5)	Big 12	L	78	82		23	10	L 1		texas	connecticut	2003
 1	Fri, Nov 22, 2002	REG	@	Marquette (16)	CUSA	L	46	64		0	1	L 1	Bradley Center	marquette	coppin-state	2003
 2	Sat, Nov 23, 2002	REG	N	Idaho State	Big Sky	L	55	63		0	2	L 2	Bradley Center	idaho-state	coppin-state	2003
 3	Mon, Nov 25, 2002	REG	@	Ohio State	Big Ten	L	51	58		0	3	L 3	Value City Arena	ohio-state	coppin-state	2003
@@ -1922,7 +1922,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sat, Mar 8, 2003	CTOURN	N	Indiana State	MVC	W	57	56		27	4	W 2	Scottrade Center	indiana-state	creighton	2003
 32	Sun, Mar 9, 2003	CTOURN	N	Wichita State	MVC	W	70	69		28	4	W 3	Scottrade Center	wichita-state	creighton	2003
 33	Mon, Mar 10, 2003	CTOURN	N	Southern Illinois	MVC	W	80	56		29	4	W 4	Scottrade Center	southern-illinois	creighton	2003
-34	Thu, Mar 20, 2003	NCAA	N	Central Michigan	MAC	L	73	79		29	5	L 1		s/2003-03-20-central-mic	creighton	2003
+34	Thu, Mar 20, 2003	NCAA	N	Central Michigan	MAC	L	73	79		29	5	L 1		central-michigan	creighton	2003
 1	Fri, Nov 22, 2002	REG	@	Lehigh	Patriot	L	62	68		0	1	L 1	Stabler Arena	lehigh	dartmouth	2003
 2	Tue, Nov 26, 2002	REG	@	Vermont	AEC	L	41	62		0	2	L 2	Roy L. Patrick Gymnasium	vermont	dartmouth	2003
 3	Sat, Nov 30, 2002	REG		Boston University	AEC	L	53	65		0	3	L 3	Leede Arena	boston-university	dartmouth	2003
@@ -2006,7 +2006,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Thu, Mar 13, 2003	CTOURN		Rhode Island	A-10	W	74	57		22	5	W 3	University of Dayton Arena	rhode-island	dayton	2003
 28	Fri, Mar 14, 2003	CTOURN		Saint Joseph's (25)	A-10	W	76	73		23	5	W 4	University of Dayton Arena	saint-josephs	dayton	2003
 29	Sat, Mar 15, 2003	CTOURN		Temple	A-10	W	79	72		24	5	W 5	University of Dayton Arena	temple	dayton	2003
-30	Thu, Mar 20, 2003	NCAA	N	Tulsa	WAC	L	71	84		24	6	L 1	Spokane Arena	s/2003-03-20-d	dayton	2003
+30	Thu, Mar 20, 2003	NCAA	N	Tulsa	WAC	L	71	84		24	6	L 1	Spokane Arena	tulsa	dayton	2003
 1	Fri, Nov 22, 2002	REG	@	La Salle	A-10	L	56	73		0	1	L 1	Tom Gola Arena	la-salle	delaware	2003
 2	Sun, Dec 1, 2002	REG		Long Island University	NEC	W	87	58		1	1	W 1	Bob Carpenter Center	long-island-university	delaware	2003
 3	Tue, Dec 3, 2002	REG		Pennsylvania	Ivy	W	60	59		2	1	W 2	Bob Carpenter Center	pennsylvania	delaware	2003
@@ -2245,9 +2245,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 14, 2003	CTOURN	N	Virginia	ACC	W	83	76		22	6	W 1	Greensboro Coliseum	virginia	duke	2003
 29	Sat, Mar 15, 2003	CTOURN	N	North Carolina	ACC	W	75	63		23	6	W 2	Greensboro Coliseum	north-carolina	duke	2003
 30	Sun, Mar 16, 2003	CTOURN	N	North Carolina State	ACC	W	84	77		24	6	W 3	Greensboro Coliseum	north-carolina-state	duke	2003
-31	Thu, Mar 20, 2003	NCAA	N	Colorado State	MWC	W	67	57		25	6	W 4		s/2003-03-20-colorado-	duke	2003
-32	Sat, Mar 22, 2003	NCAA	N	Central Michigan	MAC	W	86	60		26	6	W 5		s/2003-03-22-central-mic	duke	2003
-33	Thu, Mar 27, 2003	NCAA	N	Kansas (6)	Big 12	L	65	69		26	7	L 1		s/2003-03-27	duke	2003
+31	Thu, Mar 20, 2003	NCAA	N	Colorado State	MWC	W	67	57		25	6	W 4		colorado-state	duke	2003
+32	Sat, Mar 22, 2003	NCAA	N	Central Michigan	MAC	W	86	60		26	6	W 5		central-michigan	duke	2003
+33	Thu, Mar 27, 2003	NCAA	N	Kansas (6)	Big 12	L	65	69		26	7	L 1		kansas	duke	2003
 1	Sat, Nov 23, 2002	REG	@	Pittsburgh (5)	Big East	L	67	82		0	1	L 1	Petersen Events Center	pittsburgh	duquesne	2003
 2	Mon, Nov 25, 2002	REG		West Virginia	Big East	W	86	82		1	1	W 1	A.J. Palumbo Center	west-virginia	duquesne	2003
 3	Wed, Nov 27, 2002	REG		Cleveland State	Horizon	L	67	74		1	2	L 1	A.J. Palumbo Center	cleveland-state	duquesne	2003
@@ -2335,7 +2335,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 6, 2003	CTOURN	N	Wofford	Southern	W	80	75		18	10	W 2	North Charleston Coliseum	wofford	east-tennessee-state	2003
 29	Fri, Mar 7, 2003	CTOURN	N	College of Charleston	Southern	W	64	55		19	10	W 3	North Charleston Coliseum	college-of-charleston	east-tennessee-state	2003
 30	Sat, Mar 8, 2003	CTOURN	N	Chattanooga	Southern	W	97	90		20	10	W 4	North Charleston Coliseum	chattanooga	east-tennessee-state	2003
-31	Fri, Mar 21, 2003	NCAA	N	Wake Forest (8)	ACC	L	73	76		20	11	L 1		s/2003-03-21-east-tennessee-	east-tennessee-state	2003
+31	Fri, Mar 21, 2003	NCAA	N	Wake Forest (8)	ACC	L	73	76		20	11	L 1		wake-forest	east-tennessee-state	2003
 1	Mon, Nov 18, 2002	REG	@	Boise State	WAC	W	73	59		1	0	W 1	Taco Bell Arena	boise-state	eastern-illinois	2003
 2	Thu, Nov 21, 2002	REG	@	Florida (8)	SEC	L	65	99		1	1	L 1	Stephen C. O'Connell Center	florida	eastern-illinois	2003
 3	Sun, Nov 24, 2002	REG	@	Illinois-Chicago	Horizon	L	78	91		1	2	L 2	UIC Pavilion	illinois-chicago	eastern-illinois	2003
@@ -2598,8 +2598,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Tue, Mar 4, 2003	REG	@	Georgia (25)	SEC	L	81	82		24	5	L 1	Stegeman Coliseum	georgia	florida	2003
 30	Sat, Mar 8, 2003	REG		Kentucky (2)	SEC	L	67	69		24	6	L 2	Stephen C. O'Connell Center	kentucky	florida	2003
 31	Fri, Mar 14, 2003	CTOURN	N	Louisiana State	SEC	L	61	65		24	7	L 3	Louisiana Superdome	louisiana-state	florida	2003
-32	Fri, Mar 21, 2003	NCAA	N	Sam Houston State	Southland	W	85	55		25	7	W 1	St. Pete Times Forum	s/2003-03-21-fl	florida	2003
-33	Sun, Mar 23, 2003	NCAA	N	Michigan State	Big Ten	L	46	68		25	8	L 1	St. Pete Times Forum	s/2003-03-23-fl	florida	2003
+32	Fri, Mar 21, 2003	NCAA	N	Sam Houston State	Southland	W	85	55		25	7	W 1	St. Pete Times Forum	sam-houston-state	florida	2003
+33	Sun, Mar 23, 2003	NCAA	N	Michigan State	Big Ten	L	46	68		25	8	L 1	St. Pete Times Forum	michigan-state	florida	2003
 1	Sun, Nov 24, 2002	REG	@	Xavier (11)	A-10	L	64	93		0	1	L 1	Cintas Center	xavier	florida-am	2003
 2	Tue, Nov 26, 2002	REG	@	Cincinnati (21)	CUSA	L	53	80		0	2	L 2	Fifth Third Arena	cincinnati	florida-am	2003
 3	Sat, Nov 30, 2002	REG		Alabama State	SWAC	W	68	67		1	2	W 1	Gaither Athletic Center	alabama-state	florida-am	2003
@@ -3069,8 +3069,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 1, 2003	REG	@	San Diego	WCC	W	72	69		22	7	W 3	Jenny Craig Pavillion	san-diego	gonzaga	2003
 30	Sun, Mar 9, 2003	CTOURN	N	Saint Mary's (CA)	WCC	W	73	52		23	7	W 4	Jenny Craig Pavillion	saint-marys-ca	gonzaga	2003
 31	Mon, Mar 10, 2003	CTOURN	@	San Diego	WCC	L	63	72		23	8	L 1	Jenny Craig Pavillion	san-diego	gonzaga	2003
-32	Thu, Mar 20, 2003	NCAA	N	Cincinnati	CUSA	W	74	69		24	8	W 1	Jon M. Huntsman Center	s/2003-03-20-cinci	gonzaga	2003
-33	Sat, Mar 22, 2003	NCAA	N	Arizona (2)	Pac-10	L	95	96	2OT	24	9	L 1	Jon M. Huntsman Center	s/2003-03-22-ar	gonzaga	2003
+32	Thu, Mar 20, 2003	NCAA	N	Cincinnati	CUSA	W	74	69		24	8	W 1	Jon M. Huntsman Center	cincinnati	gonzaga	2003
+33	Sat, Mar 22, 2003	NCAA	N	Arizona (2)	Pac-10	L	95	96	2OT	24	9	L 1	Jon M. Huntsman Center	arizona	gonzaga	2003
 1	Fri, Nov 22, 2002	REG	@	Georgetown	Big East	L	46	99		0	1	L 1	Verizon Center	georgetown	grambling	2003
 2	Sun, Nov 24, 2002	REG	@	Oregon (10)	Pac-10	L	52	97		0	2	L 2	McArthur Court	oregon	grambling	2003
 3	Mon, Nov 25, 2002	REG	N	Jacksonville	A-Sun	L	68	82		0	3	L 3	McArthur Court	jacksonville	grambling	2003
@@ -3334,7 +3334,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 8, 2003	CTOURN	N	Army	Patriot	W	58	40		24	4	W 10	The Show Place Arena	army	holy-cross	2003
 29	Sun, Mar 9, 2003	CTOURN	N	Bucknell	Patriot	W	75	50		25	4	W 11	The Show Place Arena	bucknell	holy-cross	2003
 30	Fri, Mar 14, 2003	CTOURN		American	Patriot	W	72	64		26	4	W 12	Hart Recreation Center	american	holy-cross	2003
-31	Thu, Mar 20, 2003	NCAA	N	Marquette (9)	CUSA	L	68	72		26	5	L 1		s/2003-03-20-holy-	holy-cross	2003
+31	Thu, Mar 20, 2003	NCAA	N	Marquette (9)	CUSA	L	68	72		26	5	L 1		marquette	holy-cross	2003
 1	Sat, Nov 23, 2002	REG		Prairie View	SWAC	L	75	78		0	1	L 1	Hofheinz Pavilion	prairie-view	houston	2003
 2	Wed, Nov 27, 2002	REG	@	Rice	WAC	L	53	71		0	2	L 2	Tudor Fieldhouse	rice	houston	2003
 3	Sat, Nov 30, 2002	REG	N	Baylor	Big 12	L	60	62		0	3	L 3	Reliant Stadium	baylor	houston	2003
@@ -3480,8 +3480,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 14, 2003	CTOURN	@	Northwestern	Big Ten	W	94	65		22	6	W 2	United Center	northwestern	illinois	2003
 29	Sat, Mar 15, 2003	CTOURN	N	Indiana	Big Ten	W	73	72		23	6	W 3	United Center	indiana	illinois	2003
 30	Sun, Mar 16, 2003	CTOURN	N	Ohio State	Big Ten	W	72	59		24	6	W 4	United Center	ohio-state	illinois	2003
-31	Thu, Mar 20, 2003	NCAA	N	Western Kentucky	Sun Belt	W	65	60		25	6	W 5	RCA Dome	s/2003-03-20-ill	illinois	2003
-32	Sat, Mar 22, 2003	NCAA	N	Notre Dame (22)	Big East	L	60	68		25	7	L 1	RCA Dome	s/2003-03-22-ill	illinois	2003
+31	Thu, Mar 20, 2003	NCAA	N	Western Kentucky	Sun Belt	W	65	60		25	6	W 5	RCA Dome	western-kentucky	illinois	2003
+32	Sat, Mar 22, 2003	NCAA	N	Notre Dame (22)	Big East	L	60	68		25	7	L 1	RCA Dome	notre-dame	illinois	2003
 1	Fri, Nov 22, 2002	REG	@	Evansville	MVC	L	68	73		0	1	L 1	Roberts Stadium	evansville	illinois-chicago	2003
 2	Sun, Nov 24, 2002	REG		Eastern Illinois	OVC	W	91	78		1	1	W 1	UIC Pavilion	eastern-illinois	illinois-chicago	2003
 3	Sat, Nov 30, 2002	REG	@	Illinois State	MVC	W	78	65		2	1	W 2	Redbird Arena	illinois-state	illinois-chicago	2003
@@ -3573,8 +3573,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 13, 2003	CTOURN	N	Penn State	Big Ten	W	77	49		19	11	W 1	United Center	penn-state	indiana	2003
 31	Fri, Mar 14, 2003	CTOURN	N	Michigan	Big Ten	W	63	56		20	11	W 2	United Center	michigan	indiana	2003
 32	Sat, Mar 15, 2003	CTOURN	N	Illinois (13)	Big Ten	L	72	73		20	12	L 1	United Center	illinois	indiana	2003
-33	Fri, Mar 21, 2003	NCAA	N	Alabama	SEC	W	67	62		21	12	W 1		s/2003-03-21-al	indiana	2003
-34	Sun, Mar 23, 2003	NCAA	N	Pittsburgh (4)	Big East	L	52	74		21	13	L 1		s/2003-03-23-in	indiana	2003
+33	Fri, Mar 21, 2003	NCAA	N	Alabama	SEC	W	67	62		21	12	W 1		alabama	indiana	2003
+34	Sun, Mar 23, 2003	NCAA	N	Pittsburgh (4)	Big East	L	52	74		21	13	L 1		pittsburgh	indiana	2003
 1	Fri, Nov 22, 2002	REG		Youngstown State	Horizon	W	63	56		1	0	W 1	Hulman Center	youngstown-state	indiana-state	2003
 2	Tue, Nov 26, 2002	REG	@	Valparaiso	Mid-Cont	L	56	81		1	1	L 1	Athletics-Recreation Center	valparaiso	indiana-state	2003
 3	Fri, Nov 29, 2002	REG	N	Southeast Missouri State	OVC	W	68	55		2	1	W 1	Avron B. Fogelman Arena	southeast-missouri-state	indiana-state	2003
@@ -3760,7 +3760,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 31	Sun, Mar 9, 2003	CTOURN	N	Western Illinois	Mid-Cont	W	75	51		18	13	W 3	Kemper Arena	western-illinois	iupui	2003
 32	Mon, Mar 10, 2003	CTOURN	N	Southern Utah	Mid-Cont	W	72	67		19	13	W 4	Kemper Arena	southern-utah	iupui	2003
 33	Tue, Mar 11, 2003	CTOURN	N	Valparaiso	Mid-Cont	W	66	64		20	13	W 5	Kemper Arena	valparaiso	iupui	2003
-34	Fri, Mar 21, 2003	NCAA	N	Kentucky (1)	SEC	L	64	95		20	14	L 1		s/2003-03-21-	iupui	2003
+34	Fri, Mar 21, 2003	NCAA	N	Kentucky (1)	SEC	L	64	95		20	14	L 1		kentucky	iupui	2003
 1	Fri, Nov 22, 2002	REG	@	Arkansas	SEC	L	44	81		0	1	L 1	Bud Walton Arena	arkansas	jackson-state	2003
 2	Mon, Nov 25, 2002	REG	@	Southern Mississippi	CUSA	L	62	80		0	2	L 2	Reed Green Coliseum	southern-mississippi	jackson-state	2003
 3	Wed, Nov 27, 2002	REG	@	New Orleans	Sun Belt	L	79	93		0	3	L 3	Kiefer Lakefront Arena	new-orleans	jackson-state	2003
@@ -3910,12 +3910,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sun, Mar 9, 2003	REG	@	Missouri	Big 12	W	79	74		24	6	W 4	Hearnes Center	missouri	kansas	2003
 31	Fri, Mar 14, 2003	CTOURN	N	Iowa State	Big 12	W	89	74		25	6	W 5	American Airlines Center	iowa-state	kansas	2003
 32	Sat, Mar 15, 2003	CTOURN	N	Missouri	Big 12	L	63	68		25	7	L 1	American Airlines Center	missouri	kansas	2003
-33	Thu, Mar 20, 2003	NCAA	N	Utah State	Big West	W	64	61		26	7	W 1	Ford Center	s/2003-03-20-k	kansas	2003
-34	Sat, Mar 22, 2003	NCAA	N	Arizona State	Pac-10	W	108	76		27	7	W 2		s/2003-03-22-arizona-	kansas	2003
-35	Thu, Mar 27, 2003	NCAA	N	Duke (7)	ACC	W	69	65		28	7	W 3		s/2003-03-27	kansas	2003
-36	Sat, Mar 29, 2003	NCAA	N	Arizona (2)	Pac-10	W	78	75		29	7	W 4	Honda Center	s/2003-03-29-ar	kansas	2003
-37	Sat, Apr 5, 2003	NCAA	N	Marquette (9)	CUSA	W	94	61		30	7	W 5	Louisiana Superdome	s/2003-04-05-k	kansas	2003
-38	Mon, Apr 7, 2003	NCAA	N	Syracuse (13)	Big East	L	78	81		30	8	L 1	Louisiana Superdome	s/2003-04-07-k	kansas	2003
+33	Thu, Mar 20, 2003	NCAA	N	Utah State	Big West	W	64	61		26	7	W 1	Ford Center	utah-state	kansas	2003
+34	Sat, Mar 22, 2003	NCAA	N	Arizona State	Pac-10	W	108	76		27	7	W 2		arizona-state	kansas	2003
+35	Thu, Mar 27, 2003	NCAA	N	Duke (7)	ACC	W	69	65		28	7	W 3		duke	kansas	2003
+36	Sat, Mar 29, 2003	NCAA	N	Arizona (2)	Pac-10	W	78	75		29	7	W 4	Honda Center	arizona	kansas	2003
+37	Sat, Apr 5, 2003	NCAA	N	Marquette (9)	CUSA	W	94	61		30	7	W 5	Louisiana Superdome	marquette	kansas	2003
+38	Mon, Apr 7, 2003	NCAA	N	Syracuse (13)	Big East	L	78	81		30	8	L 1	Louisiana Superdome	syracuse	kansas	2003
 1	Sat, Nov 23, 2002	REG	N	Brigham Young	MWC	L	64	73		0	1	L 1	Virgin Islands Sport & Fitness Center 	brigham-young	kansas-state	2003
 2	Sun, Nov 24, 2002	REG	N	Toledo	MAC	L	50	58		0	2	L 2	Virgin Islands Sport & Fitness Center 	toledo	kansas-state	2003
 3	Mon, Nov 25, 2002	REG	N	Michigan	Big Ten	W	82	71		1	2	W 1	Virgin Islands Sport & Fitness Center 	michigan	kansas-state	2003
@@ -4009,10 +4009,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Fri, Mar 14, 2003	CTOURN	N	Vanderbilt	SEC	W	81	63		27	3	W 21	Louisiana Superdome	vanderbilt	kentucky	2003
 31	Sat, Mar 15, 2003	CTOURN	N	Auburn	SEC	W	78	58		28	3	W 22	Louisiana Superdome	auburn	kentucky	2003
 32	Sun, Mar 16, 2003	CTOURN	N	Mississippi State	SEC	W	64	57		29	3	W 23	Louisiana Superdome	mississippi-state	kentucky	2003
-33	Fri, Mar 21, 2003	NCAA	N	IUPUI	Mid-Cont	W	95	64		30	3	W 24		s/2003-03-21-	kentucky	2003
-34	Sun, Mar 23, 2003	NCAA	N	Utah	MWC	W	74	54		31	3	W 25	Bridgestone Arena	s/2003-03-23-ken	kentucky	2003
-35	Thu, Mar 27, 2003	NCAA	N	Wisconsin (21)	Big Ten	W	63	57		32	3	W 26	Hubert H. Humphrey Metrodome	s/2003-03-27-ken	kentucky	2003
-36	Sat, Mar 29, 2003	NCAA	N	Marquette (9)	CUSA	L	69	83		32	4	L 1	Hubert H. Humphrey Metrodome	s/2003-03-29-ken	kentucky	2003
+33	Fri, Mar 21, 2003	NCAA	N	IUPUI	Mid-Cont	W	95	64		30	3	W 24		iupui	kentucky	2003
+34	Sun, Mar 23, 2003	NCAA	N	Utah	MWC	W	74	54		31	3	W 25	Bridgestone Arena	utah	kentucky	2003
+35	Thu, Mar 27, 2003	NCAA	N	Wisconsin (21)	Big Ten	W	63	57		32	3	W 26	Hubert H. Humphrey Metrodome	wisconsin	kentucky	2003
+36	Sat, Mar 29, 2003	NCAA	N	Marquette (9)	CUSA	L	69	83		32	4	L 1	Hubert H. Humphrey Metrodome	marquette	kentucky	2003
 1	Fri, Nov 22, 2002	REG		Delaware	CAA	W	73	56		1	0	W 1	Tom Gola Arena	delaware	la-salle	2003
 2	Tue, Nov 26, 2002	REG		Lafayette	Patriot	W	70	66		2	0	W 2	Tom Gola Arena	lafayette	la-salle	2003
 3	Sat, Nov 30, 2002	REG		Marist	MAAC	L	80	97		2	1	L 1	Tom Gola Arena	marist	la-salle	2003
@@ -4299,7 +4299,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 13, 2003	CTOURN	N	Arkansas	SEC	W	85	56		20	9	W 6	Louisiana Superdome	arkansas	louisiana-state	2003
 30	Fri, Mar 14, 2003	CTOURN	N	Florida (7)	SEC	W	65	61		21	9	W 7	Louisiana Superdome	florida	louisiana-state	2003
 31	Sat, Mar 15, 2003	CTOURN	N	Mississippi State	SEC	L	61	76		21	10	L 1	Louisiana Superdome	mississippi-state	louisiana-state	2003
-32	Fri, Mar 21, 2003	NCAA	N	Purdue	Big Ten	L	56	80		21	11	L 2	Birmingham-Jefferson Civic Center	s/2003-03-21-louisiana-	louisiana-state	2003
+32	Fri, Mar 21, 2003	NCAA	N	Purdue	Big Ten	L	56	80		21	11	L 2	Birmingham-Jefferson Civic Center	purdue	louisiana-state	2003
 1	Tue, Nov 19, 2002	REG	@	Florida (8)	SEC	L	55	76		0	1	L 1	Stephen C. O'Connell Center	florida	louisiana-tech	2003
 2	Sun, Nov 24, 2002	REG		Millsaps		W	77	49		1	1	W 1	Thomas Assembly Center	NA	louisiana-tech	2003
 3	Sat, Dec 7, 2002	REG	@	Mississippi State (24)	SEC	L	38	78		1	2	L 1	Humphrey Coliseum	mississippi-state	louisiana-tech	2003
@@ -4357,8 +4357,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 13, 2003	CTOURN		Tulane	CUSA	W	82	66		22	6	W 2	Freedom Hall	tulane	louisville	2003
 29	Fri, Mar 14, 2003	CTOURN		Memphis (16)	CUSA	W	78	75		23	6	W 3	Freedom Hall	memphis	louisville	2003
 30	Sat, Mar 15, 2003	CTOURN		Alabama-Birmingham	CUSA	W	83	78		24	6	W 4	Freedom Hall	alabama-birmingham	louisville	2003
-31	Fri, Mar 21, 2003	NCAA	N	Austin Peay	OVC	W	86	64		25	6	W 5		s/2003-03-21-austin	louisville	2003
-32	Sun, Mar 23, 2003	NCAA	N	Butler	Horizon	L	71	79		25	7	L 1		s/2003-03-23-b	louisville	2003
+31	Fri, Mar 21, 2003	NCAA	N	Austin Peay	OVC	W	86	64		25	6	W 5		austin-peay	louisville	2003
+32	Sun, Mar 23, 2003	NCAA	N	Butler	Horizon	L	71	79		25	7	L 1		butler	louisville	2003
 1	Fri, Nov 22, 2002	REG	@	Loyola Marymount	WCC	L	79	85		0	1	L 1	Albert Gersten Pavilion	loyola-marymount	loyola-il	2003
 2	Mon, Nov 25, 2002	REG		Bradley	MVC	W	88	84		1	1	W 1	Joseph J. Gentile Center	bradley	loyola-il	2003
 3	Wed, Nov 27, 2002	REG	@	Northern Illinois	MAC	L	67	69		1	2	L 1	Convocation Center	northern-illinois	loyola-il	2003
@@ -4508,7 +4508,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sun, Mar 2, 2003	REG		Iona	MAAC	W	69	58		21	6	W 1	Draddy Gymnasium	iona	manhattan	2003
 28	Sun, Mar 9, 2003	CTOURN	N	Niagara	MAAC	W	82	81	2OT	22	6	W 2	Sun National Bank Center	niagara	manhattan	2003
 29	Mon, Mar 10, 2003	CTOURN	N	Fairfield	MAAC	W	69	54		23	6	W 3	Sun National Bank Center	fairfield	manhattan	2003
-30	Fri, Mar 21, 2003	NCAA	N	Syracuse (13)	Big East	L	65	76		23	7	L 1		s/2003-03-21-manh	manhattan	2003
+30	Fri, Mar 21, 2003	NCAA	N	Syracuse (13)	Big East	L	65	76		23	7	L 1		syracuse	manhattan	2003
 1	Fri, Nov 22, 2002	REG		Colgate	Patriot	W	72	65		1	0	W 1	McCann Recreation Center	colgate	marist	2003
 2	Sat, Nov 23, 2002	REG		Vermont	AEC	L	63	66		1	1	L 1	McCann Recreation Center	vermont	marist	2003
 3	Sat, Nov 30, 2002	REG	@	La Salle	A-10	W	97	80		2	1	W 1	Tom Gola Arena	la-salle	marist	2003
@@ -4566,11 +4566,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Sat, Mar 1, 2003	REG		Alabama-Birmingham	CUSA	W	98	87		22	4	W 4	Bradley Center	alabama-birmingham	marquette	2003
 27	Sat, Mar 8, 2003	REG		Cincinnati	CUSA	W	70	61		23	4	W 5	Bradley Center	cincinnati	marquette	2003
 28	Thu, Mar 13, 2003	CTOURN	N	Alabama-Birmingham	CUSA	L	76	83		23	5	L 1	Freedom Hall	alabama-birmingham	marquette	2003
-29	Thu, Mar 20, 2003	NCAA	N	Holy Cross	Patriot	W	72	68		24	5	W 1		s/2003-03-20-holy-	marquette	2003
-30	Sat, Mar 22, 2003	NCAA	N	Missouri (24)	Big 12	W	101	92	OT	25	5	W 2	RCA Dome	s/2003-03-22-marq	marquette	2003
-31	Thu, Mar 27, 2003	NCAA	N	Pittsburgh (4)	Big East	W	77	74		26	5	W 3		s/2003-03-27-marq	marquette	2003
-32	Sat, Mar 29, 2003	NCAA	N	Kentucky (1)	SEC	W	83	69		27	5	W 4	Hubert H. Humphrey Metrodome	s/2003-03-29-ken	marquette	2003
-33	Sat, Apr 5, 2003	NCAA	N	Kansas (6)	Big 12	L	61	94		27	6	L 1	Louisiana Superdome	s/2003-04-05-k	marquette	2003
+29	Thu, Mar 20, 2003	NCAA	N	Holy Cross	Patriot	W	72	68		24	5	W 1		holy-cross	marquette	2003
+30	Sat, Mar 22, 2003	NCAA	N	Missouri (24)	Big 12	W	101	92	OT	25	5	W 2	RCA Dome	missouri	marquette	2003
+31	Thu, Mar 27, 2003	NCAA	N	Pittsburgh (4)	Big East	W	77	74		26	5	W 3		pittsburgh	marquette	2003
+32	Sat, Mar 29, 2003	NCAA	N	Kentucky (1)	SEC	W	83	69		27	5	W 4	Hubert H. Humphrey Metrodome	kentucky	marquette	2003
+33	Sat, Apr 5, 2003	NCAA	N	Kansas (6)	Big 12	L	61	94		27	6	L 1	Louisiana Superdome	kansas	marquette	2003
 1	Fri, Nov 22, 2002	REG	@	Niagara	MAAC	W	92	90		1	0	W 1	Gallagher Center	niagara	marshall	2003
 2	Mon, Nov 25, 2002	REG		Kentucky State		W	112	78		2	0	W 2	Henderson Center	NA	marshall	2003
 3	Mon, Dec 2, 2002	REG	@	Rutgers	Big East	L	56	75		2	1	L 1	Louis Brown Athletic Center	rutgers	marshall	2003
@@ -4628,9 +4628,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Sun, Mar 2, 2003	REG	@	North Carolina State	ACC	W	68	65		19	7	W 3	RBC Center	north-carolina-state	maryland	2003
 27	Sun, Mar 9, 2003	REG	@	Virginia	ACC	L	78	80	OT	19	8	L 1	University Hall	virginia	maryland	2003
 28	Fri, Mar 14, 2003	CTOURN	@	North Carolina	ACC	L	72	84		19	9	L 2	Greensboro Coliseum	north-carolina	maryland	2003
-29	Fri, Mar 21, 2003	NCAA	N	North Carolina-Wilmington	CAA	W	75	73		20	9	W 1	Bridgestone Arena	s/2003-03-21-mar	maryland	2003
-30	Sun, Mar 23, 2003	NCAA	N	Xavier (12)	A-10	W	77	64		21	9	W 2		s/2003-03-23-mar	maryland	2003
-31	Fri, Mar 28, 2003	NCAA	N	Michigan State	Big Ten	L	58	60		21	10	L 1	Alamodome	s/2003-03-28-mar	maryland	2003
+29	Fri, Mar 21, 2003	NCAA	N	North Carolina-Wilmington	CAA	W	75	73		20	9	W 1	Bridgestone Arena	north-carolina-wilmington	maryland	2003
+30	Sun, Mar 23, 2003	NCAA	N	Xavier (12)	A-10	W	77	64		21	9	W 2		xavier	maryland	2003
+31	Fri, Mar 28, 2003	NCAA	N	Michigan State	Big Ten	L	58	60		21	10	L 1	Alamodome	michigan-state	maryland	2003
 1	Sat, Nov 23, 2002	REG	N	Towson	CAA	W	86	81		1	0	W 1	Hill Field House	towson	maryland-baltimore-county	2003
 2	Mon, Nov 25, 2002	REG	N	Loyola (MD)	MAAC	W	57	43		2	0	W 2	Hill Field House	loyola-md	maryland-baltimore-county	2003
 3	Thu, Dec 5, 2002	REG		Mount St. Mary's	NEC	W	68	53		3	0	W 3	RAC Arena	mount-st-marys	maryland-baltimore-county	2003
@@ -4773,7 +4773,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 8, 2003	REG	@	Alabama-Birmingham	CUSA	W	90	79		22	5	W 11	Bartow Arena	alabama-birmingham	memphis	2003
 28	Thu, Mar 13, 2003	CTOURN	N	South Florida	CUSA	W	62	56		23	5	W 12	Freedom Hall	south-florida	memphis	2003
 29	Fri, Mar 14, 2003	CTOURN	@	Louisville (20)	CUSA	L	75	78		23	6	L 1	Freedom Hall	louisville	memphis	2003
-30	Thu, Mar 20, 2003	NCAA	N	Arizona State	Pac-10	L	71	84		23	7	L 2		s/2003-03-20-arizona-	memphis	2003
+30	Thu, Mar 20, 2003	NCAA	N	Arizona State	Pac-10	L	71	84		23	7	L 2		arizona-state	memphis	2003
 1	Sat, Nov 23, 2002	REG	@	Elon	Big South	W	79	67		1	0	W 1	Alumni Gym	elon	mercer	2003
 2	Wed, Nov 27, 2002	REG	@	Florida State	ACC	L	47	83		1	1	L 1	Donald L. Tucker Center	florida-state	mercer	2003
 3	Fri, Nov 29, 2002	REG	@	Iowa State	Big 12	L	60	91		1	2	L 2	James H. Hilton Coliseum 	iowa-state	mercer	2003
@@ -4920,10 +4920,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 8, 2003	REG	@	Ohio State	Big Ten	W	72	58		18	11	W 4	Value City Arena	ohio-state	michigan-state	2003
 30	Fri, Mar 14, 2003	CTOURN	N	Purdue	Big Ten	W	54	42		19	11	W 5	United Center	purdue	michigan-state	2003
 31	Sat, Mar 15, 2003	CTOURN	N	Ohio State	Big Ten	L	54	55		19	12	L 1	United Center	ohio-state	michigan-state	2003
-32	Fri, Mar 21, 2003	NCAA	N	Colorado	Big 12	W	79	64		20	12	W 1		s/2003-03-21-col	michigan-state	2003
-33	Sun, Mar 23, 2003	NCAA	N	Florida (10)	SEC	W	68	46		21	12	W 2	St. Pete Times Forum	s/2003-03-23-fl	michigan-state	2003
-34	Fri, Mar 28, 2003	NCAA	N	Maryland (17)	ACC	W	60	58		22	12	W 3	Alamodome	s/2003-03-28-mar	michigan-state	2003
-35	Sun, Mar 30, 2003	NCAA	N	Texas (5)	Big 12	L	76	85		22	13	L 1		s/2003-03-30-michigan-	michigan-state	2003
+32	Fri, Mar 21, 2003	NCAA	N	Colorado	Big 12	W	79	64		20	12	W 1		colorado	michigan-state	2003
+33	Sun, Mar 23, 2003	NCAA	N	Florida (10)	SEC	W	68	46		21	12	W 2	St. Pete Times Forum	florida	michigan-state	2003
+34	Fri, Mar 28, 2003	NCAA	N	Maryland (17)	ACC	W	60	58		22	12	W 3	Alamodome	maryland	michigan-state	2003
+35	Sun, Mar 30, 2003	NCAA	N	Texas (5)	Big 12	L	76	85		22	13	L 1		texas	michigan-state	2003
 1	Fri, Nov 22, 2002	REG		East Carolina	CUSA	L	63	65		0	1	L 1	Murphy Athletic Center	east-carolina	middle-tennessee	2003
 2	Mon, Nov 25, 2002	REG	@	Alabama (4)	SEC	L	65	80		0	2	L 2	Coleman Coliseum 	alabama	middle-tennessee	2003
 3	Wed, Nov 27, 2002	REG		Tennessee-Martin	OVC	W	87	77		1	2	W 1	Murphy Athletic Center	tennessee-martin	middle-tennessee	2003
@@ -4985,7 +4985,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 1, 2003	REG	@	Butler	Horizon	L	74	76		22	7	L 1	Hinkle Fieldhouse	butler	milwaukee	2003
 30	Sat, Mar 8, 2003	CTOURN	N	Illinois-Chicago	Horizon	W	75	73		23	7	W 1	Hinkle Fieldhouse	illinois-chicago	milwaukee	2003
 31	Tue, Mar 11, 2003	CTOURN		Butler	Horizon	W	69	52		24	7	W 2	U.S. Cellular Arena	butler	milwaukee	2003
-32	Thu, Mar 20, 2003	NCAA	N	Notre Dame (22)	Big East	L	69	70		24	8	L 1		s/2003-03-20-milw	milwaukee	2003
+32	Thu, Mar 20, 2003	NCAA	N	Notre Dame (22)	Big East	L	69	70		24	8	L 1		notre-dame	milwaukee	2003
 1	Sun, Nov 24, 2002	REG		North Carolina-Asheville	Big South	W	87	81		1	0	W 1	Williams Arena	north-carolina-asheville	minnesota	2003
 2	Sat, Nov 30, 2002	REG		Georgia (17)	SEC	W	72	69		2	0	W 2	Williams Arena	georgia	minnesota	2003
 3	Wed, Dec 4, 2002	REG		Georgia Tech	ACC	W	64	63		3	0	W 3	Williams Arena	georgia-tech	minnesota	2003
@@ -5078,7 +5078,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 14, 2003	CTOURN	N	Mississippi	SEC	W	73	64		20	8	W 2	Louisiana Superdome	mississippi	mississippi-state	2003
 29	Sat, Mar 15, 2003	CTOURN	N	Louisiana State	SEC	W	76	61		21	8	W 3	Louisiana Superdome	louisiana-state	mississippi-state	2003
 30	Sun, Mar 16, 2003	CTOURN	N	Kentucky (2)	SEC	L	57	64		21	9	L 1	Louisiana Superdome	kentucky	mississippi-state	2003
-31	Fri, Mar 21, 2003	NCAA	N	Butler	Horizon	L	46	47		21	10	L 2		s/2003-03-21-b	mississippi-state	2003
+31	Fri, Mar 21, 2003	NCAA	N	Butler	Horizon	L	46	47		21	10	L 2		butler	mississippi-state	2003
 1	Tue, Nov 26, 2002	REG	@	Milwaukee	Horizon	L	75	77		0	1	L 1	Klotsche Center	milwaukee	mississippi-valley-state	2003
 2	Thu, Nov 28, 2002	REG	@	Texas-Rio Grande Valley	Ind	L	68	73		0	2	L 2	UTPA Fieldhouse	texas-pan-american	mississippi-valley-state	2003
 3	Tue, Dec 3, 2002	REG	@	Delta State		L	91	94	OT	0	3	L 3		NA	mississippi-valley-state	2003
@@ -5139,8 +5139,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Fri, Mar 14, 2003	CTOURN	N	Oklahoma State (23)	Big 12	W	60	58		20	9	W 2	American Airlines Center	oklahoma-state	missouri	2003
 30	Sat, Mar 15, 2003	CTOURN	N	Kansas (4)	Big 12	W	68	63		21	9	W 3	American Airlines Center	kansas	missouri	2003
 31	Sun, Mar 16, 2003	CTOURN	N	Oklahoma (6)	Big 12	L	47	49		21	10	L 1	American Airlines Center	oklahoma	missouri	2003
-32	Thu, Mar 20, 2003	NCAA	N	Southern Illinois	MVC	W	72	71		22	10	W 1	RCA Dome	s/2003-03-20-mis	missouri	2003
-33	Sat, Mar 22, 2003	NCAA	N	Marquette (9)	CUSA	L	92	101	OT	22	11	L 1	RCA Dome	s/2003-03-22-marq	missouri	2003
+32	Thu, Mar 20, 2003	NCAA	N	Southern Illinois	MVC	W	72	71		22	10	W 1	RCA Dome	southern-illinois	missouri	2003
+33	Sat, Mar 22, 2003	NCAA	N	Marquette (9)	CUSA	L	92	101	OT	22	11	L 1	RCA Dome	marquette	missouri	2003
 1	Fri, Nov 22, 2002	REG		Robert Morris	NEC	L	77	83		0	1	L 1	Municipal Auditorium	robert-morris	missouri-kansas-city	2003
 2	Tue, Nov 26, 2002	REG	@	Norfolk State	MEAC	L	60	61		0	2	L 2	Echols Memorial Hall	norfolk-state	missouri-kansas-city	2003
 3	Tue, Dec 3, 2002	REG	@	Denver	Sun Belt	L	66	83		0	3	L 3	Magness Arena	denver	missouri-kansas-city	2003
@@ -5813,8 +5813,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Mar 4, 2003	CTOURN	@	Elon	Big South	W	68	66	OT	12	16	W 1	Alumni Gym	elon	north-carolina-asheville	2003
 29	Fri, Mar 7, 2003	CTOURN	N	Winthrop	Big South	W	81	80	OT	13	16	W 2	Vines Center	winthrop	north-carolina-asheville	2003
 30	Sat, Mar 8, 2003	CTOURN	N	Radford	Big South	W	85	71		14	16	W 3	Vines Center	radford	north-carolina-asheville	2003
-31	Tue, Mar 18, 2003	NCAA	N	Texas Southern	SWAC	W	92	84	OT	15	16	W 4	University of Dayton Arena	s/2003-03-18-north-carolina-ashe	north-carolina-asheville	2003
-32	Fri, Mar 21, 2003	NCAA	N	Texas (5)	Big 12	L	61	82		15	17	L 1		s/2003-03-21-north-carolina-ashe	north-carolina-asheville	2003
+31	Tue, Mar 18, 2003	NCAA	N	Texas Southern	SWAC	W	92	84	OT	15	16	W 4	University of Dayton Arena	texas-southern	north-carolina-asheville	2003
+32	Fri, Mar 21, 2003	NCAA	N	Texas (5)	Big 12	L	61	82		15	17	L 1		texas	north-carolina-asheville	2003
 1	Sat, Nov 23, 2002	REG	@	Georgia State	A-Sun	L	44	76		0	1	L 1	GSU Sports Arena	georgia-state	north-carolina-at	2003
 2	Sat, Nov 30, 2002	REG	@	Radford	Big South	L	58	67	OT	0	2	L 2	Donald N. Dedmon Center	radford	north-carolina-at	2003
 3	Tue, Dec 3, 2002	REG	@	Virginia Commonwealth	CAA	L	48	76		0	3	L 3	Alltel Pavilion at the Stuart C. Siegel Center	virginia-commonwealth	north-carolina-at	2003
@@ -5901,7 +5901,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 14, 2003	CTOURN		Georgia Tech	ACC	W	71	65		17	11	W 1	Greensboro Coliseum	georgia-tech	north-carolina-state	2003
 29	Sat, Mar 15, 2003	CTOURN	N	Wake Forest (9)	ACC	W	87	83		18	11	W 2	Greensboro Coliseum	wake-forest	north-carolina-state	2003
 30	Sun, Mar 16, 2003	CTOURN	N	Duke (12)	ACC	L	77	84		18	12	L 1	Greensboro Coliseum	duke	north-carolina-state	2003
-31	Thu, Mar 20, 2003	NCAA	N	University of California	Pac-10	L	74	76	OT	18	13	L 2	Ford Center	s/2003-03-20-calif	north-carolina-state	2003
+31	Thu, Mar 20, 2003	NCAA	N	University of California	Pac-10	L	74	76	OT	18	13	L 2	Ford Center	california	north-carolina-state	2003
 1	Fri, Nov 22, 2002	REG	@	Texas Tech	Big 12	L	76	85		0	1	L 1	United Spirit Arena	texas-tech	north-carolina-wilmington	2003
 2	Tue, Nov 26, 2002	REG	@	Texas-San Antonio	Southland	W	66	52		1	1	W 1	Convocation Center	texas-san-antonio	north-carolina-wilmington	2003
 3	Sat, Nov 30, 2002	REG		East Tennessee State	Southern	W	78	57		2	1	W 2	Trask Coliseum	east-tennessee-state	north-carolina-wilmington	2003
@@ -5932,7 +5932,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 8, 2003	CTOURN	N	Hofstra	CAA	W	76	56		22	6	W 7	Richmond Coliseum	hofstra	north-carolina-wilmington	2003
 29	Sun, Mar 9, 2003	CTOURN	N	Delaware	CAA	W	63	50		23	6	W 8	Richmond Coliseum	delaware	north-carolina-wilmington	2003
 30	Mon, Mar 10, 2003	CTOURN	N	Drexel	CAA	W	70	62		24	6	W 9	Richmond Coliseum	drexel	north-carolina-wilmington	2003
-31	Fri, Mar 21, 2003	NCAA	N	Maryland (17)	ACC	L	73	75		24	7	L 1	Bridgestone Arena	s/2003-03-21-mar	north-carolina-wilmington	2003
+31	Fri, Mar 21, 2003	NCAA	N	Maryland (17)	ACC	L	73	75		24	7	L 1	Bridgestone Arena	maryland	north-carolina-wilmington	2003
 1	Fri, Nov 22, 2002	REG	@	Missouri State	MVC	W	81	78		1	0	W 1	Hammons Student Center	missouri-state	north-texas	2003
 2	Fri, Nov 29, 2002	REG	@	Southern Methodist	WAC	L	75	88		1	1	L 1	Moody Coliseum	southern-methodist	north-texas	2003
 3	Sun, Dec 1, 2002	REG	@	Indiana (19)	Big Ten	L	58	84		1	2	L 2	Assembly Hall	indiana	north-texas	2003
@@ -6166,9 +6166,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Tue, Mar 4, 2003	REG		Syracuse (12)	Big East	L	88	92		21	8	L 3	Purcell Pavilion at the Joyce Center	syracuse	notre-dame	2003
 30	Sat, Mar 8, 2003	REG	@	Georgetown	Big East	W	86	80		22	8	W 1	Verizon Center	georgetown	notre-dame	2003
 31	Wed, Mar 12, 2003	CTOURN	N	St. John's (NY)	Big East	L	80	83		22	9	L 1	Madison Square Garden (IV)	st-johns-ny	notre-dame	2003
-32	Thu, Mar 20, 2003	NCAA	N	Milwaukee	Horizon	W	70	69		23	9	W 1		s/2003-03-20-milw	notre-dame	2003
-33	Sat, Mar 22, 2003	NCAA	N	Illinois (11)	Big Ten	W	68	60		24	9	W 2	RCA Dome	s/2003-03-22-ill	notre-dame	2003
-34	Thu, Mar 27, 2003	NCAA	N	Arizona (2)	Pac-10	L	71	88		24	10	L 1	Honda Center	s/2003-03-27-ar	notre-dame	2003
+32	Thu, Mar 20, 2003	NCAA	N	Milwaukee	Horizon	W	70	69		23	9	W 1		milwaukee	notre-dame	2003
+33	Sat, Mar 22, 2003	NCAA	N	Illinois (11)	Big Ten	W	68	60		24	9	W 2	RCA Dome	illinois	notre-dame	2003
+34	Thu, Mar 27, 2003	NCAA	N	Arizona (2)	Pac-10	L	71	88		24	10	L 1	Honda Center	arizona	notre-dame	2003
 1	Sat, Nov 23, 2002	REG		Spring Arbor		W	107	72		1	0	W 1	Athletics Center O'rena	NA	oakland	2003
 2	Tue, Nov 26, 2002	REG		IPFW	Ind	W	95	68		2	0	W 2	Athletics Center O'rena	ipfw	oakland	2003
 3	Sat, Nov 30, 2002	REG		Akron	MAC	L	84	88		2	1	L 1	Athletics Center O'rena	akron	oakland	2003
@@ -6289,10 +6289,10 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Fri, Mar 14, 2003	CTOURN	N	Colorado	Big 12	W	74	59		22	6	W 1	American Airlines Center	colorado	oklahoma	2003
 29	Sat, Mar 15, 2003	CTOURN	N	Texas Tech	Big 12	W	67	60	OT	23	6	W 2	American Airlines Center	texas-tech	oklahoma	2003
 30	Sun, Mar 16, 2003	CTOURN	N	Missouri	Big 12	W	49	47		24	6	W 3	American Airlines Center	missouri	oklahoma	2003
-31	Thu, Mar 20, 2003	NCAA	N	South Carolina State	MEAC	W	71	54		25	6	W 4	Ford Center	s/2003-03-20-okl	oklahoma	2003
-32	Sat, Mar 22, 2003	NCAA	N	University of California	Pac-10	W	74	65		26	6	W 5		s/2003-03-22-calif	oklahoma	2003
-33	Fri, Mar 28, 2003	NCAA	N	Butler	Horizon	W	65	54		27	6	W 6		s/2003-03-28-b	oklahoma	2003
-34	Sun, Mar 30, 2003	NCAA	N	Syracuse (13)	Big East	L	47	63		27	7	L 1	Times Union Center 	s/2003-03-30-okl	oklahoma	2003
+31	Thu, Mar 20, 2003	NCAA	N	South Carolina State	MEAC	W	71	54		25	6	W 4	Ford Center	south-carolina-state	oklahoma	2003
+32	Sat, Mar 22, 2003	NCAA	N	University of California	Pac-10	W	74	65		26	6	W 5		california	oklahoma	2003
+33	Fri, Mar 28, 2003	NCAA	N	Butler	Horizon	W	65	54		27	6	W 6		butler	oklahoma	2003
+34	Sun, Mar 30, 2003	NCAA	N	Syracuse (13)	Big East	L	47	63		27	7	L 1	Times Union Center 	syracuse	oklahoma	2003
 1	Fri, Nov 22, 2002	REG		Yale	Ivy	W	68	59		1	0	W 1	Gallagher-Iba Arena	yale	oklahoma-state	2003
 2	Wed, Nov 27, 2002	REG	@	Alaska-Anchorage		W	98	69		2	0	W 2	Sullivan Arena	NA	oklahoma-state	2003
 3	Fri, Nov 29, 2002	REG	N	College of Charleston	Southern	L	58	66		2	1	L 1	Sullivan Arena	college-of-charleston	oklahoma-state	2003
@@ -6323,8 +6323,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Wed, Mar 5, 2003	REG	@	Colorado	Big 12	L	56	68		20	8	L 3	Coors Events/Conference Center	colorado	oklahoma-state	2003
 29	Sat, Mar 8, 2003	REG		Texas A&M	Big 12	W	77	52		21	8	W 1	Gallagher-Iba Arena	texas-am	oklahoma-state	2003
 30	Fri, Mar 14, 2003	CTOURN	N	Missouri	Big 12	L	58	60		21	9	L 1	American Airlines Center	missouri	oklahoma-state	2003
-31	Fri, Mar 21, 2003	NCAA	N	Pennsylvania	Ivy	W	77	63		22	9	W 1	TD Garden	s/2003-03-21-oklahoma-	oklahoma-state	2003
-32	Sun, Mar 23, 2003	NCAA	N	Syracuse (13)	Big East	L	56	68		22	10	L 1		s/2003-03-23-oklahoma-	oklahoma-state	2003
+31	Fri, Mar 21, 2003	NCAA	N	Pennsylvania	Ivy	W	77	63		22	9	W 1	TD Garden	pennsylvania	oklahoma-state	2003
+32	Sun, Mar 23, 2003	NCAA	N	Syracuse (13)	Big East	L	56	68		22	10	L 1		syracuse	oklahoma-state	2003
 1	Sun, Nov 24, 2002	REG		North Carolina	ACC	L	59	67		0	1	L 1	Ted Constant Convocation Ctr.	north-carolina	old-dominion	2003
 2	Tue, Nov 26, 2002	REG		Campbell	A-Sun	W	72	43		1	1	W 1	Ted Constant Convocation Ctr.	campbell	old-dominion	2003
 3	Sun, Dec 1, 2002	REG	@	Saint Joseph's	A-10	L	47	63		1	2	L 1	Hagan Arena	saint-josephs	old-dominion	2003
@@ -6412,7 +6412,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 13, 2003	CTOURN	N	Arizona State	Pac-10	W	83	82		21	9	W 1	Staples Center	arizona-state	oregon	2003
 31	Fri, Mar 14, 2003	CTOURN	N	UCLA	Pac-10	W	75	74		22	9	W 2	Staples Center	ucla	oregon	2003
 32	Sat, Mar 15, 2003	CTOURN	N	Southern California	Pac-10	W	74	66		23	9	W 3	Staples Center	southern-california	oregon	2003
-33	Fri, Mar 21, 2003	NCAA	N	Utah	MWC	L	58	60		23	10	L 1	Bridgestone Arena	s/2003-03-21-o	oregon	2003
+33	Fri, Mar 21, 2003	NCAA	N	Utah	MWC	L	58	60		23	10	L 1	Bridgestone Arena	utah	oregon	2003
 1	Sat, Nov 23, 2002	REG		Idaho	Big West	L	73	76	OT	0	1	L 1	Gill Coliseum	idaho	oregon-state	2003
 2	Tue, Nov 26, 2002	REG		Seattle		W	81	38		1	1	W 1	Gill Coliseum	NA	oregon-state	2003
 3	Mon, Dec 2, 2002	REG		Cal Poly	Big West	W	81	60		2	1	W 2	Gill Coliseum	cal-poly	oregon-state	2003
@@ -6524,7 +6524,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 25	Fri, Mar 7, 2003	REG		Columbia	Ivy	W	63	39		20	5	W 13	The Palestra	columbia	pennsylvania	2003
 26	Sat, Mar 8, 2003	REG		Cornell	Ivy	W	69	52		21	5	W 14	The Palestra	cornell	pennsylvania	2003
 27	Tue, Mar 11, 2003	REG	@	Princeton	Ivy	W	74	67		22	5	W 15	Jadwin Gymnasium	princeton	pennsylvania	2003
-28	Fri, Mar 21, 2003	NCAA	N	Oklahoma State	Big 12	L	63	77		22	6	L 1	TD Garden	s/2003-03-21-oklahoma-	pennsylvania	2003
+28	Fri, Mar 21, 2003	NCAA	N	Oklahoma State	Big 12	L	63	77		22	6	L 1	TD Garden	oklahoma-state	pennsylvania	2003
 1	Fri, Nov 22, 2002	REG	@	Bradley	MVC	L	81	95	OT	0	1	L 1	Carver Arena	bradley	pepperdine	2003
 2	Sat, Nov 30, 2002	REG		UC-Irvine	Big West	L	69	74		0	2	L 2	Firestone Fieldhouse	california-irvine	pepperdine	2003
 3	Mon, Dec 2, 2002	REG	@	Long Beach State	Big West	W	65	63		1	2	W 1	The Walter Pyramid	long-beach-state	pepperdine	2003
@@ -6583,9 +6583,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Thu, Mar 13, 2003	CTOURN	N	Providence	Big East	W	67	59		24	4	W 7	Madison Square Garden (IV)	providence	pittsburgh	2003
 29	Fri, Mar 14, 2003	CTOURN	N	Boston College	Big East	W	61	48		25	4	W 8	Madison Square Garden (IV)	boston-college	pittsburgh	2003
 30	Sat, Mar 15, 2003	CTOURN	N	Connecticut	Big East	W	74	56		26	4	W 9	Madison Square Garden (IV)	connecticut	pittsburgh	2003
-31	Fri, Mar 21, 2003	NCAA	N	Wagner	NEC	W	87	61		27	4	W 10	TD Garden	s/2003-03-21-pitts	pittsburgh	2003
-32	Sun, Mar 23, 2003	NCAA	N	Indiana	Big Ten	W	74	52		28	4	W 11		s/2003-03-23-in	pittsburgh	2003
-33	Thu, Mar 27, 2003	NCAA	N	Marquette (9)	CUSA	L	74	77		28	5	L 1		s/2003-03-27-marq	pittsburgh	2003
+31	Fri, Mar 21, 2003	NCAA	N	Wagner	NEC	W	87	61		27	4	W 10	TD Garden	wagner	pittsburgh	2003
+32	Sun, Mar 23, 2003	NCAA	N	Indiana	Big Ten	W	74	52		28	4	W 11		indiana	pittsburgh	2003
+33	Thu, Mar 27, 2003	NCAA	N	Marquette (9)	CUSA	L	74	77		28	5	L 1		marquette	pittsburgh	2003
 1	Fri, Nov 22, 2002	REG		Pacific (OR)		W	70	42		1	0	W 1	Chiles Center	NA	portland	2003
 2	Wed, Nov 27, 2002	REG		San Diego State	MWC	W	91	86		2	0	W 2	Chiles Center	san-diego-state	portland	2003
 3	Sat, Nov 30, 2002	REG		Portland State	Big Sky	W	66	54		3	0	W 3	Chiles Center	portland-state	portland	2003
@@ -6757,8 +6757,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Sat, Mar 1, 2003	REG	@	Michigan State	Big Ten	L	61	69		17	9	L 1	Breslin Events Center	michigan-state	purdue	2003
 27	Sat, Mar 8, 2003	REG	@	Michigan	Big Ten	W	69	61		18	9	W 1	Crisler Arena	michigan	purdue	2003
 28	Fri, Mar 14, 2003	CTOURN	N	Michigan State	Big Ten	L	42	54		18	10	L 1	United Center	michigan-state	purdue	2003
-29	Fri, Mar 21, 2003	NCAA	N	Louisiana State	SEC	W	80	56		19	10	W 1	Birmingham-Jefferson Civic Center	s/2003-03-21-louisiana-	purdue	2003
-30	Sun, Mar 23, 2003	NCAA	N	Texas (5)	Big 12	L	67	77		19	11	L 1		s/2003-03-23-p	purdue	2003
+29	Fri, Mar 21, 2003	NCAA	N	Louisiana State	SEC	W	80	56		19	10	W 1	Birmingham-Jefferson Civic Center	louisiana-state	purdue	2003
+30	Sun, Mar 23, 2003	NCAA	N	Texas (5)	Big 12	L	67	77		19	11	L 1		texas	purdue	2003
 1	Sat, Nov 23, 2002	REG	@	Connecticut (14)	Big East	L	72	91		0	1	L 1	Harry A. Gampel Pavilion	connecticut	quinnipiac	2003
 2	Sat, Nov 30, 2002	REG	N	Texas-Rio Grande Valley	Ind	W	72	62		1	1	W 1	Physical Fitness Center	texas-pan-american	quinnipiac	2003
 3	Sun, Dec 1, 2002	REG	@	Hofstra	CAA	W	71	68		2	1	W 2	Mack Sports Complex	hofstra	quinnipiac	2003
@@ -7105,7 +7105,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 8, 2003	REG	@	Massachusetts	A-10	W	52	49		22	5	W 1	Mullins Center	massachusetts	saint-josephs	2003
 28	Thu, Mar 13, 2003	CTOURN	N	La Salle	A-10	W	68	48		23	5	W 2	University of Dayton Arena	la-salle	saint-josephs	2003
 29	Fri, Mar 14, 2003	CTOURN	@	Dayton (22)	A-10	L	73	76		23	6	L 1	University of Dayton Arena	dayton	saint-josephs	2003
-30	Fri, Mar 21, 2003	NCAA	N	Auburn	SEC	L	63	65	OT	23	7	L 2		s/2003-03-21-a	saint-josephs	2003
+30	Fri, Mar 21, 2003	NCAA	N	Auburn	SEC	L	63	65	OT	23	7	L 2		auburn	saint-josephs	2003
 1	Fri, Nov 22, 2002	REG		Tennessee-Martin	OVC	L	58	63		0	1	L 1	Scottrade Center	tennessee-martin	saint-louis	2003
 2	Tue, Nov 26, 2002	REG		Missouri State	MVC	L	64	72		0	2	L 2	Scottrade Center	missouri-state	saint-louis	2003
 3	Sat, Nov 30, 2002	REG	@	St. Bonaventure	A-10	W	56	54		1	2	W 1	Reilly Center	st-bonaventure	saint-louis	2003
@@ -7224,7 +7224,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Wed, Mar 5, 2003	REG		McNeese State	Southland	W	81	66		21	6	W 2	Johnson Coliseum	mcneese-state	sam-houston-state	2003
 28	Wed, Mar 12, 2003	CTOURN		McNeese State	Southland	W	64	58		22	6	W 3	Johnson Coliseum	mcneese-state	sam-houston-state	2003
 29	Fri, Mar 14, 2003	CTOURN		Stephen F. Austin	Southland	W	69	66	OT	23	6	W 4	Johnson Coliseum	stephen-f-austin	sam-houston-state	2003
-30	Fri, Mar 21, 2003	NCAA	N	Florida (10)	SEC	L	55	85		23	7	L 1	St. Pete Times Forum	s/2003-03-21-fl	sam-houston-state	2003
+30	Fri, Mar 21, 2003	NCAA	N	Florida (10)	SEC	L	55	85		23	7	L 1	St. Pete Times Forum	florida	sam-houston-state	2003
 1	Fri, Nov 22, 2002	REG		Chattanooga	Southern	L	66	68		0	1	L 1	Seibert Hall	chattanooga	samford	2003
 2	Mon, Nov 25, 2002	REG		Arkansas State	Sun Belt	W	70	61		1	1	W 1	Seibert Hall	arkansas-state	samford	2003
 3	Wed, Nov 27, 2002	REG		Northern Georgia		W	90	81		2	1	W 2	Seibert Hall	NA	samford	2003
@@ -7282,7 +7282,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 1, 2003	REG		Gonzaga	WCC	L	69	72		16	11	L 1	Jenny Craig Pavillion	gonzaga	san-diego	2003
 28	Sun, Mar 9, 2003	CTOURN		San Francisco	WCC	W	72	63		17	11	W 1	Jenny Craig Pavillion	san-francisco	san-diego	2003
 29	Mon, Mar 10, 2003	CTOURN		Gonzaga	WCC	W	72	63		18	11	W 2	Jenny Craig Pavillion	gonzaga	san-diego	2003
-30	Thu, Mar 20, 2003	NCAA	N	Stanford (18)	Pac-10	L	69	77		18	12	L 1		s/2003-03-20-san-	san-diego	2003
+30	Thu, Mar 20, 2003	NCAA	N	Stanford (18)	Pac-10	L	69	77		18	12	L 1		stanford	san-diego	2003
 1	Sat, Nov 23, 2002	REG		Eastern Washington	Big Sky	L	70	75		0	1	L 1	Viejas Arena	eastern-washington	san-diego-state	2003
 2	Wed, Nov 27, 2002	REG	@	Portland	WCC	L	86	91		0	2	L 2	Chiles Center	portland	san-diego-state	2003
 3	Sat, Nov 30, 2002	REG	@	Cal Poly	Big West	W	65	62		1	2	W 1	Robert A. Mott Gymnasium	cal-poly	san-diego-state	2003
@@ -7573,7 +7573,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Wed, Mar 12, 2003	CTOURN	N	Bethune-Cookman	MEAC	W	75	73		18	10	W 3	Arthur Ashe Athletic Center	bethune-cookman	south-carolina-state	2003
 29	Fri, Mar 14, 2003	CTOURN	N	Florida A&M	MEAC	W	72	66		19	10	W 4	Arthur Ashe Athletic Center	florida-am	south-carolina-state	2003
 30	Sat, Mar 15, 2003	CTOURN	N	Hampton	MEAC	W	72	67		20	10	W 5	Arthur Ashe Athletic Center	hampton	south-carolina-state	2003
-31	Thu, Mar 20, 2003	NCAA	N	Oklahoma (3)	Big 12	L	54	71		20	11	L 1	Ford Center	s/2003-03-20-okl	south-carolina-state	2003
+31	Thu, Mar 20, 2003	NCAA	N	Oklahoma (3)	Big 12	L	54	71		20	11	L 1	Ford Center	oklahoma	south-carolina-state	2003
 1	Fri, Nov 22, 2002	REG		Nova Southeastern		W	99	60		1	0	W 1	Sun Dome	NA	south-florida	2003
 2	Tue, Nov 26, 2002	REG		Providence	Big East	W	68	64		2	0	W 2	Sun Dome	providence	south-florida	2003
 3	Mon, Dec 2, 2002	REG		Alcorn State	SWAC	W	81	62		3	0	W 3	Sun Dome	alcorn-state	south-florida	2003
@@ -7749,7 +7749,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 8, 2003	CTOURN	N	Illinois State	MVC	W	75	63		23	5	W 6	Scottrade Center	illinois-state	southern-illinois	2003
 29	Sun, Mar 9, 2003	CTOURN	N	Missouri State	MVC	W	64	55		24	5	W 7	Scottrade Center	missouri-state	southern-illinois	2003
 30	Mon, Mar 10, 2003	CTOURN	N	Creighton (19)	MVC	L	56	80		24	6	L 1	Scottrade Center	creighton	southern-illinois	2003
-31	Thu, Mar 20, 2003	NCAA	N	Missouri (24)	Big 12	L	71	72		24	7	L 2	RCA Dome	s/2003-03-20-mis	southern-illinois	2003
+31	Thu, Mar 20, 2003	NCAA	N	Missouri (24)	Big 12	L	71	72		24	7	L 2	RCA Dome	missouri	southern-illinois	2003
 1	Sun, Nov 24, 2002	REG		Texas Christian	CUSA	W	87	84	OT	1	0	W 1	Moody Coliseum	texas-christian	southern-methodist	2003
 2	Tue, Nov 26, 2002	REG	@	Texas Tech	Big 12	L	59	77		1	1	L 1	United Spirit Arena	texas-tech	southern-methodist	2003
 3	Fri, Nov 29, 2002	REG		North Texas	Sun Belt	W	88	75		2	1	W 1	Moody Coliseum	north-texas	southern-methodist	2003
@@ -7959,8 +7959,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 1, 2003	REG		Arizona (1)	Pac-10	L	69	72		22	7	L 1	Maples Pavilion	arizona	stanford	2003
 30	Sat, Mar 8, 2003	REG		University of California (22)	Pac-10	W	72	60		23	7	W 1	Maples Pavilion	california	stanford	2003
 31	Thu, Mar 13, 2003	CTOURN	N	Southern California	Pac-10	L	74	79		23	8	L 1	Staples Center	southern-california	stanford	2003
-32	Thu, Mar 20, 2003	NCAA	N	San Diego	WCC	W	77	69		24	8	W 1		s/2003-03-20-san-	stanford	2003
-33	Sat, Mar 22, 2003	NCAA	N	Connecticut (23)	Big East	L	74	85		24	9	L 1		s/2003-03-22-connec	stanford	2003
+32	Thu, Mar 20, 2003	NCAA	N	San Diego	WCC	W	77	69		24	8	W 1		san-diego	stanford	2003
+33	Sat, Mar 22, 2003	NCAA	N	Connecticut (23)	Big East	L	74	85		24	9	L 1		connecticut	stanford	2003
 1	Sat, Nov 23, 2002	REG	@	Texas (3)	Big 12	L	55	81		0	1	L 1	Frank Erwin Center	texas	stephen-f-austin	2003
 2	Tue, Nov 26, 2002	REG		LeTourneau		W	101	50		1	1	W 1	William Johnson Coliseum	NA	stephen-f-austin	2003
 3	Tue, Dec 3, 2002	REG		Centenary (LA)	Ind	L	69	75		1	2	L 1	William Johnson Coliseum	centenary-la	stephen-f-austin	2003
@@ -8074,12 +8074,12 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sun, Mar 9, 2003	REG		Rutgers	Big East	W	83	74		23	4	W 7	Carrier Dome	rutgers	syracuse	2003
 28	Thu, Mar 13, 2003	CTOURN	N	Georgetown	Big East	W	74	69		24	4	W 8	Madison Square Garden (IV)	georgetown	syracuse	2003
 29	Fri, Mar 14, 2003	CTOURN	N	Connecticut	Big East	L	67	80		24	5	L 1	Madison Square Garden (IV)	connecticut	syracuse	2003
-30	Fri, Mar 21, 2003	NCAA	N	Manhattan	MAAC	W	76	65		25	5	W 1		s/2003-03-21-manh	syracuse	2003
-31	Sun, Mar 23, 2003	NCAA	N	Oklahoma State	Big 12	W	68	56		26	5	W 2		s/2003-03-23-oklahoma-	syracuse	2003
-32	Fri, Mar 28, 2003	NCAA	N	Auburn	SEC	W	79	78		27	5	W 3		s/2003-03-28-a	syracuse	2003
-33	Sun, Mar 30, 2003	NCAA	N	Oklahoma (3)	Big 12	W	63	47		28	5	W 4	Times Union Center 	s/2003-03-30-okl	syracuse	2003
-34	Sat, Apr 5, 2003	NCAA	N	Texas (5)	Big 12	W	95	84		29	5	W 5		s/2003-04-05-syr	syracuse	2003
-35	Mon, Apr 7, 2003	NCAA	N	Kansas (6)	Big 12	W	81	78		30	5	W 6	Louisiana Superdome	s/2003-04-07-k	syracuse	2003
+30	Fri, Mar 21, 2003	NCAA	N	Manhattan	MAAC	W	76	65		25	5	W 1		manhattan	syracuse	2003
+31	Sun, Mar 23, 2003	NCAA	N	Oklahoma State	Big 12	W	68	56		26	5	W 2		oklahoma-state	syracuse	2003
+32	Fri, Mar 28, 2003	NCAA	N	Auburn	SEC	W	79	78		27	5	W 3		auburn	syracuse	2003
+33	Sun, Mar 30, 2003	NCAA	N	Oklahoma (3)	Big 12	W	63	47		28	5	W 4	Times Union Center 	oklahoma	syracuse	2003
+34	Sat, Apr 5, 2003	NCAA	N	Texas (5)	Big 12	W	95	84		29	5	W 5		texas	syracuse	2003
+35	Mon, Apr 7, 2003	NCAA	N	Kansas (6)	Big 12	W	81	78		30	5	W 6	Louisiana Superdome	kansas	syracuse	2003
 1	Sun, Nov 24, 2002	REG		Rutgers	Big East	L	53	59		0	1	L 1	Liacouras Center	rutgers	temple	2003
 2	Sun, Dec 1, 2002	REG	@	Wake Forest	ACC	L	76	83		0	2	L 2	Lawrence Joel Coliseum	wake-forest	temple	2003
 3	Mon, Dec 2, 2002	REG	@	South Carolina	SEC	L	47	66		0	3	L 3	The Colonial Life Arena	south-carolina	temple	2003
@@ -8258,11 +8258,11 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 26	Tue, Mar 4, 2003	REG		Kansas State	Big 12	W	74	60		21	5	W 3	Frank Erwin Center	kansas-state	texas	2003
 27	Sat, Mar 8, 2003	REG	@	Oklahoma (5)	Big 12	W	76	71		22	5	W 4	Lloyd Noble Center	oklahoma	texas	2003
 28	Fri, Mar 14, 2003	CTOURN	N	Texas Tech	Big 12	L	81	92		22	6	L 1	American Airlines Center	texas-tech	texas	2003
-29	Fri, Mar 21, 2003	NCAA	N	North Carolina-Asheville	Big South	W	82	61		23	6	W 1		s/2003-03-21-north-carolina-ashe	texas	2003
-30	Sun, Mar 23, 2003	NCAA	N	Purdue	Big Ten	W	77	67		24	6	W 2		s/2003-03-23-p	texas	2003
-31	Fri, Mar 28, 2003	NCAA	N	Connecticut (23)	Big East	W	82	78		25	6	W 3		s/2003-03-28-connec	texas	2003
-32	Sun, Mar 30, 2003	NCAA	N	Michigan State	Big Ten	W	85	76		26	6	W 4		s/2003-03-30-michigan-	texas	2003
-33	Sat, Apr 5, 2003	NCAA	N	Syracuse (13)	Big East	L	84	95		26	7	L 1		s/2003-04-05-syr	texas	2003
+29	Fri, Mar 21, 2003	NCAA	N	North Carolina-Asheville	Big South	W	82	61		23	6	W 1		north-carolina-asheville	texas	2003
+30	Sun, Mar 23, 2003	NCAA	N	Purdue	Big Ten	W	77	67		24	6	W 2		purdue	texas	2003
+31	Fri, Mar 28, 2003	NCAA	N	Connecticut (23)	Big East	W	82	78		25	6	W 3		connecticut	texas	2003
+32	Sun, Mar 30, 2003	NCAA	N	Michigan State	Big Ten	W	85	76		26	6	W 4		michigan-state	texas	2003
+33	Sat, Apr 5, 2003	NCAA	N	Syracuse (13)	Big East	L	84	95		26	7	L 1		syracuse	texas	2003
 1	Sun, Nov 24, 2002	REG		Texas Southern	SWAC	W	70	55		1	0	W 1	Reed Arena	texas-southern	texas-am	2003
 2	Tue, Nov 26, 2002	REG	@	Miami (FL)	Big East	L	72	78		1	1	L 1	Miami Arena	miami-fl	texas-am	2003
 3	Sat, Nov 30, 2002	REG	N	Louisiana State	SEC	W	79	77		2	1	W 1	Reliant Stadium	louisiana-state	texas-am	2003
@@ -8494,7 +8494,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Tue, Mar 11, 2003	CTOURN		Jackson State	SWAC	W	68	66		16	12	W 3	Health & Physical Education Arena	jackson-state	texas-southern	2003
 29	Fri, Mar 14, 2003	CTOURN	N	Mississippi Valley State	SWAC	W	73	72		17	12	W 4	Fair Park Arena	mississippi-valley-state	texas-southern	2003
 30	Sat, Mar 15, 2003	CTOURN	N	Alcorn State	SWAC	W	77	68		18	12	W 5	Fair Park Arena	alcorn-state	texas-southern	2003
-31	Tue, Mar 18, 2003	NCAA	N	North Carolina-Asheville	Big South	L	84	92	OT	18	13	L 1	University of Dayton Arena	s/2003-03-18-north-carolina-ashe	texas-southern	2003
+31	Tue, Mar 18, 2003	NCAA	N	North Carolina-Asheville	Big South	L	84	92	OT	18	13	L 1	University of Dayton Arena	north-carolina-asheville	texas-southern	2003
 1	Tue, Nov 26, 2002	REG		Mary Hardin-Baylor		W	84	63		1	0	W 1	Strahan Coliseum	NA	texas-state	2003
 2	Fri, Nov 29, 2002	REG	@	Texas Southern	SWAC	W	79	71		2	0	W 2	Health & Physical Education Arena	texas-southern	texas-state	2003
 3	Wed, Dec 4, 2002	REG	@	Baylor	Big 12	L	71	92		2	1	L 1	Ferrell Center	baylor	texas-state	2003
@@ -8647,7 +8647,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 6, 2003	CTOURN	N	Samford	A-Sun	W	70	54		24	5	W 5	GSU Sports Arena	samford	troy	2003
 30	Fri, Mar 7, 2003	CTOURN	@	Georgia State	A-Sun	W	71	61		25	5	W 6	GSU Sports Arena	georgia-state	troy	2003
 31	Sat, Mar 8, 2003	CTOURN	N	Central Florida	A-Sun	W	80	69		26	5	W 7	GSU Sports Arena	central-florida	troy	2003
-32	Fri, Mar 21, 2003	NCAA	N	Xavier (12)	A-10	L	59	71		26	6	L 1		s/2003-03-21	troy	2003
+32	Fri, Mar 21, 2003	NCAA	N	Xavier (12)	A-10	L	59	71		26	6	L 1		xavier	troy	2003
 1	Fri, Nov 22, 2002	REG	@	Rice	WAC	L	58	72		0	1	L 1	Tudor Fieldhouse	rice	tulane	2003
 2	Mon, Nov 25, 2002	REG		Loyola (LA)		W	74	58		1	1	W 1	Avron B. Fogelman Arena	NA	tulane	2003
 3	Thu, Nov 28, 2002	REG		Maine	AEC	W	84	65		2	1	W 2	Avron B. Fogelman Arena	maine	tulane	2003
@@ -8710,8 +8710,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Thu, Mar 13, 2003	CTOURN		Texas-El Paso	WAC	W	81	47		20	9	W 5	Donald W. Reynolds Center	texas-el-paso	tulsa	2003
 30	Fri, Mar 14, 2003	CTOURN		Hawaii	WAC	W	66	56		21	9	W 6	Donald W. Reynolds Center	hawaii	tulsa	2003
 31	Sat, Mar 15, 2003	CTOURN		Nevada	WAC	W	75	64		22	9	W 7	Donald W. Reynolds Center	nevada	tulsa	2003
-32	Thu, Mar 20, 2003	NCAA	N	Dayton (16)	A-10	W	84	71		23	9	W 8	Spokane Arena	s/2003-03-20-d	tulsa	2003
-33	Sat, Mar 22, 2003	NCAA	N	Wisconsin (21)	Big Ten	L	60	61		23	10	L 1		s/2003-03-22-	tulsa	2003
+32	Thu, Mar 20, 2003	NCAA	N	Dayton (16)	A-10	W	84	71		23	9	W 8	Spokane Arena	dayton	tulsa	2003
+33	Sat, Mar 22, 2003	NCAA	N	Wisconsin (21)	Big Ten	L	60	61		23	10	L 1		wisconsin	tulsa	2003
 1	Tue, Nov 26, 2002	REG		San Diego	WCC	L	81	86	OT	0	1	L 1	Pauley Pavilion	san-diego	ucla	2003
 2	Sat, Nov 30, 2002	REG	N	Duke (6)	ACC	L	73	84		0	2	L 2	Conseco Fieldhouse	duke	ucla	2003
 3	Sun, Dec 8, 2002	REG		Long Beach State	Big West	W	81	58		1	2	W 1	Pauley Pavilion	long-beach-state	ucla	2003
@@ -8772,8 +8772,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 8, 2003	REG		Wyoming	MWC	W	86	70		23	6	W 1	Jon M. Huntsman Center	wyoming	utah	2003
 30	Thu, Mar 13, 2003	CTOURN	N	Air Force	MWC	W	42	38		24	6	W 2	Thomas & Mack Center	air-force	utah	2003
 31	Fri, Mar 14, 2003	CTOURN	@	Nevada-Las Vegas	MWC	L	41	64		24	7	L 1	Thomas & Mack Center	nevada-las-vegas	utah	2003
-32	Fri, Mar 21, 2003	NCAA	N	Oregon	Pac-10	W	60	58		25	7	W 1	Bridgestone Arena	s/2003-03-21-o	utah	2003
-33	Sun, Mar 23, 2003	NCAA	N	Kentucky (1)	SEC	L	54	74		25	8	L 1	Bridgestone Arena	s/2003-03-23-ken	utah	2003
+32	Fri, Mar 21, 2003	NCAA	N	Oregon	Pac-10	W	60	58		25	7	W 1	Bridgestone Arena	oregon	utah	2003
+33	Sun, Mar 23, 2003	NCAA	N	Kentucky (1)	SEC	L	54	74		25	8	L 1	Bridgestone Arena	kentucky	utah	2003
 1	Sat, Nov 23, 2002	REG	@	Illinois State	MVC	W	68	53		1	0	W 1	Redbird Arena	illinois-state	utah-state	2003
 2	Tue, Nov 26, 2002	REG		Whitman		W	86	52		2	0	W 2	Dee Glen Smith Spectrum	NA	utah-state	2003
 3	Fri, Nov 29, 2002	REG	N	Vermont	AEC	W	62	59		3	0	W 3	Afook-Chinen Civic Auditorium	vermont	utah-state	2003
@@ -8806,7 +8806,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Thu, Mar 13, 2003	CTOURN	N	Cal State Fullerton	Big West	W	89	83	OT	22	8	W 3	Honda Center	cal-state-fullerton	utah-state	2003
 31	Fri, Mar 14, 2003	CTOURN	N	UC-Irvine	Big West	W	62	55		23	8	W 4	Honda Center	california-irvine	utah-state	2003
 32	Sat, Mar 15, 2003	CTOURN	N	Cal Poly	Big West	W	57	54		24	8	W 5	Honda Center	cal-poly	utah-state	2003
-33	Thu, Mar 20, 2003	NCAA	N	Kansas (6)	Big 12	L	61	64		24	9	L 1	Ford Center	s/2003-03-20-k	utah-state	2003
+33	Thu, Mar 20, 2003	NCAA	N	Kansas (6)	Big 12	L	61	64		24	9	L 1	Ford Center	kansas	utah-state	2003
 1	Sun, Nov 24, 2002	REG	@	Syracuse	Big East	L	66	81		0	1	L 1	Carrier Dome	syracuse	valparaiso	2003
 2	Tue, Nov 26, 2002	REG		Indiana State	MVC	W	81	56		1	1	W 1	Athletics-Recreation Center	indiana-state	valparaiso	2003
 3	Sat, Nov 30, 2002	REG		Northern Illinois	MAC	W	78	67		2	1	W 2	Athletics-Recreation Center	northern-illinois	valparaiso	2003
@@ -8899,7 +8899,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sun, Mar 9, 2003	CTOURN	N	Albany (NY)	AEC	W	81	62		19	11	W 2	Walter Brown Arena	albany-ny	vermont	2003
 31	Mon, Mar 10, 2003	CTOURN	N	Hartford	AEC	W	67	51		20	11	W 3	Walter Brown Arena	hartford	vermont	2003
 32	Sat, Mar 15, 2003	CTOURN	@	Boston University	AEC	W	56	55		21	11	W 4	Case Gym	boston-university	vermont	2003
-33	Thu, Mar 20, 2003	NCAA	N	Arizona (2)	Pac-10	L	51	80		21	12	L 1	Jon M. Huntsman Center	s/2003-03-20-ar	vermont	2003
+33	Thu, Mar 20, 2003	NCAA	N	Arizona (2)	Pac-10	L	51	80		21	12	L 1	Jon M. Huntsman Center	arizona	vermont	2003
 1	Fri, Nov 15, 2002	REG	N	Marquette (18)	CUSA	L	61	73		0	1	L 1	Madison Square Garden (IV)	marquette	villanova	2003
 2	Fri, Nov 22, 2002	REG		Drexel	CAA	W	64	41		1	1	W 1	Wells Fargo Center	drexel	villanova	2003
 3	Thu, Nov 28, 2002	REG	N	Loyola Marymount	WCC	W	87	71		2	1	W 2	Sullivan Arena	loyola-marymount	villanova	2003
@@ -9081,7 +9081,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 8, 2003	CTOURN		Long Island University	NEC	W	88	66		19	10	W 1	Spiro Sports Center	long-island-university	wagner	2003
 30	Sun, Mar 9, 2003	CTOURN		Quinnipiac	NEC	W	61	54		20	10	W 2	Spiro Sports Center	quinnipiac	wagner	2003
 31	Wed, Mar 12, 2003	CTOURN		St. Francis (NY)	NEC	W	78	61		21	10	W 3	Spiro Sports Center	st-francis-ny	wagner	2003
-32	Fri, Mar 21, 2003	NCAA	N	Pittsburgh (4)	Big East	L	61	87		21	11	L 1	TD Garden	s/2003-03-21-pitts	wagner	2003
+32	Fri, Mar 21, 2003	NCAA	N	Pittsburgh (4)	Big East	L	61	87		21	11	L 1	TD Garden	pittsburgh	wagner	2003
 1	Wed, Nov 27, 2002	REG		Yale	Ivy	W	73	61		1	0	W 1	Lawrence Joel Coliseum	yale	wake-forest	2003
 2	Sun, Dec 1, 2002	REG		Temple	A-10	W	83	76		2	0	W 2	Lawrence Joel Coliseum	temple	wake-forest	2003
 3	Wed, Dec 4, 2002	REG	@	Wisconsin (23)	Big Ten	W	90	80		3	0	W 3	Kohl Center	wisconsin	wake-forest	2003
@@ -9111,8 +9111,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sat, Mar 8, 2003	REG	@	North Carolina State	ACC	W	78	72		23	4	W 6	RBC Center	north-carolina-state	wake-forest	2003
 28	Fri, Mar 14, 2003	CTOURN		Florida State	ACC	W	69	61		24	4	W 7	Greensboro Coliseum	florida-state	wake-forest	2003
 29	Sat, Mar 15, 2003	CTOURN	N	North Carolina State	ACC	L	83	87		24	5	L 1	Greensboro Coliseum	north-carolina-state	wake-forest	2003
-30	Fri, Mar 21, 2003	NCAA	N	East Tennessee State	Southern	W	76	73		25	5	W 1		s/2003-03-21-east-tennessee-	wake-forest	2003
-31	Sun, Mar 23, 2003	NCAA	N	Auburn	SEC	L	62	68		25	6	L 1		s/2003-03-23-a	wake-forest	2003
+30	Fri, Mar 21, 2003	NCAA	N	East Tennessee State	Southern	W	76	73		25	5	W 1		east-tennessee-state	wake-forest	2003
+31	Sun, Mar 23, 2003	NCAA	N	Auburn	SEC	L	62	68		25	6	L 1		auburn	wake-forest	2003
 1	Sun, Nov 24, 2002	REG		Montana State	Big Sky	L	53	56		0	1	L 1	Bank of America Arena	montana-state	washington	2003
 2	Sat, Nov 30, 2002	REG	@	Nevada-Las Vegas	MWC	L	61	82		0	2	L 2	Thomas & Mack Center	nevada-las-vegas	washington	2003
 3	Mon, Dec 2, 2002	REG	@	Gonzaga (20)	WCC	L	89	95	OT	0	3	L 3	The Kennel	gonzaga	washington	2003
@@ -9198,7 +9198,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 29	Sat, Mar 1, 2003	REG	@	Portland State	Big Sky	W	83	73		24	5	W 15	Peter W. Stott Center	portland-state	weber-state	2003
 30	Tue, Mar 11, 2003	CTOURN		Sacramento State	Big Sky	W	82	60		25	5	W 16	Dee Events Center	sacramento-state	weber-state	2003
 31	Wed, Mar 12, 2003	CTOURN		Eastern Washington	Big Sky	W	60	57		26	5	W 17	Dee Events Center	eastern-washington	weber-state	2003
-32	Thu, Mar 20, 2003	NCAA	N	Wisconsin (21)	Big Ten	L	74	81		26	6	L 1		s/2003-03-20-weber-	weber-state	2003
+32	Thu, Mar 20, 2003	NCAA	N	Wisconsin (21)	Big Ten	L	74	81		26	6	L 1		wisconsin	weber-state	2003
 1	Fri, Nov 22, 2002	REG		Delaware State	MEAC	W	59	46		1	0	W 1	WVU Coliseum	delaware-state	west-virginia	2003
 2	Mon, Nov 25, 2002	REG	@	Duquesne	A-10	L	82	86		1	1	L 1	A.J. Palumbo Center	duquesne	west-virginia	2003
 3	Sat, Nov 30, 2002	REG		James Madison	CAA	W	70	67		2	1	W 1	WVU Coliseum	james-madison	west-virginia	2003
@@ -9316,7 +9316,7 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 30	Sat, Mar 8, 2003	CTOURN		Florida International	Sun Belt	W	71	60		22	8	W 10	E.A. Diddle Arena	florida-international	western-kentucky	2003
 31	Mon, Mar 10, 2003	CTOURN		New Mexico State	Sun Belt	W	78	59		23	8	W 11	E.A. Diddle Arena	new-mexico-state	western-kentucky	2003
 32	Tue, Mar 11, 2003	CTOURN		Middle Tennessee	Sun Belt	W	64	52		24	8	W 12	E.A. Diddle Arena	middle-tennessee	western-kentucky	2003
-33	Thu, Mar 20, 2003	NCAA	N	Illinois (11)	Big Ten	L	60	65		24	9	L 1	RCA Dome	s/2003-03-20-ill	western-kentucky	2003
+33	Thu, Mar 20, 2003	NCAA	N	Illinois (11)	Big Ten	L	60	65		24	9	L 1	RCA Dome	illinois	western-kentucky	2003
 1	Fri, Nov 22, 2002	REG	N	Princeton	Ivy	L	59	62		0	1	L 1	Lloyd Noble Center	princeton	western-michigan	2003
 2	Sat, Nov 23, 2002	REG	N	UC-Irvine	Big West	W	73	62		1	1	W 1	Lloyd Noble Center	california-irvine	western-michigan	2003
 3	Mon, Nov 25, 2002	REG	@	Fordham	A-10	W	70	51		2	1	W 2	Rose Hill Gym	fordham	western-michigan	2003
@@ -9465,9 +9465,9 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 27	Sun, Mar 2, 2003	REG	@	Minnesota	Big Ten	W	69	61		21	6	W 3	Williams Arena	minnesota	wisconsin	2003
 28	Wed, Mar 5, 2003	REG		Illinois (14)	Big Ten	W	60	59		22	6	W 4	Kohl Center	illinois	wisconsin	2003
 29	Fri, Mar 14, 2003	CTOURN	N	Ohio State	Big Ten	L	50	58		22	7	L 1	United Center	ohio-state	wisconsin	2003
-30	Thu, Mar 20, 2003	NCAA	N	Weber State	Big Sky	W	81	74		23	7	W 1		s/2003-03-20-weber-	wisconsin	2003
-31	Sat, Mar 22, 2003	NCAA	N	Tulsa	WAC	W	61	60		24	7	W 2		s/2003-03-22-	wisconsin	2003
-32	Thu, Mar 27, 2003	NCAA	N	Kentucky (1)	SEC	L	57	63		24	8	L 1	Hubert H. Humphrey Metrodome	s/2003-03-27-ken	wisconsin	2003
+30	Thu, Mar 20, 2003	NCAA	N	Weber State	Big Sky	W	81	74		23	7	W 1		weber-state	wisconsin	2003
+31	Sat, Mar 22, 2003	NCAA	N	Tulsa	WAC	W	61	60		24	7	W 2		tulsa	wisconsin	2003
+32	Thu, Mar 27, 2003	NCAA	N	Kentucky (1)	SEC	L	57	63		24	8	L 1	Hubert H. Humphrey Metrodome	kentucky	wisconsin	2003
 1	Fri, Nov 22, 2002	REG	@	Auburn	SEC	L	63	81		0	1	L 1	Beard-Eaves-Memorial	auburn	wofford	2003
 2	Sun, Nov 24, 2002	REG	@	Clemson	ACC	L	72	79		0	2	L 2	Littlejohn Coliseum	clemson	wofford	2003
 3	Tue, Nov 26, 2002	REG		Emmanuel (GA)		W	80	54		1	2	W 1	Benjamin Johnson Arena	NA	wofford	2003
@@ -9587,8 +9587,8 @@ G	Date	Type		Opponent	Conf		Tm	Opp	OT	W	L	Streak	Arena	opponent_bbref_id	team	ye
 28	Sat, Mar 8, 2003	REG		Temple	A-10	W	96	65		24	4	W 15	Cintas Center	temple	xavier	2003
 29	Thu, Mar 13, 2003	CTOURN	N	George Washington	A-10	W	78	73		25	4	W 16	University of Dayton Arena	george-washington	xavier	2003
 30	Fri, Mar 14, 2003	CTOURN	N	Temple	A-10	L	57	63		25	5	L 1	University of Dayton Arena	temple	xavier	2003
-31	Fri, Mar 21, 2003	NCAA	N	Troy	A-Sun	W	71	59		26	5	W 1		s/2003-03-21	xavier	2003
-32	Sun, Mar 23, 2003	NCAA	N	Maryland (17)	ACC	L	64	77		26	6	L 1		s/2003-03-23-mar	xavier	2003
+31	Fri, Mar 21, 2003	NCAA	N	Troy	A-Sun	W	71	59		26	5	W 1		troy	xavier	2003
+32	Sun, Mar 23, 2003	NCAA	N	Maryland (17)	ACC	L	64	77		26	6	L 1		maryland	xavier	2003
 1	Fri, Nov 22, 2002	REG	@	Oklahoma State	Big 12	L	59	68		0	1	L 1	Gallagher-Iba Arena	oklahoma-state	yale	2003
 2	Wed, Nov 27, 2002	REG	@	Wake Forest	ACC	L	61	73		0	2	L 2	Lawrence Joel Coliseum	wake-forest	yale	2003
 3	Sun, Dec 1, 2002	REG	@	Penn State	Big Ten	W	84	68		1	2	W 1	Bryce Jordan Center	penn-state	yale	2003
