@@ -81,12 +81,13 @@ games <- games[,-which(colnames(games)=="temp_id")]
 
 
 # home/away formatting
-games[, 13:16] <- NA
-colnames(games)[13:16] <- c(
+games[, 13:17] <- NA
+colnames(games)[13:17] <- c(
   "home_team",
   "away_team",
   "home_points",
-  "away_points"
+  "away_points",
+  "neutral"
 )
 for (i in 1:nrow(games)) {
   if (games$site_operator[i]=="@") {
@@ -94,11 +95,19 @@ for (i in 1:nrow(games)) {
     games$home_points[i] <- games$points_against[i]
     games$away_team[i] <- games$team_name[i]
     games$away_points[i] <- games$points_for[i]
-  } else {
+    games$neutral[i] <- FALSE
+  } else if (games$site_operator[i]=="") {
     games$home_team[i] <- games$team_name[i]
     games$home_points[i] <- games$points_for[i]
     games$away_team[i] <- games$opponent_name[i]
     games$away_points[i] <- games$points_against[i]
+    games$neutral[i] <- FALSE
+  } else {  # neutral
+    games$home_team[i] <- games$team_name[i]
+    games$home_points[i] <- games$points_for[i]
+    games$away_team[i] <- games$opponent_name[i]
+    games$away_points[i] <- games$points_against[i]
+    games$neutral[i] <- TRUE
   }
 }
 
@@ -109,6 +118,7 @@ games <- games[, c(
   "date",
   "season",
   "arena",
+  "neutral",
   "type",
   "home_team",
   "away_team",
