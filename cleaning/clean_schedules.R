@@ -34,6 +34,15 @@ names_to_remove <- c(
   "Streak"
 )
 for (i in 1:length(schedules)) {
+  schedules[[i]]$Opponent <- as.character(schedules[[i]]$Opponent)
+  schedules[[i]]$opponent_bbref_id <- as.character(schedules[[i]]$opponent_bbref_id)
+  for (j in 1:nrow(schedules[[i]])) {
+    if (is.na(schedules[[i]]$opponent_bbref_id[j])) {
+      id <- gsub(" ", "-", tolower(schedules[[i]]$Opponent[j]))
+      id <- gsub("\\(", "", id)
+      schedules[[i]]$opponent_bbref_id[j] <- gsub("\\)", "", id)
+    }
+  }
   schedules[[i]] <- schedules[[i]][, -which(names(schedules[[i]]) %in% names_to_remove)]
   colnames(schedules[[i]]) <- new_names
 }
@@ -108,7 +117,7 @@ games <- games[, c(
   "overtime"
 )]
 games <- games[order(games$date), ]
-games$overtime <- is.na(games$overtime)  # accidentally turned "OT" to NA before this
+games$overtime <- games$overtime=="OT"
 game_ids <- 1:nrow(games)
 games$game_id <- game_ids
 write.table(games, "~/cbb_database/data/schedules/schedules_compiled.txt", sep="\t", row.names=FALSE)
